@@ -1,0 +1,37 @@
+{
+ "v": "14",
+ "date": "2026-11-02",
+ "msg": "",
+ "notes": [
+  "משפט חדש אחרי טעות",
+  "הכתבה ומצא את המילה השגויה",
+  "שליחה למורה ומבחן משותף"
+ ],
+ "packs": [
+  {
+   "id": "stories-s1",
+   "title": "סיפורים לשלב א'",
+   "file": "packs/stories-s1.txt"
+  },
+  {
+   "id": "stories-s15",
+   "title": "סיפורים לשלב א' וחצי",
+   "file": "packs/stories-s15.txt"
+  },
+  {
+   "id": "stories-s2",
+   "title": "סיפורים לשלב ב'",
+   "file": "packs/stories-s2.txt"
+  },
+  {
+   "id": "stories-s3",
+   "title": "סיפורים לשלב ג'",
+   "file": "packs/stories-s3.txt"
+  },
+  {
+   "id": "stories-s4",
+   "title": "סיפורים לשלב ד'",
+   "file": "packs/stories-s4.txt"
+  }
+ ]
+}

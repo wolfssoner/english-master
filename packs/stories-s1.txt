@@ -1,0 +1,43 @@
+// English Master · חבילת סיפורים לשלב 1
+// פרק מהסיפור בהמשכים The Strange Message + סיפור נוסף
+#חבילה סיפורים לשלב א'
+#מזהה stories-s1
+#שלב 1
+#נושא סיפורים
+
+#סיפור The Strange Message · Part 1: The Warning | קל
+It was a cold Thursday evening. Noa sat at the table in the living room with her computer. She had a lot of homework, and she was tired and hungry. Her mother was in the kitchen and was cooking dinner. Her little brother Dan sat on a chair near the window and read a book about a superhero.
+
+Noa opened a file for her math lesson. Then she saw a strange message on the screen. The message said: "Warning! Your computer has a serious problem. Click here now and download the free program, or all your files will be lost."
+
+Noa felt nervous. Her files were very important to her. All her homework was there, and all her pictures from the family trip. She almost clicked the button. Then she stopped. "Wait," she said quietly. "This is strange. I never asked for a new program."
+
+She called her brother. "Dan, come and look at this." Dan left his book on the chair and came to the table. He looked at the screen for a minute. "I think it is a trap," he said. "My teacher talked about this in class. Some websites show a warning that is not real. They want you to click and download malware." "What is malware?" Noa asked. "It is a bad program," Dan said. "It can steal your information, your pictures and your money."
+
+Their mother came from the kitchen. "What is the problem?" she asked. Noa showed her the message. Mom read it slowly and said, "You were right to stop. A real warning does not ask you to download something from a strange website. Never click a button when you are not sure what it does."
+
+Noa closed the window and did not click on the message. She felt relieved. But after a few minutes, she noticed a small problem: one of her files was missing. It was the file with her math homework. She looked everywhere on the computer, but she could not find it.
+
+"Dan," she whispered, "I think someone was inside my computer." Dan looked at her and did not smile. Outside, it started to rain.
+#שאלה What did Noa see on the screen? | A strange message | A picture of her family | A math lesson | נועה ראתה על המסך הודעה מוזרה עם אזהרה.
+#שאלה Who said that the message was a trap? | Dan | Her mother | Her teacher | דן אמר: "I think it is a trap".
+#שאלה-עברית Why did Noa stop before she clicked? | כי היא אף פעם לא ביקשה תוכנה חדשה | כי המחשב כבה | כי אמא קראה לה לארוחת ערב
+#שאלה What can malware do? | Steal your information and money | Fix your computer | Help you with homework | דן אמר שזו תוכנה רעה שיכולה לגנוב מידע, תמונות וכסף.
+#שאלה-עברית What was missing at the end? | הקובץ של שיעורי הבית במתמטיקה | הספר של דן | התמונות מהטיול
+
+#סיפור The Birthday Surprise | קל
+Today is a special day. It is Mom's birthday, and Dan and Maya want to surprise her. Mom is at work and will come home in the evening, so they have a lot of time. "We can do it," Maya says. "But first we need a good idea."
+
+They sit at the kitchen table and think. "We can buy a cake," Dan says. "And we can cook dinner for her." Maya likes the idea. She opens a book with simple instructions for an easy meal. "We need bread, milk and some food from the store," she says.
+
+They take money from the box near the door and walk to the store on their street. It is a warm and sunny afternoon. At the store, they find bread, milk and food for dinner. Then Dan sees a small cake with a picture of a cat on it. "Mom loves cats," he says. "This is her favorite thing." The price is not cheap, but they have the money.
+
+Back home, they start to work. Dan prepares the table in the living room, and Maya cooks in the kitchen. But Dan is not careful. He leaves the cake on a chair, and their cat jumps on the chair. "Stop!" Maya says, but the cat does not listen. Now one side of the cake has small cat steps on it. The children look at each other and laugh.
+
+"What do we do now?" Dan asks. "Nothing," says Maya. "The cake is not perfect, but it is ours. Mom will understand." They turn the cake, so the cat steps are on the back side. Then they prepare a note for Mom: "Happy birthday! We love you." Dan leaves the note on the table near the cake.
+
+At seven, Mom comes home. She is tired after a long day at work. Then she sees the table, the dinner and the cake. She stops and smiles. "Did you do all this?" she asks. "Yes," says Dan. "And the cat helped," says Maya. Mom looks at the back side of the cake, sees the small cat steps and laughs. "This is a great birthday," she says. "I will always remember this day."
+#שאלה Why do Dan and Maya want to surprise Mom? | It is her birthday | She is sick | It is a school lesson | זה יום ההולדת של אמא.
+#שאלה What does Dan see at the store? | A small cake with a picture of a cat | A big dog | A book about food | דן רואה עוגה קטנה עם תמונה של חתול.
+#שאלה-עברית What does the cat do? | קופץ על הכיסא ומשאיר עקבות על העוגה | אוכל את ארוחת הערב | בורח מהבית
+#שאלה-עברית How does Mom feel when she sees the cake? | שמחה וצוחקת | כועסת | עצובה

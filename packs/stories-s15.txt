@@ -1,0 +1,45 @@
+// English Master · חבילת סיפורים לשלב 1.5
+// פרק מהסיפור בהמשכים The Strange Message + סיפור נוסף
+#חבילה סיפורים לשלב א' וחצי
+#מזהה stories-s15
+#שלב 1.5
+#נושא סיפורים
+
+#סיפור The Strange Message · Part 2: The Technician | קל
+On Friday morning, Noa did not feel ready for school. She was exhausted, because she did not sleep well. All night she tried to recall what she did on the computer, but her brain was too tired. In the end, she decided to bring her computer to school and ask the technician for help.
+
+The school technician was a man named Yossi. His room was near the entrance, and it always had old computers, metal boxes and broken phones. Yossi listened to her story and smiled. "Don't be embarrassed," he said. "This is a very ordinary trick. Cyber criminals send false warnings every day, to students, to a businessman at the airport and also to people in the government. It is not your fault."
+
+He started the troubleshooting. First, he tried to open a file from her school directory, but the directory was inaccessible. He tried again. This time the computer showed a new message: "The data is temporarily unavailable." Yossi looked at the screen for a long time. "I think it is data corruption," he said. "Some of your files have damage. But I might retrieve them."
+
+Noa sat and watched him work. It was frustrating, because the recovery was very slow. Gradually, the files came back: first her pictures, then her English homework, then her notes from class. Noa was delighted. But one file was still missing, the math homework.
+
+"Here is the strange part," Yossi said. "Your math file has no damage at all. According to the system, someone opened the file on Thursday evening and sent it outside. Then the file was deleted." "Why would someone want my math homework?" Noa asked. "I don't think they wanted your homework," he answered. "I think they wanted to view the content of the school directory. Your computer is part of the school system. Every day, the synchronization brings files from the school to your computer. Through your computer, a criminal can try to get inside the whole school."
+
+Noa felt cold. "So this is a cyberattack on the entire school?" "It seems so," said Yossi. "Now I need to make a decision. This is no longer a small problem. Over time, one small mistake can lead to big trouble. I must inform the school right now."
+
+Before she left, Yossi told her one more thing. "Take a break from this computer for a few days. And from now on, follow instructions only from people you know, not from strange messages on a screen."
+
+Noa said thank you and walked to the entrance. There was a big crowd of students there. Nobody was talking. Everyone was looking at a phone. Noa took out her phone, and she felt very nervous. On her screen, and on every screen near her, there was the same message: "Your school is ours now."
+#שאלה Who is Yossi? | The school technician | Noa's teacher | A cyber criminal | יוסי הוא הטכנאי של בית הספר.
+#שאלה-עברית Why did Yossi tell Noa not to be embarrassed? | כי זה טריק רגיל ולא אשמתה | כי המחשב שלה חדש | כי הוא כבר תיקן הכול
+#שאלה What did someone do with the math file? | Someone opened it, sent it outside and deleted it | It had damage | Noa deleted it | לפי המערכת, מישהו פתח את הקובץ, שלח אותו החוצה ומחק אותו.
+#שאלה What did the criminal really want? | To get inside the whole school system | Noa's math homework | Noa's pictures | יוסי חושב שהם רצו להיכנס לכל המערכת של בית הספר.
+#שאלה-עברית What did Noa see on every phone at the end? | הודעה: בית הספר שלכם שלנו עכשיו | אזהרה על מזג האוויר | תמונה של יוסי
+
+#סיפור Lost at the Airport | קל
+Lior was a businessman, and he traveled a lot for his job. For him, flying was an ordinary thing, and he had a simple habit: he always kept his identification and his phone in a small bag near his chest. But on this trip, nothing seemed to go right.
+
+He arrived at the airport late at night, and he was exhausted. The airport was huge and strange, and there was a big crowd near the entrance. All the words on the walls were not in English, and he did not know them. He tried to open a translation program on his phone, but the screen showed a message: "The program is temporarily unavailable." He tried again, but nothing changed.
+
+Lior felt embarrassed. He was a confident man at work, but here he could not read one simple word. He looked in his bag for his small dictionary, the old paper one. It was not there. He tried to recall where he left it. At home? In the airport? He could not remember.
+
+Then he made a decision. Instead of staying alone, he would ask someone for help. He walked to an old man near the door and said slowly, "Sorry, do you speak English?" The man smiled. "A little," he said. "Where do you need to go?" Lior showed him the name and the street of the place where he would stay. The man thought for a minute, and then he explained the route with his hands: first left, then right, then the bus near the metal bench.
+
+Lior said thank you and started to walk. The ground outside was slippery because of the rain, so he walked carefully. At the bus, a little girl helped him pay. She did not speak English, but she understood his vocabulary of five words and a lot of smiles.
+
+When he finally arrived, Lior was delighted. He discovered something important that night: you do not always depend on your phone. You need people too. Over time, this became his favorite story to tell his friends. And from then on, before every trip, he always learned ten simple words that people use in that place.
+#שאלה Why could Lior not use the translation program? | It was temporarily unavailable | His phone was lost | He did not have a phone | התוכנה לא הייתה זמינה באופן זמני.
+#שאלה-עברית Why did Lior feel embarrassed? | כי לא הצליח לקרוא אפילו מילה אחת פשוטה | כי איבד את הכסף | כי איחר לפגישה
+#שאלה Who explained the route? | An old man near the door | A girl at the bus | A businessman | איש מבוגר ליד הדלת הסביר לו את הדרך.
+#שאלה What did Lior discover that night? | You do not always depend on your phone | The airport is always easy | A dictionary is useless | הוא גילה שלא תמיד תלויים בטלפון, צריך גם אנשים.

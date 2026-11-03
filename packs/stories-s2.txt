@@ -1,0 +1,50 @@
+// English Master · חבילת סיפורים לשלב 2
+// פרק מהסיפור בהמשכים The Strange Message + סיפור נוסף
+#חבילה סיפורים לשלב ב'
+#מזהה stories-s2
+#שלב 2
+#נושא סיפורים
+
+#סיפור The Strange Message · Part 3: The Hacker | בינוני
+On Monday morning, the school network was offline. There was no Internet, no email and no Wi-Fi. The teachers could not open the online class platform, and the students could not log in to their accounts. Nobody could send homework. It was a huge outage for the school, and everyone was talking about the hacker.
+
+At ten o'clock there was a meeting in the library. Yossi was there, with a security engineer from a small cyber company. Her name was Tamar. She had a laptop, a tablet and two smartphones on the desk. Noa was also there, because the attack started on her computer.
+
+"First, the good news," Tamar said. "The school has a backup of all the data in the cloud. We can restore the files. But before we connect the network again, we must understand how the hacker got inside. If we don't find how he got inside, he will just do it again."
+
+Tamar opened the log of the main server and started to scroll. The log was a long list of lines: days, times, usernames and requests. "Every action in the system leaves a line in the log," she explained. "So every hacker leaves a record." She used a filter to sort the lines by time, and soon she found a pattern. On Thursday evening, a user opened a huge number of files in the school directory. The user was Noa.
+
+"But I didn't do that!" Noa said. "I know," said Tamar with a smile. "Your account did it, not you. Tell me what you saw on the screen." Noa described the warning and the button. "I see," said Tamar. "It is a popular scam. When you opened that webpage, a small script ran in your browser. It did not need you to click. It stole a cookie and a token from your browser, and with them the hacker could use your account without your password."
+
+"So changing my password is not enough?" Noa asked. "It is a good start, but no," said Tamar. "We also need to cancel the old token, install a patch for the browser and add a second test when users log in. A secure system must verify who you are, every time."
+
+Then Tamar showed everyone how the scam worked. She opened a test page on a virtual machine, so the danger stayed inside a safe box. A false warning appeared on the screen, with a big button. "Look," she said. "The page looks official, but the address in the search bar is strange. Always check the address before you trust a page. And remember: a real company never asks you to download a tool from a strange message."
+
+The work took all day. Yossi installed antivirus software on every laptop and desktop in the school. Tamar wrote a script that checked every account for strange actions. In the afternoon, they connected the network again, and the online platform came back. The students were happy, and the teachers were relieved.
+
+But at five o'clock, Tamar called Noa to the library again. She looked serious. "I found one more thing in the log," she said. "The hacker made a mistake. On Thursday night, for one minute, he logged in from his own device, not from your account. The system recorded his username." She turned the laptop to Noa. On the screen there was one name, and Noa knew it very well. It was the username of Omer, a boy from her class.
+#שאלה Why was there no email and no Wi-Fi on Monday? | The school network was offline | The teachers were sick | There was a lot of rain | רשת בית הספר הייתה מנותקת (offline).
+#שאלה What does the school have in the cloud? | A backup of all the data | A new server | A list of passwords | יש לבית הספר גיבוי של כל המידע בענן.
+#שאלה-עברית How did the hacker use Noa's account without her password? | סקריפט בדפדפן גנב עוגייה ו־token | נועה נתנה לו את הסיסמה | הוא ניחש את הסיסמה
+#שאלה What does a secure system need to do every time? | Verify who you are | Delete the log | Send an email | מערכת מאובטחת צריכה לוודא מי אתה בכל פעם.
+#שאלה-עברית What did Tamar find in the log at the end? | שם המשתמש של עומר, ילד מהכיתה של נועה | את הסיסמה של נועה | תמונה של ההאקר
+
+#סיפור The Talking House | בינוני
+Tom was an old man who lived alone. For his birthday, his family gave him a special surprise: a new digital system for his house. They installed sensors in every room, a camera at the door, a speaker in the kitchen and in the living room, and a small robot that could help in the house. All the devices were connected to the Wi-Fi and to an application on his new smartphone.
+
+"Now you can just talk, and the house will do what you want," Dana explained. Tom was not sure. He had used the same simple phone for many years, and he did not trust machines that listened to him. But he promised to try.
+
+On the first morning, he said, "Good morning, house. Please make coffee." The speaker answered, "Playing the podcast Good Morning." A man started to talk very fast about the weather. Tom tried again, slower. This time the robot started to move and went to the same side of the kitchen ten times. By lunch, he had three alerts on his phone: two about a battery that was low, and one about a person at the door. The person at the door was Tom, who came back from the shop.
+
+In the evening, he called Dana. "This house is not normal," he said. "It does not understand me, and it never stops talking." Dana laughed and came with Noam, her boy, who studied computer engineering. Noam opened the application and checked the settings. "I found the problem," he said after a few minutes. "The microphone setting is wrong, and the microphone in the kitchen is too far from the place where you sit. Also, there is a bug in the robot's software. We need to update it."
+
+Noam installed the update, moved the microphone and fixed the setting. Then he wrote a list of simple sentences in big letters and put the list on the wall near the door. "Use these words, and the house will understand you," he said.
+
+The next morning, Tom read from the list: "House, what is the temperature outside?" "It is warm and sunny," the speaker said. "House, play my favorite podcast." And it did. Tom smiled for the first time.
+
+After a month, Tom was proud of his digital house. He used the camera to see who was at the door, and the speaker to listen to old podcasts while he cooked. But he kept one rule. Every night, before he went to sleep, he said, "House, turn off the microphone." "Why?" Dana asked him once. "Because," he answered, "a house does not need to hear all the things I say about my family."
+#שאלה What did Tom get for his birthday? | A digital system for his house | A new car | A dog | הוא קיבל מערכת דיגיטלית לבית עם חיישנים, מצלמה ורמקולים.
+#שאלה-עברית What did the speaker do when Tom asked for coffee? | השמיע פודקאסט במקום להכין קפה | הכין קפה | כיבה את הבית
+#שאלה What did Noam find? | A wrong setting and a bug in the robot | The Wi-Fi was broken | Tom had no phone | נועם מצא הגדרה שגויה של המיקרופון ובאג בתוכנה של הרובוט.
+#שאלה What did Noam put on the wall? | A list of simple sentences | A picture of the family | A new camera | נועם תלה רשימה של משפטים פשוטים.
+#שאלה-עברית What rule did Tom keep every night? | הוא כיבה את המיקרופון לפני השינה | הוא כיבה את האינטרנט | הוא נעל את הדלת

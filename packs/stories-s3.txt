@@ -1,0 +1,56 @@
+// English Master · חבילת סיפורים לשלב 3
+// פרק מהסיפור בהמשכים The Strange Message + סיפור נוסף
+#חבילה סיפורים לשלב ג'
+#מזהה stories-s3
+#שלב 3
+#נושא סיפורים
+
+#סיפור The Strange Message · Part 4: The Evidence | בינוני
+The next morning, the whole school already knew the name. Someone saw the screen in the library, and the story moved through social media faster than any virus. In class, nobody wanted to sit next to Omer. Some students argued that he was obviously the hacker, because he was a very strong programmer. Others said nothing, but they looked at him with a cold attitude. Omer sat alone and stared at his desk.
+
+Noa was worried. She did not know Omer well, but something about the situation seemed too simple. "A hacker who is careful for a whole week, and then suddenly leaves his own username in the log?" she thought. "That is odd. It is almost like he expected us to find it." She decided to examine the evidence before she joined the others.
+
+After class, she went to Tamar and shared her opinion. Tamar listened with patience. "You may be right," she said. "In my experience, a username alone is not proof. It is only a clue. Anyone who steals a password can write any name. Before we blame a person, we must consider every possible explanation. A quick conclusion can have serious consequences, especially for a student."
+
+Together they returned to the log and focused on the minute when Omer's username appeared. Tamar expanded the record and showed Noa several additional details: the time, the address of the device and the browser. "Look at this address," Tamar said. "It is not part of the school network, and it is not from Omer's home. We need to determine where it comes from."
+
+It took almost two hours, and a lot of effort, but eventually they identified the source. The address was a server far away, the same server that was hosting the false warning page from Thursday. "So the person who built the trap is the same person who used Omer's name," Noa said slowly. "Right," said Tamar. "And here is another important factor. At that same minute, Omer was at a programming event in another city. He competed with students from other schools. There are pictures and a video of him there. He could not be in two places at the same time."
+
+Noa felt relieved, and then angry. "So someone tried to make Omer look like the hacker on purpose. Why?" Tamar thought for a minute. "I have a theory. The attacker wanted the school to focus on the wrong person. While everyone was busy blaming a student, nobody would look for the real cause. It is a typical approach. Create noise, and the real attack can continue quietly in another place."
+
+Meanwhile, Yossi was busy with his own research. He checked the previous weeks in the log and found a similar pattern on two other days. "This is not the first attempt," he said. "The attacker tested our system before. The data indicates that he was likely planning this for a long time."
+
+The next morning, Tamar and Yossi showed the evidence to the teachers. At first, some of them did not want to believe it. One teacher argued that the pictures could be old. But Tamar provided more proof: the official records of the event, with the time of Omer's turn. It was hard to argue with that. Finally, the teachers were convinced. Omer was not the hacker.
+
+In the afternoon, the school manager spoke to the whole class. She explained the situation and emphasized that a story on social media is not evidence. "We all made an assumption," she said, "and we were wrong. I want to thank Noa, who did not stop asking questions. Her attitude helped us reveal what really happened." Omer looked at Noa from the other side of the room and gave her a small, warm smile. Noa recognized something in that smile. It was the first time in days that he looked calm.
+
+But the story was not over. That evening, Tamar sent Noa a short message: "I examined the attacker's server again. It is still online, and it is preparing something bigger. This time, it is not only about your school. Can you come in the morning? I need your help."
+#שאלה Why did students think Omer was the hacker? | His username appeared in the log | He told everyone he was the hacker | He was not at school | שם המשתמש של עומר הופיע ביומן (log).
+#שאלה-עברית Why did Noa think the situation was odd? | האקר זהיר לא היה משאיר פתאום את שם המשתמש שלו | עומר אמר לה שהוא אשם | הסיפור הופיע בטלוויזיה
+#שאלה According to Tamar, what is a username alone? | A clue, not proof | Proof that he is the hacker | A password | טמר אמרה ששם משתמש לבד הוא רק רמז ולא הוכחה.
+#שאלה Where was Omer when his username appeared in the log? | At a programming event in another city | At home | In the school library | עומר התחרה באירוע תכנות בעיר אחרת.
+#שאלה-עברית What did the attacker want when he used Omer's name? | שבית הספר יתמקד באדם הלא נכון | לעזור לעומר לנצח | למחוק את הלוג
+#שאלה What did Yossi find in the previous weeks? | A similar pattern on two other days | A new password | Nothing at all | יוסי מצא דפוס דומה בשני ימים אחרים: התוקף בדק את המערכת קודם.
+#שאלה What did Tamar find at the end? | The attacker's server is still online | Omer is the hacker | The school has no backup | השרת של התוקף עדיין פעיל ומכין משהו גדול יותר.
+
+#סיפור The Sleep Project | בינוני
+Every year, the students in Yael's class had to complete a research project. This year, the teacher gave them a lot of choice. "Choose a question that is important to you," she said, "and find a reasonable approach to answer it. The goal is not to be right. The goal is to learn how research works."
+
+Yael and her friend Ron already knew what they wanted to examine. Both of them often stayed up late at night with their phones, and both of them felt tired in class. "Does sleep affect memory?" Yael suggested. Ron agreed immediately. It was a simple question, but it was relevant to almost every student they knew.
+
+First, they had to develop a clear approach. They decided to ask many students to participate. Each student would learn a list of new English words in the evening and take a short test the next morning. Then each student would tell them how many hours he or she slept. "We need to measure only one factor," Ron emphasized. "If the tests are different, or the words are different, we will not know what caused the result." So they used the same list, the same test and the same time for everyone.
+
+The project was harder than they expected. Some students forgot to take the test. Others did not remember how long they slept, so they had to estimate. One boy said that he slept for a whole day, which seemed odd. "We cannot use that," Yael said. "It is probably a mistake, and it can change the whole outcome." They decided to remove it from the data, and they mentioned this decision in their report.
+
+After two weeks, they had enough data to evaluate. Ron built a chart on his laptop. Each point on the chart was one student: the hours of sleep, and the number of words that he or she remembered. At first, the chart looked confusing. But when they examined it again, a trend appeared. The majority of students who slept more than eight hours remembered most of the words. The students who slept only five or six hours remembered a much smaller number.
+
+"So our theory was correct," Ron said happily. "Sleep improves memory." But Yael was more careful. "It is possible," she said. "But we have to consider other explanations. It is likely that the students who sleep more are also the students who study more. Our project shows a connection, but it does not prove the cause." Ron thought about it. He did not like her opinion at first, but eventually he recognized that she was right.
+
+In their final report, they wrote both things: what the data indicated, and what it did not prove. They also suggested a better approach to examine the question in the future: to ask the same students to sleep different hours on different nights, and to compare the results.
+
+When the teacher read the report, she smiled. "Many students want to show that their idea is right," she said. "You showed something more important: that you know the limits of your own evidence. That is the most essential skill of a researcher." Yael and Ron received a perfect result in the class. That night, for the first time in months, both of them went to sleep early.
+#שאלה What question did Yael and Ron want to examine? | Does sleep affect memory? | Do phones cause noise? | Is English a difficult language? | הם רצו לבדוק אם שינה משפיעה על הזיכרון.
+#שאלה Why did they use the same list and the same test for everyone? | To measure only one factor | Because they were tired | Because the teacher asked them | כדי למדוד גורם אחד בלבד.
+#שאלה-עברית Why did they remove the boy who said he slept for a whole day? | כי זו כנראה טעות שיכולה לשנות את התוצאה | כי הוא לא עשה את המבחן | כי הוא היה חבר שלהם
+#שאלה-עברית Why was Yael careful about the conclusion? | כי קשר בין דברים לא מוכיח מה הסיבה | כי הנתונים נמחקו | כי רון לא הסכים לכתוב את הדוח
+#שאלה What did the teacher say was the most essential skill of a researcher? | To know the limits of your own evidence | To be always right | To work fast | המורה אמרה שהמיומנות החשובה ביותר היא לדעת את גבולות הראיות שלך.

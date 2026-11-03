@@ -1,0 +1,59 @@
+// English Master · חבילת סיפורים לשלב 4
+// פרק מהסיפור בהמשכים The Strange Message + סיפור נוסף
+#חבילה סיפורים לשלב ד'
+#מזהה stories-s4
+#שלב 4
+#נושא סיפורים
+
+#סיפור The Strange Message · Part 5: The Postmortem | קשה
+When Noa arrived at Tamar's company the next morning, everyone looked serious. Three engineers were sitting at a large desk, and a dashboard on the wall displayed a huge spike in traffic. "The attacker is no longer focused on one school," Tamar explained. "Our analysis indicates that he is targeting the entire network of schools in the city. Your school was merely the prototype. He used it to test his methodology."
+
+Tamar's team had already captured the malicious script from the attacker's server. Initially, the code looked confusing, but after several hours of careful review, its architecture became apparent. The script waited for a student to open the false warning page, intercepted the browser's token, and then used those credentials to migrate quietly from one account to another. "The design is robust in many aspects," one engineer said, "but it has one fundamental vulnerability. It depends on a single command server. If that node fails, the whole operation stops."
+
+The obvious solution was to destroy the server immediately, but Tamar was cautious. "If we act too fast, he will simply build a new one, and we will learn nothing," she said. "We need to understand his workflow first, and we need authorization from the relevant authority. We cannot act alone." Therefore, the team proposed a more diplomatic approach. They would coordinate with the city, collaborate with the hosting company, and only then take the server offline.
+
+Noa's role was surprising. Tamar asked her to describe, as precisely as possible, what she saw on Thursday evening. "You are the only participant who saw the attack from the user's perspective," Tamar said. "That insight is crucial. The documentation tells us what the code does, but not why people trust it." Noa explained that the warning looked official, that the button was big and urgent, and that she almost clicked it because she was tired. The engineers listened carefully and took notes. Her observation helped them identify the real trick of the attack: it was designed to exploit people who are tired and feel pressure, not only weak code.
+
+The operation took place two days after that. Late at night, the hosting company froze the server, and the team monitored the dashboard as the malicious traffic dropped to almost nothing. Within an hour, the attacker attempted a fallback connection to a backup node, but the team had predicted this and had already stopped it. By morning, the threat no longer existed. The hosting company also gave its logs to the relevant authority, which sent an investigator to find the attacker.
+
+After a week, the school held a postmortem meeting. Noa had heard the word before, but she did not know that it was simply a review after an incident. Tamar emphasized that the purpose was not to find someone to blame. "A good postmortem focuses on the root cause, not on single people," she said. "Honesty and transparency are more important than looking perfect."
+
+The committee identified several root causes. First, the school's systems relied on passwords alone, with no second factor of authentication. Second, tokens were valid for too long, thereby giving the attacker a wide window of opportunity. Third, there was no clear procedure for reporting suspicious messages, so students were reluctant to tell anyone. Finally, the story about Omer revealed another problem: people were too willing to believe an easy explanation.
+
+Accordingly, the school implemented several changes. Every account now required a second factor. Tokens now stop working after a short period. Yossi wrote a simple procedure and published it on the school website: if you see a strange message, take a screenshot, do not click, and report it immediately. Furthermore, the teachers dedicated a lesson to digital ethics, with a class about the damage that false stories can cause. Omer volunteered to help teach it, and his talk showed with surprising honesty how it felt to be blamed.
+
+At the end of the meeting, the school manager said thank you to everyone who had contributed. Then she turned to Noa. "At the beginning, you thought you made a mistake," she said. "But your decision to stop and ask questions was the most critical step in this entire incident. Security is not only about technology. It is about people who are willing to doubt, to verify, and to report what they see."
+
+That evening, Noa opened her computer again. A notification appeared on the screen, and for a second she felt the old fear. But it was only a message from Tamar: "Our company is looking for students for a special program in cyber security. I think you would be perfect. What do you say?" Noa smiled, and this time, she was confident that clicking was the right decision.
+#שאלה What was the attacker's real target? | The entire network of schools in the city | Only Noa's computer | Tamar's company | התוקף כיוון לכל רשת בתי הספר בעיר; בית הספר של נועה היה רק אב טיפוס.
+#שאלה What was the fundamental vulnerability of the script? | It depended on a single command server | It had no code | It worked only on Thursday | הסקריפט היה תלוי בשרת פיקוד אחד בלבד.
+#שאלה-עברית Why did Tamar not destroy the server immediately? | כי הוא היה בונה שרת חדש והם לא היו לומדים כלום | כי לא היה לה מחשב | כי נועה ביקשה ממנה לחכות
+#שאלה-עברית What did Noa do that was important? | היא תיארה את ההתקפה מנקודת המבט של המשתמש | היא כתבה את הסקריפט | היא כיבתה את השרת
+#שאלה According to Tamar, what does a good postmortem focus on? | The root cause, not single people | Finding someone to blame | Looking perfect | לפי טמר, תחקיר טוב מתמקד בשורש הבעיה ולא באנשים.
+#שאלה Which change did the school implement? | A second factor for every account | No more passwords at all | Closing the school website | בית הספר דרש גורם אימות שני לכל חשבון.
+#שאלה What did Tamar offer Noa at the end? | A special program in cyber security | A new computer | A job as a teacher | טמר הציעה לנועה תוכנית מיוחדת באבטחת סייבר.
+
+#סיפור The Hallucination | קשה
+Maya was the leader of a small team at a new startup. For eight months, her team had been building a chatbot for students: a digital tool that could answer questions about math, English and literature, and cite the sources of every answer. The launch was scheduled for Monday, and the most important stakeholders, two large schools and their main supporter, a large company, were waiting for it. The deadline was not flexible.
+
+On Thursday evening, four days before the launch, Maya decided to conduct one final review. She asked the chatbot a simple question about a well known scientist, and the answer looked perfect: clear, precise and with three citations. Out of habit, she clicked on the first citation. The page did not exist. She clicked on the second one. It also did not exist. The third one was a real article, but it said nothing about the scientist at all.
+
+Maya felt cold and anxious. The model did not want to mislead anyone. It was a well known phenomenon called hallucination: the model generated text that seemed reliable, including references that looked real, without any connection to real evidence. Nevertheless, for a tool designed for students, this was a critical failure. A student who trusted the chatbot could cite a source that never existed, and the teacher would conclude that it was plagiarism.
+
+On Friday morning, she called the team to a meeting. "We have a serious problem," she said, and she showed them what she had found. The room was quiet. Then Omer, the veteran engineer, spoke first. "How common is it?" he asked. "We need a metric before we make a decision." They spent the next four hours building a benchmark: many questions, with every citation checked manually. The result was more serious than anyone had expected. Approximately one answer in five contained one or more citations that were invalid.
+
+The team did not agree. Ron argued that they should launch on time. "Every chatbot has this issue," he said. "If we wait, another company will take our place, and our supporter will lose confidence in us. We can fix it in the next version." Others were reluctant. "If we launch a tool that creates false sources," said Yael, "we are not helping students. We are undermining the very thing we promised to teach them: how to use evidence with honesty."
+
+Maya listened to both sides. She understood the pressure. However, she also knew that the decision was ultimately her responsibility. "We need a solution that does not force us to choose between speed and integrity," she said.
+
+By Friday night, the team had implemented a compromise. They could not prevent all hallucinations, but they could mitigate them. Every citation would now be validated automatically before the user saw it: the system would check that the page existed and that it actually contained the relevant information. If a citation failed the check, it would be removed, and the chatbot would explicitly say that it could not find a reliable source. They also added a clear message after every answer: "Always verify important information."
+
+On Monday morning, Maya called their supporter before the launch. She explained the problem with complete transparency, including the numbers. For a long minute, he was quiet. Then he said something that surprised her. "Most teams do not talk about problems like this until the users find them," he said. "You found it, you measured it, and you told me. That is the kind of accountability I want to support."
+
+The launch took place on time. The chatbot was not perfect, and Maya never claimed that it was. But after a month, one of the schools sent her a letter. A teacher wrote that her students had started to check every source on their own, not only in the chatbot, but everywhere. For Maya, that was the most important metric of all.
+#שאלה What was the chatbot designed to do? | Answer students' questions and cite sources | Write homework for students | Replace teachers | הצ׳אטבוט נועד לענות על שאלות של תלמידים ולצטט מקורות.
+#שאלה What did Maya find when she clicked on the citations? | Pages that did not exist | Perfect sources | A virus | היא מצאה דפים שלא קיימים.
+#שאלה-עברית What is a hallucination, according to the story? | כשהמודל מייצר טקסט שנשמע אמין בלי קשר לראיות אמיתיות | כשהמחשב קורס | כשהמשתמש טועה בשאלה
+#שאלה Why did Ron want to launch on time? | He was afraid another company would take their place | He did not know about the problem | He wanted to leave the company | רון חשש שמתחרה יתפוס את מקומם והתומך יאבד אמון.
+#שאלה-עברית What was the compromise the team implemented? | בדיקה אוטומטית של כל ציטוט לפני שהמשתמש רואה אותו | ביטול ההשקה | מחיקת כל הציטוטים
+#שאלה Why was the supporter happy? | Maya told him about the problem with transparency | The chatbot was perfect | The launch was early | התומך העריך את השקיפות והאחריות של מאיה.
