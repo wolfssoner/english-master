@@ -1,0 +1,136 @@
+// English Master · 10 קטעי קריאה ארוכים לשלב א׳ (רק מילים של שלב א׳)
+#חבילה קטעי קריאה · שלב א׳
+#מזהה reading-stage-1
+#שלב 1
+
+#סיפור The Message on Friday | בינוני
+On Friday morning, Maya received a message on her phone. It said that there was a serious problem with her money and that she must click a button and enter her code right now. The message looked real. It had the name of a big store, and it used the same picture and the same title as the store's website. But Maya noticed two strange details. First, the message did not use her name. Second, it wanted her to act very quickly.
+
+Maya was careful. She did not click the button. Instead, she called her brother Dan, who works as a developer. Dan looked at the message and laughed. "This is phishing," he explained. "It is a trap. They want to steal your code and your money."
+
+Dan showed Maya how to check a website without opening it. The name of the website was almost the same as the real name, but it was not correct. Maya was relieved, but she was also angry. "How many people believe these messages?" she asked.
+
+That evening, Maya decided to warn her family. She sent a short message to everyone: never share a code, always check the name of the website, and if a message wants you to act very fast, stop and think first.
+#שאלה Why did Maya think that the message was strange? | It did not use her name and it wanted her to act fast | It came from her brother | It had the picture of the store | It came on Friday | בפסקה הראשונה כתוב ששני פרטים היו מוזרים: לא היה בה השם שלה, והיא דרשה לפעול מהר מאוד.
+#שאלה What did Maya do first? | She called her brother | She clicked the button | She went to the store | She deleted the message | היא לא לחצה, ובמקום זה התקשרה לאחיה דן.
+#שאלה What can we understand about the name of the website? | It was almost the same as the real name | It was the real name of the store | It was a very long name | It had Maya's name in it | השם היה כמעט זהה לשם האמיתי, וזה בדיוק מה שהופך את האתר למלכודת.
+#שאלה What is the main idea of the story? | Careful people can prevent a trap if they stop and check | Stores often send messages on Friday | Developers do not like phishing | It is safe to click every button | הסיפור מראה שבזכות זהירות ובדיקה מאיה לא נפלה בפח, וזה גם המסר ששלחה למשפחה.
+
+#סיפור The Lost Bike | בינוני
+Omer loves his bike. Every morning he takes it to school, and every afternoon he takes it to his job at a small store near the bus. One Thursday, when he came out of the store, the bike was missing. He looked everywhere: near the door, on the side of the store and on the next street. It was not there.
+
+Omer was sad and angry. His father had bought the bike for his birthday, and it was not cheap. He went back into the store and told Yossi, the old man who has the store. Yossi listened carefully and then said, "A girl from your school was here this afternoon. She always takes pictures with her phone. Probably she saw something."
+
+The next day, Omer found the girl and asked her. She showed him a picture from her phone. In the picture, a man was near the bike, and he was looking at it. The picture was not very clear, but Omer noticed a detail: the man had a big bag with a picture of a cat on it.
+
+The next week, Omer saw a bag with the same cat in his school. He did not speak with the student. Instead, he told his teacher and called the investigators. Two days after that, he received his bike back. The student said that he was sorry and that it was a terrible mistake.
+#שאלה Why was the bike important to Omer? | His father bought it for his birthday | He won it in a lottery | It was very cheap | He used it only on Friday | בפסקה השנייה: אבא שלו קנה לו את האופניים ליום ההולדת, והם לא היו זולים.
+#שאלה How did Yossi help Omer? | He told him about a girl who takes pictures | He bought him a new bike | He called the school | He found the bike near the door | יוסי סיפר לו על ילדה מבית הספר שתמיד מצלמת בטלפון.
+#שאלה What clue helped Omer find the man? | a bag with a picture of a cat | a clear picture of the man | the name on his phone | the price of the bike | התמונה לא הייתה ברורה, אבל עומר שם לב לתיק עם ציור של חתול.
+#שאלה What can we learn about Omer from the last paragraph? | He did not try to solve the problem alone | He was afraid of the student | He did not want his bike back | He forgot about the bike | עומר לא עימת את התלמיד בעצמו, אלא סיפר למורה והתקשר לחוקרים.
+
+#סיפור A Hard Lesson for a Developer | קשה
+Tamar is a developer in a small team. Last month, the team worked on a new program. The users were excited, because the old program was very slow. On Thursday evening, every part looked ready, and Tamar decided to update the system before Friday.
+
+On Friday morning, the problems began. Users could not log in, and many of them sent angry messages. Some said that their data was missing. Tamar was nervous. She checked the code again and again, but she could not find the error.
+
+Finally, she found the reason. The new program used a parameter that existed on her computer, but not on the real system. The checks on her computer worked perfectly, so she never noticed the problem. As a result, the program could not open the database.
+
+Tamar fixed the problem in one hour, and no data was lost. However, she learned two important lessons. First, it is not useful to check the code on one computer only; the check must use the same system that the users use. Second, a big update should not take place on a Friday, when the team is tired and many people are away.
+
+The next week, she explained the mistake to her team. Nobody was angry with her. Dan, the oldest developer in the team, said that a clear explanation of a mistake is worth more than a perfect story with no mistakes.
+#שאלה Why did Tamar decide to update the system on Thursday? | Every part looked ready | Dan told her to do it | The users wanted the old program | The checks did not work | בפסקה הראשונה: ביום חמישי בערב הכול נראה מוכן, ולכן החליטה לעדכן.
+#שאלה What was the reason for the problem? | A parameter existed on her computer but not on the real system | The users forgot their codes | The database was deleted | The old program was too slow | הפרמטר היה קיים במחשב שלה ולא במערכת האמיתית, ולכן הבדיקות אצלה עבדו.
+#שאלה Which sentence is NOT correct about the story? | Some data was lost | Tamar fixed the problem in one hour | Users could not log in | Tamar explained the mistake to her team | כתוב במפורש שאף נתון לא אבד. שלוש האפשרויות האחרות נכונות.
+#שאלה What does Dan believe? | It is important to explain mistakes clearly | A developer must never make mistakes | Updates are useless | Tamar must leave the team | דן אמר שהסבר ברור לטעות שווה יותר מסיפור מושלם בלי טעויות.
+
+#סיפור The Legend of the Old House | בינוני
+In our city there is an old house at the end of a quiet street. For many years, nobody has lived there. The windows are dark, and the garden is dark and quiet too. The children in the city tell a legend about the house: at night, they say, a strange noise comes from the kitchen, and a strange man walks from room to room.
+
+Last year, a student named Noam decided to find out if the story was real. He was a little afraid, but he was also excited. He asked his friend Lior to come with him, and they took a phone and some food.
+
+At ten in the evening, they sat on a bench near the house and waited. After an hour, they heard the noise. It was a long, low noise, and it came from the kitchen window. Lior wanted to run away, but Noam walked slowly to the window and looked inside.
+
+The reason for the noise was simple. The window was broken, and a small cat lived in the kitchen. When it was hungry, it made the strange noise. There was no strange man, only an old picture of a man on the wall. The next day, Noam told the story at school. Some students believed him, but many still like the legend more than the real story.
+#שאלה What does the legend say? | A strange noise comes from the house at night | The house has a lot of money | A family lives in the house | The garden is very big | הילדים מספרים שבלילה נשמע רעש מוזר מהמטבח ואיש מוזר מסתובב בבית.
+#שאלה Why did Noam go to the house? | He wanted to know if the story was real | He wanted to buy it | His friend lived there | He lost his phone there | הוא החליט לברר אם הסיפור אמיתי.
+#שאלה What was the real reason for the noise? | A hungry cat lived in the kitchen | A man walked in the kitchen | Lior made the noise | The house was broken | חתול קטן גר במטבח, וכשהיה רעב השמיע את הרעש המוזר.
+#שאלה What can we understand from the last sentence? | Some people like a good story more than what is real | Everyone believed Noam | Noam told a story that was not real | The legend is now forgotten | רבים עדיין אוהבים את האגדה יותר מהסיפור האמיתי, למרות שנועם הוכיח מה קרה.
+
+#סיפור Too Much Coffee | בינוני
+Dana is a student, and she always has a lot of homework. Last year, before every big school day, she studied all night. To stay up, she drank coffee: one coffee in the evening, one at 12 at night, and one more at three in the morning. She believed that more hours of study would improve her results.
+
+But her results were not good. In class, she was tired, and she often forgot simple things that she knew the night before. She felt nervous and angry, and she did not understand why. She asked her teacher for help.
+
+The teacher explained something important. When we sleep, the memory keeps the information that we learned during the day. A student who does not sleep may study for many hours, but a lot of the information is lost. In addition, a tired person makes more mistakes and needs more time to understand a new idea.
+
+Dana decided to change her strategy. She started to study in the afternoon, in short parts of one hour, and she stopped drinking coffee after six in the evening. She went to bed early before every important day. After a month, she noticed a big change. She felt relieved and confident in class, and her results improved.
+#שאלה What did Dana believe at the start of the story? | More hours of study would improve her results | Coffee is bad for students | Sleep is more important than study | Homework is not important | בפסקה הראשונה כתוב שהאמינה שעוד שעות לימוד ישפרו את התוצאות.
+#שאלה What did the teacher explain about sleep? | It helps the memory keep information | It makes the coffee strong | It gives students more time to study | It makes the school day short | המורה הסביר שבזמן השינה הזיכרון שומר את המידע שנלמד במשך היום.
+#שאלה Which of these was NOT part of Dana's new strategy? | studying all night | studying in short parts | stopping coffee after six in the evening | going to bed early | ללמוד כל הלילה זו השיטה הישנה שלה, לא החדשה.
+#שאלה What is the main idea of the text? | How you study is as important as how long you study | Coffee is always bad | Teachers should give no homework | Students should study only on Friday | הסיפור מראה שהשינוי בדרך הלמידה, ולא בכמות השעות, שיפר את התוצאות.
+
+#סיפור The Superhero Myth | קשה
+Many children believe that superheroes are strong, fast and never afraid. In books and stories, a superhero can fly, jump over a house or stop a car with one hand. Children love these stories, and many of them want to become superheroes when they are older.
+
+A psychologist named Yael wanted to understand how these stories change children. She asked two classes of children to solve a difficult problem. Before the challenge, the first class watched a short story about a superhero. The second class watched a story about a normal person who tried again and again and did not stop before she solved a problem.
+
+The results were surprising. The children who watched the superhero story stopped trying sooner. Yael believed that she knew the reason. In the superhero story, the superhero wins because of special powers. A child who does not have these powers may think: "I am not special, so I cannot win." In the second story, the person won because she did not stop trying.
+
+Yael does not claim that superhero stories are bad. Children need stories that make them excited and happy. But she recommends that mothers and fathers also show children real people who struggle, make mistakes and still continue. She believes that a person who tries hard is a more useful superhero than a person who never needs to try.
+#שאלה What did the first class of children watch? | a story about a superhero | a story about a normal person | a lesson about math | nothing at all | הכיתה הראשונה צפתה בסיפור על גיבור על.
+#שאלה What was surprising about the results? | The superhero class stopped trying sooner | The superhero class solved the problem faster | Both classes did the same | The children did not like the stories | הילדים שצפו בגיבור העל הפסיקו לנסות מוקדם יותר, בניגוד למה שאולי היינו מצפים.
+#שאלה What did Yael believe was the reason? | The children felt that they did not have special powers | The story was too long | The problem was too easy | The children were tired | יעל חשבה שילד שאין לו כוחות מיוחדים עלול לחשוב שהוא לא יכול לנצח.
+#שאלה Which sentence does Yael believe? | Children also need stories about people who try hard | Children should never read superhero stories | Superheroes are real | Only special people can win | היא לא אומרת שהסיפורים רעים, אלא ממליצה להראות גם אנשים אמיתיים שמתאמצים וממשיכים.
+
+#סיפור The Lottery Paper | קשה
+Dan works in a small kitchen in a busy part of the city. One evening, a man came in for dinner and left a paper on the table. When Dan checked the table, he noticed that the paper was a lottery paper. He took it and wanted to give it back if the man came back.
+
+The next day, Dan checked the lottery results on his phone. He looked again and again. The paper was a winner, and the amount was enormous: the money could buy a house.
+
+Dan did not sleep that night. He thought about his family and about all the things he wanted to buy. Nobody saw the man leave the paper, and nobody knew his name. But Dan also thought about the man. Probably he needed the money more than Dan did. Probably he was looking for the paper everywhere.
+
+In the morning, Dan made a decision. He told the old man who has the kitchen and left a note on the door: "Did you lose something here on Thursday evening? Call us." A week after that, the man called. He was an old teacher, and he could not believe the story. As a thank you, he gave Dan a part of the money. Dan received a small part of the lottery money, but he felt that he had made the correct decision.
+#שאלה What did Dan want to do with the paper at first? | Give it back if the man came back | Buy a house with it | Delete it | Give it to his family | בפסקה הראשונה: הוא לקח אותו ורצה להחזיר אותו אם האיש יחזור.
+#שאלה Why did Dan not sleep that night? | He could not decide what to do | He was sick | He worked all night | He lost the paper | הוא חשב על המשפחה ועל מה שהוא רוצה לקנות, אבל גם על האיש. הוא התלבט מה לעשות.
+#שאלה How did Dan try to find the man? | He left a note on the door | He called the lottery | He looked for the man in the street | He called the investigators | הוא סיפר לבעל המקום ושם פתק על הדלת.
+#שאלה What is the main idea of the story? | Doing the correct thing can be more important than money | Lottery papers are useless | Old teachers have a lot of money | Kitchens are busy places | דן קיבל רק חלק מהכסף, אבל הרגיש שעשה את הבחירה הנכונה. זה המסר.
+
+#סיפור Learning English at Home | בינוני
+Tom is 40 years old, and last year he decided to learn English. He did not have time for a class, so he chose a free program on his computer. Every day, the program showed him ten new words and asked him to repeat them. The first month was easy, and Tom was very excited.
+
+In the second month, things became harder. The program showed new words every day, but Tom forgot many of the old ones. He felt that he was not improving. He almost stopped. Then his sister, who is a teacher, gave him a useful idea: learn fewer new words, and repeat the old ones more often.
+
+Tom changed his strategy. He studied only five new words a day, and he spent the rest of the time on words that he often forgot. He also started to read short stories and to listen to simple English stories on his phone. When he did not understand a word, he did not stop. He tried to find the meaning from the context.
+
+After a year, Tom can read a short article and have a simple talk in English. He still makes many mistakes, but he is not afraid of them. "The most important thing," he says, "is not to learn fast. The most important thing is to continue every day."
+#שאלה Why did Tom choose a program on his computer? | He did not have time for a class | His sister made the program | It was very expensive | He did not like teachers | כתוב שלא היה לו זמן לשיעור, ולכן בחר בתוכנה חינמית.
+#שאלה What was Tom's problem in the second month? | He forgot many of the old words | The program stopped working | He did not have a computer | The words were too easy | בחודש השני הוא שכח הרבה מהמילים הישנות והרגיש שהוא לא מתקדם.
+#שאלה What did Tom do when he did not understand a word in a story? | He tried to find the meaning from the context | He stopped reading | He called his sister | He looked for a new story | הוא לא הפסיק לקרוא, אלא ניסה להבין את המשמעות מההקשר.
+#שאלה What does Tom believe is the most important thing in learning? | to continue every day | to learn very fast | to never make mistakes | to study only new words | המשפט האחרון: הדבר החשוב ביותר הוא להמשיך כל יום, לא ללמוד מהר.
+
+#סיפור Rain on the Journey | קשה
+Noa and her brother Ron decided to take a long journey by bike. They prepared for weeks. They checked the weather, chose a route and prepared food, water and warm things for the night. The first two days were sunny and perfect. They traveled for many hours and slept in a quiet place near the road.
+
+On the third day, the weather changed. The morning was dark, and by noon there was a lot of rain. The path was not safe, and Ron fell from his bike. He was not badly injured, but his hand was injured, and he could not continue for long.
+
+They had to make a decision. Ron wanted to continue slowly to the next city. Noa believed that it was a big risk. In the end, they found an old house near the road. A family lived there, and the mother allowed them to stay in a warm room while the rain continued.
+
+The next morning, the family's father took them to the bus in his car. Ron was sad, because they did not finish the route. But Noa told him that the purpose of the journey was not to win; it was to be together and to come home safe. They decided to try the same route again next year.
+#שאלה How did Noa and Ron prepare for the journey? | They checked the weather and chose a route | They bought new bikes | They asked a family for help | They did not prepare at all | בפסקה הראשונה: הם בדקו את מזג האוויר, בחרו מסלול והכינו אוכל, מים ודברים חמים ללבוש.
+#שאלה Why did they have to make a decision on the third day? | Ron was injured and the weather was bad | They lost their route | Their food was finished | Noa was sick | הגשם הפך את השביל ללא בטוח, ורון נפל ונפצע ביד.
+#שאלה What did Noa believe? | Continuing was a big risk | They should travel faster | They should sleep near the road | Ron should continue alone | נועה חשבה שזה סיכון גדול להמשיך.
+#שאלה What can we understand from the last paragraph? | For Noa, to be safe and together was more important than to finish | Noa was angry with Ron | They will never travel by bike again | The family did not help them | נועה אמרה שהמטרה הייתה להיות יחד ולחזור בשלום, לא לנצח.
+
+#סיפור The Witness | קשה
+One night, there was an accident on a busy road near the city. A car came very fast, caused an accident with a man on a bike and then left quickly. The man was injured, but he could call for help. When the investigators arrived, they found only one witness: an old teacher who was waiting for the bus.
+
+The witness was sure about the details. She said that the car was big and new, and that the person in the car was a man. The investigators were happy, because her story was clear. They began to search for a big new car.
+
+After a week, they found nothing. Then an investigator named Lior decided to check the pictures from the phones of people who were in a store near the road. One picture showed something surprising: the car was small and old, and the person in it was a girl.
+
+Lior believed that the witness told what she really remembered. He explained that our memory is often inaccurate. At night, it is hard to see, and when people are afraid, they notice fewer details. After the event, they may create the missing parts with ideas that look correct but are not real. For this reason, Lior says, a witness is important, but a clue such as a picture is more reliable.
+#שאלה Why were the investigators happy at first? | The witness told a clear story | They found the car | The man was not injured | The person in the car called them | בפסקה השנייה: הסיפור של העדה היה ברור, ולכן החוקרים שמחו.
+#שאלה What did the picture show? | The car was small and old and the person in it was a girl | The car was big and new | There was no car | The man on the bike caused the accident | התמונה הראתה מכונית קטנה וישנה ונהגת צעירה, בניגוד לעדות.
+#שאלה What does Lior believe about the witness? | Her memory was inaccurate | She wanted to help the person in the car | She was in the car | She did not see the accident | ליאור לא חשב שהיא רצתה להטעות; הוא הסביר שהזיכרון שלנו לעיתים קרובות לא מדויק.
+#שאלה What is the main idea of the last paragraph? | Memory can make mistakes, so other evidence is important | Old people should not be witnesses | Pictures are always inaccurate | It is easy to see at night | הפסקה מסבירה למה הזיכרון טועה, ולכן ראיה כמו תמונה אמינה יותר.

@@ -1,0 +1,134 @@
+// English Master · 10 קטעי קריאה ארוכים לשלב ג׳ (מילים של שלבים א׳ עד ג׳)
+#חבילה קטעי קריאה · שלב ג׳
+#מזהה reading-stage-3
+#שלב 3
+
+#סיפור Can We Do Two Things at Once? | בינוני
+Many people believe that they can do two things at once. They answer emails during meetings, listen to podcasts while they study and check their phones while they drive. Some even consider it an essential skill for work today. However, research suggests that most people are not as capable of it as they think.
+
+The main reason is that the brain does not really do two difficult jobs at the same time. Instead, it moves quickly from one job to the other. Each move has a price: the brain needs a short period to focus again on the new job. These lost seconds are hardly noticed, but over a whole day they add up. As a result, people who move between jobs often finish their work more slowly and make more mistakes.
+
+In one well-known study, researchers compared students who often used several media at once with students who rarely did. The researchers expected the first group to be better at moving between jobs. The outcome was not what they expected: these students lost their focus more easily and found it harder to ignore information that was not relevant.
+
+This does not mean that we can never do two things at once. Simple actions, such as walking and talking, require little attention. The problem appears when both jobs are difficult. The conclusion is simple: when a job is important, it is more effective to focus on it alone and to check the phone after you finish.
+#שאלה What does research suggest about doing two things at once? | Most people are not as capable of it as they think | It is an essential skill for every job | Students are better at it than other people | It improves the quality of work | בפסקה הראשונה: המחקר מצביע על כך שרוב האנשים פחות מסוגלים לזה ממה שהם חושבים.
+#שאלה According to the second paragraph, what does the brain really do? | It moves quickly from one job to the other | It does two difficult jobs at once | It stops working after an hour | It ignores the second job | המוח לא באמת מבצע שתי עבודות קשות בו־זמנית, אלא עובר ביניהן במהירות.
+#שאלה What was surprising about the outcome of the study? | The students who often used several media lost their focus more easily | These students were better at moving between jobs | Both groups were the same | The students did not want to participate | החוקרים ציפו שהקבוצה הראשונה תהיה טובה יותר, אבל קרה ההפך: הם איבדו ריכוז בקלות רבה יותר.
+#שאלה Which actions can people do together without a problem, according to the text? | simple actions such as walking and talking | two difficult jobs | studying and answering emails | driving and checking a phone | פעולות פשוטות כמו הליכה ודיבור דורשות מעט קשב, ולכן אין בעיה לעשות אותן יחד.
+
+#סיפור Telling Children They Are Smart | קשה
+Many mothers, fathers and teachers tell children that they are smart. The idea seems reasonable: if children believe that they are smart, they will feel confident and try harder. However, research by a psychologist named Dana suggests that this may have a bad effect.
+
+In her research, Dana gave a group of children a set of easy problems. After that, she told some of the children, "You must be smart." To the other children she said, "You must have worked hard." Then all the children were offered a choice between an easy challenge and a more difficult one that would help them learn.
+
+Most of the children who were told that they were smart chose the easy challenge. Dana suggests that they wanted to maintain the idea that they were smart, and they were afraid that a hard challenge would reveal that they were not. Most of the children who were told that they worked hard chose the difficult challenge. When all the children received difficult problems after that, the first group stopped trying more quickly.
+
+Dana's ideas have become very popular in schools. Other researchers, however, argue that the effect is smaller than many people believe and that it does not appear in every study. Still, the basic lesson is useful: when we focus on the effort and the strategy, and not only on the result, we may encourage children to face challenges rather than avoid them.
+#שאלה What do many mothers, fathers and teachers believe, according to the first paragraph? | Telling children that they are smart will make them try harder | Children should never hear that they are smart | Smart children do not need help | Teachers should not speak with children | הרעיון הוא שאם ילדים יאמינו שהם חכמים, הם ירגישו בטוחים וינסו יותר.
+#שאלה Which choice did most of the children who heard "You must be smart" make? | the easy challenge | the difficult challenge | no challenge at all | the same challenge as before | רוב הילדים ששמעו שהם חכמים בחרו באתגר הקל.
+#שאלה Why, according to Dana, did these children make that choice? | They were afraid that a hard challenge would reveal that they were not smart | They were tired | The easy challenge was more popular | Their teachers told them to | הם רצו לשמור על התדמית של ילדים חכמים וחששו שאתגר קשה יחשוף שהם לא.
+#שאלה What is the writer's view in the last paragraph? | The effect may be smaller than people believe, but the lesson is useful | Dana's research is completely wrong | All schools must use Dana's method | Effort is not important | הכותב מציין את הביקורת, ובכל זאת אומר שהלקח הבסיסי שימושי.
+
+#סיפור Paper or Screen? | בינוני
+More and more students read their school books on screens rather than on paper. Screens are convenient and cheap, and they are light to carry. But do students understand and remember as much when they read on a screen? In recent years, researchers have tried to answer this question.
+
+The results of many studies are similar. When the text is short and simple, there is hardly any difference. But when the text is long and complex, students who read on paper tend to understand it better. The difference is especially large when students have little time.
+
+Researchers suggest several possible reasons. On a screen, people tend to read more quickly and to jump over parts of the text rather than read every line. They also tend to feel more confident about their understanding, even when it is weak. In addition, a physical book gives the reader a feeling of where information appears: on the first page of a section, near the end of a paragraph. This physical memory may help them find and recall ideas.
+
+The conclusion is not that schools should remove screens. Screens have many benefits, and students can learn to read them more carefully. But for difficult texts that require a lot of attention, it may be worth reading them on paper or, if this is not possible, reading more slowly.
+#שאלה When is there hardly any difference between paper and screen? | when the text is short and simple | when the text is long and complex | when students have little time | when students read at night | בפסקה השנייה: כשהטקסט קצר ופשוט, כמעט אין הבדל.
+#שאלה Which reason is NOT given in the third paragraph? | Screens make students sick | People read more quickly on a screen | People feel more confident than they should | A book helps students remember where information appears | הפסקה מזכירה קריאה מהירה, ביטחון יתר וזיכרון פיזי של מיקום. נזק לבריאות לא מוזכר.
+#שאלה What does the writer mean by "physical memory"? | remembering where information appears in a book | remembering the price of a book | remembering the name of the writer | remembering how big a book is | הכוונה לזיכרון של המקום שבו מידע מופיע בספר.
+#שאלה What does the writer recommend for difficult texts? | reading them on paper or reading more slowly | never using screens | reading only short texts | reading them with little time | הכותב ממליץ לקרוא על נייר, ואם אי אפשר, לקרוא לאט יותר.
+
+#סיפור The Four-Day Work Week | קשה
+For many years, the usual work week was five days. Recently, however, several companies and even some governments have tested a new model: four days of work for the same salary. The idea seems almost too good to be true, so what have these tests found?
+
+In many tests, the results were positive. Workers reported lower pressure and better sleep, and they spent more time with their families. Surprisingly, in many companies the amount of work that was completed did not decline. Managers explained that when people have a short week, they do not lose so much time: meetings become shorter, and workers focus on the jobs that matter most.
+
+However, other researchers argue that these results should be interpreted carefully. First, the companies that took part chose to participate, so they were probably companies that expected the model to work. Second, many tests continued for only six months, and it is not clear whether the benefits remain over several years. Third, the model is much easier for workers with computers than in a store or a school, where someone must be there every day.
+
+The question is therefore not only whether a four-day week can work, but where and for which workers. For some kinds of jobs, it may be a reasonable option. For others, a more flexible approach, such as shorter days or choosing your own hours, may provide similar benefits.
+#שאלה What is the main idea of the text? | the results and limits of tests of a four-day work week | the story of the five-day week | how to work in a school | why meetings are too long | הטקסט מציג את התוצאות של ניסויים בשבוע עבודה של ארבעה ימים ואת המגבלות שלהם.
+#שאלה According to the second paragraph, why did the amount of work not decline? | People did not lose so much time when they had a short week | Workers worked longer hours | Companies found more workers | Managers did all the work | המנהלים הסבירו שכשיש פחות זמן, מאבדים פחות ממנו: פגישות מתקצרות והעובדים מתמקדים במה שחשוב.
+#שאלה Which argument in the third paragraph is about time? | Many tests continued for only six months | Companies chose to take part | The model is hard in a school | Workers reported lower pressure | הטענה השנייה: רוב הניסויים נמשכו רק חצי שנה, ולא ברור אם היתרונות יישארו לאורך זמן.
+#שאלה What does the writer suggest in the last paragraph? | The answer may depend on the kind of job | Every company must use a four-day week | The four-day week never works | Flexible hours are always a mistake | הכותב אומר שהשאלה היא איפה ולאילו עובדים זה מתאים, ושגישה גמישה יכולה לתת יתרונות דומים.
+
+#סיפור Why We Forget | בינוני
+In the past, a researcher decided to measure memory carefully and simply. He created a list of strange new words with no meaning, so that previous knowledge would not affect his results. Then he learned the list and checked his own memory after various periods of time.
+
+His results produced what is now known as the forgetting line. He found that we forget most quickly in the first hours after learning. After one day, he had forgotten most of the list. After that, he continued to forget, but much more slowly.
+
+He also discovered something encouraging. When he studied a list a second time, he learned it faster than the first time, and he forgot it more slowly after that. Each time he repeated it, the memory became stronger. This idea is the main principle of a strategy that many students use today: instead of studying a section many times in one day, you repeat it after longer and longer periods, for example after one day, then three days, then a week.
+
+Today, many learning applications use this strategy. They check which words you forget and show them to you again just before you are likely to forget them. The researcher checked only one person, and it was the researcher, so his research had clear limits. But his main conclusions have been confirmed many times since then.
+#שאלה Why did the researcher use words with no meaning? | so that previous knowledge would not affect the results | because they were easy to remember | because he did not know other words | to make the research shorter | הוא יצר מילים חסרות משמעות כדי שידע קודם לא ישפיע על התוצאות.
+#שאלה What does the forgetting line show? | We forget most quickly in the first hours after learning | We never forget what we learn | We forget slowly at first and quickly after that | We remember every word for one day | שוכחים הכי מהר בשעות הראשונות אחרי הלמידה, ואחר כך לאט יותר.
+#שאלה What happened when he studied a list a second time? | He learned it faster and forgot it more slowly | He forgot it faster | He could not learn it at all | He needed more time | בפעם השנייה למד מהר יותר ושכח לאט יותר, וכל חזרה חיזקה את הזיכרון.
+#שאלה What can we understand from the last two sentences? | The research had limits, but its main ideas are reliable | The research is not reliable | The researcher was wrong | Applications do not use his ideas | למרות שהמחקר נעשה על אדם אחד בלבד, המסקנות העיקריות אושרו פעמים רבות.
+
+#סיפור Special Ability or Practice? | קשה
+When we see a person who is very good at something, we often assume that he had a special ability from the first day of his life. Some researchers, however, have argued that practice matters much more than we think. According to a popular theory, almost anyone can become an expert after about 10,000 hours of practice.
+
+This theory became very popular, especially in books for a wide public. It sent an encouraging message: success does not depend on special ability, but on effort. Many mothers, fathers and teachers used it to encourage children to practice more.
+
+However, more recent research suggests that the picture is more complex. When researchers examined many studies together, they found that practice was important, but it explained only a part of the difference between people. In some cases, other factors, such as how old a person was when he started, the quality of the teacher and the person's special ability, also played a significant role. In addition, the number 10,000 was never a real rule; it was an estimate.
+
+Does this mean that practice is not important? Not at all. Practice still explains a large part of success, and nobody becomes an expert without it. But it may be more fair to say that practice is essential, although it does not guarantee that every person will reach the same result. The most useful kind of practice also has specific goals, clear feedback and a focus on the parts that are still difficult.
+#שאלה What does the popular theory say? | Almost anyone can become an expert after enough practice | Only people with special ability can become experts | Practice is not important | Experts never practice | לפי התיאוריה, כמעט כל אחד יכול להפוך למומחה אחרי כעשרת אלפים שעות תרגול.
+#שאלה Why did the theory become so popular? | It sent an encouraging message about effort | It was about one expert | It was easy to prove | It was written by a teacher | המסר היה מעודד: הצלחה תלויה במאמץ ולא במתנה מיוחדת.
+#שאלה What did the more recent research find? | Practice explained only a part of the difference between people | Practice explained every difference | Special ability does not exist | The number 10,000 was correct for everyone | כשבחנו מחקרים רבים יחד, התרגול הסביר רק חלק מההבדל בין אנשים.
+#שאלה Which sentence describes the writer's conclusion? | Practice is essential but does not guarantee the same result for everyone | Practice is useless | Only special ability matters | Everyone can become an expert in 10,000 hours | הכותב אומר שתרגול הכרחי, אבל אינו מבטיח שכל אדם יגיע לאותה תוצאה.
+
+#סיפור Learning From Failure | בינוני
+Noam failed his first big exam of the year. He had studied for many hours, so the result was a surprise. At first, he blamed the teacher and the questions. Then he decided to examine his own approach.
+
+He made a list of the things he did before the exam. He read his notes again and again, but he never checked whether he could answer questions without them. He also studied alone, late at night, when he was tired. Reading the notes made the information feel familiar, so he assumed that he knew it.
+
+Noam asked a teacher for advice. She suggested a different approach. Instead of reading the same notes, he should practice with old exams and explain each topic to another person. "When you explain," she said, "you quickly discover what you do not understand."
+
+Noam joined a study group with three other students. Every week, each student chose one topic and explained it to the others. At first it was slow and hard, but soon the group noticed real progress. Noam also changed his hours: he studied in the afternoon and slept more. In the next exam, he received a high result. But the most important outcome was not the result. He understood that effort alone is not enough, and that the approach matters as much as the time.
+#שאלה What was wrong with Noam's first approach? | He never checked if he could answer without his notes | He did not study at all | He studied with too many friends | He did not have any notes | הוא קרא שוב ושוב את הסיכומים, אבל אף פעם לא בדק אם הוא יודע לענות בלעדיהם.
+#שאלה Why did Noam assume that he knew the information? | Reading the notes made it feel familiar | The teacher told him so | The exam was easy | He had seen the exam before | קריאת הסיכומים גרמה למידע להרגיש מוכר, ולכן הוא הניח שהוא יודע אותו.
+#שאלה What did the teacher suggest? | practicing with old exams and explaining topics to others | reading the notes more often | studying only at night | studying alone | המורה הציעה לתרגל עם מבחנים ישנים ולהסביר כל נושא לאדם אחר.
+#שאלה What is the main lesson of the story? | The approach to study matters as much as the time | Effort is not important | Exams are not fair | Study groups are useless | המשפט האחרון: מאמץ לבד לא מספיק, והגישה חשובה כמו הזמן.
+
+#סיפור Working From Home | קשה
+Before 2020, few companies allowed their workers to work from home every week. When the illness began to spread across the world, many workers suddenly had to work from their kitchens and living rooms. Many managers expected the quality of work to decline. Often, the outcome was not what they expected.
+
+Several studies found that workers at home were as effective as before, and often more. They did not spend hours on the road, fewer people stopped them during their work, and they could manage their own time. Many workers also reported that they were not as worried as before, because they could spend more time with their families.
+
+However, working from home also has a price. New workers find it harder to learn from experienced workers when they do not see them every day. Ideas that once appeared in short talks near the coffee machine now appear more rarely. Some workers also feel alone, and the line between work and home becomes unclear, so they continue to work late at night.
+
+For these reasons, many companies have chosen to combine both options: two or three days in the building and the rest at home. Supporters believe that this approach keeps the main benefits of both. Others argue that it is too early to know. What is clear is that the question is no longer whether people can work from home, but how to make it fair and effective for everyone.
+#שאלה What did many managers expect when the illness began to spread? | The quality of work would decline | Workers would be happier | Workers would work longer hours | Companies would close | בפסקה הראשונה: מנהלים רבים ציפו שאיכות העבודה תרד.
+#שאלה Which reason for the success of working from home is mentioned? | Workers did not spend hours on the road | Workers had more meetings | Managers checked them every hour | Workers had better computers | העובדים לא בזבזו שעות בדרכים, הפריעו להם פחות והם ניהלו את הזמן שלהם.
+#שאלה What problem is described in the third paragraph? | New workers find it harder to learn from experienced workers | Workers at home sleep too much | Home computers are slow | Workers at home receive a lower salary | עובדים חדשים מתקשים ללמוד מעובדים מנוסים כשהם לא רואים אותם כל יום.
+#שאלה What is the main question today, according to the writer? | how to make working from home fair and effective | whether people can work from home at all | whether companies should close their buildings | how to make workers come back every day | המשפט האחרון: השאלה כבר אינה אם אפשר לעבוד מהבית, אלא איך לעשות זאת בדרך הוגנת ויעילה.
+
+#סיפור Why Experts Make Wrong Predictions | קשה
+Every year, experts make predictions about money, government and technology, and many people listen to them carefully. But how accurate are these predictions? A researcher decided to examine this question over a long period. He found many predictions made by experts and checked them years after that.
+
+The results were surprising. The experts were only a little more accurate than chance. Even more surprising, the most popular experts were often not as accurate as experts that nobody knew. The researcher suggested a reason: popular experts tend to have one big theory and to see every event through it. Such experts seem very confident, and confidence makes them popular, but it does not make them correct.
+
+The researcher found that the most accurate experts had different habits. They used several sources of information instead of one theory. They were ready to change their opinion when new evidence appeared. They also gave their predictions in numbers, such as "a 70 in 100 chance," rather than in confident words, and they checked their own record so that they could learn from failure.
+
+The lesson is useful for everyone, not only for experts. When we listen to a prediction, we should not focus on how confident the person seems. It is more useful to ask how the person reached the conclusion, whether they considered other options and whether their previous predictions were correct.
+#שאלה What did the researcher do? | He checked many predictions made by experts | He made his own predictions | He spoke with popular experts | He created a theory about money | הוא אסף תחזיות רבות של מומחים ובדק אותן שנים אחר כך.
+#שאלה What was especially surprising about popular experts? | They were often not as accurate as experts that nobody knew | They were always correct | They did not want to make predictions | They used many sources | המומחים המפורסמים היו לעיתים קרובות פחות מדויקים ממומחים לא ידועים.
+#שאלה Which habit is NOT described as a habit of the most accurate experts? | They always kept one big theory | They used several sources of information | They changed their opinion when new evidence appeared | They checked their own record | להחזיק בתיאוריה גדולה אחת זה דווקא ההרגל של המומחים המפורסמים שטעו.
+#שאלה What does the writer recommend when we listen to a prediction? | Ask how the person reached the conclusion | Trust the most confident person | Ignore all experts | Listen only to popular experts | הכותב ממליץ לשאול איך האדם הגיע למסקנה, אם שקל אפשרויות אחרות ואם צדק בעבר.
+
+#סיפור Phones in Class | קשה
+In recent years, more and more schools have decided not to allow phones in class. Supporters of this policy argue that phones take the attention of students away from the lesson. Even when a phone is quiet, a student may think about the messages that are waiting. Some studies suggest that students who leave their phones outside the room remember more of the lesson.
+
+Supporters also point to social benefits. Without phones, students talk more with each other during breaks, and there may be fewer cases of students who are hurt by messages from other students. Several schools that started this policy reported that the students in class became calmer.
+
+However, not everyone agrees. Some teachers argue that phones can be useful tools for learning: students can search for information, use dictionaries and take pictures of the notes on the wall. Others point out that school is the place where students should learn to manage their own attention. If phones are simply removed, students will face the same challenge at home without any help.
+
+The evidence so far is limited. Many of the studies are small, and schools that choose the policy may be different from other schools in various aspects. A reasonable approach may be to combine both ideas: phones are not allowed during most lessons, but teachers can choose to use them for specific goals, and students learn how to manage them carefully.
+#שאלה Why do supporters of the policy want to remove phones? | Phones take the attention of students away from the lesson | Phones are too expensive | Students lose their phones | Teachers do not know how to use phones | התומכים טוענים שהטלפונים מסיטים את הקשב של התלמידים מהשיעור.
+#שאלה Which social benefit is mentioned in the second paragraph? | Students talk more with each other during breaks | Students study more at home | Teachers receive a higher salary | Students sleep more | בלי טלפונים התלמידים מדברים יותר זה עם זה בהפסקות.
+#שאלה What do some teachers argue in the third paragraph? | Students should learn at school to manage their own attention | Phones should be allowed all the time | Students should not use dictionaries | Phones make students calmer | הם טוענים שבית הספר הוא המקום ללמוד לנהל קשב, ואם רק מוציאים את הטלפונים התלמידים יתמודדו עם האתגר בבית בלי עזרה.
+#שאלה What approach does the writer suggest? | combining both ideas, with limits and specific uses | removing all phones from every school | allowing phones in every lesson | asking students to decide alone | הכותב מציע לשלב: לא בכל השיעורים, אבל אפשר לשימושים מסוימים, והתלמידים לומדים לנהל אותם.

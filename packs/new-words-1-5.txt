@@ -1,0 +1,73 @@
+// English Master · מילים חדשות לשלב א׳ וחצי, עם שני משפטי דוגמה לכל מילה
+// לייבא ראשון: הגדרות ← ניהול תוכן ← בחר קובץ ← בדוק ← ייבא
+#חבילה מילים חדשות · א׳ וחצי
+#מזהה new-words-1-5
+#שלב 1.5
+
+#נושא פעלים
+#מילים
+suspect | לחשוד
+recover | להתאושש
+guarantee | להבטיח
+confirm | לאשר
+
+#נושא תארים ותארי פועל
+#מילים
+past | שעבר / קודם / על פני
+directly | ישירות
+smart | חכם
+internal | פנימי
+external | חיצוני
+across | לרוחב / מעבר ל־ / בכל
+too | מדי / גם
+achievable | בר השגה / אפשרי להשיג
+
+#נושא א׳ וחצי · מילים חדשות
+#מילים
+rider | רוכב
+earlier version | גרסה קודמת
+spread | התפשטות / להתפשט / להפיץ
+generation | דור / ייצור
+growth | צמיחה / גידול
+confusion | בלבול
+matter | עניין / להיות חשוב
+
+#משפטים
+The investigators suspect that the man stole the bag.|החוקרים חושדים שהאיש גנב את התיק.
+I suspected that the message was a trap, so I did not open it.|חשדתי שההודעה היא מלכודת, אז לא פתחתי אותה.
+It took her a month to recover after the accident.|לקח לה חודש להתאושש אחרי התאונה.
+The team recovered quickly and won the next week.|הקבוצה התאוששה מהר וניצחה בשבוע הבא.
+Nobody can guarantee that the strategy will work.|אף אחד לא יכול להבטיח שהאסטרטגיה תעבוד.
+The store guarantees a low price or your money back.|החנות מבטיחה מחיר נמוך או החזר כספי.
+Please confirm your name and your location.|בבקשה אשר את השם ואת המיקום שלך.
+The technician confirmed that the computer was faulty.|הטכנאי אישר שהמחשב היה תקול.
+In the past, people used paper instead of computers.|בעבר אנשים השתמשו בנייר במקום במחשבים.
+The bus went past the school without stopping.|האוטובוס עבר על פני בית הספר בלי לעצור.
+You can send the file directly to the teacher.|אתה יכול לשלוח את הקובץ ישירות למורה.
+She looked directly at the screen and smiled.|היא הסתכלה ישירות על המסך וחייכה.
+My sister is very smart; she solved the problem in a minute.|אחותי חכמה מאוד; היא פתרה את הבעיה בתוך דקה.
+A smart phone can do almost any job that a computer can do.|טלפון חכם יכול לעשות כמעט כל עבודה שמחשב יכול לעשות.
+The developer found an internal error in the system.|המפתח מצא שגיאה פנימית במערכת.
+Only the team can see the internal messages.|רק הצוות יכול לראות את ההודעות הפנימיות.
+The problem came from an external device, not from the computer.|הבעיה הגיעה ממכשיר חיצוני, לא מהמחשב.
+The external screen is bigger than the computer screen.|המסך החיצוני גדול יותר ממסך המחשב.
+We walked across the street to the store.|הלכנו לרוחב הרחוב, אל החנות.
+The news spread across the whole city in one hour.|החדשות התפשטו בכל העיר בתוך שעה.
+The coffee is too hot to drink right now.|הקפה חם מדי לשתייה ממש עכשיו.
+I want to come too.|גם אני רוצה לבוא.
+The challenge is hard, but it is achievable.|האתגר קשה, אבל הוא בר השגה.
+Choose a strategy with small, achievable steps.|בחר אסטרטגיה עם צעדים קטנים שאפשר להשיג.
+The rider stopped his bike near the entrance.|הרוכב עצר את האופניים שלו ליד הכניסה.
+Every rider must be careful on the road at night.|כל רוכב חייב להיזהר בכביש בלילה.
+The earlier version of the program was faster.|הגרסה הקודמת של התוכנה הייתה מהירה יותר.
+If the update has a problem, go back to the earlier version.|אם בעדכון יש בעיה, חזור לגרסה הקודמת.
+The illness spread quickly through the school.|המחלה התפשטה מהר בבית הספר.
+The spread of false information is a serious problem.|ההפצה של מידע שקרי היא בעיה רצינית.
+My father's generation did not have phones at school.|לדור של אבא שלי לא היו טלפונים בבית הספר.
+The new generation of computers is faster and cheaper.|הדור החדש של המחשבים מהיר וזול יותר.
+The growth of the city brought new jobs.|הצמיחה של העיר הביאה עבודות חדשות.
+The store had a year of fast growth.|לחנות הייתה שנה של צמיחה מהירה.
+There was a lot of confusion after the message.|היה הרבה בלבול אחרי ההודעה.
+The unclear instructions caused confusion in the class.|ההוראות הלא ברורות גרמו לבלבול בכיתה.
+It doesn't matter if you are late; just come.|זה לא משנה אם אתה מאחר; פשוט תבוא.
+This is a serious matter, so we must discuss it today.|זה עניין רציני, אז אנחנו חייבים לדון בו היום.

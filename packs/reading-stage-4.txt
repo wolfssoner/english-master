@@ -1,0 +1,134 @@
+// English Master · 10 קטעי קריאה ארוכים לשלב ד׳ (מילים של כל השלבים)
+#חבילה קטעי קריאה · שלב ד׳
+#מזהה reading-stage-4
+#שלב 4
+
+#סיפור When Studies Fail to Repeat | קשה
+In 2015, a large group of researchers published the results of an unusual project. Instead of conducting new experiments, they tried to repeat 100 studies that had already appeared in respected journals. The outcome was a surprise: only approximately 40 of the 100 repeated experiments produced results similar to the first studies. This finding started a long period of critique that became known as a crisis in research.
+
+Why would so many published results fail? Researchers identified several factors. Many of the first studies used a small number of participants, and with a small group, a random difference can look significant. In addition, researchers often obtained many kinds of data and subsequently reported only the results that looked surprising. Journals, for their part, preferred positive results, so studies that found nothing were rarely published.
+
+It is important to note that the crisis did not primarily involve fraud. Most researchers had followed the usual methodology of their time; the methodology was the problem. In addition, the problem was not limited to one kind of research. Similar projects in other kinds of research produced similar results.
+
+The crisis has nevertheless led to real changes. Many journals now ask researchers to publish their hypothesis before they obtain data, so that they cannot change it after they see the results. Larger groups of participants have become more common. Supporters argue that the crisis illustrates the greatest advantage of research: its ability to identify and correct its own mistakes.
+#שאלה What was unusual about the project published in 2015? | It tried to repeat studies that had already been published | It conducted 100 new experiments | It proved that most studies were correct | It was conducted by one researcher | הפרויקט ניסה לחזור על מאה מחקרים שכבר פורסמו, במקום לערוך ניסויים חדשים.
+#שאלה Which factor is NOT given in the second paragraph? | Researchers created false data | Studies used a small number of participants | Researchers reported only surprising results | Journals preferred positive results | הפסקה מזכירה מדגמים קטנים, דיווח סלקטיבי והעדפת תוצאות חיוביות. זיוף נתונים נשלל במפורש בפסקה 3.
+#שאלה What can be inferred from the third paragraph? | The usual methodology had serious problems | Most researchers were involved in fraud | Only one kind of research had this problem | Journals published no studies | הבעיה הייתה בשיטה המקובלת עצמה, ולא בהונאה של החוקרים, והיא לא מוגבלת לתחום אחד.
+#שאלה Why do journals ask researchers to publish their hypothesis first? | so that they cannot change it after they see the results | to make studies cheaper | to choose which researchers can publish | to keep the results secret | כדי שלא יוכלו לשנות את ההשערה אחרי שראו את התוצאות.
+
+#סיפור When Correlation Misleads | קשה
+A report once claimed that students who have more books at home receive higher results at school. The report suggested a simple solution: buy more books, and children will achieve more. The data were accurate, but the conclusion was not. The report did not distinguish between correlation and cause.
+
+A correlation means that two variables tend to change together. A cause means that one variable actually produces a change in the other. People often think that the two are the same, because a cause always creates a correlation. However, a correlation does not always mean a cause. Two variables may be linked because a third factor affects both of them. In the case of the books, families with more money tend to buy more books and also tend to support their children's learning in many other aspects. The books may be merely a clue to these other factors.
+
+How can researchers distinguish between correlation and cause? The most robust method is an experiment in which participants are placed in groups at random. If one random group receives books and the other does not, any difference in the results can be explained by the books, because the groups are otherwise similar. When such experiments are not feasible, researchers have other methods, but these methods are inherently not as certain.
+
+Ultimately, the lesson is relevant for everyone. When we read that one thing is linked to another, we should ask a critical question: is there a third factor that could explain both?
+#שאלה What mistake did the report make? | It did not distinguish between correlation and cause | It reported data that were not accurate | It claimed that books are useless | It ignored the results of the students | הנתונים היו מדויקים, אבל הדוח לא הבחין בין מתאם לסיבה.
+#שאלה According to the second paragraph, why might two variables be linked without a cause? | A third factor may affect both of them | They are always measured together | One of them is not accurate | They change at random | שני משתנים יכולים להיות מתואמים כי גורם שלישי משפיע על שניהם.
+#שאלה Why are random groups useful in an experiment? | The groups are otherwise similar, so a difference can be explained by the books | Random groups are cheaper | Random groups are larger | Random groups always have more books | כשהקבוצות נבחרות באקראי הן דומות בכל השאר, ולכן אפשר לייחס הבדל לגורם שנבדק.
+#שאלה What critical question does the writer recommend? | Is there a third factor that could explain both? | Who published the data? | How many books do I have? | Is the report long enough? | השאלה הביקורתית: האם יש גורם שלישי שיכול להסביר את שניהם.
+
+#סיפור The Ethics of Autonomous Vehicles | קשה
+Autonomous vehicles promise to make roads safe. Supporters point out that the majority of road accidents are caused by people who are tired, reckless or busy with their phones. A computer does not get tired and does not check its phone. If autonomous vehicles become common, the number of accidents could decline significantly.
+
+Nevertheless, these vehicles raise difficult questions of ethics. Think of a situation in which an accident cannot be avoided. The vehicle can continue and hurt several people on the road, or turn and hurt the person inside it. A person who drives a car must respond in one second. An autonomous vehicle, by contrast, must follow rules that engineers wrote before. Who should decide what those rules are, and on what principles?
+
+Researchers who surveyed many people across the world found that most participants preferred a vehicle that would protect the larger number of people. However, the same participants said that they would not buy such a vehicle for their own family. This conflict illustrates the problem: a rule that seems fair in theory may not seem fair when our own family is involved.
+
+Some experts argue that the focus on such rare cases is misleading. They say that the crucial question of ethics is not how a vehicle should act in a rare situation, but whether it is safe enough to release at all, and who is accountable when it fails. Clear regulation and transparent testing may ultimately matter more than any rule.
+#שאלה According to the first paragraph, why could autonomous vehicles make roads safe? | Most accidents are caused by people who are tired, reckless or busy | Roads will become larger | Vehicles will be cheaper | People will drive more carefully | רוב התאונות נגרמות מאנשים עייפים, פזיזים או עסוקים בטלפון, ומחשב לא מתעייף.
+#שאלה What is different about an autonomous vehicle in an accident that cannot be avoided? | It must follow rules that were written before | It responds in one second | It always protects the person inside it | It cannot make any decision | אדם שנוהג מגיב בשנייה, ואילו רכב אוטונומי פועל לפי כללים שנכתבו מראש.
+#שאלה What conflict did the researchers find? | People preferred a vehicle that protects more people but would not buy it | People wanted vehicles but did not use roads | People trusted engineers but not computers | People preferred to drive but bought autonomous vehicles | המשתתפים העדיפו רכב שמגן על יותר אנשים, אבל אמרו שלא יקנו רכב כזה למשפחה שלהם.
+#שאלה What do some experts consider the crucial question of ethics? | whether the vehicle is safe enough and who is accountable when it fails | how to choose between two groups of people | how fast the vehicle should move | whether people should pay more | לדעתם השאלה המכרעת היא אם הרכב בטוח מספיק לשחרור ומי אחראי כשהוא נכשל.
+
+#סיפור Learning Without Blame | קשה
+When a serious incident occurs in a company, the usual response is to find the person who made the mistake. Many organizations, however, have learned that this approach does not work. If people expect to receive the blame, they keep errors secret, and the organization loses the information it needs to prevent the next incident.
+
+For this reason, many engineering teams now use a postmortem without blame. After an incident, the team writes a detailed document that describes what happened, why it happened and what will change. The document focuses on systems and procedures rather than on the person who made the mistake. Instead of asking "Who deployed the faulty code?", the team asks "Why did our procedure allow faulty code to reach the users?"
+
+This approach is based on a simple premise: in a complex system, serious failures rarely have a single cause. Usually several small problems combine, and a person's mistake is merely the last step. If the organization removes the person but keeps the problems, the incident will presumably occur again with another worker.
+
+This approach does not mean that there is no accountability. People are still expected to act with integrity and to follow procedures. Accountability is understood as the responsibility to explain what happened and to help improve the system. Organizations that use this approach report that people discuss problems earlier, so the team can identify the root cause before a small issue becomes a crisis.
+#שאלה Why does blaming one person not work, according to the first paragraph? | People keep errors secret, so the organization loses information | It makes managers angry | It is too expensive | It takes too much time | אם אנשים מצפים להאשמה, הם מסתירים טעויות, והארגון מאבד את המידע שדרוש כדי למנוע את האירוע הבא.
+#שאלה What question does a postmortem without blame ask? | Why did our procedure allow faulty code to reach the users? | Who deployed the faulty code? | How much money did the incident lose? | Which worker should leave the team? | התחקיר מתמקד בנהלים: למה הנוהל שלנו אפשר לקוד תקול להגיע למשתמשים.
+#שאלה What is the premise of this approach? | Serious failures rarely have a single cause | Every failure is caused by one person | Complex systems never fail | Engineers do not make mistakes | הנחת היסוד: בכשלים רציניים בדרך כלל כמה בעיות קטנות משתלבות, ולא סיבה אחת.
+#שאלה How is accountability understood in this approach? | as the responsibility to explain what happened and help improve the system | as a reason to remove workers | as something that is not necessary | as the job of the manager only | אחריות פירושה להסביר מה קרה ולעזור לשפר את המערכת.
+
+#סיפור Can We Trust What a Chatbot Writes? | קשה
+Current chatbots can summarize articles and answer questions in clear and confident language. Yet they have a well-known problem: they often produce answers that seem correct but are false. Engineers call this a hallucination. A chatbot may create a citation to a journal article that does not exist, or describe an event that never occurred.
+
+The reason is connected to how these models work. A chatbot does not retrieve information from a database. Instead, it produces text by predicting which words are likely to come next, based on patterns in the enormous amount of text it was trained on. Usually, these patterns produce accurate information. However, when the model does not have sufficient information on a topic, it may still produce an answer, because producing likely text is precisely what it was designed to do.
+
+Researchers are trying several approaches to reduce hallucinations. One is to connect the model to reliable sources, so that it can cite the source of each claim. Another is to train models to say explicitly when they do not know. A third is to evaluate models with difficult benchmarks that measure their accuracy.
+
+No approach is perfect, and experts agree that users must remain critical. Some governments now require companies to be transparent about how their models are trained and tested. Ultimately, the most effective strategy may be a simple habit: when an answer matters, verify it with an independent source.
+#שאלה What is a hallucination, according to the first paragraph? | an answer that seems correct but is false | a slow answer | a question the model cannot read | a very long answer | הזיה היא תשובה שנראית נכונה אבל שקרית.
+#שאלה Why do chatbots produce hallucinations? | They produce likely text even when they do not have sufficient information | They retrieve information from a broken database | Engineers write false information | Users ask too many questions | המודל מייצר טקסט סביר לפי דפוסים, ולכן גם כשחסר לו מידע הוא עדיין מייצר תשובה.
+#שאלה Which approach is NOT mentioned in the third paragraph? | making models write shorter answers | connecting models to reliable sources | training models to say when they do not know | evaluating models with difficult benchmarks | הפסקה מזכירה חיבור למקורות, אמירה מפורשת שלא יודעים ובדיקה במדדים קשים. תשובות קצרות לא מוזכרות.
+#שאלה What does the writer consider the most effective strategy? | verifying important answers with an independent source | trusting the most confident chatbot | never using chatbots | asking the same question again | המשפט האחרון: כשהתשובה חשובה, לאמת אותה במקור עצמאי.
+
+#סיפור Leadership in a Crisis | בינוני
+When a serious crisis occurs, people look to their leaders for guidance. Research on leadership in a crisis suggests that the most effective leaders share several qualities. Surprisingly, confidence is not the most important one. More important are honesty, clear instructions and the ability to make decisions with incomplete information.
+
+Consider the case of a rescue team that must respond after a severe accident. The leader of the team rarely knows every detail: the weather may change, roads may be closed, and reports may be inaccurate. A leader who waits for complete information will act too late. Effective leaders therefore make a decision based on the available evidence, explain it clearly to the team, and remain willing to revise it when new information appears.
+
+Honesty is equally crucial. In a crisis, people quickly lose trust in leaders who keep bad news secret or exaggerate progress. Leaders who explain what they know, what they do not know and what they are doing to find out tend to maintain the trust of their teams, even when the situation is difficult.
+
+Finally, effective leaders delegate. A single person cannot handle every problem. Leaders who give clear responsibility to others, and trust them to act, allow the organization to respond to many problems at the same time. In contrast, leaders who try to decide every detail alone often become a bottleneck that slows down the entire response.
+#שאלה Which quality is NOT described as the most important in a crisis? | confidence | honesty | clear instructions | making decisions with incomplete information | כתוב שבאופן מפתיע ביטחון אינו הכי חשוב; חשובים יותר יושר, הוראות ברורות וקבלת החלטות עם מידע חלקי.
+#שאלה Why must the leader of a rescue team decide without complete information? | A leader who waits for complete information will act too late | The team never needs information | The weather is always clear | Reports are always accurate | מנהיג שמחכה למידע מלא יפעל מאוחר מדי.
+#שאלה What happens to leaders who keep bad news secret? | People quickly lose trust in them | They maintain the trust of the team | They make better decisions | They become more popular | אנשים מאבדים מהר אמון במנהיגים שמסתירים חדשות רעות או מגזימים בהתקדמות.
+#שאלה Why can leaders who decide every detail alone be a problem? | They become a bottleneck that slows the response | They give too much responsibility to others | They trust the team too much | They make decisions too quickly | מנהיג שמחליט על כל פרט לבד הופך לצוואר בקבוק שמאט את התגובה כולה.
+
+#סיפור Who Answers a Survey? | קשה
+Surveys are some of the most popular tools in research. A company may survey its users, a school its students and a government its public. The validity of a survey, however, depends not so much on the number of people who answer as on who those people are.
+
+Consider an online survey about the quality of a public service. If the survey appears only on the website of the service, the participants will mainly be people who already use the service, and presumably people with strong opinions. Those who rarely use the service, or who stopped using it, will probably not participate. The results may therefore be misleading, regardless of how many people answer.
+
+This problem is a kind of bias. In a well-known case from the past, a popular journal surveyed an enormous number of people and made a prediction that was completely wrong. The journal had chosen its participants from lists of people who had cars and phones, and at that time these people had much more money than the average person. A much smaller survey, with participants who were similar to the entire public, made the correct prediction.
+
+Researchers use several strategies to reduce this kind of bias. They select participants at random, they compare the participants with known data about the public, and they adjust the results when certain groups are missing. No method is perfect, but the principle is clear: a small group that is similar to the public is more useful than a large group that is not.
+#שאלה According to the first paragraph, what does the validity of a survey primarily depend on? | who the participants are | how many people answer | how long the survey is | what the price of the survey is | התוקף תלוי פחות במספר העונים ויותר בשאלה מי הם.
+#שאלה Why might a survey on the website of a service be misleading? | Mainly people who already use the service would answer | Nobody would answer it | It would be too short | It would be too expensive | המשתתפים יהיו בעיקר מי שכבר משתמשים בשירות, ולא מי שהפסיק להשתמש בו.
+#שאלה Why was the prediction of the journal wrong? | Its participants had much more money than the average person | It surveyed too few people | It asked the wrong questions | Its participants did not answer | המגזין בחר משתתפים מרשימות של בעלי מכוניות וטלפונים, שהיו אז עשירים בהרבה מהאדם הממוצע.
+#שאלה What principle is given in the last paragraph? | A small group similar to the public is more useful than a large group that is not | Larger surveys are always better | Surveys are useless | Researchers should never adjust results | המשפט האחרון: קבוצה קטנה שדומה לציבור שימושית יותר מקבוצה גדולה שאינה דומה לו.
+
+#סיפור How Research Checks Its Own Work | בינוני
+Before an article is published in a respected journal, it usually goes through a process of review. The journal sends the article to several independent experts. These experts evaluate the methodology, check whether the conclusions follow from the data and suggest changes. Only if the experts approve does the journal publish the article.
+
+This review has clear benefits. It identifies errors, requires clarification of vague claims and prevents many weak studies from appearing in journals. For the public, it is a signal that the work has been examined by experts.
+
+However, the process has well-known limits. The experts usually work as volunteers with limited time, so they rarely repeat the analysis or examine all the data. They may also be subjective: an expert who supports another theory may critique an article too strongly. Furthermore, the review is not designed to detect fraud, and some studies that contained fraud were published in highly respected journals.
+
+For these reasons, many researchers emphasize that the review is a beginning rather than an end. After an article is published, other researchers try to repeat the results, critique the methods and synthesize the findings with other studies. A single published article should therefore be interpreted carefully. Trust in a conclusion increases gradually, as independent studies, conducted with different methods, reach a consistent result.
+#שאלה What happens during the review? | Independent experts evaluate an article before it is published | The journal writes the article | The public chooses the most popular article | The researcher repeats the experiment | כתב העת שולח את המאמר למומחים עצמאיים שבוחנים אותו לפני הפרסום.
+#שאלה Which limit of the review is mentioned? | The experts rarely repeat the analysis or examine all the data | The experts receive too much money | The experts always reject new theories | The experts publish the articles | המומחים מתנדבים עם זמן מוגבל, ולכן לעיתים רחוקות חוזרים על הניתוח או בודקים את כל הנתונים.
+#שאלה What is the review NOT designed to do, according to the third paragraph? | detect fraud | identify errors | require clarification | evaluate the methodology | כתוב במפורש שהביקורת לא נועדה לגלות הונאה.
+#שאלה How does trust in a conclusion increase? | gradually, as independent studies reach a consistent result | immediately, after one article is published | only when a respected journal publishes it | when the experts agree with each other | האמון במסקנה גדל בהדרגה, כשמחקרים עצמאיים בשיטות שונות מגיעים לתוצאה עקבית.
+
+#סיפור Finding the Bottleneck | בינוני
+A software company noticed that its main application had become slow. Users said that pages needed several seconds to load, and the number of users began to decline. The first response of the team was to buy more servers. The servers were expensive, and to everyone's surprise, the application remained almost as slow as before.
+
+An experienced engineer suggested a different approach: before you change the system, measure. The team added metrics to every component of the system and ran a benchmark that simulated a typical day of traffic. Within an hour, the data revealed the bottleneck. The servers were not busy at all; the problem was a single database query that ran every time a page was loaded. As the number of users increased, this query became slower and slower.
+
+The solution was relatively simple. The team added an index to the database and kept the result of the query in a cache for a few minutes. After the change, the average time to load a page dropped from four seconds to 0.4 seconds. The additional servers were no longer necessary.
+
+In the postmortem, the team summarized the lesson in one sentence: optimize only what you have measured. An idea about where a system is slow is often wrong, and an expensive solution for the wrong component does not solve the problem. The team also set a threshold: if a page needs more than one second to load, an alert is sent automatically, so that the next bottleneck can be identified early.
+#שאלה What was the first response of the team to the slow application? | buying more servers | measuring every component | deleting the database | asking users to wait | התגובה הראשונה הייתה לקנות עוד שרתים, וזה כמעט לא עזר.
+#שאלה What did the data reveal? | A single database query caused the problem | The servers were too slow | Users had old computers | The network was down | השרתים כמעט לא היו עסוקים; הבעיה נבעה משאילתה אחת למסד הנתונים.
+#שאלה What was the result of the solution? | The average time to load a page dropped to 0.4 seconds | The application stopped working | The team needed more servers | Users stopped using the application | אחרי הוספת אינדקס ומטמון, זמן הטעינה הממוצע ירד מארבע שניות ל־0.4 שנייה.
+#שאלה What does "optimize only what you have measured" mean? | Improve a system only after the data shows where the problem is | Never measure a system | Always buy more servers first | Trust your first idea about the problem | הכוונה: לשפר רק אחרי שהנתונים הראו איפה הבעיה, כי הרעיון הראשון לעיתים קרובות שגוי.
+
+#סיפור Leaving a Legacy System | קשה
+Many large organizations still depend on legacy systems: software that was written many years before and still runs critical jobs. Airports and government services often run programs that few of their current engineers understand. These systems are usually robust, but they are expensive to maintain, hard to integrate with new tools and vulnerable when the last experts leave.
+
+To replace a legacy system seems like an obvious solution, yet experience shows that such migrations often fail. The most common mistake is to try to replace the entire system at once. The new system is developed for years, while the old one continues to change. When the day arrives to move to the new system, it does not have features that users depend on, and the organization must do a rollback to the old system at an enormous price.
+
+Experienced engineers therefore recommend another approach. Instead of replacing the entire system, the team moves one component at a time to the new system, while both systems continue to work. Each step is small enough to test carefully and to cancel if something fails. Over time, the old system becomes smaller and smaller until it can finally be turned off.
+
+This approach is slower, and it requires patience from managers who want quick results. However, it significantly reduces risk. Each step that works builds confidence, and failures remain small. As one engineer said, the safe route is not one big jump, but one small step at a time.
+#שאלה Why are legacy systems a problem, according to the first paragraph? | They are expensive to maintain and few engineers understand them | They are never robust | They are too new | They are used only by small companies | הן יקרות לתחזוקה, קשה לשלב אותן עם כלים חדשים ומעט מהנדסים מבינים אותן.
+#שאלה What is the most common mistake in migrations? | trying to replace the entire system at once | moving one component at a time | keeping both systems working | testing every step | הטעות הנפוצה ביותר היא ניסיון להחליף את כל המערכת בבת אחת.
+#שאלה How does the recommended approach reduce risk? | Each step is small enough to test and cancel | It is faster than replacing the entire system | It does not require testing | It removes the old system immediately | כל צעד קטן מספיק כדי לבדוק אותו היטב ולבטל אותו אם משהו נכשל.
+#שאלה What does the sentence of the engineer illustrate? | Small steps reduce risk compared with one big jump | Engineers should never take any risk | Old systems should be destroyed | Managers prefer quick results | המשפט מראה שהדרך הבטוחה היא לעבור צעד אחר צעד, ולא בקפיצה אחת גדולה.

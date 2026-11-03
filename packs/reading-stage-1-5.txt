@@ -1,0 +1,135 @@
+// English Master · 10 קטעי קריאה ארוכים לשלב א׳ וחצי (מילים של שלב א׳ ו־א׳ וחצי, כולל המילים החדשות)
+// לייבא אחרי הקובץ 01 של המילים החדשות
+#חבילה קטעי קריאה · שלב א׳ וחצי
+#מזהה reading-stage-1-5
+#שלב 1.5
+
+#סיפור The Faulty Computer at the Airport | בינוני
+On a busy Friday morning, the computer system at a small airport became unavailable. Travelers could not check in, and a big crowd waited near the entrance. Some people were angry, and others were exhausted after a long night. Nobody knew how long the trouble would continue.
+
+The airport called a technician named Lior. He did not try to fix every part of the system at once. Instead, he began troubleshooting step by step. First, he checked if the problem was internal or external. The internal computers worked well, so he looked at the external devices. He soon discovered a faulty device that worked together with the main system. Because of this one device, the entire system could not retrieve the information of the travelers.
+
+Lior took away the device, and gradually the system began to recover. After two hours, the airport was working again. After that, an official asked him how he found the problem so quickly. Lior answered that the most important thing is not to make a quick decision. "When you are nervous," he said, "you want to fix all the parts at once. But a good technician checks one thing at a time and confirms each step."
+
+The airport decided to keep an earlier version of the system ready, so that in the future they could go back to it in a few minutes.
+#שאלה What was the result of the problem at the airport? | Travelers could not check in | The airport was closed for a week | The technician lost his job | The crowd left the airport | בפסקה הראשונה: הנוסעים לא יכלו לעשות צ׳ק־אין, והתאסף המון ליד הכניסה.
+#שאלה How did Lior begin his work? | He checked if the problem was internal or external | He fixed every part at once | He called an official | He asked the travelers | הוא התחיל באיתור תקלות צעד אחר צעד, ובדק קודם אם הבעיה פנימית או חיצונית.
+#שאלה Why could the system not retrieve the information? | One faulty device worked together with it | The internal computers were broken | The travelers used false names | The crowd was too big | מכשיר תקול אחד שעבד יחד עם המערכת גרם לכך שכל המערכת לא הצליחה לשלוף מידע.
+#שאלה What did the airport decide to do in the future? | keep an earlier version of the system ready | buy a new airport | stop using computers | send the travelers home | הם החליטו להחזיק גרסה קודמת מוכנה, כדי לחזור אליה תוך כמה דקות.
+
+#סיפור How False Stories Spread | קשה
+In the past, a strange story began to spread across a small city. According to the story, the water in one part of the city was not safe to drink. There was no evidence, but in one day many people shared it. Stores had no more water to offer, and many families were anxious and nervous.
+
+The government confirmed that the water was safe, but the confusion continued for a week. Why do false stories spread so quickly? Scientists who study this question describe three reasons. First, a story that causes fear produces strong feelings, and people share what they feel strongly about. Second, people often believe a story when they see it many times, although it comes from a place that is not reliable. Third, to check a story takes time, while to share it takes one click.
+
+A new generation of programs may help. Some websites now show a short warning when a story seems false, and they show where the information came from. However, the scientists say that the most important change must come from the users. Before we share a story, we should ask simple questions: Who created it? Is there evidence? Does it seem too surprising to be real?
+
+Over time, small habits like these can reduce the spread of false information. They do not guarantee that we will never make a mistake, but they make us much harder to trick.
+#שאלה What was the result after the story about the water began to spread? | Stores had no more water | The government closed the city | Scientists drank the water | Nobody believed it | בפסקה הראשונה: לחנויות לא נשארו מים, ומשפחות רבות נלחצו.
+#שאלה According to the scientists, why do people share stories that cause fear? | The stories produce strong feelings | The stories are always real | The stories are short | The government asks them to | הסיבה הראשונה: סיפור שמעורר פחד יוצר רגשות חזקים, ואנשים משתפים את מה שהם מרגישים לגביו חזק.
+#שאלה Which reason is NOT given in the text? | False stories are usually long | People believe a story when they see it many times | To check a story takes time | Strong feelings make people share | הטקסט לא אומר שסיפורים שקריים ארוכים. שלוש האחרות מופיעות בפסקה השנייה.
+#שאלה What is the main idea of the last two paragraphs? | Simple habits can reduce the spread of false stories | New programs will solve the problem alone | The government must check every story | Nobody can stop false stories | הכותב אומר שהשינוי החשוב חייב לבוא מהמשתמשים, והרגלים קטנים מצמצמים את ההתפשטות.
+
+#סיפור The Rider and the Smart Phone | בינוני
+Every day, Yoni works as a rider. He takes meals from kitchens in the city and brings them to people's homes. He cannot do his job without a smart phone. The phone shows him the route, tells him where each person lives and confirms every trip he finishes.
+
+Last winter, Yoni had a frustrating evening. It was cold, there was a lot of rain, and his phone stopped working in a busy part of the city. The screen was dark, and he could not see the route or the information about the people. He had three meals in his bag, and he did not know where to go.
+
+At first, Yoni felt embarrassed and nervous. Then he remembered something from the past. When he was a child, his father showed him how to recall routes by looking at the streets, not at a screen. Yoni stopped and tried to remember the names of the streets from the morning. Slowly, he found the first home, then the second and the third.
+
+The next day, Yoni bought an external device that gives power to his phone. But he also decided to keep a simple habit: before every trip, he looks at the route for one minute and tries to remember it. "A phone is a great device," he says, "but my brain is my second phone."
+#שאלה Why is the phone important for Yoni? | It shows him the route and the information about the people | He uses it to call his father | It helps him cook | It keeps the food warm | בפסקה הראשונה: הטלפון מראה לו את המסלול ואיפה כל אדם גר, ומאשר כל נסיעה.
+#שאלה What was the problem on that evening? | His phone stopped working | His bike was stolen | The kitchens were closed | He forgot the meals | הטלפון שלו הפסיק לעבוד באמצע העיר.
+#שאלה How did Yoni find the homes? | He tried to recall the names of the streets | He called the kitchen | He asked a friend for a phone | He waited for the rain to stop | הוא נזכר במה שאבא שלו הראה לו וניסה לזכור את שמות הרחובות.
+#שאלה What is the main idea of the last paragraph? | A phone is useful, but it is smart to use your brain too | Riders should not use phones | External devices are not necessary | Yoni lost his job | יוני קנה מכשיר חיצוני לטלפון, אבל גם אימץ הרגל לזכור את המסלול בעצמו.
+
+#סיפור A Strange Result in the Lab | בינוני
+Not every important idea starts with a strategy. Often, it starts with an accident. A scientist named Noam worked in a lab with metal. One evening, he left some small parts of metal in a container and went home. The next morning, he noticed something strange: one part looked new, while the others were damaged and dark.
+
+Another scientist might ignore such a detail and continue his work. But Noam was excited by the strange result. He tried to recall each step that he took the day before. He discovered that he had produced the metal in one part of the lab with a different process. This small change protected the metal from damage.
+
+He repeated the process many times to confirm his idea. Each time, the result was the same. Over time, his work led to a new metal that water does not damage. Today it is used in kitchens and in many other places.
+
+The lesson of the story is not that we should wait for an accident. The accident helped Noam, but he was also ready. He noticed the detail, he asked why it took place, and he did the hard work that was necessary to prove it. An accident can help, but only a person who is prepared will notice it.
+#שאלה What did Noam notice in the morning? | One part of metal looked new while the others were damaged | All the parts were missing | The container was broken | His computer stopped working | חתיכה אחת נראתה חדשה, והאחרות היו פגומות וכהות.
+#שאלה What was different about the metal that looked new? | It was produced with a different process | It was much more expensive | It came from a different city | It was kept in water | הוא גילה שהמתכת יוצרה בתהליך שונה.
+#שאלה Why did Noam repeat the process many times? | to confirm his idea | to damage the metal | to make more money | because he forgot the result | הוא חזר על התהליך כדי לאשר את הרעיון שלו.
+#שאלה What is the lesson of the story? | An accident can help only a person who is ready | We should wait for accidents | Scientists should not work in the evening | Every idea starts with a strategy | בפסקה האחרונה: מקרה יכול לעזור, אבל רק מי שמוכן ישים לב אליו.
+
+#סיפור Two Generations and One Phone | קשה
+My father is 80 years old, and last year he received his first smart phone. At first, he was delighted. He could see pictures of his family every day. But after a week, it was frustrating for him. The buttons were small, messages came and went, and every update changed something on the screen.
+
+My generation used phones when we were children, so we do things on a screen without thinking. For my father, every step was new. When I tried to help him, I made a usual mistake: I did all the steps for him very quickly. He watched, but he did not learn. The next day he called me again with the same problem.
+
+Then I changed my strategy. Instead of doing things for him, I sat next to him and allowed him to do every step alone. I prepared short instructions on paper in simple words. When he made a mistake, I did not take the phone. I waited, and I allowed him to find the solution.
+
+It took more time, but it worked. After a month, he could send messages and view pictures without help. He told me that the most important thing was not the instructions. It was that I did not make him feel slow or embarrassed. For his generation, he said, a new device is not a reason for fear when someone is ready to wait.
+#שאלה Why was the phone frustrating for the father after a week? | The buttons were small and things changed often | He did not like the pictures | The phone was too expensive | He lost the phone | בפסקה הראשונה: הכפתורים היו קטנים, הודעות באו והלכו, וכל עדכון שינה משהו.
+#שאלה What mistake did the writer make at first? | The writer did all the steps for him quickly | The writer did not want to help | The writer gave him an old phone | The writer forgot his birthday | הכותב עשה הכול במקומו במהירות, ולכן הוא לא למד.
+#שאלה Which of these was part of the new strategy? | Short instructions on paper | Doing every step for him | Taking the phone when he made a mistake | Buying a new phone | באסטרטגיה החדשה הכותב הכין הוראות קצרות על נייר ונתן לו לעשות כל צעד לבד.
+#שאלה According to the father, what was the most important thing? | He did not feel slow or embarrassed | The instructions were short | The phone was new | His family called every day | הוא אמר שהדבר החשוב ביותר היה שלא גרמו לו להרגיש איטי או נבוך.
+
+#סיפור The Growth of a Small City | קשה
+In the past, our city was a quiet place with one main street. Today it is one of the fastest cities we know. New families arrive every month, and the city produces jobs in engineering and design. For many people, this growth is a great thing.
+
+However, fast growth also brings trouble. The roads were designed for a small city, so every morning there is a long row of cars at the entrance. The schools are crowded, and some classes have more than 40 students. Prices of houses have also gone up, and many people who were children in this city cannot pay to live in it.
+
+The city government has a difficult decision. Some people want to stop the growth and preserve the quiet city of the past. Others believe that growth is necessary, but that the city must improve its roads, schools and houses before more people arrive. Both sides believe one thing: the city cannot continue like this for long.
+
+The question is not only about money. It is about the city that people want. A city that changes with no strategy may have a lot of money but no quiet. A city that never changes may stay quiet, but its children may have to leave it. To find a solution that is achievable is the real challenge.
+#שאלה What does the first paragraph describe? | how the city changed | the story of the main street | the problems of the government | the price of houses | הפסקה הראשונה מתארת את השינוי: מעיר שקטה עם רחוב אחד לעיר שצומחת מהר.
+#שאלה Which problem is NOT described in the second paragraph? | The water in the city is not safe | The roads are busy | The schools are crowded | Houses are expensive | הפסקה מזכירה כבישים עמוסים, כיתות מלאות ומחירי בתים. מים לא בטוחים לא מוזכרים.
+#שאלה What do both sides believe? | The city cannot continue like this for long | The city must stop all growth | The city needs more people | Money is not important | שני הצדדים מסכימים שהעיר לא יכולה להמשיך ככה הרבה זמן.
+#שאלה What does the writer believe is the real challenge? | to find a solution that is achievable | to stop all growth | to have more money | to make more roads only | המשפט האחרון: האתגר האמיתי הוא למצוא פתרון שאפשר להשיג.
+
+#סיפור Recovering After an Illness | בינוני
+Last winter, Noa had a serious illness and stayed in bed for three weeks. When she finally recovered, she was excited to go back to school and to her old habits. On the first day, she walked to school, ran on the path near her house in the afternoon and studied late at night. The next morning, she was exhausted.
+
+Her psychologist explained that recovery does not end when the illness ends. The brain needs time to become strong again. If we try to do all our usual things at once, we may feel bad and need more time to recover.
+
+She gave Noa a simple strategy. Every day, she should do only one new thing. In the first week, she would walk to school, but she would rest in the afternoon. In the second week, she would run for a short time. She should also listen to her feelings: if she felt very tired, she should stop and rest.
+
+At first, it was frustrating for Noa. She wanted to be strong again right now. But she continued with the strategy, and gradually she became strong again. After a month, she was running and studying as before. She learned that slow steps are still steps, and that a challenge is more achievable when the steps are small.
+#שאלה What did Noa do on her first day back at school? | She did too much and was exhausted the next morning | She stayed in bed | She was late for school | She did not want to study | ביום הראשון היא עשתה הכול בבת אחת, ולמחרת הייתה מותשת.
+#שאלה According to the psychologist, when does recovery end? | after the brain becomes strong again | when the illness ends | after one day of rest | when you go back to school | היא הסבירה שההחלמה לא נגמרת כשהמחלה נגמרת; המוח צריך זמן להתחזק.
+#שאלה What was the psychologist's strategy? | do only one new thing every day | do all the usual things at once | stay in bed for another month | stop going to school | בכל יום לעשות רק דבר חדש אחד, ולהקשיב לתחושות.
+#שאלה What did Noa learn? | Small steps make a challenge more achievable | Psychologists are always correct | Running is bad after an illness | Recovery is very fast | המשפט האחרון: צעדים איטיים הם עדיין צעדים, ואתגר קל יותר להשגה כשהצעדים קטנים.
+
+#סיפור The Cyberattack on the School | קשה
+One morning, the students of a big school could not open their homework. The school's system was unavailable, and a strange message was on every screen: the files were closed, and the school had to pay money to open them. It was a cyberattack.
+
+The school called a team of technicians. Their first question was how the criminals entered the system. After some troubleshooting, they discovered the answer. A week before, a teacher had received a message that seemed to come from the government. The message asked him to open a file. He opened it, and that one click allowed the criminals to enter the internal system.
+
+The school did not pay. However, the technicians had kept all the files in a second place from the night before the cyberattack. They could retrieve almost all the files, and after three days the system recovered. The school lost only one day of work.
+
+The event led to some changes. Every teacher now learns how to detect a suspicious message. The school keeps its files in two different places, one internal and one external. And now every teacher knows a simple strategy: if you are not sure about a message, you do not open it. You ask someone first. As one teacher said, "Nobody should feel embarrassed to ask. A person should feel embarrassed to click."
+#שאלה What did the strange message on the screens say? | The files were closed and the school had to pay | The school was closed for a week | The students had no homework | The system needed an update | ההודעה אמרה שהקבצים נעולים ושבית הספר צריך לשלם כדי לפתוח אותם.
+#שאלה How did the criminals enter the system? | A teacher opened a file from a suspicious message | A student gave them a code | The technicians made a mistake | They broke the door of the school | מורה פתח קובץ מהודעה שנראתה כאילו הגיעה מהממשלה.
+#שאלה Why did the school lose only one day of work? | The technicians had kept the files in a second place | The criminals gave back the files | The school paid quickly | The students did their homework at home | לטכנאים היה עותק שני של הקבצים מהלילה שלפני ההתקפה, ולכן הצליחו לשחזר כמעט הכול.
+#שאלה What does the teacher's last sentence say? | To ask is smart, but to click on a suspicious message is a mistake | Nobody should ask questions | Teachers should never use computers | Clicking is always safe | המשפט אומר שלשאול זה לא מביך, אבל ללחוץ על הודעה חשודה זה מביך ומסוכן.
+
+#סיפור Learning New Vocabulary | בינוני
+Dana wants to improve her English vocabulary. For a long time, she used the same strategy: every evening, she opened the dictionary and read 20 new words. After an hour, she felt that she knew them. But the next day, she could not recall most of them. It was frustrating.
+
+Her teacher explained an important distinction: to read a word is not the same as to retain it. When we read a word, it seems familiar, and we believe that we know it. But to really know a word, we must bring it back from memory without help. Every time we do this, the memory becomes stronger.
+
+The teacher gave Dana a new strategy. She would learn only five new words a day. First, she would look at the English word and try to recall the meaning before checking the answer. Words that she forgot would come back the next day. Words that she remembered would come back after a week. She should also use each new word in a sentence of her own.
+
+At first, the new strategy seemed slow, and Dana learned fewer words. But over time she retained much more. After a month, she could use many new words in her homework and when she spoke. She discovered that the important thing is not how many words you see, but how many you keep.
+#שאלה What was the problem with Dana's first strategy? | She could not recall most of the words the next day | The dictionary was too difficult | She did not have time | She learned only five words | למחרת היא לא הצליחה להיזכר ברוב המילים, למרות שהרגישה שהיא יודעת אותן.
+#שאלה According to the teacher, what makes the memory stronger? | bringing a word back from memory without help | reading many words every evening | looking at the dictionary | reading the answer first | כל פעם שמחזירים מילה מהזיכרון בלי עזרה, הזיכרון מתחזק.
+#שאלה Which part was NOT in the new strategy? | reading 20 new words every evening | learning five new words a day | trying to recall the meaning before checking | using each word in a sentence | לקרוא עשרים מילים כל ערב זו השיטה הישנה.
+#שאלה What did Dana discover? | It matters more to keep words than to see many words | Dictionaries are useless | Slow strategies never work | Teachers do not understand students | המשפט האחרון: החשוב הוא לא כמה מילים רואים, אלא כמה שומרים.
+
+#סיפור Small Habits | קשה
+Why do some people find it easy to keep a new habit, while others stop after a few days? A psychologist named Ron decided to study this question. He asked 300 students to choose a new habit, such as reading for ten minutes, drinking more water or going for a short walk. Every day, they had to tell him if they did it.
+
+The results were surprising. The students who chose small habits often continued for months, while students who chose a big habit usually stopped after a week. As a result, a student who decided to walk for five minutes a day often continued, while a student who decided to run for an hour stopped quickly. In addition, it helped when the new habit came directly after an old one, such as reading for ten minutes directly after breakfast.
+
+Ron also discovered that people who missed one day were not in trouble. The problem began when they missed two or three days together. After that, many students felt that it was not achievable and stopped.
+
+From these results, Ron produced three simple steps. Start with a habit so small that it seems too easy. Do it directly after something you do every day. And if you miss one day, do not miss two. According to Ron, a good habit is not about a strong person. It is about a smart design.
+#שאלה What did the students have to do every day? | tell Ron if they did their new habit | run for an hour | meet the psychologist | read the same book | בכל יום הם היו צריכים לספר לרון אם ביצעו את ההרגל החדש.
+#שאלה Which students often continued for months? | students who chose small habits | students who chose a big habit | students who missed many days | students who did not tell Ron | הסטודנטים שבחרו הרגלים קטנים המשיכו לעיתים קרובות חודשים.
+#שאלה According to the third paragraph, when did the problem begin? | when students missed two or three days together | when students missed one day | when students chose small habits | when students drank water | פספוס של יום אחד לא היה בעיה; הבעיה התחילה כשפספסו שניים או שלושה ימים ברצף.
+#שאלה What does Ron's last idea say? | The design of a habit matters more than a strong person | Habits are only for scientists | People need expensive devices | Only strong people can keep habits | הוא אומר שהצלחה בהרגל תלויה בתכנון חכם, לא באדם חזק.

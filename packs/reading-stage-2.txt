@@ -1,0 +1,134 @@
+// English Master · 10 קטעי קריאה ארוכים לשלב ב׳ (מילים של שלבים א׳, א׳ וחצי וב׳)
+#חבילה קטעי קריאה · שלב ב׳
+#מזהה reading-stage-2
+#שלב 2
+
+#סיפור The Night the Network Went Down | בינוני
+At two in the morning, the phone of an engineer named Tamar began to make noise. An alert from the system said that the company's network was down. Many users could not connect to the service, and with every minute of downtime, the company lost money.
+
+Tamar opened her laptop and checked the logs. The servers were online, and their temperature was normal. But the traffic inside the network was very slow, and some packets were lost. She suspected a hardware problem. After an hour of troubleshooting, she found the cause: a faulty cable in the server room. When the cable became warm at night, the signal through it became weak.
+
+Tamar could not go to the server room at that hour, so she moved the traffic to a backup connection. The service recovered, and the users could connect again. In the morning, a technician put a new cable in the server room.
+
+In her report, Tamar wrote that the outage was not only a hardware problem. The company had no second cable for this connection, so one faulty part could stop the entire network. She recommended a simple rule: every important connection must have a backup. The company agreed, and since then, the network has not failed again.
+#שאלה What did the alert at two in the morning say? | The company's network was down | The servers were too hot | A hacker attacked the company | The laptop was broken | ההתראה אמרה שהרשת של החברה נפלה.
+#שאלה What was the cause of the problem? | a faulty cable in the server room | the temperature of the servers | a mistake in the code | too many users | אחרי איתור תקלות היא מצאה כבל תקול בחדר השרתים.
+#שאלה How did Tamar fix the problem during the night? | She moved the traffic to a backup connection | She put in a new cable alone | She turned off the servers | She called every user | היא העבירה את התעבורה לחיבור גיבוי, והשירות התאושש.
+#שאלה What did Tamar recommend in her report? | Every important connection must have a backup | The company should buy new laptops | Engineers should not work at night | The servers should be colder | היא המליצה על כלל: לכל חיבור חשוב חייב להיות גיבוי.
+
+#סיפור A Robot at the Door | בינוני
+In some cities, the food that you order online may arrive with a small robot instead of a person. The robot moves on the street at a slow speed, uses cameras and sensors to see the road, and stops before every road it must go over. When it arrives, the user opens it with a code from a smartphone.
+
+The companies that build these robots say that they are very useful for cities. A robot does not get tired, it can work at night, and its delivery is cheap. Supporters believe that in the future, most small deliveries will be made by machines.
+
+However, the robots also create new problems. Some people report that the robots stop on the street, and other people cannot walk past them. Some robots have been damaged or stolen. In addition, many workers fear that robots will take their jobs. A rider who brings food on a bike may lose his work if a robot can do the same job for a lower price.
+
+Some cities have decided to test the robots in small parts of the city before they allow them everywhere. They want to learn how the robots work in real life, in rain and in busy traffic. The engineers use the feedback from these tests to improve the robots. The real question, according to many people, is not if robots can do the job, but if cities want them.
+#שאלה How does a user open the robot? | with a code from a smartphone | with a key | by calling the company | by clicking a button on the street | כתוב שהמשתמש פותח את הרובוט עם קוד מהטלפון החכם.
+#שאלה Which of these is NOT given as a reason why robots are useful? | They never break | They do not get tired | They can work at night | Their delivery is cheap | הטקסט מזכיר שהם לא מתעייפים, עובדים בלילה ומשלוח זול. לא כתוב שהם אף פעם לא מתקלקלים; להפך, חלקם ניזוקו.
+#שאלה Why do some workers fear the robots? | They may lose their jobs | The robots are dangerous | The robots are too slow | The robots steal food | עובדים חוששים שהרובוטים ייקחו את העבודה שלהם.
+#שאלה What is the real question, according to the last paragraph? | if cities want the robots | if robots can work in rain | if robots are cheap | if engineers like the robots | המשפט האחרון: השאלה אינה אם רובוטים מסוגלים לעשות את העבודה, אלא אם הערים רוצות אותם.
+
+#סיפור The Password Problem | קשה
+Every year, security companies release a list of the most popular passwords. And every year, the list looks almost the same: simple numbers, the word "password" and the names of favorite teams. People know that these passwords are not safe, so why do they continue to use them?
+
+The answer is that people have too many accounts. An ordinary person may have more than 50 accounts: email, social media, games, stores and work. To remember 50 strong passwords is almost not possible, so many people use the same simple password everywhere. This is a dangerous habit. If a hacker steals the password from one weak website, he can try it on all the other accounts.
+
+Security engineers recommend two simple tools. The first is a password program that creates a long, strange password for every account and remembers all of them. The user needs to remember only one strong password. The second tool is a two-step check: after the password, the website sends a code to the user's phone. Even if a hacker knows the password, he cannot enter without the phone.
+
+Both tools are free and easy to use, but many people still do not use them. Security engineers say that the biggest problem is not technology. It is habit. People change their habits only after something bad happens to them.
+#שאלה Why do many people use the same password everywhere? | They have too many accounts to remember | They do not know that it is dangerous | Websites ask them to | Strong passwords are expensive | כתוב שלאדם רגיל יש יותר מחמישים חשבונות, וכמעט אי אפשר לזכור חמישים סיסמאות חזקות.
+#שאלה Why is it dangerous to use the same password everywhere? | A hacker can use one stolen password on all the accounts | The password becomes weak over time | Websites delete the account | The phone stops working | אם האקר גונב סיסמה מאתר חלש אחד, הוא יכול לנסות אותה בכל החשבונות.
+#שאלה How does the two-step check help? | A hacker cannot enter without the user's phone | It creates a strange password | It deletes old accounts | It makes the password shorter | אחרי הסיסמה נשלח קוד לטלפון, ולכן גם האקר שיודע את הסיסמה לא יכול להיכנס בלי הטלפון.
+#שאלה According to the last paragraph, what is the biggest problem? | people's habits | the technology | the price of the tools | the number of hackers | המהנדסים אומרים שהבעיה הגדולה ביותר אינה הטכנולוגיה אלא ההרגל.
+
+#סיפור Why Is the Internet Slow? | בינוני
+Many people believe that a slow internet connection is only a matter of speed. They pay for a faster plan and are surprised when videos still stop and games still feel slow. Often, the problem is not speed but latency.
+
+Speed, or bandwidth, is how much data can move through a connection in one second. Latency is how long it takes for one small packet of data to travel from your device to the server and back. A connection can have high speed and still have high latency. Think of a large road: it can carry many cars at once, but if the road is very long, each car still needs a long time to arrive.
+
+For a video, speed is usually more important, because the video needs a lot of data. For a game or a video call, latency matters more, because every action must arrive at the server quickly. A person with high latency sees the other people in the game move a second too late.
+
+What can users do? A cable connection usually has lower latency than wireless. A server that is physically close to the user is also faster, since the data does not travel far. And often the problem is simply an old router. Before you pay for a faster plan, it is worth testing your connection to find out which problem you really have.
+#שאלה What is latency, according to the text? | the time a packet needs to travel to the server and back | the amount of data in one second | the price of a faster plan | the speed of the router | הפסקה השנייה מגדירה השהיה כזמן שלוקח לחבילת נתונים לעבור מהמכשיר לשרת ובחזרה.
+#שאלה Why does the writer describe a large road? | to show that high speed does not mean low latency | to explain how cars use the internet | to show that roads are slow | to describe a new kind of cable | הדימוי מראה שכביש רחב מעביר הרבה מכוניות, אבל אם הוא ארוך, כל מכונית עדיין מגיעה לאט.
+#שאלה For which action is latency more important? | a video call | watching a long video | downloading a large file | saving a backup | בשיחת וידאו ובמשחק כל פעולה צריכה להגיע לשרת מהר, ולכן ההשהיה חשובה יותר.
+#שאלה What does the writer recommend before paying for a faster plan? | testing the connection to find the real problem | buying a new laptop | moving to a new city | using only wireless | המשפט האחרון: כדאי לבדוק את החיבור כדי לגלות איזו בעיה באמת יש.
+
+#סיפור The Chatbot That Was Too Sure | קשה
+A small startup built a chatbot to answer questions about the items that the company sells. The first tests were great. The chatbot answered quickly, in perfect language, and it always seemed confident. The team was proud and planned to release it to all users.
+
+Then an engineer named Noa noticed a problem. When she asked about an item that did not exist, the chatbot did not say "I do not know." Instead, it described the item in detail, with a price and a delivery day. All of it was false. The model had not found the information in any place. It had simply produced an answer that seemed correct.
+
+The team decided to test the chatbot more carefully. They prepared a dataset of real questions from users and checked every answer. The accuracy was high for simple questions, but for unusual questions the chatbot often gave a wrong answer, and it seemed just as sure as before.
+
+Noa recommended two changes. First, the chatbot must show where each answer came from, so users can check it. Second, when it cannot find the information, it must say so clearly. Some people in the team were afraid that users would not like a chatbot that says "I do not know." But after the release, the feedback was positive. Users trusted the chatbot more because it was clear about what it did not know.
+#שאלה What problem did Noa notice? | The chatbot described an item that did not exist | The chatbot was too slow | The chatbot used bad language | The chatbot did not want to answer | כששאלה על מוצר שלא קיים, הצ׳אטבוט תיאר אותו בפירוט במקום לומר שהוא לא יודע.
+#שאלה Where did the false information come from? | The model produced it without real information | It came from the company's website | A user wrote it | It came from an earlier version | המודל לא מצא את המידע בשום מקום; הוא פשוט ייצר תשובה שנראית נכונה.
+#שאלה What did the test with the dataset show? | The chatbot was often wrong on unusual questions | The chatbot was always correct | The chatbot could not answer simple questions | The users did not ask questions | הדיוק היה גבוה בשאלות פשוטות, אבל בשאלות חריגות הוא טעה לעיתים קרובות.
+#שאלה Why did users trust the chatbot more after the changes? | It was clear about what it did not know | It answered faster | It had a new name | It gave longer answers | המשפט האחרון: המשתמשים סמכו עליו יותר כי היה ברור לגבי מה שהוא לא יודע.
+
+#סיפור Smart Homes and Privacy | קשה
+A smart home has many connected devices. A smart speaker answers questions when you ask, a camera at the door shows who is outside, and sensors make the house warm before you arrive. These devices make life easier, and every year more families buy them.
+
+However, every smart device also keeps data. A smart speaker listens for its name all the time. A smart camera records who comes and goes. The company that makes the device often keeps this data on its servers in the cloud. Many users never read the privacy settings, and they do not know what information is saved or who can see it.
+
+Security engineers warn about two main risks. The first is a breach: if hackers attack the company's servers, they may steal secret videos or records. The second risk is harder to notice. Companies may use the data to learn about the habits of the family, such as the hours when the house is empty, and then use it to sell things or give it to other companies.
+
+This does not mean that people should stop using smart devices. But engineers recommend simple steps. Read the privacy settings and turn off features that you do not need. Use a strong password and update the device often. And before you buy a new smart device, ask if the help it gives is worth the data that you give away.
+#שאלה What does the first paragraph describe? | how smart devices make life easier | the dangers of hackers | the price of smart homes | how to build a sensor | הפסקה הראשונה מתארת מכשירים חכמים ואיך הם מקלים על החיים.
+#שאלה According to the second paragraph, why don't many users know who can see their data? | They never read the privacy settings | The devices have no settings | The data is deleted every day | The companies do not keep data | כתוב שמשתמשים רבים לא קוראים את הגדרות הפרטיות, ולכן לא יודעים מה נשמר ומי רואה.
+#שאלה Which risk is "harder to notice"? | Companies may use the data to learn the family's habits | Hackers may attack the servers | The device may stop working | The password may be weak | הסיכון השני: חברות עשויות להשתמש בנתונים כדי ללמוד את הרגלי המשפחה ולמכור דברים.
+#שאלה What is the writer's view of smart devices? | People can use them, but carefully | People should stop using them | They are always safe | Only engineers should buy them | הכותב לא אומר להפסיק, אלא ממליץ על צעדים פשוטים כדי להשתמש בהם בזהירות.
+
+#סיפור Testing Before the Release | בינוני
+A team of programmers worked for six months on a new version of a popular game. The release day was public, and many users were waiting. One week before the release, the game looked ready. Some people in the team wanted to release it early, but one programmer, Omer, asked for more time to test it.
+
+Omer explained that the team had tested the game only on new, fast computers. Most users, however, had old laptops and slow internet connections. He recommended a public test: a small group of users would download the game early and send feedback.
+
+The results were surprising. On old laptops, the game often stopped working, and on slow connections users could not join the game at all. If the team had released the game on time, many angry users would have written bad posts on the first day.
+
+The team used the feedback to fix the bugs, and the release was two weeks late. Some users were sad about the late release, but the first posts about the game were very positive. In the meeting after the release, the team agreed on a new rule: every version must be tested on the kind of devices that real users have, not only on the devices of the programmers.
+#שאלה Why did Omer ask for more time? | The game was tested only on new, fast computers | He was sick | The game was too easy | The users did not want the game | עומר הסביר שהמשחק נבדק רק על מחשבים חדשים ומהירים, בעוד שרוב המשתמשים משתמשים במחשבים ישנים.
+#שאלה What did the public test show? | The game stopped working on old laptops | The game was perfect | Users did not like the game | The game was too short | במחשבים ישנים המשחק הפסיק לעבוד לעיתים קרובות, ובחיבורים איטיים אי אפשר היה להצטרף.
+#שאלה What can we understand from the third paragraph? | A release on time would have caused many bad posts | The team released the game too late | Users with slow connections do not play games | Omer made a mistake | אילו שחררו בזמן, משתמשים כועסים רבים היו כותבים פוסטים רעים ביום הראשון.
+#שאלה What new rule did the team agree on? | Test every version on the devices that real users have | Never release a game late | Use only fast computers | Stop public tests | הכלל החדש: לבדוק כל גרסה על המכשירים שיש למשתמשים אמיתיים.
+
+#סיפור When the Cloud Stops | קשה
+Many people believe that the cloud is a strange place far away. Actually, the cloud is simply a large group of servers in big rooms of a few companies. When you save a picture online, watch a video or use an application at work, your data often lives on these servers.
+
+For most companies, the cloud is very useful. Instead of buying and fixing servers, they pay a cloud company and use as much capacity as they need. A small startup can increase its work quickly without building a server room. However, the cloud also has a risk that many people do not notice: when one cloud company has an outage, many services stop at once.
+
+This happened in the past. A small mistake in a configuration file at one cloud company caused a large outage. For many hours, many websites and applications were down: stores could not sell, workers could not open their files, and even some smart homes stopped working.
+
+After the outage, many engineers asked a hard question: is it safe to depend on one company? Some large companies now use two different clouds, so that if one fails, the service can move to the other. This is more expensive and more complex, and for small companies it is often not possible. For them, the most useful step is simpler: keep a backup of the most important data in a second place.
+#שאלה What is the cloud, according to the first paragraph? | a large group of servers of a few companies | a strange place far away | a kind of smartphone | a program on your laptop | הפסקה הראשונה מסבירה שהענן הוא קבוצה גדולה של שרתים בבניינים של כמה חברות.
+#שאלה What risk of the cloud do many people not notice? | When one cloud company has an outage, many services stop | The cloud is very expensive | Startups cannot use the cloud | The cloud deletes data every week | כשחברת ענן אחת נופלת, שירותים רבים נעצרים בבת אחת.
+#שאלה What caused the large outage? | a small mistake in a configuration file | a hacker attack | a broken cable | too many users | טעות קטנה בקובץ תצורה גרמה לנפילה גדולה.
+#שאלה What does the writer recommend for small companies? | keep a backup of important data in a second place | use two different clouds | build a server room | stop using the cloud | לחברות קטנות שימוש בשני עננים לרוב לא אפשרי, ולכן הצעד המעשי הוא לשמור גיבוי של הנתונים החשובים במקום נוסף.
+
+#סיפור A Programmer at 50 | בינוני
+Dan worked in the same store for 25 years. When he was 50, the store closed, and he lost his job. Many people told him that it was too late to start a new job. But Dan had always loved computers, so he decided to learn to code.
+
+The first months were difficult. The other students in his online class learned quickly, and Dan often felt slow and embarrassed. He wrote simple programs that did not work, and he spent hours searching for one small bug. More than once, he almost stopped.
+
+But Dan had something that the other students did not have: good work habits. He studied every morning at the same time, as if it were a job. He wrote every error and its solution on paper, so he never had to search for the same answer again. When he did not understand something, he asked questions online, and he was not afraid to look like a beginner.
+
+After a year, Dan built a small application for a store in his city. It was not perfect, but it worked, and the store recommended him to others. Today he works as a programmer in a small company. He says that his 50 years were not a problem but a help. "I knew how to work," he says. "I only had to learn the code."
+#שאלה Why did Dan decide to learn to code? | He lost his job and he always loved computers | His company asked him to | He was bored at work | His friends were programmers | הוא איבד את עבודתו בגיל 50, ותמיד אהב מחשבים.
+#שאלה How did Dan feel in the first months? | slow and embarrassed | proud and confident | angry with his teachers | bored | בפסקה השנייה: לעיתים קרובות הרגיש איטי ונבוך.
+#שאלה Why did Dan write every error on paper? | so he never had to search for the same answer again | to show his teacher | because he did not have a laptop | to sell the paper | כדי שלא יצטרך לחפש את אותה תשובה פעמיים.
+#שאלה What does Dan believe about his 50 years? | It helped because he knew how to work | It made learning very hard | Other students are better programmers | It did not matter at all | הוא אומר שהגיל לא היה בעיה אלא יתרון, כי הוא כבר ידע איך לעבוד.
+
+#סיפור Social Media and Students | קשה
+In the last ten years, social media has become a big part of student life. Many students spend more than five hours a day on their phones. Mothers, fathers and teachers are afraid, and many reports say that social media makes students sad and anxious.
+
+The evidence, however, is not so simple. Some reports find a link: students who use social media a lot are often sadder. But a link does not prove that one thing causes the other. It is possible that sad students use social media more, and not that social media makes them sad. In addition, the link in many reports is small.
+
+Engineers who study these platforms also explain that not all use is the same. Students who use social media to talk with real friends often feel happy. Students who spend hours comparing their life to the perfect pictures of others often feel bad. Use late at night is also a problem, because it hurts sleep, and when we do not sleep well, we feel bad.
+
+For families, this means that the number of hours is not the only important thing. It may be more useful to ask what students do online, and when. Some families agree on simple rules, such as no phones in bed at night. These rules do not solve every problem, but they protect sleep, and everyone agrees that sleep is important.
+#שאלה What do many reports say, according to the first paragraph? | Social media makes students sad and anxious | Students do not use social media | Teachers use phones too much | Social media improves sleep | בפסקה הראשונה: דוחות רבים אומרים שהרשתות החברתיות גורמות לתלמידים להיות עצובים וחרדים.
+#שאלה Why does a link not prove that social media makes students sad? | Sad students may simply use social media more | The reports are too long | Students do not report correctly | Social media is new | ייתכן שתלמידים עצובים משתמשים יותר ברשתות, ולא שהרשתות גורמות לעצב.
+#שאלה Which kind of use makes students feel bad? | comparing their life to perfect pictures of others | talking with real friends | using a phone during the day | reading the news | השוואת החיים לתמונות המושלמות של אחרים גורמת להם להרגיש רע.
+#שאלה What does the writer recommend to families? | Ask what students do online and protect their sleep | Write down every hour of phone use | Take away all phones | Ignore the problem | הכותב מציע לשאול מה התלמידים עושים ברשת ומתי, ולקבוע כללים שמגינים על השינה.
