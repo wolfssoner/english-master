@@ -1,43 +1,23 @@
 {
  "v": "14",
- "date": "2026-11-02",
- "msg": "",
+ "date": "2026-11-03",
+ "msg": "נוספו 19 מילים חדשות ו־50 קטעי קריאה חדשים. לחצו על השיעורים החדשים במסך הבית כדי להוסיף אותם.",
  "notes": [
   "משפט חדש אחרי טעות",
   "הכתבה ומצא את המילה השגויה",
   "שליחה למורה ומבחן משותף"
  ],
  "packs": [
-  {
-   "id": "stories-s1",
-   "title": "סיפורים לשלב א'",
-   "file": "packs/stories-s1.txt"
-  },
-  {
-   "id": "stories-s15",
-   "title": "סיפורים לשלב א' וחצי",
-   "file": "packs/stories-s15.txt"
-  },
-  {
-   "id": "stories-s2",
-   "title": "סיפורים לשלב ב'",
-   "file": "packs/stories-s2.txt"
-  },
-  {
-   "id": "stories-s3",
-   "title": "סיפורים לשלב ג'",
-   "file": "packs/stories-s3.txt"
-  },
-  {
-   "id": "stories-s4",
-   "title": "סיפורים לשלב ד'",
-   "file": "packs/stories-s4.txt"
-  }
+  {"id":"stories-s1","title":"סיפורים לשלב א'","file":"packs/stories-s1.txt"},
+  {"id":"stories-s15","title":"סיפורים לשלב א' וחצי","file":"packs/stories-s15.txt"},
+  {"id":"stories-s2","title":"סיפורים לשלב ב'","file":"packs/stories-s2.txt"},
+  {"id":"stories-s3","title":"סיפורים לשלב ג'","file":"packs/stories-s3.txt"},
+  {"id":"stories-s4","title":"סיפורים לשלב ד'","file":"packs/stories-s4.txt"},
+  {"id":"new-words-1-5","title":"מילים חדשות · א׳ וחצי","file":"packs/new-words-1-5.txt"},
+  {"id":"reading-stage-1","title":"קטעי קריאה · שלב א׳","file":"packs/reading-stage-1.txt"},
+  {"id":"reading-stage-1-5","title":"קטעי קריאה · שלב א׳ וחצי","file":"packs/reading-stage-1-5.txt"},
+  {"id":"reading-stage-2","title":"קטעי קריאה · שלב ב׳","file":"packs/reading-stage-2.txt"},
+  {"id":"reading-stage-3","title":"קטעי קריאה · שלב ג׳","file":"packs/reading-stage-3.txt"},
+  {"id":"reading-stage-4","title":"קטעי קריאה · שלב ד׳","file":"packs/reading-stage-4.txt"}
  ]
 }
-{"id":"new-words-1-5","title":"מילים חדשות · א׳ וחצי","file":"packs/new-words-1-5.txt"},
-{"id":"reading-stage-1","title":"קטעי קריאה · שלב א׳","file":"packs/reading-stage-1.txt"},
-{"id":"reading-stage-1-5","title":"קטעי קריאה · שלב א׳ וחצי","file":"packs/reading-stage-1-5.txt"},
-{"id":"reading-stage-2","title":"קטעי קריאה · שלב ב׳","file":"packs/reading-stage-2.txt"},
-{"id":"reading-stage-3","title":"קטעי קריאה · שלב ג׳","file":"packs/reading-stage-3.txt"},
-{"id":"reading-stage-4","title":"קטעי קריאה · שלב ד׳","file":"packs/reading-stage-4.txt"}
