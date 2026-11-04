@@ -1,0 +1,201 @@
+// English Master · מילים נוספות לקטעי הטכנולוגיה · שלב ב׳
+#חבילה מילים לקטעי טכנולוגיה · ב׳
+#מזהה tech-words-2
+#שלב 2
+
+#נושא פעלים
+#מילים
+lock | לנעול
+visit | לבקר
+block | לחסום
+hire | להעסיק, לגייס
+accept | לקבל, לאשר
+press | ללחוץ
+invent | להמציא
+
+#נושא ב׳ · מילים לקטעי טכנולוגיה
+#מילים
+login | התחברות
+weekend | סוף שבוע
+fact | עובדה
+heart | לב
+map | מפה
+soldier | חייל
+army | צבא
+advertisement | פרסומת
+interest | תחום עניין
+bedroom | חדר שינה
+apartment | דירה
+floor | רצפה; קומה
+corner | פינה
+radio | רדיו
+channel | ערוץ
+voice | קול
+boss | בוס, מנהל
+dollar | דולר
+plane | מטוס
+score | ציון
+candidate | מועמד
+thousand | אלף
+woman | אישה
+package | חבילה
+image | תמונה
+million | מיליון
+hundred | מאה
+industry | תעשייה
+background | רקע
+bank | בנק
+department | מחלקה
+midnight | חצות
+ticket | כרטיס (נסיעה, הופעה)
+date | תאריך
+clock | שעון
+country | מדינה, ארץ
+distance | מרחק
+lane | נתיב
+millisecond | אלפית שנייה
+
+#נושא תארים ותארי פועל
+#מילים
+confused | מבולבל
+exactly | בדיוק
+excellent | מצוין
+modern | מודרני
+zero | אפס
+famous | מפורסם
+ago | לפני (זמן)
+bright | בהיר
+tomorrow | מחר
+standard | סטנדרטי, אחיד
+
+#נושא מילים נוספות
+#מילים
+advertising | פרסום
+middle | אמצע
+brightness | בהירות
+percent | אחוז
+spelling | איות
+
+#משפטים
+The system will lock your account after five wrong passwords. | המערכת תנעל את החשבון שלך אחרי חמש סיסמאות שגויות.
+Do not forget to lock your computer when you leave your desk. | אל תשכח לנעול את המחשב כשאתה עוזב את השולחן.
+The login page asks for a username and a password. | דף ההתחברות מבקש שם משתמש וסיסמה.
+There was a problem with the login after the update. | הייתה בעיה בהתחברות אחרי העדכון.
+We do not deploy new versions on the weekend. | אנחנו לא מעלים גרסאות חדשות בסוף השבוע.
+The server was down for the whole weekend. | השרת היה מושבת כל סוף השבוע.
+The program invented a name that did not exist. | התוכנה המציאה שם שלא היה קיים.
+Who invented the computer? | מי המציא את המחשב?
+This is a fact, not an idea of the writer. | זו עובדה, לא רעיון של הכותב.
+Check every fact before you share an article. | בדוק כל עובדה לפני שאתה משתף מאמר.
+I was confused by the error message. | הייתי מבולבל מהודעת השגיאה.
+The users were confused after the update. | המשתמשים היו מבולבלים אחרי העדכון.
+Press the button for three seconds. | לחץ על הכפתור שלוש שניות.
+He pressed the wrong key. | הוא לחץ על המקש הלא נכון.
+The server is in another country. | השרת נמצא במדינה אחרת.
+Many countries have new rules about privacy. | בהרבה מדינות יש כללים חדשים על פרטיות.
+The distance from the router is too big for a good signal. | המרחק מהנתב גדול מדי לאות טוב.
+Wireless signals become weak over a long distance. | אותות אלחוטיים נחלשים על פני מרחק ארוך.
+The road has four lanes. | לכביש יש ארבעה נתיבים.
+The bus has its own lane. | לאוטובוס יש נתיב משלו.
+The response took only 30 milliseconds. | התגובה לקחה רק 30 אלפיות שנייה.
+A millisecond is a very short time. | אלפית שנייה היא זמן קצר מאוד.
+The server makes a backup every night at midnight. | השרת עושה גיבוי כל לילה בחצות.
+The website stopped working after midnight. | האתר הפסיק לעבוד אחרי חצות.
+I bought a train ticket online. | קניתי כרטיס לרכבת באינטרנט.
+The tickets for the game were sold in one hour. | הכרטיסים למשחק נמכרו בשעה אחת.
+Please enter the date of your trip. | בבקשה הכנס את התאריך של הנסיעה שלך.
+The date on the server was wrong. | התאריך בשרת היה שגוי.
+The clock on my computer is five minutes late. | השעון במחשב שלי מאחר בחמש דקות.
+The phone changes its clock automatically. | הטלפון משנה את השעון שלו אוטומטית.
+We will release the new version tomorrow. | נשחרר את הגרסה החדשה מחר.
+The meeting is tomorrow morning. | הפגישה מחר בבוקר.
+We use a standard format for every date. | אנחנו משתמשים בפורמט סטנדרטי לכל תאריך.
+Every computer in the office has the standard version of the program. | בכל מחשב במשרד יש את הגרסה הסטנדרטית של התוכנה.
+The bank sent me a message about my account. | הבנק שלח לי הודעה על החשבון שלי.
+Never give your bank password to anyone. | לעולם אל תמסור את סיסמת הבנק שלך לאף אחד.
+She works in the IT department. | היא עובדת במחלקת המחשוב.
+Every department has its own server. | לכל מחלקה יש שרת משלה.
+The email had many spelling mistakes. | במייל היו הרבה שגיאות כתיב.
+Check the spelling of the address. | בדוק את האיות של הכתובת.
+The new version looks exactly like the old one. | הגרסה החדשה נראית בדיוק כמו הישנה.
+I do not know exactly what happened. | אני לא יודע בדיוק מה קרה.
+Lower the brightness of the screen to use less battery. | הנמך את הבהירות של המסך כדי לצרוך פחות סוללה.
+The brightness changes automatically. | הבהירות משתנה אוטומטית.
+The application runs in the background. | האפליקציה רצה ברקע.
+The picture has a dark background. | לתמונה יש רקע כהה.
+Only 10 percent of the users updated the application. | רק 10 אחוז מהמשתמשים עדכנו את האפליקציה.
+The battery is at 50 percent. | הסוללה על 50 אחוז.
+I bought this laptop two years ago. | קניתי את המחשב הנייד הזה לפני שנתיים.
+The bug appeared a week ago. | הבאג הופיע לפני שבוע.
+The screen is too bright at night. | המסך בהיר מדי בלילה.
+The room was bright and warm. | החדר היה מואר וחם.
+Install the package before you run the code. | התקן את החבילה לפני שאתה מריץ את הקוד.
+The package has a new version. | לחבילה יש גרסה חדשה.
+The image is too big for the website. | התמונה גדולה מדי לאתר.
+The application can find a cat in an image. | האפליקציה יכולה למצוא חתול בתמונה.
+The video was watched by a million people. | מיליון אנשים צפו בסרטון.
+Millions of users use this application. | מיליוני משתמשים משתמשים באפליקציה הזו.
+The company has a hundred workers. | בחברה יש מאה עובדים.
+Hundreds of emails arrived in one hour. | מאות מיילים הגיעו בשעה אחת.
+The game industry is very large. | תעשיית המשחקים גדולה מאוד.
+He works in the technology industry. | הוא עובד בתעשיית הטכנולוגיה.
+Modern phones have very good cameras. | לטלפונים מודרניים יש מצלמות טובות מאוד.
+The design of the website is simple and modern. | העיצוב של האתר פשוט ומודרני.
+The number of errors dropped to zero. | מספר השגיאות ירד לאפס.
+We started the work from zero. | התחלנו את העבודה מאפס.
+This is a famous bug in the history of computers. | זה באג מפורסם בהיסטוריה של המחשבים.
+The famous company released a new phone. | החברה המפורסמת שחררה טלפון חדש.
+The company hired three new developers. | החברה גייסה שלושה מפתחים חדשים.
+They want to hire an engineer who knows a lot about security. | הם רוצים לגייס מהנדס שיודע הרבה על אבטחה.
+The server did not accept the request. | השרת לא קיבל את הבקשה.
+Please accept the new rules of the website. | בבקשה אשר את הכללים החדשים של האתר.
+The model gives a score to every email. | המודל נותן ציון לכל מייל.
+Her score in the exam was very high. | הציון שלה במבחן היה גבוה מאוד.
+There were ten candidates for the job. | היו עשרה מועמדים למשרה.
+The best candidate worked for ten years in the field. | המועמד הטוב ביותר עבד עשר שנים בתחום.
+Thousands of users lost access to their accounts. | אלפי משתמשים איבדו גישה לחשבונות שלהם.
+The server receives a thousand requests every second. | השרת מקבל אלף בקשות בכל שנייה.
+The woman called the bank about the strange message. | האישה התקשרה לבנק בנוגע להודעה המוזרה.
+Many women work in the technology industry today. | נשים רבות עובדות היום בתעשיית הטכנולוגיה.
+The voice on the phone sounded strange. | הקול בטלפון נשמע מוזר.
+The application can change text into a voice. | האפליקציה יכולה להפוך טקסט לקול.
+My boss asked me to fix the bug today. | הבוס שלי ביקש ממני לתקן את הבאג היום.
+The boss of the company sent an email to all the workers. | הבוס של החברה שלח מייל לכל העובדים.
+The price of the application is five dollars a month. | המחיר של האפליקציה הוא חמישה דולר בחודש.
+The criminals asked for 1,000 dollars. | הפושעים ביקשו 1,000 דולר.
+I cannot answer emails on the plane. | אני לא יכול לענות למיילים במטוס.
+The plane was late because of a computer problem. | המטוס איחר בגלל בעיה במחשב.
+The router is in the bedroom. | הנתב נמצא בחדר השינה.
+There is no signal in the bedroom. | אין קליטה בחדר השינה.
+They live in a small apartment in the city. | הם גרים בדירה קטנה בעיר.
+The apartment has three rooms. | בדירה יש שלושה חדרים.
+The laptop fell on the floor. | המחשב הנייד נפל על הרצפה.
+The office is on the third floor. | המשרד נמצא בקומה השלישית.
+The router is in a corner of the room. | הנתב נמצא בפינה של החדר.
+Look at the corner of the screen. | תסתכל בפינה של המסך.
+Wi-fi uses radio signals. | wi-fi משתמש באותות רדיו.
+I listen to the radio in the car. | אני מקשיב לרדיו באוטו.
+Change the channel of the router. | שנה את הערוץ של הנתב.
+The company sends updates on a special channel. | החברה שולחת עדכונים בערוץ מיוחד.
+Put the router in the middle of the apartment. | שים את הנתב באמצע הדירה.
+The video stopped in the middle. | הסרטון נעצר באמצע.
+The firewall can block dangerous websites. | חומת האש יכולה לחסום אתרים מסוכנים.
+Walls block the wireless signal. | קירות חוסמים את האות האלחוטי.
+The new design is excellent. | העיצוב החדש מצוין.
+She is an excellent programmer. | היא מתכנתת מצוינת.
+I visit this website every day. | אני מבקר באתר הזה כל יום.
+Many users visited the new page. | הרבה משתמשים ביקרו בדף החדש.
+The video started with a long advertisement. | הסרטון התחיל בפרסומת ארוכה.
+I do not click on advertisements. | אני לא לוחץ על פרסומות.
+The company makes money from advertising. | החברה מרוויחה כסף מפרסום.
+Advertising companies follow users online. | חברות פרסום עוקבות אחרי משתמשים ברשת.
+His interests are games and computers. | תחומי העניין שלו הם משחקים ומחשבים.
+The website shows content that matches your interests. | האתר מציג תוכן שמתאים לתחומי העניין שלך.
+The watch checks your heart all day. | השעון בודק את הלב שלך כל היום.
+The watch noticed a problem with his heart. | השעון הבחין בבעיה בלב שלו.
+The application shows a map of the city. | האפליקציה מציגה מפה של העיר.
+I found the office with the map on my phone. | מצאתי את המשרד עם המפה בטלפון שלי.
+The soldier used a secure phone. | החייל השתמש בטלפון מאובטח.
+Soldiers must not share their location online. | חיילים אסור להם לשתף את המיקום שלהם ברשת.
+He worked with computers in the army. | הוא עבד עם מחשבים בצבא.
+The army has its own network. | לצבא יש רשת משלו.

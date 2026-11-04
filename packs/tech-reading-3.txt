@@ -1,0 +1,329 @@
+// English Master · 20 קטעי קריאה בנושאי טכנולוגיה · שלב ג׳
+// 10 קטעים ארוכים עם 10 שאלות קשות, ו־10 קטעים בינוניים עם 4 שאלות
+#חבילה קטעי טכנולוגיה · שלב ג׳
+#מזהה tech-reading-3
+#שלב 3
+
+#סיפור Why Software Projects Are Almost Always Late | קשה
+Ask any experienced developer how long a project will take, and you will probably receive an estimate that is too optimistic. Research on software projects shows that a significant majority of them finish later than planned, and many of them cost much more than the planned amount of money. Why is it so difficult to estimate software work?
+
+The first reason is that software is not built from familiar parts. When a company builds a house, it can rely on decades of experience with similar houses. In software, almost every project contains something new: a new feature, a new technology, or old technologies used in a new way. The parts that are new are exactly the parts that are hardest to estimate.
+
+The second reason is that the needs of the customer change. At the beginning of a project, customers often do not know exactly what they want. When they see the first version, they ask for changes. Each change seems small, but together they can double the size of the project.
+
+The third reason is psychological. People tend to imagine the ideal case: the code works the first time, nobody is sick, and no unexpected problem appears. In reality, every project faces obstacles that nobody predicted. A developer who estimates "two weeks" is usually thinking about the work itself, not about meetings, bugs, and interruptions.
+
+Experienced teams use several approaches to reduce this problem. They divide large projects into small parts that are easier to estimate. They compare new work to similar work from the past, instead of relying on intuition. And they add extra time for problems that they cannot predict. Most importantly, they treat an estimate as a range, not as a promise. "Between four and eight weeks" sounds less good than "six weeks," but it is much more honest.
+#שאלה According to the research, what happens to most software projects? | They finish later than planned | They finish early | They cost less than planned | They are never finished | כתוב: a significant majority of them finish later than planned.
+#שאלה Why can a company that builds a house estimate better than a software team? | It can rely on decades of experience with similar houses | Houses are cheaper | Houses are built faster | Houses have no customers | בבנייה יש ניסיון רב עם פרויקטים דומים. בתוכנה כמעט כל פרויקט מכיל משהו חדש.
+#שאלה Which parts of a software project are hardest to estimate, according to paragraph 2? | the parts that are new | the parts that are familiar | the design | the tests | המשפט האחרון של הפסקה: החלקים החדשים הם בדיוק הקשים ביותר להערכה.
+#שאלה How can small changes double the size of a project? | Each change seems small, but together they add a lot of work | Every change is very large | Developers make mistakes in each change | Customers pay twice | מסיח מטעה: כל שינוי לבדו קטן. הבעיה היא ההצטברות.
+#שאלה What is the psychological reason for optimistic estimates? | People tend to imagine the ideal case | Developers want more money | Customers give false information about their needs | Managers do not trust developers | אנשים נוטים לדמיין את המקרה האידיאלי שבו הכול עובד.
+#שאלה When a developer says "two weeks", what is he usually NOT thinking about? | meetings, bugs and interruptions | the work itself | the code | the feature | הוא חושב על העבודה עצמה, ולא על כל מה שמסביבה.
+#שאלה Which approach of experienced teams is NOT in the last paragraph? | asking customers to stop requesting changes | dividing large projects into small parts | comparing new work to similar past work | adding extra time for unexpected problems | בקשה מהלקוחות להפסיק לבקש שינויים לא מופיעה.
+#שאלה Why do experienced teams compare new work to similar work from the past? | instead of relying on intuition | because the past is always the same | because customers ask them to | because it is faster | כתוב: instead of relying on intuition.
+#שאלה Why does the writer prefer "between four and eight weeks" to "six weeks"? | It is more honest about what the team does not know | It is shorter | Customers like it more | It is always correct | טווח מבטא בכנות את חוסר הוודאות, גם אם הוא נשמע פחות טוב.
+#שאלה What is the main purpose of the text? | to explain why software estimates are often wrong and how to improve them | to show that developers do not work hard | to compare houses and software | to teach customers how to pay less | הטקסט מסביר שלוש סיבות ומציע דרכים לשיפור.
+
+#סיפור The Hidden Cost of Quick Code | קשה
+Every developer knows the situation. A feature must be ready by Friday, and there are two ways to build it. The first way is clean and well designed, but it will take two weeks. The second way is a shortcut: it works, but the code is messy and hard to change. When there is pressure, many teams choose the shortcut and promise to fix it later.
+
+Developers call the result "technical debt." The term compares bad code to money that you borrow. When you borrow money, you can buy something today, but you must pay interest later. In the same way, a shortcut lets a team release a feature quickly, but every future change in that part of the code becomes slower and more risky. The "interest" is the extra time that developers spend because the code is hard to understand.
+
+Technical debt is not always bad. Sometimes a company needs to release a product quickly to test an idea, and it does not know yet whether the product will succeed. In that case, a shortcut can be a reasonable decision. The problem begins when the debt is never paid. Shortcut after shortcut, the code becomes so complex that nobody wants to touch it. New developers need months to understand it, and every small change creates new bugs.
+
+Many successful teams manage technical debt in a planned way. They write down every shortcut and the reason for it. They keep a fixed part of their time, for example one day every two weeks, to improve old code. And they explain the cost to managers in business terms: not "the code is messy," but "this feature takes three days to change instead of one."
+
+In the end, technical debt is a tool. Used carefully, it can help a team move fast. Ignored, it can slowly stop a team completely.
+#שאלה What is the difference between the two ways to build the feature? | The first is clean but slow; the second is fast but messy | The first is messy; the second is clean | Both are clean | Both take two weeks | הדרך הראשונה נקייה ואיטית, והשנייה קיצור דרך מהיר ומבולגן.
+#שאלה When the writer compares bad code to money, what is the "interest"? | the extra time that developers spend because the code is hard to understand | the money that the company pays developers | the price of the feature | the number of bugs | הכותב מגדיר את ה"ריבית" כזמן הנוסף שמבזבזים בגלל קוד קשה להבנה.
+#שאלה When can technical debt be a reasonable decision? | when a company needs to test an idea quickly and does not know if it will succeed | when the developers are tired | when the code is already clean | never | הכותב אומר במפורש שחוב טכני הוא לא תמיד רע.
+#שאלה When does technical debt become a serious problem? | when the debt is never paid | when a team takes one shortcut | when the feature is ready by Friday | when developers write down shortcuts | הבעיה מתחילה כשהחוב לא נפרע לעולם.
+#שאלה What happens to code that has too much technical debt? | It becomes so complex that nobody wants to touch it | It becomes faster | It has no bugs | It becomes cheaper | קיצור אחרי קיצור, הקוד נעשה מסובך עד שאף אחד לא רוצה לגעת בו.
+#שאלה Which strategy of successful teams is NOT in paragraph 4? | Never taking any shortcut | Writing down every shortcut and its reason | Keeping a fixed part of their time to improve old code | Explaining the cost to managers in business terms | צוותים מצליחים לא נמנעים לגמרי מקיצורים. הם מנהלים אותם.
+#שאלה Why do teams explain the cost in business terms to managers? | Managers understand time and money better than words about the quality of code | Managers are developers | Managers do not care about time | Business terms are shorter | "השינוי לוקח שלושה ימים במקום יום" מובן למנהל יותר מ"הקוד לא יפה".
+#שאלה In paragraph 1, "promise to fix it later". The word "it" is: | the shortcut | the feature | Friday | the team | הצוות מבטיח לתקן את קיצור הדרך מאוחר יותר.
+#שאלה What does the writer think about technical debt in the last paragraph? | It is a tool that can help or hurt, depending on how a team uses it | It is always harmful | It is always useful | It is not important | הכותב מציג אותו ככלי: בשימוש זהיר עוזר, בהזנחה עוצר צוות.
+#שאלה Which title describes the text most clearly? | The Price of Shortcuts in Code | How to Borrow Money | Why Developers Work on Friday | Clean Code Is Always Faster | הטקסט כולו עוסק במחיר של קיצורי דרך בקוד.
+
+
+#סיפור Can We Trust the Opinions of Customers Online? | קשה
+Before people buy a product, choose a hotel, or go to a restaurant, most of them read the opinions of other customers online. Research suggests that a product with a rating of 4.5 stars sells significantly more than a similar product with 4 stars. For this reason, these opinions have become extremely valuable, and where there is value, there is also fraud.
+
+Fake opinions are a large industry. Some sellers pay people to write positive opinions about their own products. Others pay for negative opinions about their competitors. In some countries, there are companies that offer thousands of opinions for a fixed price. More recently, artificial intelligence has made the problem more serious, because it can produce hundreds of different, natural opinions in minutes.
+
+Platforms try to fight this problem in several ways. They use algorithms to identify suspicious patterns: many opinions that appear on the same day, opinions from new accounts with no history, or opinions that use very similar language. Some platforms allow opinions only from customers who really bought the product. However, the people who create fake opinions also adapt, and the competition between the two sides continues.
+
+What can a careful customer do? Experts suggest several strategies. Do not rely only on the final rating; read a variety of opinions, in particular the negative ones, which are harder to fake and often more specific. Pay attention to the details: a real opinion usually describes a specific experience, while a fake one is often general and very excited. And be suspicious when a product has hundreds of perfect opinions but almost no criticism.
+
+No method is perfect. But a customer who reads carefully is much less likely to be deceived than one who looks only at the stars.
+#שאלה Why have the opinions of customers become extremely valuable? | A higher rating can significantly increase the number of products sold | They are written by experts | Platforms pay for them | They are always true | המחקר מראה שדירוג גבוה יותר מעלה מכירות באופן משמעותי.
+#שאלה Which type of fraud is described in paragraph 2? | paying for negative opinions about competitors | stealing products | changing prices | attacking platforms | בפסקה השנייה: יש מי שמשלם על ביקורות שליליות על מתחרים.
+#שאלה Why has artificial intelligence made the problem more serious? | It can produce hundreds of natural opinions in minutes | It deletes real opinions | It changes ratings | It buys products | בינה מלאכותית מייצרת במהירות ביקורות שנראות טבעיות.
+#שאלה Which suspicious pattern is NOT in paragraph 3? | opinions that are very long | many opinions on the same day | opinions from new accounts with no history | opinions with very similar language | אורך הביקורת לא מוזכר כסימן חשוד.
+#שאלה What does "the competition between the two sides continues" tell us? | Platforms improve their methods, and the people who create fake opinions adapt again | The fraud has ended | Customers and sellers compete | Platforms have won | כל צד משתפר בתגובה לצד השני, והמאבק נמשך.
+#שאלה Why do experts recommend reading negative opinions in particular? | They are harder to fake and often more specific | They are always true | They are shorter | They come from experts | כתוב: which are harder to fake and often more specific.
+#שאלה According to the text, how is a real opinion usually different from a fake one? | A real opinion describes a specific experience; a fake one is often general | A real opinion is always positive | A fake opinion is always negative | A real opinion is very excited | מסיח מטעה: דווקא הביקורת המזויפת היא זו שכללית ונלהבת.
+#שאלה When should a customer be suspicious, according to the writer? | when a product has hundreds of perfect opinions and almost no criticism | when a product has some negative opinions | when the opinions are specific | when the rating is 4 stars | שלמות מוחלטת בלי ביקורת היא סימן חשוד.
+#שאלה Which customer follows the advice of the experts? | Dana reads many opinions, in particular negative ones, and checks their details | Omer buys the product with the highest rating | Yoni reads only the first opinion | Noa trusts every product with 5 stars | רק דנה פועלת לפי ההמלצות.
+#שאלה What is the main idea of the text? | Opinions online can be fake, so customers should read them carefully | All opinions online are fake | Platforms have solved the problem | Ratings are the only useful information | אין שיטה מושלמת, אבל קריאה זהירה מפחיתה את הסיכון.
+
+#סיפור Will Passwords Disappear? | קשה
+For decades, the password has been the main way to prove who we are online. Yet passwords have serious weaknesses. People choose simple passwords, use the same password on many websites, and give them away in phishing attacks. According to several security reports, a large share of successful attacks begin with a stolen password.
+
+A new technology, called a passkey, aims to replace passwords completely. Instead of a secret that you remember, a passkey uses a pair of keys. One key, the private key, remains on your device and never leaves it. The other key, the public key, is stored by the website. When you log in, the website sends a challenge, and your device uses the private key to answer it. The website can check the answer with the public key, but it never receives the private key itself. To unlock the private key, you simply use your fingerprint, your face, or the PIN of your device.
+
+The advantages are significant. There is nothing to remember and nothing to type. Even if hackers steal the database of a website, they find only public keys, which are useless without the private keys. And because each passkey is connected to a specific website, a phishing website cannot receive it.
+
+However, the change will not happen in one day. Many people do not understand the technology and are worried about what will happen if they lose their phone. Not all websites support passkeys yet. And some users are worried that passkeys make them more dependent on the large companies that make their devices.
+
+Experts suggest that passwords and passkeys will exist side by side for many years. The direction, however, seems clear: the future of logging in is likely to be something that you have and something that you are, rather than something that you remember.
+#שאלה Which weakness of passwords is NOT in paragraph 1? | Passwords are too long to type | People choose simple passwords | People use the same password on many websites | People give passwords away in phishing attacks | סיסמה ארוכה מדי להקלדה לא מוזכרת כחולשה.
+#שאלה Where does the private key remain? | on the device of the user | on the website | on the servers of the company | in the database of the website | כתוב: remains on your device and never leaves it.
+#שאלה How does the website check that the user is real? | It checks the answer of the device with the public key | It receives the private key | It asks for a password | It checks the fingerprint itself | האתר בודק את התשובה עם המפתח הציבורי, ולא מקבל לעולם את הפרטי.
+#שאלה What does the user do to unlock the private key? | uses a fingerprint, the face, or the PIN of the device | types a long password | calls the website | sends an email | זה מתואר בסוף הפסקה השנייה.
+#שאלה Why is a stolen database of public keys useless for hackers? | Public keys are useless without the private keys | The database is encrypted | Hackers cannot read keys | Websites delete the keys every day | המפתחות הציבוריים לא מאפשרים להתחבר בלי המפתחות הפרטיים.
+#שאלה Why can a phishing website not receive a passkey? | Each passkey is connected to a specific website | Phishing websites are blocked | Users do not click on links today | Passkeys are too long | המפתח קשור לאתר מסוים, ולכן אתר מתחזה לא יכול לקבל אותו.
+#שאלה Which reason for the slow change is NOT in paragraph 4? | Passkeys are more expensive than passwords | Many people do not understand the technology | Not all websites support passkeys | Some users are worried about depending on large companies | המחיר לא מוזכר.
+#שאלה In paragraph 2, "it never receives the private key itself". The word "it" is: | the website | the device | the challenge | the fingerprint | האתר הוא שלא מקבל לעולם את המפתח הפרטי.
+#שאלה What do experts expect for the next years? | Passwords and passkeys will exist side by side | Passwords will disappear next year | Passkeys will fail | Websites will stop asking users to log in | כתוב: will exist side by side for many years.
+#שאלה What does "something that you have and something that you are, rather than something that you remember" describe? | a device and a fingerprint or face instead of a password | two passwords | a password and a PIN | a public key and a private key on the website | מכשיר (משהו שיש לך) וטביעת אצבע או פנים (משהו שאתה) במקום סיסמה.
+
+#סיפור The Algorithm That Knows What You Like | קשה
+When you open a video platform or a social media application, the content that you see is not there by chance. It is selected by an algorithm that recommends content. The algorithm studies your behavior: which videos you watch until the end, which posts you like, how long you stop on each picture. Then it predicts which content will keep you on the platform for the longest time, and it shows you more of it.
+
+From the point of view of the company, this approach is extremely effective. The longer users stay, the more advertisements they see, and the more money the company earns. For users, too, there are real benefits. The algorithm can help them discover music, ideas, and people that they would never find on their own.
+
+However, researchers have identified several potential problems. The first is the "filter bubble." If the algorithm shows you only content that matches your previous interests and opinions, you may stop seeing other points of view. Over time, your picture of the world can become small, and you may believe that most people think like you.
+
+The second problem is that the content that keeps people watching is not always good for them. Studies suggest that content that creates strong emotions, especially anger and fear, tends to receive more attention. An algorithm that is designed only to increase attention may therefore show more extreme content, even if nobody planned this result.
+
+Some platforms now give users more choice: they can see why a post appeared, delete the history that the algorithm uses, or choose a simple order by time. Experts argue that this is a good beginning, but that the bigger question remains open. Should an algorithm aim only to keep us watching, or should it also consider what is good for us?
+#שאלה What does the algorithm study, according to paragraph 1? | the behavior of the user | the birthday of the user | the bank account of the user | the opinions of experts | האלגוריתם לומד את ההתנהגות: מה צופים, מה אוהבים, כמה זמן נעצרים.
+#שאלה What does the algorithm try to predict? | which content will keep the user on the platform for the longest time | which content is true | which content is the newest | which content the experts like | המטרה היא להשאיר את המשתמש כמה שיותר זמן.
+#שאלה Why is this approach effective for the company? | The longer users stay, the more advertisements they see | Users pay for every video | It reduces the cost of servers | It makes content shorter | יותר זמן בפלטפורמה פירושו יותר פרסומות ויותר הכנסה.
+#שאלה Which benefit for users is mentioned in the text? | They can discover music, ideas and people | They receive money | They see fewer advertisements | They learn to code | זה היתרון שהטקסט מזכיר למשתמשים.
+#שאלה What is the "filter bubble"? | a situation in which a user sees only content that matches his previous interests and opinions | a bug in the algorithm | a type of advertisement | a new platform | זו ההגדרה בפסקה השלישית.
+#שאלה What can happen to a person inside a filter bubble? | He may believe that most people think like him | He will see more points of view | He will stop using the platform | He will earn more money | התמונה שלו על העולם מצטמצמת.
+#שאלה Why may an algorithm show more extreme content? | Content with strong emotions tends to receive more attention | Engineers want extreme content | Users ask for it | Extreme content is cheaper | אלגוריתם שמטרתו קשב בלבד יעדיף תוכן שמעורר רגשות חזקים.
+#שאלה "even if nobody planned this result". What does this part of the sentence tell us? | The harmful effect can be a side effect, not a plan | The engineers planned it | The users planned it | The result is not harmful | התוצאה המזיקה יכולה לנבוע מהמטרה עצמה, בלי כוונה.
+#שאלה Which choice that some platforms give users is NOT in the last paragraph? | paying to remove all advertisements | seeing why a post appeared | deleting the history that the algorithm uses | choosing a simple order by time | הסרת פרסומות בתשלום לא מוזכרת.
+#שאלה What is the "bigger question" at the end of the text? | Should an algorithm also consider what is good for users? | How can companies earn more money? | Which platform is the most popular? | How long should videos be? | השאלה הפתוחה: האם אלגוריתם צריך לחשוב גם על טובת המשתמש.
+
+#סיפור The Energy Behind the Cloud | קשה
+When we save a photo "in the cloud," it feels as if the photo goes to no real place. In reality, it goes to a data center: a huge building full of servers that work day and night. There are thousands of such centers around the world, and together they consume a significant amount of the electricity that the world produces. Some estimates suggest that data centers use between one and two percent of global electricity, and the number is growing.
+
+Servers need electricity for two main purposes. The first is computing itself: every search, every video and every message requires processors to work. The second is cooling. Servers produce a lot of heat, and if they become too hot, they fail. In older data centers, the energy for cooling was sometimes almost equal to the energy for computing.
+
+The rapid growth of artificial intelligence has increased the pressure. Training a large language model requires thousands of powerful processors that work for weeks. After training, every question that users ask the model also requires energy. As a result, several large technology companies have reported that their energy use increased significantly in recent years.
+
+The industry is trying to respond in various ways. Companies build data centers in cold countries, where the outside air can cool the servers. They design new chips that do more work with less power. Some companies buy energy from wind and solar sources. In addition, engineers are developing smaller models that can provide similar results with much less computing.
+
+This does not mean that we should stop using digital services. But it shows us that the cloud is not a cloud at all. It is a physical industry with physical costs, and every click has a small price that someone, in some place, pays.
+#שאלה What is a data center, according to the text? | a huge building full of servers that work day and night | a place where people study data | a cloud of data in the air | an office of a technology company | זו ההגדרה בפסקה הראשונה.
+#שאלה What do some estimates suggest about data centers? | They use between one and two percent of global electricity | They use most of the electricity in the world | They use less electricity every year | They do not use electricity | המספר הוא אחוז עד שני אחוזים, והוא גדל.
+#שאלה What are the two main purposes for which servers need electricity? | computing and cooling | computing and lights | cooling and heating | storage and advertising | שתי המטרות מפורטות בפסקה השנייה.
+#שאלה Why do servers need cooling? | They produce a lot of heat, and if they become too hot, they fail | Users prefer cold servers | Cooling makes them faster than light | The government requires it | שרתים מייצרים חום רב ונכשלים אם הם מתחממים מדי.
+#שאלה What does the text say about older data centers? | The energy for cooling was sometimes almost equal to the energy for computing | They did not need cooling | They used solar energy | They were in cold countries | זה הנתון בסוף הפסקה השנייה.
+#שאלה Why has artificial intelligence increased the pressure? | Training and using large models require a lot of computing | It makes servers cooler | It reduces the number of users | It replaces data centers | גם האימון וגם כל שאלה של משתמש דורשים אנרגיה.
+#שאלה Why do companies build data centers in cold countries? | The outside air can cool the servers | Electricity is free there | There are more users there | The government requires it | האוויר הקר בחוץ עוזר לקרר את השרתים.
+#שאלה Which response of the industry is NOT in paragraph 4? | asking users to stop using the cloud | building data centers in cold countries | designing new chips | developing smaller models | הכותב אומר במפורש שהוא לא מציע להפסיק להשתמש בשירותים.
+#שאלה What does the writer want to say with "the cloud is not a cloud at all"? | The cloud is a physical industry with real costs | Clouds in the air store data | The cloud does not exist | The cloud is free of cost | השם "ענן" מסתיר תעשייה פיזית עם עלויות אמיתיות.
+#שאלה What is the attitude of the writer at the end of the text? | He does not reject digital services, but he wants people to know their cost | very angry at technology companies | extremely optimistic about the future | not interested in the topic | הכותב לא שולל שימוש, אבל מבקש להיות מודעים למחיר.
+
+
+#סיפור Designing for Everyone | קשה
+Imagine that you cannot see the screen of your phone. How would you read a message, buy a ticket, or check your bank account? For millions of blind people, this is a real question. They use a screen reader: a program that reads the content of the screen aloud. A screen reader can work well, but only if the developers designed the application with it in mind.
+
+This is the idea of accessibility: designing technology that people with different abilities can use. Accessibility includes people who cannot see or hear, people who cannot use a mouse, people with difficulties in reading, and older people who do not see as well as before. According to some estimates, about one in six people in the world has a significant disability.
+
+Many accessibility problems are simple to fix. A button that is only an icon, with no text, has no meaning for a screen reader, which can only say "button." An image without a short description is invisible to a blind user. Text with light grey letters on a white background is hard to read for many people. A form that people can complete only with a mouse does not allow users who rely on the keyboard to use it.
+
+Interestingly, designs that help people with a disability often help everyone. Subtitles in videos were created for deaf people, but today many people use them on the bus or in a room with a lot of noise. Clear language helps users who read slowly, and it also helps users who simply do not have much time.
+
+In several countries, the law now requires accessibility for the websites of governments and large companies. But experts argue that the strongest reason is not the law. It is the simple principle that technology should not leave anyone behind.
+#שאלה What does a screen reader do? | It reads the content of the screen aloud | It makes the screen bigger | It reads the face of the user | It translates websites | זו ההגדרה בפסקה הראשונה.
+#שאלה When does a screen reader work well, according to paragraph 1? | only if the developers designed the application with it in mind | always | only on new phones | only with a mouse | כתוב: but only if the developers designed the application with it in mind.
+#שאלה Which group is NOT mentioned as part of accessibility? | people who do not speak English | people who cannot see or hear | people who cannot use a mouse | older people who do not see as well as before | אנשים שלא דוברים אנגלית לא מוזכרים ברשימה.
+#שאלה Why is a button with only an icon a problem for a blind user? | The screen reader can only say "button" | The icon is too small | The button does not work | Blind users cannot use phones | לקורא המסך אין טקסט להקריא.
+#שאלה Why is light grey text on a white background a problem? | The letters and the background are too similar, so it is hard to read | Grey is not popular | It uses too much energy | Screen readers cannot read grey | ניגודיות נמוכה מקשה על הקריאה.
+#שאלה What is the problem with a form that people can complete only with a mouse? | Users who rely on the keyboard cannot use it | It is too slow | It is too long | It does not save the data | משתמשים שתלויים במקלדת לא יכולים להשתמש בו.
+#שאלה What is the main point of paragraph 4? | Designs for people with a disability often help everyone | Subtitles are only for deaf people | Clear language is not important | Buses have a lot of noise | הדוגמאות של כתוביות ושפה ברורה מראות תועלת לכולם.
+#שאלה Why does the writer mention people on the bus? | to show that subtitles are useful for people without a disability | to show that buses need accessibility | to describe deaf people | to explain how screen readers work | זו דוגמה לכך שעיצוב נגיש עוזר גם למי שאין לו מוגבלות.
+#שאלה What do experts consider the strongest reason for accessibility? | the principle that technology should not leave anyone behind | the law | the money of companies | the opinion of governments | מסיח מטעה: החוק קיים, אבל המומחים אומרים שהוא לא הסיבה החזקה ביותר.
+#שאלה What is the main purpose of the text? | to explain what accessibility is and why it matters | to sell screen readers | to show that blind people make mistakes | to describe the history of the mouse | הטקסט מסביר את המושג, נותן דוגמאות ומסביר את החשיבות.
+
+#סיפור How Companies Decide With Two Versions | קשה
+How does a large website decide whether a big button is better than a small one, or whether a shorter form will bring more customers? In the past, such decisions often came from the opinion of the most important person in the room. Today, many companies use a method called A/B testing.
+
+The principle is simple. The company creates two versions of a page: version A, the current one, and version B, with one change. Then it divides its users by chance into two groups. One group sees version A, and the other sees version B. After some time, the company compares the results. If significantly more users of version B complete a purchase, the company has evidence that the change works.
+
+The power of this method is that it measures what people actually do, not what they say. When companies ask them, users often say that they prefer one design, but their behavior shows the opposite. A/B testing also protects companies from their own intuition, which is often wrong. Some large companies report that most of the ideas that their experts believed in did not improve the results at all.
+
+However, the method has limits. First, it requires many users. A small website with a few hundred users a day may need months to reach a reliable result. Second, it measures short-term behavior. A design that increases clicks today may make users angry and reduce their trust over time. Third, if a company runs too many tests and looks only at the positive results, some of those results will be only chance.
+
+A/B testing is therefore a valuable tool, but it cannot replace thinking. Good teams use it to check their ideas, not to decide what their ideas should be.
+#שאלה How were such decisions often made in the past? | from the opinion of the most important person in the room | with A/B testing | by users | by chance | בעבר החליט מי שהיה הכי חשוב בחדר.
+#שאלה What is the difference between version A and version B? | Version B has one change | Version A is newer | Version B has many changes | They are identical | גרסה B זהה לגרסה הנוכחית, חוץ משינוי אחד.
+#שאלה Why does the company divide its users by chance? | so that the two groups are similar and the change is the only difference | so that the test is faster | because users ask for it | to give more users version B | חלוקה אקראית מבטיחה שההבדל היחיד בין הקבוצות הוא השינוי. זו הסקה, לא משפט מפורש.
+#שאלה What is "the power of this method", according to paragraph 3? | It measures what people actually do, not what they say | It is cheap | It needs few users | It replaces experts | זה המשפט הראשון בפסקה.
+#שאלה What did some large companies discover about the ideas of their experts? | Most of them did not improve the results | All of them improved the results | The experts did not have ideas | The ideas were too expensive | רוב הרעיונות שהמומחים האמינו בהם לא שיפרו דבר.
+#שאלה Why is A/B testing difficult for a small website? | It may need months to reach a reliable result | It is not allowed | Small websites have no versions | Its users do not click | אתר עם מעט משתמשים צריך הרבה זמן לתוצאה אמינה.
+#שאלה Which limit of A/B testing is described in paragraph 4? | A design can increase clicks today but reduce trust over time | It always shows the opposite result | It measures only what users say | It works only for big buttons | הבדיקה מודדת התנהגות בטווח הקצר, ולא את ההשפעה על אמון לאורך זמן.
+#שאלה Why can some positive results be "only chance"? | If a company runs many tests and looks only at the positive results, some will be only chance | Users click by chance | The groups are too large | The tests are too short | כשמריצים הרבה בדיקות, חלק מהתוצאות החיוביות יופיעו במקרה.
+#שאלה What does the writer think about A/B testing? | It is a valuable tool, but it cannot replace thinking | It is useless | It should decide every idea | It is only for large companies | המשפט האחרון: כלי לבדיקת רעיונות, לא תחליף לחשיבה.
+#שאלה "Good teams use it to check their ideas, not to decide what their ideas should be." This means that good teams: | first think of an idea and then test it | test every possible button | let the test create ideas | never test their ideas | הרעיון בא מהצוות, והבדיקה רק מאמתת אותו.
+
+#סיפור When the Application Is Free, What Is the Product? | קשה
+Many of the most popular applications in the world are free. We can send messages, search for information, watch videos and store photos without paying anything. Yet the companies that provide these services are some of the richest in the world. How is this possible?
+
+The answer, in most cases, is advertising. A free platform attracts a huge number of users, and it sells the attention of those users to advertisers. But attention alone is not very valuable. What makes it valuable is data. The more a platform knows about you, the more exactly it can show you advertisements that match your interests, and the more advertisers will pay for each advertisement. For this reason, there is a famous saying in the technology world: "If you are not paying for the product, you are the product."
+
+This model has clear benefits. It allows people with little money to use powerful tools, and it has helped billions of people to communicate. However, some experts argue that it also creates a problem. A company that earns money from data has a strong reason to collect as much data as possible, and to keep users on its platform for as long as possible, even when this is not good for them.
+
+Some alternatives exist. A few services ask users to pay a small subscription instead of showing advertisements. Others use a model with two parts: the basic service is free, and users pay for extra features. In some countries, new laws limit the data that companies may collect without clear permission.
+
+No solution is perfect. But understanding how a free service earns its money helps users make more informed choices about what they share, and with which people.
+#שאלה What is surprising about the companies in paragraph 1? | Their applications are free, but they are some of the richest companies | They lose money | They charge high prices | They have few users | הפרדוקס: שירות חינמי, וחברות עשירות מאוד.
+#שאלה What does a free platform sell to advertisers, according to the text? | the attention of its users | its applications | the photos of its users | its servers | הפלטפורמה מוכרת את תשומת הלב של המשתמשים.
+#שאלה Why is data so important in this model? | It allows the platform to show advertisements that match the interests of users | It makes applications faster | It is required by law | Users pay for it | ככל שהפלטפורמה יודעת יותר, הפרסום מדויק ויקר יותר.
+#שאלה What does the saying "If you are not paying for the product, you are the product" mean? | The users and their data are what the company really sells | The product is free and has no cost | Users should pay for every application | Users create the product | המשתמש והנתונים שלו הם מה שנמכר בפועל.
+#שאלה Which benefit of the model is mentioned in paragraph 3? | It allows people with little money to use powerful tools | It protects privacy | It reduces advertising | It makes companies smaller | זה אחד היתרונות שהכותב מזכיר.
+#שאלה What problem do some experts see in this model? | A company that earns from data has a reason to collect too much data | Free applications are slow | Advertisers do not pay | Users stop using applications | לחברה יש אינטרס לאסוף כמה שיותר נתונים.
+#שאלה Which alternative is NOT in paragraph 4? | selling user data with permission | a small subscription instead of advertisements | a basic free service with extra paid features | laws that limit the data that companies collect | מכירת נתונים ברשות לא מוזכרת כחלופה.
+#שאלה In the model with two parts, what do users pay for? | extra features | the basic service | advertisements | their data | השירות הבסיסי חינמי, ומשלמים על תוספות.
+#שאלה What does the writer think about the solutions in paragraph 4? | No solution is perfect | All of them solve the problem | The law does not allow them | They are more expensive than advertising | המשפט האחרון מתחיל ב־No solution is perfect.
+#שאלה What is the main purpose of the text? | to explain how free applications earn money and what this means for users | to convince users to delete all applications | to show that advertising companies are always right | to describe the history of advertising | הטקסט מסביר את המודל, יתרונותיו, חסרונותיו וחלופות.
+
+#סיפור Should Young People Still Learn to Code? | קשה
+Artificial intelligence can now write code. A developer can describe a function in simple English, and an AI assistant produces working code in seconds. Some tools can even build a small application from a short description. This change has led many people to ask a difficult question: if machines can write code, should young people still learn to program?
+
+Some experts believe that the answer is no, or at least not in the traditional way. They argue that the job of a programmer will change from writing code to describing problems and checking solutions. In their view, students should spend less time on the details of programming languages and more time on understanding problems, communicating clearly, and evaluating results.
+
+Others strongly argue the opposite. They point out that AI assistants often produce code that looks correct but contains small bugs or security problems. To notice these mistakes, a person must understand code deeply. A developer who cannot read code is like a manager who cannot read a contract: he must trust everything that he receives. Moreover, they argue, learning to program teaches more than a skill. It teaches a way of thinking: how to divide a large problem into small steps, how to find the cause of an error, and how to test an idea.
+
+Interestingly, both sides agree on one point. The most valuable skill in the future will not be typing code quickly. It will be the ability to understand what a system should do, to recognize when something is wrong, and to explain it to others, whether those others are people or machines.
+
+Perhaps the best answer, then, is not "yes" or "no," but "differently." Young people may still learn to code, but with AI as a partner, and with more focus on thinking than on memorizing.
+#שאלה Which change led people to ask the question in paragraph 1? | AI can now write code | Fewer young people study | Programming languages became harder | Computers became cheaper | הבינה המלאכותית כותבת קוד, ומכאן השאלה.
+#שאלה According to the first group of experts, how will the job of a programmer change? | from writing code to describing problems and checking solutions | from checking code to writing it | it will not change | programmers will not be needed at all | כתוב: will change from writing code to describing problems and checking solutions.
+#שאלה What do the experts in paragraph 3 say about code from AI assistants? | It can look correct but contain small bugs or security problems | It is always perfect | It is always wrong | It is too slow | הקוד נראה תקין אבל עלול להכיל באגים קטנים.
+#שאלה Why does the writer compare a developer who cannot read code to a manager who cannot read a contract? | Both must trust everything that they receive | Both earn a lot of money | Both work with contracts | Both write code | שניהם תלויים לחלוטין במה שנותנים להם.
+#שאלה According to the second group, what does learning to program teach in addition to a skill? | a way of thinking | a new language only | how to type quickly | how to use AI | ללמוד לתכנת מלמד דרך חשיבה: חלוקה לשלבים, מציאת סיבה ובדיקת רעיון.
+#שאלה On which point do both sides agree? | The most valuable skill will be understanding systems and explaining them, not typing code quickly | Young people should not learn to code | AI will replace all programmers | Typing code quickly is the most important skill | שני הצדדים מסכימים שהמיומנות החשובה היא הבנה והסבר.
+#שאלה In paragraph 4, "whether those others are people or machines" tells us that: | in the future, people will need to explain problems both to people and to AI | only machines will need explanations | only people will need explanations | nobody will need explanations | ההסבר יידרש גם לבני אדם וגם למכונות.
+#שאלה What is the answer of the writer to the question in the title? | "differently": still learn, but with AI as a partner and more focus on thinking | "no": young people should stop learning to code | "yes": nothing should change | the writer gives no answer | התשובה של הכותב היא "אחרת".
+#שאלה Which sentence describes the text most clearly? | It asks a question, gives two opposite views, a point that both sides accept, and a conclusion | It tells the story of one programmer | It describes only one view | It gives a list of programming languages | הטקסט בנוי משאלה, שתי עמדות, נקודת הסכמה ומסקנה.
+#שאלה Which statement would the writer probably agree with? | A student who understands code can use AI assistants more safely | AI assistants are useless | Memorizing is more important than thinking | Students should stop learning to think | הכותב מדגיש הבנה וחשיבה, ושימוש בבינה מלאכותית כשותף.
+
+#סיפור Designs That Trick Users | בינוני
+Did you once try to cancel a subscription and found that the button was almost invisible? Or bought a ticket and discovered at the last step that the website had added insurance without asking you? These are examples of "dark patterns": design choices that push users to do something that they did not intend to do.
+
+Dark patterns take many forms. A website may make the "accept" button large and bright and the "reject" button small and grey. It may hide extra costs until the final step, when the user is already tired and wants to finish. Or it may require ten steps to cancel, while joining requires only one.
+
+Such designs can increase profits in the short term, but they damage trust. Several countries have now passed laws against the most common dark patterns. For people who design websites, the principle is simple: a good design helps users achieve their own goals, not the goals of the company against their will.
+#שאלה What is a "dark pattern", according to the text? | a design choice that pushes users to do something that they did not intend | a design with dark colors | a security bug | a type of malware | זו ההגדרה בסוף הפסקה הראשונה.
+#שאלה Which example of a dark pattern is NOT in paragraph 2? | sending too many emails | a small grey "reject" button | hiding extra costs until the final step | requiring many steps to cancel | שליחת מיילים רבים לא מוזכרת.
+#שאלה Why do some websites hide extra costs until the final step? | The user is tired and wants to finish | The costs are not real | The law requires it | Users ask for it | בשלב האחרון המשתמש עייף ורוצה לסיים, ולכן פחות יבטל.
+#שאלה What is the main problem of dark patterns, according to the writer? | They may increase profits but damage trust | They are too expensive | They make websites slow | They are always against the law | כתוב: they can increase profits in the short term, but they damage trust.
+
+#סיפור Why Websites Ask You to Prove You Are Human | בינוני
+Many websites ask you to click on all the pictures with a bus, or to type a few strange letters, before you can continue. Their purpose is to tell the difference between humans and automatic programs.
+
+Automatic programs can cause serious problems. They can create thousands of fake accounts, buy all the tickets for a show in seconds, or try millions of passwords on a login page. A test that is easy for a human but difficult for a program can slow them down.
+
+However, the competition between tests and automatic programs never ends. As artificial intelligence improves, programs can now solve many traditional tests better than people. For this reason, modern systems often do not show a test at all. Instead, they quietly watch the behavior of the user: how the mouse moves, how fast the user types, and whether the browser looks normal. Only when the behavior seems suspicious does the system show a test.
+#שאלה What is the purpose of these tests? | to tell the difference between humans and automatic programs | to test the knowledge of users | to make websites faster | to collect pictures of buses | זו המטרה שכתובה בפסקה הראשונה.
+#שאלה Which problem caused by automatic programs is NOT in paragraph 2? | deleting websites | creating fake accounts | buying all the tickets for a show | trying millions of passwords | מחיקת אתרים לא מוזכרת.
+#שאלה Why do traditional tests not work as well today? | Programs can now solve many of them better than people | People stopped using them | They are too easy for programs and humans | The law does not allow them | הבינה המלאכותית פותרת אותם טוב יותר מבני אדם.
+#שאלה When do modern systems show a test? | only when the behavior of the user seems suspicious | to every user | only on new websites | never | המערכות צופות בהתנהגות, ומציגות מבחן רק כשמשהו נראה חשוד.
+
+
+#סיפור Explaining the Problem to a Toy | בינוני
+Many experienced programmers keep a small toy on their desk, often a small toy duck. When they cannot find a bug, they explain their code to the duck, line by line, as if it were a colleague. Surprisingly, this strange method works very often.
+
+The reason is psychological. When we read our own code quietly, our brain fills the gaps. We see what we intended to write, not what we actually wrote. But when we must explain every line aloud, in simple words, we must slow down and check each assumption. Suddenly, we notice that a variable is never updated, or that a condition is the opposite of what we planned.
+
+The duck itself does nothing. Any listener would work: a friend, a cat, or even an empty chair. The important part is the act of explaining. For this reason, many teachers recommend a similar strategy for students: if you can explain an idea simply, you probably understand it. If you cannot, you have found the part that you need to study again.
+#שאלה What do some programmers do when they cannot find a bug? | They explain their code to a toy duck, line by line | They delete the code | They ask the duck for the answer | They buy a new computer | הם מסבירים את הקוד לברווז, שורה אחרי שורה.
+#שאלה Why does the method work, according to paragraph 2? | Explaining aloud makes us check each assumption | The duck finds the bug | Ducks make programmers calm | It makes the code shorter | כשמסבירים בקול, מאטים ובודקים כל הנחה, ולא רואים רק מה שהתכוונו לכתוב.
+#שאלה "Our brain fills the gaps." What does this mean in the text? | We see what we intended to write, not what we actually wrote | We forget our code | We add new code | We find every bug | זה ההסבר שמופיע מיד אחרי המשפט.
+#שאלה What does the writer want to show with "a friend, a cat, or even an empty chair"? | The listener is not important; the act of explaining is | Cats are good programmers | Programmers need friends | Chairs help people think | אין חשיבות למי שמקשיב, אלא לפעולת ההסבר.
+
+#סיפור Why Does a Light Application Need Your Contacts? | בינוני
+When you install a new application, it often asks for permissions: access to your camera, your microphone, your location, or your contacts. Some of these requests are reasonable. A map application needs your location, and a video call application needs your camera. But why would a simple application that turns on the light of your phone need access to your contacts?
+
+In several studies, researchers examined thousands of free applications and found that many of them asked for permissions that had no connection to their function. In some cases, the data was sent to advertising companies or sold to other businesses. The user had agreed, but only by clicking "allow" without reading.
+
+Modern phones give users more choice. You can allow access only while the application is in use, give a general location instead of an exact one, or remove permissions later in the settings. The best habit is to ask a simple question every time: does this application really need this permission to do its job? If the answer is no, the safest choice is to say no.
+#שאלה Which permission request is described as reasonable? | a map application that needs your location | a light application that needs your contacts | a game that needs your microphone | a simple game that needs your camera | הדוגמה הסבירה היא אפליקציית מפות שצריכה מיקום.
+#שאלה What did researchers find in several studies? | Many applications asked for permissions that had no connection to their function | All applications asked for reasonable permissions | Most applications did not ask for permissions | Users always read the permissions | רבות ביקשו הרשאות שלא קשורות לתפקיד שלהן.
+#שאלה Why does the writer say that users "had agreed, but only by clicking 'allow' without reading"? | to show that users gave permission without really understanding it | to show that users are criminals | to show that the applications broke the law | to explain how to read faster | ההסכמה הייתה טכנית, לא מודעת.
+#שאלה Which option do modern phones give, according to the text? | giving a general location instead of an exact one | deleting the application automatically | blocking all advertisements | changing the price of the application | זו אחת מהאפשרויות שמופיעות בפסקה האחרונה.
+
+#סיפור The Story of Your Data | בינוני
+Every time you use the internet, you leave small traces behind you: the websites that you visit, the things that you search for, the posts that you like, and the places where your phone has been. Together, these traces create a digital footprint, a picture of your life that can remain online for many years.
+
+Some of this footprint is active: you create it on purpose when you post a photo or write a comment. Much of it, however, is passive: it is collected without your direct action, by cookies, applications and devices. Many people are surprised to discover how much a company can learn about them from passive data alone, including their interests, their daily routine and even their political opinions.
+
+A digital footprint can have real consequences. Employers often search for candidates online before an interview, and an old post can affect a decision. For this reason, experts recommend checking what appears when you search for your own name, deleting old accounts that you no longer use, and thinking twice before you share something that you may not want to see in ten years.
+#שאלה What is a digital footprint? | the picture of your life that the traces you leave online create | a type of malware | a password | a type of computer game | זו ההגדרה בפסקה הראשונה.
+#שאלה What is the difference between an active and a passive footprint? | An active footprint you create on purpose; a passive one is collected without your direct action | An active footprint is always larger | A passive footprint is always deleted | There is no difference | ההבחנה מוסברת בפסקה השנייה.
+#שאלה What surprises many people, according to paragraph 2? | how much a company can learn about them from passive data alone | that they have no footprint | that cookies are useful | that applications are free | אנשים מופתעים לגלות כמה אפשר ללמוד עליהם מנתונים פסיביים.
+#שאלה Which step do the experts NOT recommend in the last paragraph? | Stop using the internet completely | Check what appears when you search for your own name | Delete old accounts that you no longer use | Think twice before you share something | הכותב לא ממליץ להפסיק להשתמש באינטרנט.
+
+
+#סיפור Two Programmers, One Keyboard | בינוני
+In pair programming, two developers work together at one computer. One of them types the code. The other watches, thinks about the general direction, and notices mistakes. Every hour or so, they change roles.
+
+At first, this method seems like a waste. Why pay two people to do the work of one? However, studies suggest that pairs often produce code with significantly fewer bugs, and they solve difficult problems faster, because two minds consider more options. Pair programming is also an effective way to train new developers: a new programmer learns more in a week with an experienced partner than in a month alone.
+
+The method is not suitable for every job. Simple, routine work does not need two people, and some developers feel tired after they work with another person all day. Many teams therefore use pair programming only for complex features, for difficult bugs, and for training.
+#שאלה What does the second developer do while the first one types? | He watches, thinks about the general direction, and notices mistakes | He types other code | He tests the application | He talks to customers | השני לא מקליד. הוא צופה, חושב על הכיוון ומזהה טעויות.
+#שאלה Why does pair programming seem like a waste at first? | Two people seem to do the work of one | It needs two computers | It is very slow | It creates more bugs | נראה שמשלמים לשניים על עבודה של אחד.
+#שאלה Which benefit of pair programming is described in the text? | fewer bugs and faster solutions to difficult problems | lower salaries | less talking in the team | no need for testing | זה מה שהמחקרים מצביעים עליו.
+#שאלה For which type of work do many teams NOT use pair programming? | simple, routine work | complex features | difficult bugs | training new developers | עבודה פשוטה ושגרתית לא צריכה שני אנשים.
+
+#סיפור What the Numbers in a Version Mean | בינוני
+Many applications have version numbers such as 3.2.1. These numbers are not there by chance. Many developers follow a system in which each of the three numbers has a specific meaning.
+
+The last number changes when the developers fix bugs without changing how the application works. The middle number changes when they add new features, but old features continue to work as before. The first number changes when there is a major change that may break things: an old feature may disappear, or another program that depended on the application may stop working.
+
+This system helps other developers decide when to update. An update from 3.2.1 to 3.2.2 is usually safe. An update from 3.2.1 to 3.3.0 adds features and should also be safe. But an update from 3.2.1 to 4.0.0 is a warning: read the notes carefully, because your code may need changes.
+#שאלה What changes when developers only fix bugs? | the last number | the first number | the middle number | all three numbers | המספר האחרון משתנה בתיקוני באגים.
+#שאלה What does a change in the middle number usually tell us? | New features were added, and old features still work | A major change may break things | Only bugs were fixed | The application was deleted | המספר האמצעי מציין תכונות חדשות בלי לשבור ישנות.
+#שאלה Which update is the most likely to require changes in your code? | from 3.2.1 to 4.0.0 | from 3.2.1 to 3.2.2 | from 3.2.1 to 3.3.0 | from 3.2.2 to 3.2.3 | שינוי במספר הראשון הוא אזהרה.
+#שאלה Why does this system help other developers? | It helps them decide when an update is safe | It makes applications faster | It replaces testing | It fixes bugs automatically | המספרים מאותתים על סוג השינוי, וכך עוזרים להחליט.
+
+#סיפור The Phone Call at Three in the Morning | בינוני
+Large online services must work 24 hours a day. When something breaks at three in the morning, someone must respond. For this reason, many companies use an "on-call" system: every week, one or two engineers have the job of responding to serious alerts, even at night and on weekends.
+
+Being on call can create a lot of pressure. An engineer may be woken up several times in one night, and he must make important decisions while he is tired. If alerts are frequent and many of them are false, engineers become exhausted, and they may begin to ignore warnings.
+
+Experienced teams try to make on-call work possible for a long time. They divide the responsibility fairly between the people in the team. They remove alerts that do not require a real action. They write clear instructions for common problems, so that a tired engineer does not need to think from zero. And after every serious night, they ask a simple question: how can we make sure that this alert never wakes anyone again?
+#שאלה Why do many companies use an on-call system? | Large online services must work 24 hours a day, and someone must respond to problems | Engineers want to work at night | Customers call at night | It is cheaper | השירות פועל כל הזמן, ולכן צריך מי שיגיב לתקלות.
+#שאלה What can happen when alerts are frequent and many of them are false? | Engineers become exhausted and may begin to ignore warnings | Engineers work faster | The system becomes safer | The alerts stop | עייפות מאזהרות שווא גורמת להתעלם גם מאזהרות אמיתיות.
+#שאלה Why do teams write clear instructions for common problems? | so that a tired engineer does not need to think from zero | so that customers can fix problems | to replace the engineers | because the law requires it | מהנדס עייף בלילה צריך הוראות ברורות.
+#שאלה What question do teams ask after every serious night? | How can we make sure that this alert never wakes anyone again? | Who made the mistake? | How much did the night cost? | Which engineer was the fastest? | המטרה היא למנוע את ההתראה הבאה, לא להאשים.
+
+#סיפור The Backup That Nobody Tested | בינוני
+A small company made a backup of its database every night for three years. The process was automatic, and every morning the system sent an email: "Backup completed successfully." Nobody was worried about data loss.
+
+Then a hardware failure damaged the main database completely. The technician opened the latest backup, and discovered that it was empty. In fact, every backup from the last eight months was empty. After an update, the backup program had lost permission to read the database. It continued to run every night and to create files, but the files contained nothing. And because the program did not check the content, it continued to report success.
+
+The company recovered part of its data from an old backup, but eight months of work were lost. The lesson is famous in the world of engineers: a backup that you have never restored is not a backup; it is only a wish. Experienced teams therefore test their backups often, by actually restoring them to a separate system and checking that the data is complete.
+#שאלה Why was nobody worried about data loss? | Every morning the system reported that the backup was successful | The database never had problems | The company had two databases | The technician checked the backups every week | ההודעה היומית יצרה תחושת ביטחון מזויפת.
+#שאלה Why were the backups empty? | After an update, the backup program lost permission to read the database | Hackers deleted them | The disk was full | The technician deleted them | אחרי עדכון, התוכנה איבדה הרשאה לקרוא את המסד.
+#שאלה Why did the program continue to report success? | It did not check the content of the files | It was broken | The technician changed it | The emails were fake | התוכנה יצרה קבצים, אבל לא בדקה שיש בהם תוכן.
+#שאלה What do experienced teams do, according to the last sentence? | They restore backups to a separate system and check that the data is complete | They make two backups every night | They stop making backups | They trust the emails | בודקים גיבוי רק על ידי שחזור אמיתי.
+
+#סיפור Why Video Meetings Make Us Tired | בינוני
+Since many people began to work from home, video meetings have become part of daily routine. Many workers report that a day of video meetings makes them more tired than a day of meetings in an office. Researchers have suggested several reasons for this.
+
+First, in a video meeting we look at faces from a very short distance for a long time, something that rarely happens in real life. Second, we see our own face on the screen all the time, and many people check how they look again and again. Third, we lose many of the small signals that we use in a normal conversation, such as small movements of the hands, so the brain must work harder to understand others. Finally, there is no natural break: one meeting often begins one minute after the previous one ended.
+
+Some simple changes can help. People can hide their own picture, turn off the camera when it is not necessary, and plan short breaks between meetings. Some companies have also decided that certain meetings can simply be an email.
+#שאלה What do many workers report about video meetings? | A day of video meetings makes them more tired than a day of meetings in an office | Video meetings are shorter | Video meetings are more interesting | They prefer video meetings | זו הטענה שהמחקרים מנסים להסביר.
+#שאלה Which reason for feeling tired is NOT in the text? | The internet connection is often slow | We look at faces from a very short distance | We see our own face all the time | There is no natural break between meetings | אינטרנט איטי לא מוזכר כסיבה.
+#שאלה Why must the brain work harder in a video meeting? | We lose many small signals that we use in a normal conversation | The screen is too bright | The meetings are in English | People speak faster | חסרים אותות קטנים, כמו תנועות ידיים.
+#שאלה Which change is suggested in the last paragraph? | hiding your own picture | buying a bigger screen | having longer meetings | always turning on the camera | הסתרת התמונה העצמית היא אחת ההצעות.

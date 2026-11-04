@@ -1,7 +1,7 @@
 {
  "v": "14",
  "date": "2026-11-03",
- "msg": "נוספו 19 מילים חדשות ו־50 קטעי קריאה חדשים. לחצו על השיעורים החדשים במסך הבית כדי להוסיף אותם.",
+ "msg": "נוספו 100 קטעי קריאה חדשים בנושאי טכנולוגיה (20 לכל שלב) ועוד מילים חדשות. לחצו על השיעורים החדשים במסך הבית כדי להוסיף אותם.",
  "notes": [
   "משפט חדש אחרי טעות",
   "הכתבה ומצא את המילה השגויה",
@@ -18,6 +18,17 @@
   {"id":"reading-stage-1-5","title":"קטעי קריאה · שלב א׳ וחצי","file":"packs/reading-stage-1-5.txt"},
   {"id":"reading-stage-2","title":"קטעי קריאה · שלב ב׳","file":"packs/reading-stage-2.txt"},
   {"id":"reading-stage-3","title":"קטעי קריאה · שלב ג׳","file":"packs/reading-stage-3.txt"},
-  {"id":"reading-stage-4","title":"קטעי קריאה · שלב ד׳","file":"packs/reading-stage-4.txt"}
+  {"id":"reading-stage-4","title":"קטעי קריאה · שלב ד׳","file":"packs/reading-stage-4.txt"},
+  {"id":"pdf-words-1-5","title":"מילים מהקטעים · ענן וסייבר","file":"packs/pdf-words-1-5.txt"},
+  {"id":"reading-pdf-cloud-cyber","title":"קטעים מהקבצים · ענן וסייבר","file":"packs/reading-pdf-cloud-cyber.txt"},
+  {"id":"tech-words-1-5","title":"מילים לקטעי טכנולוגיה · א׳ וחצי","file":"packs/tech-words-1-5.txt"},
+  {"id":"tech-reading-1","title":"קטעי טכנולוגיה · שלב א׳","file":"packs/tech-reading-1.txt"},
+  {"id":"tech-reading-1-5","title":"קטעי טכנולוגיה · שלב א׳ וחצי","file":"packs/tech-reading-1-5.txt"},
+  {"id":"tech-words-2","title":"מילים לקטעי טכנולוגיה · ב׳","file":"packs/tech-words-2.txt"},
+  {"id":"tech-reading-2","title":"קטעי טכנולוגיה · שלב ב׳","file":"packs/tech-reading-2.txt"},
+  {"id":"tech-words-3","title":"מילים לקטעי טכנולוגיה · ג׳","file":"packs/tech-words-3.txt"},
+  {"id":"tech-reading-3","title":"קטעי טכנולוגיה · שלב ג׳","file":"packs/tech-reading-3.txt"},
+  {"id":"tech-words-4","title":"מילים לקטעי טכנולוגיה · ד׳","file":"packs/tech-words-4.txt"},
+  {"id":"tech-reading-4","title":"קטעי טכנולוגיה · שלב ד׳","file":"packs/tech-reading-4.txt"}
  ]
 }

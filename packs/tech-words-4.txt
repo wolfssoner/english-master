@@ -1,0 +1,482 @@
+// English Master · מילים נוספות לקטעי הטכנולוגיה · שלב ד׳
+#חבילה מילים לקטעי טכנולוגיה · ד׳
+#מזהה tech-words-4
+#שלב 4
+
+#נושא פעלים
+#מילים
+anticipate | לצפות מראש
+concentrate | לרכז; להתרכז
+refuse | לסרב
+restart | להפעיל מחדש
+react | להגיב
+escape | להימלט
+intervene | להתערב
+disclose | לחשוף, לגלות
+advise | לייעץ
+delay | לדחות; עיכוב
+insert | להכניס, לשתול
+distribute | להפיץ
+flag | לסמן
+penetrate | לחדור
+infect | להדביק
+investigate | לחקור
+ship | לשלוח, להפיץ
+segment | לפצל, לחלק למקטעים
+trigger | להפעיל, לגרום ל־
+overwhelm | להציף, להכריע
+multiply | להכפיל (בחשבון)
+represent | לייצג
+explore | לחקור
+threaten | לאיים
+harvest | לקצור, לאסוף
+surround | להקיף
+balance | לאזן; איזון
+arrest | לעצור (משטרה)
+track | לעקוב
+discourage | להרתיע
+vary | להשתנות, לנוע בין
+ban | לאסור
+introduce | להכניס, להציג
+encounter | להיתקל
+switch | להחליף, לעבור
+behave | להתנהג
+
+#נושא ד׳ · מילים לקטעי טכנולוגיה
+#מילים
+status | מצב, סטטוס
+typo | שגיאת הקלדה
+chain | שרשרת
+reaction | תגובה
+minimum | מינימום
+truth | אמת
+bounty | פרס (על מציאת באג)
+reward | פרס, תגמול
+canary | כנרית
+miner | כורה
+bird | ציפור
+mine | מכרה
+gas | גז
+maximum | מקסימום
+flight | טיסה
+autopilot | טייס אוטומטי
+simulator | סימולטור
+emergency | מצב חירום
+transition | מעבר
+supervisor | מפקח, אחראי
+driver | נהג
+technique | טכניקה, שיטה
+interval | פרק זמן
+shard | מקטע
+architect | ארכיטקט
+signature | חתימה
+backdoor | דלת אחורית
+corporation | תאגיד
+installation | התקנה
+activity | פעילות
+ecosystem | מערכת אקולוגית
+supplier | ספק
+paradox | פרדוקס
+motivation | מוטיבציה, מניע
+checkout | שלב התשלום
+age | גיל; עידן
+universe | יקום
+bit | ביט
+qubit | קיוביט
+combination | צירוף, שילוב
+state | מצב
+property | תכונה
+possibility | אפשרות
+mathematician | מתמטיקאי
+castle | טירה
+attacker | תוקף
+verification | אימות
+photograph | תצלום
+fraction | חלק קטן, שבר
+passenger | נוסע
+passport | דרכון
+society | חברה (אנושית)
+critic | מבקר
+concern | חשש, דאגה
+skin | עור
+citizen | אזרח
+protest | מחאה
+agency | סוכנות, גוף
+debate | ויכוח, דיון
+instinct | אינסטינקט
+complexity | מורכבות
+failover | מעבר אוטומטי לגיבוי
+
+#נושא תארים ותארי פועל
+#מילים
+cascading | מתגלגל, משתרשר
+systemic | מערכתי
+uncomfortable | לא נוח
+simultaneously | בו־זמנית
+indirectly | בעקיפין
+ironically | באופן אירוני
+below | מתחת ל־
+idempotent | אידמפוטנטי (אותה תוצאה גם בהרצה חוזרת)
+worse | גרוע יותר
+dramatic | דרמטי
+partially | חלקית
+abrupt | פתאומי וחד
+impressive | מרשים
+notoriously | ידוע לשמצה
+legitimate | לגיטימי, חוקי
+dormant | רדום
+thoroughly | ביסודיות
+observable | ניתן לצפייה
+quantum | קוונטי
+mathematical | מתמטי
+prime | ראשוני
+classical | קלאסי
+parallel | מקביל
+unreliable | לא אמין
+medical | רפואי
+medieval | של ימי הביניים
+obsolete | מיושן, שאבד עליו הכלח
+frustrated | מתוסכל
+realistic | מציאותי
+widespread | נפוץ
+ethical | אתי
+innocent | חף מפשע
+continuously | ברציפות
+voluntarily | מרצון
+countless | אינספור
+correlated | מתואם
+secondary | משני
+primary | ראשי, עיקרי
+idle | לא פעיל, בטל
+outdated | מיושן
+graceful | הדרגתי, חלק
+regular | קבוע, סדיר
+
+#נושא מילים נוספות
+#מילים
+maintenance | תחזוקה
+coal | פחם
+chaos | כאוס, תוהו
+rate limiting | הגבלת קצב
+load shedding | שחרור עומס
+aviation | תעופה
+contamination | זיהום
+saturation | רוויה
+replication | שכפול, העתקה
+sharding | חלוקה למקטעים (sharding)
+consistency | עקביות
+management | ניהול
+observability | יכולת צפייה (observability)
+convenience | נוחות
+facial recognition | זיהוי פנים
+recognition | זיהוי, הכרה
+police | משטרה
+consent | הסכמה
+resilience | חוסן, עמידות
+diversity | גיוון
+degradation | ירידה הדרגתית בביצועים
+
+#משפטים
+Nobody anticipated such a long outage. | אף אחד לא צפה הפסקה ארוכה כל כך.
+Good engineers anticipate problems before they occur. | מהנדסים טובים צופים בעיות לפני שהן מתרחשות.
+The cloud concentrates risk in a few providers. | הענן מרכז סיכון אצל מעט ספקים.
+It is hard to concentrate during frequent interruptions. | קשה להתרכז בזמן הפרעות תכופות.
+The system refused the request because the token was invalid. | המערכת סירבה לבקשה כי האסימון לא היה תקף.
+He refused to share his password. | הוא סירב לשתף את הסיסמה שלו.
+Restart the server after the update. | הפעל מחדש את השרת אחרי העדכון.
+The restart took three hours. | ההפעלה מחדש לקחה שלוש שעות.
+Check the status page of the provider. | בדוק את דף הסטטוס של הספק.
+The status of the request is "approved". | הסטטוס של הבקשה הוא "אושר".
+The system is down for scheduled maintenance. | המערכת מושבתת לתחזוקה מתוכננת.
+Old software requires a lot of maintenance. | תוכנה ישנה דורשת הרבה תחזוקה.
+A typo in the configuration caused the outage. | שגיאת הקלדה בתצורה גרמה להשבתה.
+Check the command for typos before you run it. | בדוק שאין שגיאות הקלדה בפקודה לפני שאתה מריץ אותה.
+One failure started a chain of problems. | כשל אחד התחיל שרשרת של בעיות.
+The supply chain of the product is very long. | שרשרת האספקה של המוצר ארוכה מאוד.
+The reaction of the users was very negative. | התגובה של המשתמשים הייתה שלילית מאוד.
+The quick reaction of the team prevented a crisis. | התגובה המהירה של הצוות מנעה משבר.
+Keep a minimum of three servers at all times. | שמור על מינימום של שלושה שרתים בכל רגע.
+The password must have a minimum of 12 characters. | הסיסמה חייבת לכלול מינימום של 12 תווים.
+The postmortem revealed an uncomfortable truth. | התחקיר חשף אמת לא נוחה.
+It is important to tell the truth about an incident. | חשוב לומר את האמת על תקרית.
+A cascading failure can stop many services. | כשל משתרשר יכול לעצור שירותים רבים.
+The cascading effect surprised the engineers. | האפקט המשתרשר הפתיע את המהנדסים.
+The problem was systemic, not personal. | הבעיה הייתה מערכתית, לא אישית.
+The team made systemic changes after the incident. | הצוות עשה שינויים מערכתיים אחרי התקרית.
+It was uncomfortable to talk about the mistake. | היה לא נוח לדבר על הטעות.
+The chair is very uncomfortable. | הכיסא מאוד לא נוח.
+Many users logged in simultaneously. | משתמשים רבים התחברו בו־זמנית.
+The two servers failed simultaneously. | שני השרתים נכשלו בו־זמנית.
+Many services depend indirectly on the same provider. | שירותים רבים תלויים בעקיפין באותו ספק.
+The change affected the users indirectly. | השינוי השפיע על המשתמשים בעקיפין.
+Ironically, the security tool itself was vulnerable. | באופן אירוני, כלי האבטחה עצמו היה פגיע.
+Ironically, the backup was stored on the same disk. | באופן אירוני, הגיבוי נשמר על אותו דיסק.
+The temperature fell below zero. | הטמפרטורה ירדה מתחת לאפס.
+The number of servers must not go below three. | מספר השרתים לא יכול לרדת מתחת לשלושה.
+Engineers often encounter unexpected problems. | מהנדסים נתקלים לעיתים קרובות בבעיות לא צפויות.
+We encountered a strange bug during the migration. | נתקלנו בבאג מוזר במהלך ההעברה.
+The system switched to the secondary server. | המערכת עברה לשרת המשני.
+Switch off the device before you open it. | כבה את המכשיר לפני שאתה פותח אותו.
+The application behaves strangely after the update. | האפליקציה מתנהגת באופן מוזר אחרי העדכון.
+We do not know how the system behaves when traffic is high. | אנחנו לא יודעים איך המערכת מתנהגת כשהתעבורה גבוהה.
+Resilience is more than redundancy. | חוסן הוא יותר מכפילות.
+The resilience of the network was tested during the crisis. | החוסן של הרשת נבחן במהלך המשבר.
+His first instinct was to restart the server. | האינסטינקט הראשון שלו היה להפעיל מחדש את השרת.
+Trust your instinct, but check the data. | סמוך על האינסטינקט שלך, אבל בדוק את הנתונים.
+The complexity of the system makes it hard to maintain. | המורכבות של המערכת מקשה על התחזוקה שלה.
+Each new feature increases complexity. | כל פיצ'ר חדש מגביר את המורכבות.
+Diversity in the team brings new ideas. | גיוון בצוות מביא רעיונות חדשים.
+Diversity of providers reduces shared risk. | גיוון ספקים מקטין סיכון משותף.
+The failover took only ten seconds. | המעבר האוטומטי לגיבוי לקח רק עשר שניות.
+Test the failover procedure regularly. | בדוק את נוהל המעבר לגיבוי באופן קבוע.
+Graceful degradation keeps the main features working. | ירידה הדרגתית שומרת על הפיצ'רים העיקריים פועלים.
+The degradation of performance was slow. | הירידה בביצועים הייתה איטית.
+Redundancy has prevented countless outages. | כפילות מנעה אינספור השבתות.
+There are countless ways to make a mistake. | יש אינספור דרכים לעשות טעות.
+The two failures were correlated. | שני הכשלים היו מתואמים.
+Correlated risks affect all the copies at once. | סיכונים מתואמים משפיעים על כל העותקים בבת אחת.
+The secondary server was outdated. | השרת המשני היה מיושן.
+This is a secondary problem. | זו בעיה משנית.
+The primary database is in another country. | מסד הנתונים הראשי נמצא במדינה אחרת.
+The primary goal is to protect the data. | המטרה העיקרית היא להגן על הנתונים.
+The server was idle most of the night. | השרת היה לא פעיל רוב הלילה.
+Idle accounts should be deleted. | חשבונות לא פעילים צריך למחוק.
+The documentation is outdated. | התיעוד מיושן.
+Outdated software is a security risk. | תוכנה מיושנת היא סיכון אבטחה.
+The application handles errors in a graceful way. | האפליקציה מטפלת בשגיאות בצורה חלקה.
+We run regular tests of our backups. | אנחנו מריצים בדיקות קבועות של הגיבויים שלנו.
+Regular updates keep the system secure. | עדכונים סדירים שומרים על המערכת מאובטחת.
+The phone unlocks with facial recognition. | הטלפון נפתח בעזרת זיהוי פנים.
+Facial recognition makes more errors with some groups. | זיהוי פנים עושה יותר טעויות עם קבוצות מסוימות.
+The system identified him from a photograph. | המערכת זיהתה אותו מתצלום.
+The photograph was taken by a security camera. | התצלום צולם על ידי מצלמת אבטחה.
+The system responds in a fraction of a second. | המערכת מגיבה בשבריר שנייה.
+Only a fraction of the users updated the application. | רק חלק קטן מהמשתמשים עדכנו את האפליקציה.
+The passengers waited for two hours at the airport. | הנוסעים חיכו שעתיים בשדה התעופה.
+The application checks the tickets of passengers. | האפליקציה בודקת את הכרטיסים של הנוסעים.
+Do not forget your passport. | אל תשכח את הדרכון שלך.
+The system checks passports automatically. | המערכת בודקת דרכונים אוטומטית.
+The police studied the evidence of the cyberattack. | המשטרה בחנה את הראיות של מתקפת הסייבר.
+The police arrested two hackers. | המשטרה עצרה שני האקרים.
+Technology changes society. | הטכנולוגיה משנה את החברה.
+Society must decide how to use this technology. | החברה צריכה להחליט איך להשתמש בטכנולוגיה הזו.
+Critics argue that the system is not accurate. | מבקרים טוענים שהמערכת לא מדויקת.
+The critics of the project raised serious concerns. | מבקרי הפרויקט העלו חששות רציניים.
+Privacy is a major concern for users. | פרטיות היא חשש מרכזי של משתמשים.
+The engineers shared their concerns with the manager. | המהנדסים שיתפו את החששות שלהם עם המנהל.
+The watch measures the temperature of the skin. | השעון מודד את הטמפרטורה של העור.
+Some systems make more errors with darker skin. | מערכות מסוימות עושות יותר טעויות עם עור כהה.
+Every citizen has the right to privacy. | לכל אזרח יש זכות לפרטיות.
+The government provides online services to citizens. | הממשלה מספקת שירותים מקוונים לאזרחים.
+The application collects data without consent. | האפליקציה אוספת נתונים בלי הסכמה.
+Ask for consent before you share personal data. | בקש הסכמה לפני שאתה משתף מידע אישי.
+Thousands of people joined the protest. | אלפי אנשים הצטרפו למחאה.
+People shared information about the protest on social media. | אנשים שיתפו מידע על המחאה ברשתות החברתיות.
+A government agency examined the breach. | סוכנות ממשלתית בחנה את הפריצה.
+Public agencies must follow clear rules. | גופים ציבוריים חייבים לפעול לפי כללים ברורים.
+There is a debate about the use of AI in schools. | יש ויכוח על השימוש בבינה מלאכותית בבתי ספר.
+The debate continued for hours. | הדיון נמשך שעות.
+The police arrested the suspect. | המשטרה עצרה את החשוד.
+Websites track users with cookies. | אתרים עוקבים אחרי משתמשים בעזרת עוגיות.
+The application tracks your location. | האפליקציה עוקבת אחרי המיקום שלך.
+High prices discourage people from buying. | מחירים גבוהים מרתיעים אנשים מלקנות.
+Surveillance can discourage people from speaking freely. | מעקב יכול להרתיע אנשים מלדבר בחופשיות.
+Prices vary from one country to another. | המחירים משתנים ממדינה למדינה.
+The results vary widely. | התוצאות משתנות מאוד.
+Some cities banned the technology. | ערים מסוימות אסרו את הטכנולוגיה.
+The platform banned the account. | הפלטפורמה חסמה את החשבון.
+The government introduced new regulations. | הממשלה הכניסה תקנות חדשות.
+The company introduced a new feature. | החברה הציגה פיצ'ר חדש.
+Smartphones are widespread. | סמארטפונים נפוצים מאוד.
+The use of AI is becoming widespread. | השימוש בבינה מלאכותית נעשה נפוץ.
+The use of personal data raises ethical questions. | השימוש במידע אישי מעלה שאלות אתיות.
+Engineers have an ethical responsibility. | למהנדסים יש אחריות אתית.
+An innocent person was arrested because of an error. | אדם חף מפשע נעצר בגלל טעות.
+He was innocent, but the system said otherwise. | הוא היה חף מפשע, אבל המערכת קבעה אחרת.
+The server runs continuously. | השרת פועל ברציפות.
+The system monitors traffic continuously. | המערכת מנטרת את התעבורה ברציפות.
+The company voluntarily stopped selling the product. | החברה הפסיקה מרצון למכור את המוצר.
+Users voluntarily shared their data. | המשתמשים שיתפו את הנתונים שלהם מרצון.
+Voice recognition helps users who cannot type. | זיהוי קולי עוזר למשתמשים שלא יכולים להקליד.
+The project received recognition from the industry. | הפרויקט זכה להכרה מהתעשייה.
+A high wall surrounded the old castle. | חומה גבוהה הקיפה את הטירה הישנה.
+The firewall surrounds the internal network. | חומת האש מקיפה את הרשת הפנימית.
+We must balance security and convenience. | אנחנו חייבים לאזן בין אבטחה לנוחות.
+Finding the right balance is difficult. | קשה למצוא את האיזון הנכון.
+The attacker used a stolen password. | התוקף השתמש בסיסמה גנובה.
+Attackers often begin with a phishing email. | תוקפים מתחילים לעיתים קרובות במייל פישינג.
+Every login requires verification. | כל התחברות דורשת אימות.
+The verification code arrived in a text message. | קוד האימות הגיע בהודעת טקסט.
+Security should not destroy convenience. | אבטחה לא צריכה להרוס את הנוחות.
+Many users choose convenience over security. | הרבה משתמשים מעדיפים נוחות על פני אבטחה.
+Old networks were built like a medieval castle. | רשתות ישנות נבנו כמו טירה מימי הביניים.
+The model of a medieval castle is not suitable today. | המודל של טירה מימי הביניים לא מתאים היום.
+This technology is now obsolete. | הטכנולוגיה הזו מיושנת היום.
+The old protocol became obsolete. | הפרוטוקול הישן יצא משימוש.
+Users were frustrated by the new login process. | המשתמשים היו מתוסכלים מתהליך ההתחברות החדש.
+He felt frustrated after many failed attempts. | הוא הרגיש מתוסכל אחרי הרבה ניסיונות כושלים.
+We need a realistic plan. | אנחנו צריכים תוכנית מציאותית.
+The estimate was not realistic. | ההערכה לא הייתה מציאותית.
+The computer can multiply huge numbers in a second. | המחשב יכול להכפיל מספרים ענקיים בשנייה.
+Multiply the price by the number of users. | הכפל את המחיר במספר המשתמשים.
+Each bit can represent 0 or 1. | כל ביט יכול לייצג 0 או 1.
+The icon represents a folder. | הסמל מייצג תיקייה.
+The team explored several solutions. | הצוות חקר כמה פתרונות.
+Children like to explore new applications. | ילדים אוהבים לחקור אפליקציות חדשות.
+Quantum computers may threaten current encryption. | מחשבים קוונטיים עלולים לאיים על ההצפנה הנוכחית.
+The attackers threatened to publish the data. | התוקפים איימו לפרסם את הנתונים.
+Attackers harvest data today and decrypt it later. | תוקפים אוספים נתונים היום ומפענחים אותם מאוחר יותר.
+Some applications harvest personal data from users. | אפליקציות מסוימות אוספות מידע אישי ממשתמשים.
+The age of the user is not stored. | הגיל של המשתמש לא נשמר.
+We live in the age of artificial intelligence. | אנחנו חיים בעידן הבינה המלאכותית.
+The universe is very old. | היקום עתיק מאוד.
+It would take longer than the age of the universe. | זה היה לוקח יותר זמן מגיל היקום.
+Eight bits make one character in old systems. | שמונה ביטים יוצרים תו אחד במערכות ישנות.
+A qubit can represent many states at the same time. | קיוביט יכול לייצג מצבים רבים בו־זמנית.
+The combination of two errors caused the crash. | הצירוף של שתי שגיאות גרם לקריסה.
+Try every combination of letters. | נסה כל צירוף של אותיות.
+The system is in an unstable state. | המערכת נמצאת במצב לא יציב.
+This property makes the algorithm robust. | התכונה הזו הופכת את האלגוריתם לחסין.
+Speed is an important property of the system. | מהירות היא תכונה חשובה של המערכת.
+There is a possibility that the data was stolen. | יש אפשרות שהנתונים נגנבו.
+The engineers considered every possibility. | המהנדסים שקלו כל אפשרות.
+The mathematician solved a famous problem. | המתמטיקאי פתר בעיה מפורסמת.
+Quantum computing is a new field. | מחשוב קוונטי הוא תחום חדש.
+Encryption uses mathematical problems. | הצפנה משתמשת בבעיות מתמטיות.
+Seven is a prime number. | שבע הוא מספר ראשוני.
+Classical computers use bits. | מחשבים קלאסיים משתמשים בביטים.
+The two processes run in parallel. | שני התהליכים רצים במקביל.
+The data was unreliable. | הנתונים היו לא אמינים.
+The connection is unreliable at night. | החיבור לא אמין בלילה.
+Medical records must be protected. | רשומות רפואיות חייבות להיות מוגנות.
+Medical data is very sensitive. | מידע רפואי רגיש מאוד.
+A rare input triggers the bug. | קלט נדיר מפעיל את הבאג.
+The alert was triggered at midnight. | ההתראה הופעלה בחצות.
+Too many alerts can overwhelm the team. | יותר מדי התראות עלולות להציף את הצוות.
+The amount of data overwhelmed the engineers. | כמות הנתונים הציפה את המהנדסים.
+Observability helps engineers understand why a system fails. | יכולת צפייה עוזרת למהנדסים להבין למה מערכת נכשלת.
+The team spent a lot of time on observability. | הצוות הקדיש הרבה זמן ליכולת צפייה.
+What was the motivation for this change? | מה היה המניע לשינוי הזה?
+Money is not the only motivation of developers. | כסף הוא לא המוטיבציה היחידה של מפתחים.
+Many customers leave at the checkout page. | הרבה לקוחות עוזבים בדף התשלום.
+The checkout process takes three steps. | תהליך התשלום לוקח שלושה שלבים.
+An observable system produces detailed data. | מערכת שניתנת לצפייה מייצרת נתונים מפורטים.
+The effect was observable after one week. | ההשפעה הייתה ניתנת לצפייה אחרי שבוע.
+Experts advise users to update their software. | מומחים מייעצים למשתמשים לעדכן את התוכנה שלהם.
+I advise you to check the backup. | אני ממליץ לך לבדוק את הגיבוי.
+Do not delay important updates. | אל תדחה עדכונים חשובים.
+The delay cost the company a lot of money. | העיכוב עלה לחברה הרבה כסף.
+The attackers inserted malicious code into the update. | התוקפים שתלו קוד זדוני בעדכון.
+Insert the card into the reader. | הכנס את הכרטיס לקורא.
+The company distributes the update to all customers. | החברה מפיצה את העדכון לכל הלקוחות.
+The malware was distributed through email. | התוכנה הזדונית הופצה דרך מייל.
+The system flagged the message as suspicious. | המערכת סימנה את ההודעה כחשודה.
+Security tools did not flag the update. | כלי האבטחה לא סימנו את העדכון.
+The attackers penetrated the network. | התוקפים חדרו לרשת.
+It is hard to penetrate a well-designed system. | קשה לחדור למערכת שתוכננה היטב.
+The virus infected thousands of computers. | הווירוס הדביק אלפי מחשבים.
+An infected device can spread malware. | מכשיר נגוע יכול להפיץ תוכנה זדונית.
+The team investigated the incident. | הצוות חקר את התקרית.
+The police investigated the breach. | המשטרה חקרה את הפריצה.
+The company ships updates every month. | החברה משחררת עדכונים כל חודש.
+Do not ship code that you have not tested. | אל תשחרר קוד שלא בדקת.
+Segment the network into separate parts. | חלק את הרשת לחלקים נפרדים.
+The company segmented its customers by country. | החברה חילקה את הלקוחות שלה לפי מדינה.
+The update has a valid digital signature. | לעדכון יש חתימה דיגיטלית תקפה.
+Please add your signature to the contract. | בבקשה הוסף את החתימה שלך לחוזה.
+He works in network management. | הוא עובד בניהול רשתות.
+Good management reduces risk. | ניהול טוב מקטין סיכון.
+The attackers left a backdoor in the system. | התוקפים השאירו דלת אחורית במערכת.
+A backdoor gives secret access to a system. | דלת אחורית נותנת גישה סודית למערכת.
+Large corporations were affected by the attack. | תאגידים גדולים נפגעו מהמתקפה.
+The corporation has offices in many countries. | לתאגיד יש משרדים במדינות רבות.
+The installation took ten minutes. | ההתקנה לקחה עשר דקות.
+Restart the computer after the installation. | הפעל מחדש את המחשב אחרי ההתקנה.
+The system detected suspicious activity. | המערכת זיהתה פעילות חשודה.
+Physical activity is good for the brain. | פעילות גופנית טובה למוח.
+The software ecosystem depends on trust. | המערכת האקולוגית של התוכנה תלויה באמון.
+The company built an ecosystem of applications. | החברה בנתה מערכת אקולוגית של אפליקציות.
+The supplier sent a faulty update. | הספק שלח עדכון תקול.
+Choose your suppliers carefully. | בחר את הספקים שלך בזהירות.
+The paradox is that more security can create new risks. | הפרדוקס הוא שיותר אבטחה יכולה ליצור סיכונים חדשים.
+This is a famous paradox. | זה פרדוקס מפורסם.
+The email looked legitimate. | המייל נראה לגיטימי.
+Attackers often hide inside legitimate software. | תוקפים מסתתרים לעיתים קרובות בתוך תוכנה לגיטימית.
+The virus remained dormant for weeks. | הווירוס נשאר רדום שבועות.
+A dormant account can be dangerous. | חשבון רדום יכול להיות מסוכן.
+The team tested the system thoroughly. | הצוות בדק את המערכת ביסודיות.
+Read the contract thoroughly. | קרא את החוזה ביסודיות.
+This technique reduces the load on the server. | הטכניקה הזו מפחיתה את העומס על השרת.
+Phishing is a common technique of attackers. | פישינג היא טכניקה נפוצה של תוקפים.
+Replication keeps copies of the data on several servers. | שכפול שומר עותקים של הנתונים על כמה שרתים.
+Replication takes a few milliseconds. | השכפול לוקח כמה אלפיות שנייה.
+The system makes a backup at regular intervals. | המערכת עושה גיבוי במרווחי זמן קבועים.
+During that interval, the data was outdated. | במהלך פרק הזמן הזה, הנתונים היו מיושנים.
+Sharding divides the data between several databases. | חלוקה למקטעים מחלקת את הנתונים בין כמה מסדי נתונים.
+Each shard stores part of the users. | כל מקטע שומר חלק מהמשתמשים.
+Consistency means that every user sees the same data. | עקביות פירושה שכל משתמש רואה את אותם נתונים.
+The team chose consistency over speed. | הצוות בחר בעקביות על פני מהירות.
+The architect designed the whole system. | הארכיטקט תכנן את כל המערכת.
+Software architects make difficult decisions. | ארכיטקטי תוכנה מקבלים החלטות קשות.
+Distributed systems are notoriously difficult to debug. | מערכות מבוזרות ידועות לשמצה כקשות לניפוי באגים.
+The old system was notoriously slow. | המערכת הישנה הייתה איטית באופן ידוע לשמצה.
+The company did not disclose the details of the breach. | החברה לא חשפה את פרטי הפריצה.
+Companies must disclose how they use personal data. | חברות חייבות לחשוף איך הן משתמשות במידע אישי.
+Contamination of the training data can make results misleading. | זיהום של נתוני האימון יכול להפוך תוצאות למטעות.
+The test was not reliable because of contamination. | המבחן לא היה אמין בגלל זיהום.
+The benchmark reached saturation. | המדד הגיע לרוויה.
+Saturation makes it hard to compare the best models. | רוויה מקשה להשוות בין המודלים הטובים ביותר.
+The results were impressive. | התוצאות היו מרשימות.
+The new model achieved impressive scores. | המודל החדש השיג ציונים מרשימים.
+The system lets the user intervene at any time. | המערכת מאפשרת למשתמש להתערב בכל רגע.
+Engineers must intervene when the automation fails. | מהנדסים חייבים להתערב כשהאוטומציה נכשלת.
+The flight was delayed because of a technical problem. | הטיסה נדחתה בגלל בעיה טכנית.
+The application shows the status of your flight. | האפליקציה מציגה את מצב הטיסה שלך.
+Aviation uses many automated systems. | תעופה משתמשת במערכות אוטומטיות רבות.
+Safety is the first priority in aviation. | בטיחות היא העדיפות הראשונה בתעופה.
+The autopilot flies the plane for most of the flight. | הטייס האוטומטי מטיס את המטוס ברוב הטיסה.
+The pilot turned off the autopilot. | הטייס כיבה את הטייס האוטומטי.
+Pilots train in a simulator. | טייסים מתאמנים בסימולטור.
+The simulator shows rare situations. | הסימולטור מציג מצבים נדירים.
+In an emergency, call the technician at once. | במצב חירום, התקשר לטכנאי מיד.
+The team practiced an emergency procedure. | הצוות תרגל נוהל חירום.
+The transition to the new system took a year. | המעבר למערכת החדשה לקח שנה.
+A slow transition requires planning. | מעבר איטי דורש תכנון.
+The supervisor approved the change. | המפקח אישר את השינוי.
+The role of the human changes from operator to supervisor. | התפקיד של האדם משתנה ממפעיל למפקח.
+The driver did not watch the road. | הנהג לא הסתכל על הכביש.
+Drivers of autonomous cars must stay alert. | נהגים של מכוניות אוטונומיות חייבים להישאר ערניים.
+There was a dramatic decline in errors. | הייתה ירידה דרמטית בשגיאות.
+The change had a dramatic effect. | לשינוי הייתה השפעה דרמטית.
+The car is partially autonomous. | המכונית אוטונומית באופן חלקי.
+The data was partially lost. | הנתונים אבדו באופן חלקי.
+The abrupt change confused the users. | השינוי הפתאומי בלבל את המשתמשים.
+The service stopped in an abrupt way. | השירות נעצר באופן פתאומי.
+Rate limiting protects the server from too many requests. | הגבלת קצב מגינה על השרת מפני יותר מדי בקשות.
+The application uses rate limiting on the login page. | האפליקציה משתמשת בהגבלת קצב בדף ההתחברות.
+Load shedding keeps the critical functions working. | שחרור עומס שומר על הפונקציות הקריטיות פועלות.
+The system started load shedding at peak time. | המערכת התחילה לשחרר עומס בשעת השיא.
+The maximum size of an image is limited. | הגודל המקסימלי של תמונה מוגבל.
+Each client can send a maximum of 100 requests. | כל לקוח יכול לשלוח מקסימום של 100 בקשות.
+The outage created chaos in the office. | ההשבתה יצרה כאוס במשרד.
+Chaos engineering tests the resilience of systems. | הנדסת כאוס בודקת את החוסן של מערכות.
+The system reacts quickly to new threats. | המערכת מגיבה מהר לאיומים חדשים.
+How did the users react to the change? | איך המשתמשים הגיבו לשינוי?
+The attackers escaped before the police arrived. | התוקפים נמלטו לפני שהמשטרה הגיעה.
+It is hard to escape from a filter bubble. | קשה להימלט מבועת סינון.
+A canary release tests a new version on a few users. | שחרור כנרית בודק גרסה חדשה על מעט משתמשים.
+The canary servers showed more errors. | שרתי הכנרית הראו יותר שגיאות.
+The miners worked many hours in the dark. | הכורים עבדו שעות רבות בחושך.
+The miners carried a bird into the mine. | הכורים לקחו ציפור למכרה.
+A small bird can detect dangerous gas. | ציפור קטנה יכולה לזהות גז מסוכן.
+Coal was the main source of energy for many years. | פחם היה מקור האנרגיה העיקרי במשך שנים רבות.
+The old coal mine is closed today. | מכרה הפחם הישן סגור היום.
+The gas was invisible and dangerous. | הגז היה בלתי נראה ומסוכן.
+The new version was worse than the old one. | הגרסה החדשה הייתה גרועה יותר מהישנה.
+The problem became worse after the update. | הבעיה החמירה אחרי העדכון.
+An idempotent request can be retried safely. | בקשה אידמפוטנטית אפשר לשלוח שוב בבטחה.
+Setting a value is idempotent, but adding to it is not. | קביעת ערך היא אידמפוטנטית, אבל הוספה אליו לא.
+The company offers a bounty for every vulnerability. | החברה מציעה פרס על כל פגיעות.
+She received a large bounty for her report. | היא קיבלה פרס גדול על הדיווח שלה.
+The reward depends on how serious the bug is. | התגמול תלוי בחומרת הבאג.
+The reward motivates researchers to report bugs. | התגמול מניע חוקרים לדווח על באגים.

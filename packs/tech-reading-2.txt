@@ -1,0 +1,339 @@
+// English Master · 20 קטעי קריאה בנושאי טכנולוגיה · שלב ב׳
+// 10 קטעים ארוכים עם 10 שאלות קשות, ו־10 קטעים בינוניים עם 4 שאלות
+#חבילה קטעי טכנולוגיה · שלב ב׳
+#מזהה tech-reading-2
+#שלב 2
+
+#סיפור The Update That Locked Everyone Out | קשה
+On a Thursday evening, a team of developers at a small company released a new version of their application. The new version had a better design for the login page, and all the tests on the computers of the developers passed. The oldest developer decided to deploy it at six in the evening, so that users would see the new design the next morning.
+
+At seven, the first messages arrived. Users could not log in. They entered the correct password, and the application said that the password was wrong. In one hour, the company received more than 500 messages from angry users. Some users thought that their account was attacked by hackers and changed their passwords, which only made the problem more confusing.
+
+The developers checked the code again. Everything looked correct. Then one developer, Noa, noticed a small detail. On their own computers, the developers used a test database. On the real servers, the application used another database with a different configuration. In the real configuration, the passwords were stored in a different format, and the new login code did not understand this format.
+
+The team had two possible plans: to fix the code that night or to return to the old version. The fix could take many hours, and nobody could promise that it would work. So the team returned to the old version in 20 minutes, and users could log in again.
+
+The next day, the team fixed the code, and this time they tested it in an environment that was identical to the real servers. They also made a new rule: no deployment after four in the afternoon, and no deployment on a Friday. "A test is only useful," Noa said, "if it tests the same thing that users will use."
+#שאלה Why did the team deploy the new version at six in the evening? | so that users would see the new design the next morning | because the tests failed | because users asked for it | because the servers were free at night | כתוב: so that users would see the new design the next morning.
+#שאלה What was the problem that users reported? | They entered the correct password, but the application said it was wrong | They forgot their passwords | Hackers changed their passwords | The new design did not appear | הסיסמה הייתה נכונה, והאפליקציה טענה שהיא שגויה.
+#שאלה Why did the problem become more confusing? | Some users changed their passwords because they thought hackers had attacked them | The developers deleted the database | The company stopped answering messages | The tests passed again | משתמשים ששינו סיסמה בגלל חשד לפריצה רק הוסיפו בלבול.
+#שאלה Why did all the tests pass on the computers of the developers? | The developers used a test database with a different configuration | The code had no bugs | The tests were not real | The developers used the old version | ההבדל בתצורה בין מסד הבדיקה למסד האמיתי הסתיר את הבאג.
+#שאלה What was the real cause of the bug? | The passwords on the real servers were stored in a format that the new login code did not understand | The passwords were stolen | The new design was too big | The servers were slow | הפורמט של הסיסמאות בשרתים האמיתיים היה שונה.
+#שאלה Why did the team return to the old version instead of fixing the code that night? | The fix could take many hours, and nobody could promise that it would work | The old version had a better design | The users asked for the old version | Noa did not find the cause | החזרה לגרסה הקודמת לקחה 20 דקות והייתה בטוחה, לעומת תיקון לא ודאי.
+#שאלה In paragraph 3, "this format" is: | the format in which the passwords were stored on the real servers | the format of the new design | the format of the test database | the format of the messages from users | המילה this מצביעה על הפורמט שבו נשמרו הסיסמאות בשרתים האמיתיים.
+#שאלה Which sentence is NOT correct? | The team fixed the code that same night | The team returned to the old version in 20 minutes | The company received more than 500 messages | Noa noticed that the two databases were not the same | את הקוד תיקנו רק למחרת.
+#שאלה Which new rule did the team make? | no deployment after four in the afternoon and no deployment on a Friday | no deployment at all | only Noa can deploy | every deployment must happen at night | שני הכללים מופיעים בפסקה האחרונה.
+#שאלה What does Noa want to say in the last sentence? | A test helps only when its environment is the same as the real one | Tests are useless | Users should test the application | Developers should not test their code | בדיקה בסביבה שונה מהאמיתית לא מגלה את הבעיות האמיתיות.
+
+#סיפור How Websites Should Store Your Password | קשה
+When you create an account on a website, you choose a password. Many people think that the website stores this password in its database, the same way it stores your name. A good website does not do this. If it did, every hacker who stole the database would also have the password of every user.
+
+Instead, a good website uses a special function. The function receives the password and creates a long string of letters and numbers. This string looks like letters with no meaning, and it has two important features. First, the same password always creates the same string. Second, it is almost not possible to go back from the string to the password. The website stores only the string.
+
+When you log in, the website does not compare your password with a stored password. It runs the function on the password that you entered and compares the result with the stored string. If they are the same, you entered the correct password. In this way, the website can check your password without knowing it.
+
+However, this method has a weak side. Many people use simple passwords, such as "123456" or "password". Hackers can run the function on a huge list of popular passwords and create a list of their strings. If a string from a stolen database is on the list, the hacker knows the password. To make this harder, good websites add a special value, different for each user, to each password before they run the function. Now two users with the same password have different strings, and the hacker's list is useless.
+
+No method can protect a password that is too simple. But a website that stores passwords correctly turns a stolen database from a terrible problem into a much smaller one.
+#שאלה Why does a good website not store your password as it is? | A hacker who stole the database would have the password of every user | Passwords take too much space | The government does not allow it | Users forget their passwords | כתוב בפסקה הראשונה: האקר שגונב את המסד היה מקבל את כל הסיסמאות.
+#שאלה Which feature of the special function is described in the text? | The same password always creates the same string | The string is always short | The string changes every day | Anyone can go back from the string to the password | מבין התכונות בטקסט: אותה סיסמה תמיד יוצרת אותה מחרוזת. האפשרות האחרונה הפוכה.
+#שאלה What does the website store, according to paragraph 2? | only the string that the function creates | the password and the string | only the password | nothing | כתוב: The website stores only the string.
+#שאלה How does the website check your password when you log in? | It runs the function on what you entered and compares the result with the stored string | It compares your password with the stored password | It sends your password to a hacker | It asks you a second question | מסיח מטעה: האתר לא משווה סיסמה לסיסמה, אלא מחרוזת למחרוזת.
+#שאלה "In this way, the website can check your password without knowing it." The word "it" is: | your password | the website | the function | the string | האתר בודק את הסיסמה בלי לדעת אותה.
+#שאלה What is the weak side of this method? | Hackers can create lists of strings for popular passwords | The function is too slow | The strings are too long | Users cannot log in | אפשר להריץ את הפונקציה על סיסמאות פופולריות ולבנות רשימה.
+#שאלה Why does the special value, different for each user, make the hacker's list useless? | Two users with the same password now have different strings | The value deletes the password | The value makes passwords longer for users | The value keeps the database secret | בגלל הערך המיוחד, אותה סיסמה יוצרת מחרוזות שונות אצל משתמשים שונים.
+#שאלה Which password would still be in danger, even with the best method? | 123456 | a long password with letters, numbers and symbols | a password that no other user has | a password with a special value | הכותב אומר שאף שיטה לא מגינה על סיסמה פשוטה מדי.
+#שאלה What does the writer mean in the last paragraph? | Correct storage makes a stolen database much less harmful | Correct storage prevents every attack | Simple passwords are safe with a good website | Stolen databases are never a problem | אחסון נכון לא מונע גניבה, אבל הופך אותה לבעיה קטנה בהרבה.
+#שאלה What is the main purpose of the text? | to explain how good websites protect passwords and where the method is weak | to teach hackers how to steal passwords | to show that all websites are safe | to describe the history of passwords | הטקסט מסביר את השיטה ואת מגבלותיה.
+
+
+#סיפור The Chatbot That Invented a Book | קשה
+A student, Lior, had to write a short article about the history of computers. She asked a popular chatbot for help. In a few seconds, the chatbot wrote a clear and confident paragraph. It even gave her the name of a book, its writer, and the year of the book as evidence. Lior was happy and added the book to her article.
+
+Her teacher checked the article and could not find the book. It did not exist. The writer was a real person, but he never wrote such a book. Lior was confused. Why would a computer invent a book?
+
+The answer is connected to the way these chatbots work. A chatbot uses a language model. During training, the model reads a huge amount of text from the internet and learns patterns: which words usually appear after which words. When you ask a question, the model does not search a database of facts. It creates an answer, word after word, that looks like the answers it saw during training. Usually, this pattern produces correct information. But when the model does not have enough information, it can still produce an answer that looks perfect and is completely false.
+
+Developers are trying to reduce the problem. Some chatbots now search the internet and show links to the websites where they found the information, so users can check them. Others are trained to say "I do not know" when they are not sure. But no chatbot is perfect yet.
+
+Lior learned an important lesson. A chatbot can be a useful tool for ideas and for the first version of a text. But every fact, and in particular every book or article that it gives as evidence, must be checked in a reliable place. A confident answer is not always a true one.
+#שאלה What did the chatbot give Lior, in addition to a paragraph? | the name of a book, its writer, and its year | a link to a website | a picture of the writer | a list of questions | הצ'אטבוט נתן שם ספר, כותב ושנה כראיה.
+#שאלה What was false in the answer of the chatbot? | The book did not exist, although the writer was a real person | The writer did not exist | The paragraph had mistakes in English | The year was in the future | מסיח מטעה: הכותב אמיתי, רק הספר מומצא.
+#שאלה According to paragraph 3, what does the model learn during training? | which words usually appear after which words | a database of facts | the names of all books | how to search the internet | המודל לומד דפוסים של מילים, לא מסד עובדות.
+#שאלה Why can a chatbot produce an answer that is completely false? | It creates text that looks like answers from training, even without enough information | It wants to deceive the user | Hackers change its answers | It searches the wrong database | המודל מייצר טקסט שנראה כמו תשובה גם כשאין לו מספיק מידע.
+#שאלה In paragraph 3, "this pattern produces correct information". When does it NOT produce correct information? | when the model does not have enough information | when the question is short | when the user is a student | when the internet is slow | המשפט הבא מסביר: כשאין למודל מספיק מידע.
+#שאלה Which way to reduce the problem is NOT in the text? | Asking users to pay for correct answers | Showing links to the websites where the information was found | Training chatbots to say "I do not know" | Searching the internet | תשלום לא מוזכר בטקסט.
+#שאלה What can we understand from "But no chatbot is perfect yet"? | The problem is smaller today, but it still exists | All chatbots are now perfect | Developers stopped working on the problem | Chatbots will never improve | המילה yet רומזת שהבעיה עדיין קיימת, למרות השיפור.
+#שאלה For what does the writer say a chatbot can be useful? | ideas and the first version of a text | checking facts | finding real books | writing the last version of the article | הכותב אומר במפורש שזה כלי טוב לרעיונות ולגרסה ראשונה, לא לבדיקת עובדות.
+#שאלה Which student acts as the writer recommends? | Dan uses a chatbot for ideas and then checks every fact in a reliable place | Noa copies the answer of the chatbot into her article | Tom trusts every book that the chatbot gives | Maya never uses a chatbot | רק דן משתמש בכלי ואז בודק כל עובדה.
+#שאלה What is the main idea of the text? | A confident answer from a chatbot can be false, so facts must be checked | Chatbots always invent books | Students should not write articles | Teachers do not trust students | המשפט האחרון מסכם את הרעיון.
+
+#סיפור Latency Is Not the Same as Bandwidth | קשה
+Omer pays for a very fast internet connection, but when he plays online games, his game is often slow. His character moves a little after he presses a button, and he loses games because of it. He called his internet company and asked for even more bandwidth. The company was happy to sell it to him, but the problem did not go away.
+
+The reason is that Omer confused two different things: bandwidth and latency. Bandwidth is the amount of data that can travel through a connection in one second. Latency is the time that one small packet of data needs to travel from your computer to the server and back. A good way to understand this is a road. Bandwidth is the number of lanes on the road. Latency is the distance to the city where you want to go. A road with ten lanes does not help if the city is very far.
+
+For watching videos, bandwidth is important, because a video needs a lot of data. For online games, latency is more important. A game sends only small amounts of data, but it needs to send them very quickly. If the game server is in another country, every packet needs to travel a long way, and nobody can make that way shorter.
+
+There are other causes too. A wireless connection usually has higher latency than a cable. Other devices on the same network can also slow down each packet.
+
+In the end, Omer made two changes. He connected his computer to the router with a cable, and he chose a game server in a nearer country. His latency dropped from 120 to 30 milliseconds, and his game felt fast again. He did not need to pay for more bandwidth at all.
+#שאלה What was Omer's problem? | His character moved a little after he pressed a button | His internet was too slow for videos | His computer was broken | He could not connect to the internet | הבעיה הייתה עיכוב בתגובה במשחק.
+#שאלה Why did the problem not go away after Omer bought more bandwidth? | The problem was latency, not bandwidth | The company did not give him more bandwidth | The game was broken | His router was off | הוא בלבל בין שני מושגים. רוחב פס לא פותר השהיה.
+#שאלה What is latency, according to the text? | the time that a small packet needs to travel to the server and back | the amount of data that travels in one second | the number of devices on a network | the price of an internet connection | זו ההגדרה בפסקה השנייה. האפשרות השנייה היא ההגדרה של רוחב פס.
+#שאלה In the picture of the road, what is the distance to the city? | latency | bandwidth | the number of lanes | the internet company | רוחב פס הוא מספר הנתיבים, וההשהיה היא המרחק לעיר.
+#שאלה Why is latency more important for online games than for videos? | Games send small amounts of data that must arrive very quickly | Games need more data than videos | Videos do not use the internet | Games use a cable | המשחק שולח מעט נתונים, אבל צריך שיגיעו מהר מאוד.
+#שאלה Why does a game server in another country increase latency? | Every packet needs to travel a long way | The server is slower | Other countries have less bandwidth | The game is in another language | ככל שהמרחק גדול יותר, ההשהיה גבוהה יותר.
+#שאלה Which cause of high latency is NOT in the text? | an old version of the game | a wireless connection | a server in another country | other devices on the same network | גרסה ישנה של המשחק לא מוזכרת.
+#שאלה Which two changes did Omer make? | He used a cable and chose a nearer game server | He bought more bandwidth and a new router | He bought a new computer and a new game | He stopped other devices and changed his company | שני השינויים כתובים בפסקה האחרונה.
+#שאלה What was the result of the changes? | His latency dropped from 120 to 30 milliseconds | His bandwidth increased | He paid more | His game stopped | ההשהיה ירדה מ־120 ל־30 אלפיות שנייה.
+#שאלה What is the main idea of the text? | To solve a problem, you must first understand what really causes it | Online games are a bad use of money | Internet companies always give false information | Cables are better than wireless connections | עומר שילם על הדבר הלא נכון כי לא הבין את הבעיה.
+
+#סיפור The Bug That Appeared Only at Midnight | קשה
+A company that sells train tickets online received a strange report. Every night, for about one hour after midnight, some users could not buy tickets. The website showed an error, and then, at about one in the morning, everything worked again. During the day, the developers could never see the bug.
+
+At first, the team thought that the servers were too busy at night. But the monitor showed that traffic at midnight was very low. Then they thought that a backup process was slowing down the database. They moved the backup to another hour, but the bug appeared again the next night, at the same time.
+
+Finally, a developer named Yoni decided to stay at work all night and watch the system. At midnight, he saw the error in the log: "Date is in the past." He looked at the code and found the cause. The servers of the company were in another country, where the time was one hour behind the country of most users. The code that checked the date of the ticket used the time of the server, but the users chose dates in their own local time. For one hour every night, it was the next day for the users, but still the day before on the server. When a user tried to buy a ticket for "today," the server thought that the date was tomorrow, or sometimes that it was in the past.
+
+The fix was simple: the team decided to store every time in one standard time and to change it to the local time of the user only on the screen. The bug never appeared again.
+
+Yoni later said that the hardest part was not the fix. It was to believe that a bug can depend on the clock.
+#שאלה When did the bug appear? | for about one hour after midnight | all day | only during the day | once a week | כתוב: Every night, for about one hour after midnight.
+#שאלה Why did the developers not see the bug? | They worked only during the day | The bug was in the backup | The traffic was too high | The monitor was broken | הבאג הופיע רק בלילה, והם עבדו ביום.
+#שאלה Which two causes did the team check first, and both were wrong? | busy servers and a backup process | the time of the server and the local time | the log and the code | the users and the tickets | שתי ההשערות הראשונות התבררו כשגויות לפני שיוני מצא את הסיבה.
+#שאלה How did the team know that the backup was not the cause? | The bug appeared again after they moved the backup to another hour | The monitor showed no backup | Yoni told them | The users said so | הם הזיזו את הגיבוי, והבאג חזר באותה שעה.
+#שאלה What did Yoni see in the log? | "Date is in the past." | "The server is busy." | "Backup failed." | "Wrong password." | זו הודעת השגיאה שהובילה לפתרון.
+#שאלה What was the cause of the bug? | The server and the users used different local times | The database was slow | Hackers attacked the website at midnight | Users entered wrong dates | השרת היה באזור זמן אחר, והבדיקה השתמשה בשעה של השרת.
+#שאלה Why did the bug last only one hour? | The time on the server was one hour behind the time of the users | The backup took one hour | The servers stopped for one hour | Yoni fixed it every night | הפער בין אזורי הזמן היה שעה אחת.
+#שאלה What was the fix? | storing every time in one standard time and changing it to local time only on the screen | moving the servers to another country | stopping the website at midnight | buying more servers | זה הפתרון שמתואר בפסקה הרביעית.
+#שאלה Which sentence is NOT correct? | Traffic at midnight was very high | The servers were in another country | The bug never appeared after the fix | Yoni stayed at work all night | המוניטור הראה שהתעבורה בחצות הייתה נמוכה מאוד.
+#שאלה What does Yoni mean when he says that the hardest part was "to believe that a bug can depend on the clock"? | The cause was so unusual that it was hard to think of it | The fix took a long time | He does not believe in bugs | The clock on the server was broken | החלק הקשה היה לחשוב על סיבה כל כך לא צפויה, לא התיקון עצמו.
+
+#סיפור Phishing Emails Are Getting Better | קשה
+For many years, it was easy to notice a phishing email. It usually had spelling mistakes, strange English, and a story that was hard to believe: a person from far away who wanted to send you money, or a prize that you never entered. Most users learned to delete such emails quickly.
+
+Today, things are different. Criminals use artificial intelligence to write emails in perfect English. The emails look exactly like real messages from banks, delivery companies, or the IT department of your own company. Some criminals even study the person on social media before they write. An email to a programmer may talk about a real job of his team and use the name of a real worker in his team.
+
+So how can a user protect his data? The answer is to stop looking only at the language and to start looking at the request. Almost every phishing email asks you to do something quickly: click a link, open an attachment, enter a password, or send money. When a message creates a feeling that you must act now and asks for one of these actions, you should stop.
+
+There are also some technical checks. Look at the address of the sender, not only at the name. Move the mouse over a link, without clicking, and see the real address of the website. If the email says that it comes from your bank, do not use the link in the email. Open the website of the bank in a new window, or call the bank.
+
+Finally, if you clicked by mistake, report it at once. Many users are embarrassed and say nothing. But the IT team can often stop an attack if it knows about it in the first minutes.
+#שאלה How was it possible to notice a phishing email in the past? | It had spelling mistakes, strange English, and a story that was hard to believe | It always came at night | It had no link | It came from a bank | זה תיאור העבר בפסקה הראשונה.
+#שאלה Why are phishing emails harder to notice today? | Criminals use artificial intelligence to write perfect emails | Users are less careful | Banks send more emails | Email programs are older | הבינה המלאכותית כותבת אנגלית מושלמת, ולכן הסימן הישן כבר לא עובד.
+#שאלה Why do some criminals study a person on social media first? | to write an email that uses real details from his life | to send him a prize | to find his bank | to delete his account | פרטים אמיתיים, כמו שם של עמית לעבודה, הופכים את ההודעה לאמינה.
+#שאלה According to the writer, what should users look at instead of the language? | the request in the email | how long the email is | the time of the email | the design of the email | הכותב אומר להפסיק להסתכל על השפה ולהתחיל להסתכל על הבקשה.
+#שאלה Which request is NOT in the list of requests of phishing emails? | to read a long article | to click a link | to open an attachment | to send money | קריאת מאמר ארוך לא מופיעה ברשימה.
+#שאלה What should you do before you click a link? | Move the mouse over it and see the real address | Click it quickly | Send it to a friend | Delete the email at once | העברת העכבר מעל הקישור מגלה את הכתובת האמיתית.
+#שאלה Why should you not use the link in an email that says it comes from your bank? | The link may lead to a false website | Banks never send emails | The link is too long | The bank will be angry | הקישור עלול להוביל לאתר מזויף, ולכן פותחים את האתר בנפרד.
+#שאלה Why is it important to report a mistake at once? | The IT team can often stop an attack in the first minutes | The user will receive a prize | The email will be deleted automatically | The bank will be angry | הצוות יכול לעצור מתקפה אם הוא יודע עליה מהר.
+#שאלה Why do many users say nothing after they click by mistake? | They are embarrassed | They do not notice | The IT team is busy | They want to help the criminals | כתוב: Many users are embarrassed and say nothing.
+#שאלה What is the main idea of the text? | Phishing emails look more real today, so users should look at what the email asks them to do | Users should not open emails | Artificial intelligence is only used by criminals | Banks are not safe | הרעיון: ההודעות נראות אמיתיות יותר, ולכן צריך לבחון את הבקשה ולא את השפה.
+
+
+#סיפור Why the Phone Battery Is Empty Before Evening | קשה
+Two years ago, Maya's phone could work for a whole day. Now the battery is almost empty at four in the afternoon. Maya thinks that her phone is simply old, and she wants to buy a new one. But before she spends a lot of money, it is worth understanding what uses the battery.
+
+The first cause is the screen. A bright screen is one of the biggest users of power in a phone. Many people keep the brightness very high all day, even when they are inside a building.
+
+The second cause is applications that work in the background. Some applications continue to run when you are not using them. They check your location, download content, or send data to their servers. Each one uses only a little power, but 20 such applications together use a lot.
+
+The third cause is the signal. When the phone is in a place with a weak signal, such as a train or a room far inside a big building, it uses more power to stay connected to the network. A phone that searches for a signal all day can lose a large part of its battery.
+
+Finally, the battery becomes weaker with time. Every time the battery goes from full to empty, it loses a little of its capacity. After two years, many batteries keep only about 80 percent of their original capacity.
+
+So what can Maya do? She can lower the brightness, check in the settings which applications use the most battery, and stop the background work of those that she does not need. If the battery is the problem, she can change only the battery. Often, this is enough to make an old phone feel new again.
+#שאלה What does Maya think at the start of the text? | Her phone is old and she needs a new one | Her battery is new | Her applications are the problem | Her signal is weak | היא חושבת שהטלפון פשוט ישן ורוצה לקנות חדש.
+#שאלה Why does the writer say that it is "worth understanding what uses the battery"? | Maya may not need to spend a lot of money on a new phone | Batteries are dangerous | Phones are always new | The screen is broken | אם מבינים את הסיבה, אולי אין צורך לקנות טלפון חדש.
+#שאלה Why can background applications use a lot of power together? | Each one uses a little, but many of them together use a lot | Each one uses most of the battery | They make the screen bright | They delete content | מסיח מטעה: כל אחת לבד צורכת מעט.
+#שאלה Which work of background applications is NOT in the text? | playing videos | checking the location | downloading content | sending data to servers | השמעת מוזיקה לא מוזכרת.
+#שאלה Why does a weak signal use more battery? | The phone uses more power to stay connected to the network | The screen becomes brighter | Applications download more | The battery becomes weaker | בקליטה חלשה הטלפון מתאמץ יותר כדי להישאר מחובר.
+#שאלה What happens to a battery after two years, according to the text? | Many batteries keep only about 80 percent of their original capacity | Every battery stops working | The battery becomes stronger | The battery has 100 percent of its capacity | זה הנתון בפסקה החמישית.
+#שאלה In paragraph 5, "it loses a little of its capacity". The word "it" is: | a battery | the phone | the screen | the signal | הסוללה היא שמאבדת מעט מהקיבולת שלה בכל טעינה.
+#שאלה Which step is NOT in Maya's possible plan? | buying a stronger charger | lowering the brightness | checking which applications use the most battery | changing only the battery | מטען חזק יותר לא מוזכר.
+#שאלה What does the writer think about changing only the battery? | It can often make an old phone feel new | It never helps | It is more expensive than a new phone | It is dangerous | המשפט האחרון: לעיתים קרובות זה מספיק.
+#שאלה Which sentence describes the text most clearly? | It describes a problem, explains four causes, and gives solutions | It tells the history of batteries | It compares two phones | It describes only one cause | הטקסט מציג בעיה, ארבע סיבות ואז פתרונות.
+
+
+#סיפור The Small Library That Everyone Used | קשה
+Modern applications are not written from zero. Developers use libraries: packages of code that other programmers wrote and shared for free. A usual website can use hundreds of libraries, and each library can use other libraries. This saves a huge amount of time. Why write your own code for dates, for images, or for encryption, when a tested library exists?
+
+But this method also creates a risk. In one famous story, a security team found a serious vulnerability in a small library that wrote log messages. The library was free, and only a few people worked on it in their free time, without pay. Nobody looked at it much. However, millions of applications used it, even the systems of large companies and governments. The vulnerability allowed a hacker to send a special string of text to a server and run his own code on it.
+
+In the days after the team found it, companies all over the world tried to answer a simple question: "Do we use this library?" For many of them, the answer was hard to find. The library was not in their own code. It was inside another library, which was inside a third library. Engineers worked day and night to find every copy and update it.
+
+This event taught the industry three lessons. First, every company should know exactly which libraries its applications use, even the hidden ones. Second, important free libraries need more help, because the whole internet uses them. And third, an update is useless if nobody installs it.
+#שאלה Why do developers use libraries? | They save a huge amount of time | They are always safer than their own code | Companies do not allow developers to write code | Libraries are faster than computers | כתוב: This saves a huge amount of time.
+#שאלה What was unusual about the library in the famous story? | It was small and free, but millions of applications used it | It was very expensive | It was written by a large company | Nobody used it | הניגוד הוא העיקר: ספרייה קטנה שמעט אנשים תחזקו, ומיליוני מערכות השתמשו בה.
+#שאלה Who worked on the library? | a few people in their free time, without pay | a large company | the government | the security team | כתוב שמעט אנשים טיפלו בה בזמנם הפנוי ובלי תשלום.
+#שאלה What could a hacker do with the vulnerability? | send a special string to a server and run his own code on it | delete the library | read log messages only | change the dates in an application | הפגיעות אפשרה להריץ קוד של התוקף על השרת.
+#שאלה Why was it hard for many companies to know if they used the library? | It was inside other libraries, not in their own code | They did not have engineers | The library was deleted | The library had a new name | הספרייה הייתה חבויה בתוך ספריות אחרות.
+#שאלה In paragraph 3, "It was inside another library". The word "It" is: | the library from the famous story | the answer | the code of the company | the vulnerability | המילה It מתייחסת לספרייה הפגיעה.
+#שאלה Which lesson is NOT in the last paragraph? | Companies should stop using free libraries | Companies should know which libraries they use | Important free libraries need more help | An update is useless if nobody installs it | הכותב לא ממליץ להפסיק להשתמש בספריות חינמיות.
+#שאלה What does "the whole internet uses them" tell us about free libraries? | Many important systems depend on them | They are only for small websites | Nobody needs them | They are always safe | המשפט מסביר למה הן צריכות יותר עזרה: מערכות רבות תלויות בהן.
+#שאלה What can we understand from the story? | A small part of a system can create a huge risk | Large companies never have vulnerabilities | Free code is always bad | Hackers do not use strings | חלק קטן וזניח יצר סיכון עולמי.
+#שאלה Which title describes the text most clearly? | A Small Library, a Big Problem | How to Write a Library | The History of the Internet | Why Engineers Work at Night | הכותרת מתארת את הניגוד שבמרכז הטקסט.
+
+#סיפור The Model That Learned the Wrong Lesson | קשה
+A large company wanted to save time in the process of hiring new workers. Every year, it received thousands of job applications, and people in the company had to read each one. So the company decided to build a machine learning model. The idea was simple: the model would read old applications, learn which people the company had hired in the past, and then give a score to every new application.
+
+The engineers trained the model on the data of ten years of applications. The results looked good at first. The model worked fast and chose candidates that looked like good workers from the past. But after some months, the engineers noticed a serious problem. The model gave lower scores to women.
+
+How did this happen? Nobody had told the model to choose men. The problem was in the data. In the past ten years, the company had hired many more men than women for technical jobs. The model did not understand the reasons for this. It only learned a pattern: applications from men were usually accepted. So it learned that words connected to women, such as the name of a women's school, were a sign of a weak application.
+
+The engineers tried to fix the model by deleting these words. But the model found other patterns that were connected to the same bias. In the end, the company stopped using the model for this purpose.
+
+This story shows an important idea about artificial intelligence. A model learns from the data that we give it, and it can repeat the mistakes of the past. If the data contains bias, the model will contain bias too, and it will do it faster and on a larger scale than any person.
+#שאלה Why did the company want to build the model? | to save time in the process of hiring | to hire more women | to delete old applications | to find bugs in its systems | המטרה הייתה לחסוך זמן בקריאת אלפי בקשות.
+#שאלה What did the model learn from? | applications from ten years and the people that the company had hired | the ideas of the engineers | the internet | new applications only | המודל אומן על נתוני עשר שנים של בקשות והחלטות גיוס.
+#שאלה What serious problem did the engineers notice? | The model gave lower scores to women | The model was too slow | The model chose only new candidates | The model stopped working | הבעיה התגלתה רק אחרי כמה חודשים.
+#שאלה Why did the model give lower scores to women? | The past data showed that the company had hired many more men | The engineers told it to do so | Women sent fewer applications | The model had a bug in its code | אף אחד לא הורה לו. הוא למד את הדפוס מהנתונים.
+#שאלה "The model did not understand the reasons for this." What does this sentence tell us? | The model learned a pattern without knowing why it existed | The model understood that the past was not right | The engineers did not understand the model | The model asked for more data | מודל לומד דפוס, לא את הסיבות שמאחוריו.
+#שאלה What did the model learn about the name of a women's school? | that it is a sign of a weak application | that it is a sign of a strong application | that it has no meaning | that the application should be deleted | זו דוגמה לכך שמילים שקשורות לנשים קיבלו משקל שלילי.
+#שאלה Why did deleting the words not fix the problem? | The model found other patterns connected to the same bias | The engineers deleted the wrong words | The model stopped working | The company hired more women | ההטיה הסתתרה גם בדפוסים אחרים.
+#שאלה What did the company do in the end? | It stopped using the model for this purpose | It trained the model again | It hired only women | It sold the model | החברה הפסיקה להשתמש במודל למטרה הזו.
+#שאלה According to the last paragraph, why can a model with bias be more harmful than a person? | It repeats the bias faster and on a larger scale | It is smarter than a person | It never makes mistakes | It does not use data | המודל חוזר על אותה הטיה מהר יותר ובהיקף גדול יותר.
+#שאלה What is the main idea of the text? | A model learns from its data, so it can repeat the bias of the past | Machine learning is always right | Companies should not hire workers | Engineers should not use data | המודל רק משקף את הנתונים, כולל הטעויות שבהם.
+
+#סיפור The Voice That Sounded Like the Boss | קשה
+On a busy afternoon, Ron, who makes payments for a company, received a phone call. The voice on the phone was the voice of the boss of the company. Ron knew it well: the same way of speaking, the same small laugh. "I am in a meeting with a new partner," the voice said. "We need to send a payment of 40,000 dollars today, or the partner will leave. I will send you the details by email. Please do it quickly and do not tell anyone yet."
+
+Ron felt that he must act fast. The request was unusual, but the voice was real. A few minutes later, an email with the bank details arrived. Ron was about to send the money when he noticed something small: the email came from an address that was almost the same as the address of the company, but one letter was different.
+
+Ron called the boss on his usual phone number. The real boss was surprised. He was on a plane at the time of the call and knew nothing about a payment.
+
+The voice was created by artificial intelligence. Today, a computer can learn to copy the voice of a person from only a few minutes of recordings, and the boss had spoken in many videos online. With this technology, criminals do not need to write a good email. They can simply call.
+
+After this event, the company made a new rule: every payment request that arrives by phone or email must be confirmed in a second way, such as a call to a familiar number. A familiar voice does not prove identity today.
+#שאלה Why did Ron believe the call at first? | The voice sounded exactly like the voice of his boss | The boss sent him a letter | He saw the boss | The call came from the office | הקול נשמע בדיוק כמו של הבוס, כולל הצחוק הקטן.
+#שאלה Which detail in the call was a warning sign? | The voice asked Ron to act quickly and not tell anyone | The voice laughed | The voice talked about a partner | The call was in the afternoon | לחץ זמן ובקשה לסודיות הם סימנים קלאסיים להונאה.
+#שאלה What did Ron notice in the email? | One letter in the address was different from the address of the company | The email had no details | The email came from the bank | The email was in another language | הכתובת הייתה כמעט זהה, חוץ מאות אחת.
+#שאלה Why was the real boss surprised? | He was on a plane and knew nothing about a payment | He did not know Ron | He had sent the email | He had a new partner | הבוס האמיתי היה בטיסה ולא ידע על התשלום.
+#שאלה How was the voice created? | by artificial intelligence that learned from recordings of the boss | by a man who speaks like the boss | by the real boss | by a phone company | הבינה המלאכותית למדה את הקול מכמה דקות של הקלטות.
+#שאלה Why was it easy for the criminals to copy the voice of the boss? | He had spoken in many videos online | He spoke very slowly | He called Ron every day | He gave them his voice | היו הרבה סרטונים שלו ברשת, וזה מספיק כדי ללמוד את הקול.
+#שאלה "Criminals do not need to write a good email. They can simply call." What does this tell us? | People believe a false voice more easily than a written message | Emails are always safe | Criminals cannot write | Phone calls are always real | שיחה בקול מוכר משכנעת יותר מכל מייל.
+#שאלה What would probably happen if Ron had not noticed the address? | He would send 40,000 dollars to the criminals | The bank would stop the payment | The boss would call him | Nothing | בלי ההבחנה, הוא עמד לשלוח את הכסף.
+#שאלה What is the new rule of the company? | Every payment request must be confirmed in a second way | No payments by phone at all | Only the boss can make payments | Employees must not answer calls | כל בקשת תשלום צריכה אישור בדרך שנייה, כמו שיחה למספר מוכר.
+#שאלה What is the main idea of the last sentence? | A voice is not enough to know who is really speaking | Familiar voices are always false | Identity is not important | People should not use phones | קול מוכר כבר לא מוכיח זהות.
+
+
+#סיפור Why the Wi-Fi Does Not Get to the Bedroom | קשה
+Noam moved to a new apartment and installed his internet router in the living room, near the door. In the living room, the wi-fi was excellent. But in the bedroom, at the other end of the apartment, videos stopped every few seconds, and sometimes the connection disappeared completely. Noam called his internet company and bought a faster package. Nothing changed.
+
+The problem was not the speed of the internet. It was the wireless signal inside the apartment. A wi-fi signal is a radio signal, and it becomes weaker with distance and with every wall that it passes. Some things are bad for wi-fi in particular. Strong walls, metal, and even a lot of water can block a large part of the signal.
+
+Noam's router was in the most terrible place possible. It was in a corner, near the floor, behind a metal box for the power of the apartment, and the signal had to pass three strong walls to get to the bedroom.
+
+A friend who works as a network engineer gave him three ideas. First, move the router to the middle of the apartment, high and in the open, not inside a box. Second, check the channel of the wi-fi. In a building with many networks, many routers use the same channel, and they slow down each other. Third, if one router is not enough, use a system of small devices that work together and create one network in the whole apartment.
+
+Noam moved the router to the middle of the apartment and put it on a high shelf. The signal in the bedroom became strong enough for videos. The faster package, he understood, was money that he did not need to spend.
+#שאלה What was the problem in the bedroom? | Videos stopped and the connection sometimes disappeared | The router was broken | The internet was slow in every room | The bedroom had no power | בסלון ה־wi-fi היה מצוין. הבעיה הייתה רק בחדר השינה.
+#שאלה Why did the faster package not help? | The problem was the wireless signal inside the apartment, not the speed of the internet | The company did not change the package | The router was too new | The videos were too long | המהירות של האינטרנט לא הייתה הבעיה.
+#שאלה What makes a wi-fi signal weaker, according to paragraph 2? | distance and every wall that it passes | the number of videos | the price of the package | the time of day | הפסקה השנייה מציינת מרחק וקירות.
+#שאלה Which thing is NOT in the text as something that can block the signal? | a computer screen | strong walls | metal | a lot of water | מסך מחשב לא מוזכר.
+#שאלה Why was the place of the router "the most terrible place possible"? | It was in a corner, near the floor, behind metal, and far from the bedroom | It was in the middle of the apartment | It was on a high shelf | It was near a window | כל הפרטים בפסקה השלישית הם בדיוק מה שמחליש את האות.
+#שאלה Why can many routers in one building slow down each other? | They use the same channel | They are from the same company | They are too close to the floor | They have the same password | כשנתבים רבים משתמשים באותו ערוץ, הם מפריעים זה לזה.
+#שאלה When should Noam use a system of small devices, according to his friend? | if one router is not enough | always, in every apartment | only in the living room | before he moves the router | זה הרעיון השלישי, למקרה שנתב אחד לא מספיק.
+#שאלה Which of his friend's ideas did Noam use? | He moved the router to the middle and put it high | He bought a system of small devices | He changed the channel | He bought a faster package | הוא השתמש רק ברעיון הראשון, וזה הספיק.
+#שאלה In the last paragraph, "money that he did not need to spend" is about: | the faster package | the router | the shelf | the system of small devices | החבילה המהירה לא הייתה נחוצה.
+#שאלה What is the main idea of the text? | The place of a router can be more important than the speed of the internet | Faster packages always solve wi-fi problems | Engineers should install every router | Wireless signals are dangerous | הרעיון: מיקום הנתב חשוב יותר מהמהירות שקונים.
+
+#סיפור What Cookies Really Do | בינוני
+Almost every website asks you to "accept cookies." Many users click the button without thinking. But what is a cookie? A cookie is a small text file that a website stores in your browser. When you return to the website, the browser sends the cookie back, and the website remembers you.
+
+Some cookies are very useful. They keep you logged in, remember the language that you chose, and keep the list of products that you want to buy. Without them, many websites would not work well.
+
+Other cookies have a different purpose. They come from advertising companies, not from the website that you visit. These companies follow you from website to website and build a profile of your interests. This is why you sometimes see an advertisement for a phone on a news website, a day after you searched for phones on another website. You can usually choose to accept only the necessary cookies, and you can delete cookies in the settings of your browser.
+#שאלה What is a cookie, according to the text? | a small text file that a website stores in your browser | a program that steals passwords | a type of virus | an advertisement | זו ההגדרה בפסקה הראשונה.
+#שאלה Which use of cookies is NOT described as useful? | building a profile of your interests for advertising | keeping you logged in | remembering your language | keeping the list of products that you want to buy | בניית פרופיל לפרסום מתוארת כמטרה אחרת, לא כשימוש מועיל.
+#שאלה Why do you sometimes see an advertisement for a phone after you searched for phones? | Advertising companies follow you from website to website | The news website knows what you think | Your browser has a virus | You accepted only the necessary cookies | חברות פרסום עוקבות אחריך בין אתרים.
+#שאלה What can users usually do, according to the last sentence? | accept only the necessary cookies and delete cookies in the settings | stop all websites from working | block advertising companies for one day | ask the website to delete their profile | אלה שתי האפשרויות שהטקסט מציין.
+
+#סיפור Antivirus Is Not Enough | בינוני
+Many people believe that an antivirus program protects them from every danger on the internet. An antivirus is useful: it can find many known viruses and stop them before they cause damage. But it has clear weak sides.
+
+First, an antivirus usually finds malware by patterns that it knows. A new virus, created yesterday, may not be on its list yet. Second, many attacks do not use a virus at all. A phishing email that asks you to enter your password on a false website does not install anything on your computer. The antivirus may not see a problem, because technically there is no malware. You simply gave your password to a criminal.
+
+For this reason, security professionals describe antivirus as one layer, not as the whole solution. Strong passwords, updates, two-step authentication and careful habits are just as important.
+#שאלה What can an antivirus do well? | find many known viruses and stop them | stop every phishing email | protect weak passwords | find every new virus | הוא טוב בזיהוי וירוסים מוכרים.
+#שאלה Why may an antivirus not find a new virus? | It finds malware by patterns that it knows, and the new virus may not be on its list | New viruses are not dangerous | Antivirus programs are always old | New viruses do not use computers | וירוס חדש עוד לא מופיע ברשימה של התוכנה.
+#שאלה Why can an antivirus miss a phishing attack? | The attack does not install anything, so there is no malware to find | Phishing emails are too long | The antivirus is turned off | Phishing attacks use a new virus | במתקפת פישינג המשתמש פשוט מוסר סיסמה, ואין קוד זדוני לגלות.
+#שאלה What is the main idea of the text? | An antivirus is one useful layer, but not the whole solution | An antivirus is useless | An antivirus protects from every danger | Users do not need passwords if they have an antivirus | הטקסט לא אומר שהוא חסר תועלת, רק שהוא שכבה אחת.
+
+#סיפור Free Wi-Fi at the Airport | בינוני
+Dana was waiting for her plane and connected her laptop to the free wi-fi of the airport. She saw two networks with almost the same name: "Airport_Free" and "Airport Free". She chose the first one, because it had a stronger signal.
+
+She did not know that the second network was the real one. The first network was created by a criminal who sat near her with a small device. Every website that Dana opened passed through his device. Most websites today use encryption, so he could not read everything. But when Dana entered her email password on a page without encryption, he saw it.
+
+Security professionals recommend three simple steps on public wi-fi. Check the real name of the network with the workers of the airport. Do not enter passwords or bank details on public networks. And if you must work, use the internet of your phone instead.
+#שאלה Why did Dana choose the first network? | It had a stronger signal | It was the real network | It had a password | Her friend told her | היא בחרה ברשת עם האות החזק יותר, וזו בדיוק הייתה המלכודת.
+#שאלה Why did the false network have a strong signal? | The criminal sat near Dana with a small device | The airport made it stronger | It used a faster package | It had encryption | המכשיר של הפושע היה קרוב אליה, ולכן האות היה חזק.
+#שאלה Why could the criminal not read everything that Dana did? | Most websites today use encryption | Dana did not open any website | The airport blocked him | His device was weak | ההצפנה הגנה על רוב האתרים, אבל לא על דף אחד בלי הצפנה.
+#שאלה Which step do the professionals NOT recommend? | Choose the network with the strongest signal | Check the real name of the network with the workers | Do not enter passwords on public networks | Use the internet of your phone | זה בדיוק מה שדנה עשתה, וזו הייתה הטעות.
+
+#סיפור The Screenshot That Showed a Secret | בינוני
+A developer had a problem with his code, so he took a screenshot of his screen and posted it in a public online group for programmers. He wanted help, and he got it quickly. Someone found the bug in five minutes.
+
+But the screenshot also showed another thing. In the corner of the screen, there was a configuration file, and inside it was a secret token: a long string that gave access to the servers of his company. In less than an hour, an automatic program that searches public posts for such strings found the token. By the evening, someone had used it to start many servers for his own purposes, and the company had to pay thousands of dollars.
+
+The developer deleted the post, but it was too late. The lesson is simple: before you share a screenshot, look at every part of it. A secret in the corner of a picture is still a secret that you shared.
+#שאלה Why did the developer post the screenshot? | He wanted help with a bug in his code | He wanted to show his new design | He wanted to share the token | His company asked him to | הוא רצה עזרה, וקיבל אותה תוך חמש דקות.
+#שאלה What was the secret in the screenshot? | a token that gave access to the servers of his company | his bank password | the bug in his code | the name of his boss | בפינת המסך היה קובץ תצורה עם טוקן גישה לשרתים.
+#שאלה Who found the token first? | an automatic program that searches public posts | a programmer in the group | the boss of the developer | the developer | תוכנה אוטומטית שסורקת פוסטים ציבוריים מצאה אותו.
+#שאלה Why was deleting the post "too late"? | Someone had used the token before he deleted it | The post was not deleted | The bug was not fixed | The group was private | עד שהפוסט נמחק, מישהו כבר השתמש בטוקן.
+
+#סיפור The Old Price in the Cache | בינוני
+An online store changed the price of a popular laptop from 4,000 to 3,500 dollars for the weekend. The developers updated the database on Friday morning. But for many hours, many customers still saw the old price on the website, while others saw the new price. Some customers were angry and thought that the store was trying to trick them.
+
+The cause was the cache. To make the website fast, the store did not read the price from the database for every user. Instead, it kept a copy of each product page in a cache for 12 hours. Users received the old copy from the cache, and only after 12 hours did the cache read the new price from the database.
+
+The developers cleared the cache, and everyone saw the new price. After that, they changed the system: when a price changes in the database, the page of that product is deleted from the cache automatically. A cache makes a website fast, but only if it knows when its data is no longer true.
+#שאלה Why were some customers angry? | They saw the old price and thought the store was trying to trick them | The laptop was too expensive | The website stopped | The store changed the laptop | חלק מהלקוחות ראו מחיר אחר ממה שפורסם.
+#שאלה Why did the store keep copies of pages in a cache? | to make the website fast | to save the old prices | to trick customers | to protect the database from hackers | המטמון נועד להאיץ את האתר.
+#שאלה Why did some users see the new price and others the old price? | Some received an old copy from the cache, and others received a new one | The database had two prices | The developers made a mistake in the price | Some users had a virus | ההבדל תלוי בעותק שהמשתמש קיבל מהמטמון.
+#שאלה What does the last sentence tell us about a cache? | It is useful only if it knows when its data is no longer correct | It always shows true data | It makes websites slow | It should never be used | מטמון טוב צריך לדעת מתי הנתונים שלו כבר לא נכונים.
+
+#סיפור A Message About a Package | בינוני
+Noam was waiting for a package from another country when he received a text message: "Your package is waiting. Please pay 7 dollars for delivery here," with a link. The message looked real, and the amount was small, so Noam almost paid.
+
+But he stopped and looked at the link. It did not lead to the website of the delivery company. It led to a strange address with many numbers and letters. Noam opened the official website of the company in a new window and entered the number of his package. Everything was normal, and no payment was needed.
+
+Criminals send such messages to thousands of people at the same time. They know that many people are waiting for a package, so some of them will believe the message. The small amount is part of the trick: people do not think much before they pay 7 dollars. But the real purpose is the card details that the person enters on the false website.
+#שאלה Why did Noam almost pay? | The message looked real and the amount was small | He knew the company | The link was official | His friend told him to pay | ההודעה נראתה אמיתית והסכום היה קטן.
+#שאלה What did Noam notice about the link? | It led to a strange address, not to the website of the delivery company | It was very short | It had his name | It led to his bank | הקישור לא הוביל לאתר של חברת המשלוחים.
+#שאלה Why do criminals ask for a small amount? | People do not think much before they pay a small amount | They need only 7 dollars | Large amounts are not allowed | Delivery is cheap | הסכום הקטן הוא חלק מהתרגיל: אנשים פחות חושדים.
+#שאלה What is the real purpose of the criminals? | to get the card details of the person | to get 7 dollars | to bring a package | to sell a product | המטרה האמיתית היא פרטי הכרטיס, לא שבעת הדולרים.
+
+#סיפור What Your Smartwatch Knows | בינוני
+A smartwatch is a small computer on your hand. It knows how many steps you walk, checks your heart, follows your sleep and, in many models, knows your location all day. All this data goes to an application on your phone and usually to the servers of the company that made the watch.
+
+This information can be very useful. It can show you that you sleep badly or that you do not move enough. Some watches even send an alert when they notice a dangerous problem with the heart.
+
+But this data is also very personal. In one well-known story, an application for running showed a public map with the running routes of its users. The company did not think about the danger. But the map showed the routes of soldiers inside secret places of the army. Before you use a smartwatch, check which data it shares, who can see it, and if you can turn off the sharing of your location.
+#שאלה What does a smartwatch know about you, according to the text? | your steps, your heart, your sleep, and often your location | only the time | only your location | your bank details | הפסקה הראשונה מונה את כל הדברים האלה.
+#שאלה Where does the data of the watch usually go? | to an application on the phone and to the servers of the company | only to the watch | to the government | to other users | כתוב: to an application on your phone and usually to the servers of the company.
+#שאלה What was the problem with the public map? | It showed the routes of soldiers inside secret places of the army | It showed wrong routes | It deleted the data of users | It was too slow | המפה הציבורית חשפה מסלולי ריצה במקומות סודיים.
+#שאלה What does the writer recommend before you use a smartwatch? | Check which data it shares, who can see it, and if you can turn off the location | Never use a smartwatch | Use it only at night | Buy the most expensive model | זו ההמלצה במשפט האחרון.
+
+#סיפור The Printer That Opened a Door | בינוני
+When a company thinks about security, it usually thinks about computers and phones. But today, many other devices are connected to the network: printers, cameras, smart speakers, even the coffee machine in the kitchen. Each of these devices is a small computer, and each one can have vulnerabilities.
+
+In one company, hackers entered the network through a printer. The printer had an old version of its software, and nobody had updated it for five years, because nobody thought of a printer as a computer. Its password was still the standard password that came with the printer. From the printer, the hackers could see other devices on the same network and move to the servers of the company.
+
+Security professionals recommend two simple steps. First, change the standard password of every device and update its software. Second, put such devices on a separate network, so that a weak printer cannot become a door to the important servers.
+#שאלה What do companies usually think about when they think about security? | computers and phones | printers | coffee machines | cameras | הטקסט אומר שבדרך כלל חושבים על מחשבים וטלפונים, ושוכחים מכשירים אחרים.
+#שאלה Why did nobody update the printer for five years? | Nobody thought of a printer as a computer | The printer had no software | The company had no technician | Updates were too expensive | אף אחד לא חשב על מדפסת כעל מחשב.
+#שאלה Which two problems did the printer have? | old software and the standard password that came with it | a broken screen and no paper | a slow network and a weak signal | no password and no network | שתי החולשות מתוארות בפסקה השנייה.
+#שאלה Why should such devices be on a separate network? | so that a weak device cannot become a door to the important servers | so that they work faster | so that they use less power | so that nobody can use the printer | הפרדת הרשתות מונעת מעבר מהמדפסת לשרתים.
+
+#סיפור Two Developers, One File | בינוני
+Yael and Omer worked on the same application, and both of them changed the same file on the same day. Yael fixed a bug in a function at the start of the file. Omer changed the design of a button at the end of the file. When they tried to merge their work in the repository, the system merged the two changes automatically, because they were in different parts of the file.
+
+The next week, things were different. Both of them changed the same line: Yael changed a value to 10, and Omer changed it to 20. This time, the system could not decide which change was correct. It stopped the merge and showed both versions, and a person had to choose.
+
+Many new developers are afraid of this message. But it is not an error. It is the system saying: "I do not know what you want, so I will not choose alone." The solution is to talk: Yael and Omer discussed the two values for five minutes and chose the correct one together.
+#שאלה Why could the system merge the changes the first time? | The changes were in different parts of the file | Yael and Omer talked first | The file was small | Omer deleted his change | השינויים היו בחלקים שונים של הקובץ.
+#שאלה What was different the next week? | Both of them changed the same line | They worked on different files | The repository was down | Omer did not work | שניהם שינו את אותה שורה, ולכן המערכת לא יכלה להחליט.
+#שאלה What did the system do when it could not decide? | It stopped the merge and showed both versions | It chose the newest change | It deleted both changes | It chose the change of Yael | המערכת עצרה והציגה את שתי הגרסאות. היא לא בחרה לבד.
+#שאלה What does the writer want to say about the message of the system? | It is not an error; it shows that a person must decide | It is a serious bug | Developers should never change the same file | The system is broken | ההודעה אומרת שהמערכת לא תנחש, ובני אדם צריכים להחליט.

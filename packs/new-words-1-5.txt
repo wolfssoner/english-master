@@ -8,7 +8,6 @@
 #מילים
 suspect | לחשוד
 recover | להתאושש
-guarantee | להבטיח
 confirm | לאשר
 
 #נושא תארים ותארי פועל
@@ -28,9 +27,13 @@ rider | רוכב
 earlier version | גרסה קודמת
 spread | התפשטות / להתפשט / להפיץ
 generation | דור / ייצור
+matter | עניין / להיות חשוב
+
+#נושא מילים נוספות
+#מילים
+guarantee | להבטיח
 growth | צמיחה / גידול
 confusion | בלבול
-matter | עניין / להיות חשוב
 
 #משפטים
 The investigators suspect that the man stole the bag.|החוקרים חושדים שהאיש גנב את התיק.
@@ -38,7 +41,7 @@ I suspected that the message was a trap, so I did not open it.|חשדתי שהה
 It took her a month to recover after the accident.|לקח לה חודש להתאושש אחרי התאונה.
 The team recovered quickly and won the next week.|הקבוצה התאוששה מהר וניצחה בשבוע הבא.
 Nobody can guarantee that the strategy will work.|אף אחד לא יכול להבטיח שהאסטרטגיה תעבוד.
-The store guarantees a low price or your money back.|החנות מבטיחה מחיר נמוך או החזר כספי.
+The store can guarantee a low price or your money back.|החנות יכולה להבטיח מחיר נמוך או החזר כספי.
 Please confirm your name and your location.|בבקשה אשר את השם ואת המיקום שלך.
 The technician confirmed that the computer was faulty.|הטכנאי אישר שהמחשב היה תקול.
 In the past, people used paper instead of computers.|בעבר אנשים השתמשו בנייר במקום במחשבים.

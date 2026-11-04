@@ -1,0 +1,225 @@
+// English Master · מילים חדשות מהקטעים (ענן וסייבר) · שלב א׳ וחצי
+#חבילה מילים מהקטעים · ענן וסייבר
+#מזהה pdf-words-1-5
+#שלב 1.5
+
+#נושא פעלים
+#מילים
+edit | לערוך
+copy | להעתיק
+sign | לחתום
+belong | להשתייך
+deceive | לרמות
+synchronize | לסנכרן
+reproduce | לשכפל
+serve | לשרת
+
+#נושא א׳ וחצי · מילים מהקטעים
+#מילים
+office | משרד
+space | מקום, שטח
+subscription | מנוי
+product | מוצר
+disk | דיסק, כונן
+infection | הדבקה
+layer | שכבה
+protection | הגנה
+type | סוג
+character | תו; דמות
+way | דרך
+history | היסטוריה
+provider | ספק (שירות)
+sense | תחושה
+loss | אובדן
+mechanism | מנגנון
+deletion | מחיקה
+collaboration | שיתוף פעולה
+statement | טענה, הצהרה
+author | כותב, מחבר
+employee | עובד
+being | להיות (צורת ing); יצור
+
+#נושא תארים ותארי פועל
+#מילים
+later | מאוחר יותר
+sometimes | לפעמים
+local | מקומי
+anywhere | בכל מקום
+via | דרך, באמצעות
+automatic | אוטומטי
+personal | אישי
+safer | בטוח יותר
+extra | נוסף
+trustworthy | אמין
+interesting | מעניין
+funny | מצחיק
+harmful | מזיק
+best | הכי טוב
+related | קשור
+identical | זהה
+accidental | בטעות, לא מכוון
+accidentally | בטעות
+around | סביב
+least | הכי פחות; לפחות
+separate | נפרד
+separately | בנפרד
+less | פחות
+unsafe | לא בטוח
+unnecessary | מיותר
+particular | מסוים
+recoverable | שניתן לשחזר
+visible | גלוי, נראה
+itself | בעצמו, עצמו
+multiple | מרובים
+located | ממוקם
+
+#נושא מילים נוספות
+#מילים
+sign in | להתחבר לחשבון
+computing | מחשוב
+cybersecurity | אבטחת סייבר
+safety | בטיחות
+availability | זמינות
+usefulness | תועלת
+retention | שמירה לאורך זמן
+let | לאפשר, לתת
+
+#משפטים
+I edit my text before I send it. | אני עורך את הטקסט שלי לפני שאני שולח אותו.
+She edited the file on her phone. | היא ערכה את הקובץ בטלפון שלה.
+Please copy the file to the new computer. | בבקשה העתק את הקובץ למחשב החדש.
+We keep two copies of every file. | אנחנו שומרים שני עותקים של כל קובץ.
+You must sign the paper before you start the job. | אתה חייב לחתום על הנייר לפני שאתה מתחיל בעבודה.
+He is signing in to the system now. | הוא מתחבר עכשיו למערכת.
+I sign in to the system every morning. | אני מתחבר למערכת כל בוקר.
+After you sign in, you can see your files. | אחרי שאתה מתחבר, אתה יכול לראות את הקבצים שלך.
+This phone belongs to my brother. | הטלפון הזה שייך לאח שלי.
+The files belong to the team. | הקבצים שייכים לצוות.
+The message tried to deceive the user. | ההודעה ניסתה לרמות את המשתמש.
+Phishing messages deceive people. | הודעות פישינג מרמות אנשים.
+The system can synchronize your files on the phone and the computer. | המערכת יכולה לסנכרן את הקבצים שלך בטלפון ובמחשב.
+The file is synchronized on all my devices. | הקובץ מסונכרן בכל המכשירים שלי.
+The team reproduced the same error. | הצוות שחזר את אותה שגיאה.
+The developer tried to reproduce the error on his computer. | המפתח ניסה לשחזר את השגיאה במחשב שלו.
+This system serves many users. | המערכת הזו משרתת הרבה משתמשים.
+The two systems serve different users. | שתי המערכות משרתות משתמשים שונים.
+Computing is a part of every job today. | מחשוב הוא חלק מכל עבודה היום.
+She studies computing. | היא לומדת מחשוב.
+I work in a small office. | אני עובד במשרד קטן.
+The office has ten computers. | במשרד יש עשרה מחשבים.
+There is no more space on my phone. | אין יותר מקום בטלפון שלי.
+We need more storage space. | אנחנו צריכים עוד מקום אחסון.
+I pay for a subscription every month. | אני משלם על מנוי כל חודש.
+The subscription gives you extra storage. | המנוי נותן לך אחסון נוסף.
+They have a new product. | יש להם מוצר חדש.
+This product is easy to use. | המוצר הזה קל לשימוש.
+There is no space on the disk, so I deleted old files. | אין מקום בדיסק, אז מחקתי קבצים ישנים.
+He bought a new hard disk. | הוא קנה דיסק קשיח חדש.
+Cybersecurity protects computers from malware. | אבטחת סייבר מגינה על מחשבים מפני תוכנות זדוניות.
+She works in cybersecurity. | היא עובדת באבטחת סייבר.
+The infection started from a suspicious message. | ההדבקה התחילה מהודעה חשודה.
+Updates reduce the risk of malware infections. | עדכונים מפחיתים את הסיכון להדבקות בתוכנות זדוניות.
+Authentication is the first layer of protection. | אימות הוא שכבת ההגנה הראשונה.
+The system has many layers of protection. | למערכת יש הרבה שכבות של הגנה.
+Updates give protection from malware. | עדכונים נותנים הגנה מפני תוכנות זדוניות.
+This program offers good protection from malware. | התוכנה הזו מציעה הגנה טובה מפני תוכנות זדוניות.
+What type of file is this? | איזה סוג קובץ זה?
+There are many types of malware. | יש הרבה סוגים של תוכנות זדוניות.
+The code must have at least eight characters. | הקוד חייב לכלול לפחות שמונה תווים.
+He is my favorite character in the story. | הוא הדמות האהובה עליי בסיפור.
+Safety is important at work. | בטיחות חשובה בעבודה.
+For your safety, do not share your code. | למען הבטיחות שלך, אל תשתף את הקוד שלך.
+This is the easy way to fix the problem. | זו הדרך הקלה לתקן את הבעיה.
+There are many ways to protect your data. | יש הרבה דרכים להגן על הנתונים שלך.
+I like to read about the history of computers. | אני אוהב לקרוא על ההיסטוריה של המחשבים.
+The phone keeps a history of your messages. | הטלפון שומר היסטוריה של ההודעות שלך.
+Our provider is very slow. | הספק שלנו איטי מאוד.
+The provider keeps the data safe. | הספק שומר על הנתונים בטוחים.
+The availability of the system is very high. | הזמינות של המערכת גבוהה מאוד.
+Storage on many devices improves the availability of files. | אחסון בהרבה מכשירים משפר את הזמינות של הקבצים.
+I have a sense that there is a problem. | יש לי תחושה שיש בעיה.
+A strong code gives a sense of safety. | קוד חזק נותן תחושה של ביטחון.
+The loss of the phone was a big problem. | אובדן הטלפון היה בעיה גדולה.
+Storage on two devices protects you from data loss. | אחסון בשני מכשירים מגן עליך מפני אובדן נתונים.
+The mechanism of the system is simple. | המנגנון של המערכת פשוט.
+This mechanism keeps the files safe. | המנגנון הזה שומר על הקבצים בטוחים.
+The deletion of the file was an accident. | המחיקה של הקובץ הייתה בטעות.
+After deletion, you cannot open the file. | אחרי המחיקה, אי אפשר לפתוח את הקובץ.
+Collaboration in the team is important. | שיתוף פעולה בצוות חשוב.
+Shared files are useful for collaboration. | קבצים משותפים שימושיים לשיתוף פעולה.
+His statement was not correct. | הטענה שלו לא הייתה נכונה.
+Which statement is correct? | איזו טענה נכונה?
+The author of the book lives in my city. | הכותב של הספר גר בעיר שלי.
+The author explains the problem in the text. | הכותב מסביר את הבעיה בטקסט.
+The usefulness of the system is clear. | התועלת של המערכת ברורה.
+I do not see the usefulness of this program. | אני לא רואה את התועלת של התוכנה הזו.
+The team has ten employees. | בצוות יש עשרה עובדים.
+The employee forgot his code. | העובד שכח את הקוד שלו.
+The system has a retention of ten days. | למערכת יש שמירה של עשרה ימים.
+Data retention is important for recovery. | שמירת נתונים לאורך זמן חשובה לשחזור.
+Let me check the file. | תן לי לבדוק את הקובץ.
+The program lets you share files with your team. | התוכנה מאפשרת לך לשתף קבצים עם הצוות שלך.
+He is being careful with the new system. | הוא נזהר עם המערכת החדשה.
+The file was being uploaded when the system stopped. | הקובץ הועלה בדיוק כשהמערכת הפסיקה לעבוד.
+I will call you later. | אני אתקשר אליך מאוחר יותר.
+The file was on my phone a few seconds later. | הקובץ היה בטלפון שלי כמה שניות אחר כך.
+Sometimes the system is slow. | לפעמים המערכת איטית.
+Sometimes I work from home. | לפעמים אני עובד מהבית.
+The file is on the local computer. | הקובץ נמצא על המחשב המקומי.
+We use local storage in the office. | אנחנו משתמשים באחסון מקומי במשרד.
+You can open your files anywhere. | אתה יכול לפתוח את הקבצים שלך בכל מקום.
+I can work from anywhere. | אני יכול לעבוד מכל מקום.
+You can open the system via your phone. | אתה יכול לפתוח את המערכת דרך הטלפון שלך.
+I sent the file via a message. | שלחתי את הקובץ בהודעה.
+Turn on automatic updates. | הפעל עדכונים אוטומטיים.
+The update is automatic every night. | העדכון אוטומטי כל לילה.
+Do not share your personal information. | אל תשתף את המידע האישי שלך.
+This is my personal phone. | זה הטלפון האישי שלי.
+It is safer to use authentication. | בטוח יותר להשתמש באימות.
+The new system is safer than the old one. | המערכת החדשה בטוחה יותר מהישנה.
+I need extra time to finish the job. | אני צריך זמן נוסף כדי לסיים את העבודה.
+The code gives an extra layer of protection. | הקוד נותן שכבת הגנה נוספת.
+This website is not trustworthy. | האתר הזה לא אמין.
+He is a trustworthy friend. | הוא חבר אמין.
+This book is very interesting. | הספר הזה מעניין מאוד.
+The article has an interesting idea. | במאמר יש רעיון מעניין.
+The story was very funny. | הסיפור היה מצחיק מאוד.
+He told a funny story. | הוא סיפר סיפור מצחיק.
+Malware is harmful to your computer. | תוכנה זדונית מזיקה למחשב שלך.
+Do not open harmful files. | אל תפתח קבצים מזיקים.
+This is the best phone I have. | זה הטלפון הכי טוב שיש לי.
+What is the best title for the text? | מהי הכותרת הטובה ביותר לטקסט?
+The two problems are related. | שתי הבעיות קשורות.
+The question is related to the text. | השאלה קשורה לטקסט.
+The two files are identical. | שני הקבצים זהים.
+Synchronization and recovery are not identical. | סנכרון ושחזור אינם זהים.
+The accidental deletion of the file was a problem. | המחיקה של הקובץ בטעות הייתה בעיה.
+It was an accidental click. | זו הייתה לחיצה בטעות.
+I accidentally deleted the file. | מחקתי את הקובץ בטעות.
+He accidentally sent the message to the entire team. | הוא שלח בטעות את ההודעה לכל הצוות.
+The team sat around the table. | הצוות ישב סביב השולחן.
+The system is designed around recovery. | המערכת בנויה סביב שחזור.
+Keep at least one copy of your data. | שמור לפחות עותק אחד של הנתונים שלך.
+This is the least useful program on my computer. | זו התוכנה הכי פחות שימושית במחשב שלי.
+Keep a copy on a separate disk. | שמור עותק על דיסק נפרד.
+We have a separate computer for the team. | יש לנו מחשב נפרד לצוות.
+You must check each file separately. | אתה חייב לבדוק כל קובץ בנפרד.
+The teams work separately. | הצוותים עובדים בנפרד.
+The new phone is less expensive. | הטלפון החדש פחות יקר.
+A long code is less easy to steal. | קשה יותר לגנוב קוד ארוך.
+It is unsafe to open suspicious files. | לא בטוח לפתוח קבצים חשודים.
+This website is unsafe. | האתר הזה לא בטוח.
+This step is unnecessary. | הצעד הזה מיותר.
+Do not keep unnecessary files on your phone. | אל תשמור קבצים מיותרים בטלפון שלך.
+This particular file is very important. | הקובץ המסוים הזה חשוב מאוד.
+Check what a particular program does. | בדוק מה תוכנה מסוימת עושה.
+The deleted files are recoverable for ten days. | הקבצים שנמחקו ניתנים לשחזור במשך עשרה ימים.
+Make sure that your data is recoverable. | ודא שהנתונים שלך ניתנים לשחזור.
+The file is visible on all my devices. | הקובץ נראה בכל המכשירים שלי.
+The error is not visible to the user. | השגיאה לא נראית למשתמש.
+The system updates itself every night. | המערכת מעדכנת את עצמה כל לילה.
+The computer itself is good, but the disk is broken. | המחשב עצמו תקין, אבל הדיסק שבור.
+I use the program on multiple devices. | אני משתמש בתוכנה בכמה מכשירים.
+There are multiple ways to solve the problem. | יש כמה דרכים לפתור את הבעיה.
+The computers are located in another city. | המחשבים ממוקמים בעיר אחרת.
+The office is located in my city. | המשרד ממוקם בעיר שלי.

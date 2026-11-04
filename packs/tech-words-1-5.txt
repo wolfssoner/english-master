@@ -1,0 +1,94 @@
+// English Master · מילים נוספות לקטעי הטכנולוגיה · שלב א׳ וחצי
+#חבילה מילים לקטעי טכנולוגיה · א׳ וחצי
+#מזהה tech-words-1-5
+#שלב 1.5
+
+#נושא א׳ וחצי · מילים לקטעי טכנולוגיה
+#מילים
+sound | צליל, קול
+conversation | שיחה
+guest | אורח
+customer | לקוח, קונה
+owner | בעלים
+translator | מתרגם
+field | תחום
+card | כרטיס
+
+#נושא תארים ותארי פועל
+#מילים
+private | פרטי
+full | מלא
+hidden | נסתר, מוסתר
+original | מקורי
+completely | לגמרי
+half | חצי
+opposite | הפוך
+professional | מקצועי
+technical | טכני
+behind | מאחורי
+human | אנושי; בן אדם
+in front of | מול, לפני
+
+#נושא פעלים
+#מילים
+translate | לתרגם
+touch | לגעת
+pass | לעבור
+
+#נושא מילים נוספות
+#מילים
+everything | הכול
+anything | משהו, כל דבר
+
+#משפטים
+Half of the users did not update their phones. | חצי מהמשתמשים לא עדכנו את הטלפונים שלהם.
+The process took half an hour. | התהליך לקח חצי שעה.
+Every employee has an identification card. | לכל עובד יש כרטיס זיהוי.
+I paid with my card. | שילמתי בכרטיס שלי.
+The cat is behind the door. | החתול נמצא מאחורי הדלת.
+A man walked into the office behind me. | אדם נכנס למשרד מאחוריי.
+A human mistake caused the problem. | טעות אנושית גרמה לבעיה.
+The program cannot understand context like a human. | התוכנה לא יכולה להבין הקשר כמו בן אדם.
+He waited in front of the entrance. | הוא חיכה מול הכניסה.
+Do not type your PIN in front of other people. | אל תקליד את הקוד שלך מול אנשים אחרים.
+Do not touch the screen when it is hot. | אל תיגע במסך כשהוא חם.
+She touched the button, and the door opened. | היא נגעה בכפתור, והדלת נפתחה.
+Only one person can pass at a time. | רק אדם אחד יכול לעבור בכל פעם.
+The data passes through the firewall. | הנתונים עוברים דרך חומת האש.
+A customer called the store with a question. | לקוח התקשר לחנות עם שאלה.
+The customers received a message about the update. | הלקוחות קיבלו הודעה על העדכון.
+The owner of the store decided to buy a new computer. | הבעלים של החנות החליט לקנות מחשב חדש.
+Only the owner of the file can delete it. | רק הבעלים של הקובץ יכול למחוק אותו.
+The translator found a mistake in the text. | המתרגם מצא טעות בטקסט.
+A good translator understands the context. | מתרגם טוב מבין את ההקשר.
+He works in the field of cybersecurity. | הוא עובד בתחום של אבטחת סייבר.
+This word has a special meaning in this field. | למילה הזו יש משמעות מיוחדת בתחום הזה.
+Can you translate this message for me? | אתה יכול לתרגם לי את ההודעה הזו?
+The program translated the text in one second. | התוכנה תרגמה את הטקסט בשנייה אחת.
+The result was the opposite of what we wanted. | התוצאה הייתה ההפך ממה שרצינו.
+He did the opposite of the instructions. | הוא עשה את ההפך מההוראות.
+We need a professional technician. | אנחנו צריכים טכנאי מקצועי.
+She is a professional translator. | היא מתרגמת מקצועית.
+The text looks very professional. | הטקסט נראה מקצועי מאוד.
+This is a technical problem, not a personal one. | זו בעיה טכנית, לא אישית.
+The article has many technical words. | במאמר יש הרבה מילים טכניות.
+The device makes a strange sound when it starts. | המכשיר משמיע צליל מוזר כשהוא מתחיל לעבוד.
+I could not hear the sound of the message. | לא יכולתי לשמוע את הצליל של ההודעה.
+We had a long conversation about the new program. | ניהלנו שיחה ארוכה על התוכנה החדשה.
+The conversation with the technician was very helpful. | השיחה עם הטכנאי הייתה מועילה מאוד.
+The guest asked for the code of the door. | האורח ביקש את הקוד של הדלת.
+A guest in the system can read files but cannot delete them. | אורח במערכת יכול לקרוא קבצים אבל לא יכול למחוק אותם.
+Do not share your private messages. | אל תשתף את ההודעות הפרטיות שלך.
+This file is private, so only I can open it. | הקובץ הזה פרטי, אז רק אני יכול לפתוח אותו.
+The disk is full, so I cannot store more pictures. | הדיסק מלא, אז אני לא יכול לשמור עוד תמונות.
+The store was full of people on Friday. | החנות הייתה מלאה באנשים ביום שישי.
+The malware was hidden inside a picture. | התוכנה הזדונית הייתה מוסתרת בתוך תמונה.
+Some files are hidden, so you cannot see them in the usual view. | חלק מהקבצים מוסתרים, אז אי אפשר לראות אותם בתצוגה הרגילה.
+I kept a copy of the original file. | שמרתי עותק של הקובץ המקורי.
+The copy is identical to the original. | העותק זהה למקור.
+The computer stopped completely. | המחשב הפסיק לעבוד לגמרי.
+I completely forgot about the update. | שכחתי לגמרי מהעדכון.
+Everything on the screen was dark. | הכול על המסך היה חשוך.
+The update changed everything in the program. | העדכון שינה הכול בתוכנה.
+I did not find anything strange in the code. | לא מצאתי שום דבר מוזר בקוד.
+Do not click on anything in a suspicious message. | אל תלחץ על שום דבר בהודעה חשודה.

@@ -55,7 +55,7 @@ What can users do? A cable connection usually has lower latency than wireless. A
 #שאלה For which action is latency more important? | a video call | watching a long video | downloading a large file | saving a backup | בשיחת וידאו ובמשחק כל פעולה צריכה להגיע לשרת מהר, ולכן ההשהיה חשובה יותר.
 #שאלה What does the writer recommend before paying for a faster plan? | testing the connection to find the real problem | buying a new laptop | moving to a new city | using only wireless | המשפט האחרון: כדאי לבדוק את החיבור כדי לגלות איזו בעיה באמת יש.
 
-#סיפור The Chatbot That Was Too Sure | קשה
+#סיפור The Chatbot That Was Too Confident | קשה
 A small startup built a chatbot to answer questions about the items that the company sells. The first tests were great. The chatbot answered quickly, in perfect language, and it always seemed confident. The team was proud and planned to release it to all users.
 
 Then an engineer named Noa noticed a problem. When she asked about an item that did not exist, the chatbot did not say "I do not know." Instead, it described the item in detail, with a price and a delivery day. All of it was false. The model had not found the information in any place. It had simply produced an answer that seemed correct.

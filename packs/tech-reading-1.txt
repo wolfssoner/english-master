@@ -1,0 +1,323 @@
+// English Master · 20 קטעי קריאה בנושאי טכנולוגיה · שלב א׳
+// 10 קטעים ארוכים עם 10 שאלות קשות, ו־10 קטעים בינוניים עם 4 שאלות
+#חבילה קטעי טכנולוגיה · שלב א׳
+#מזהה tech-reading-1
+#שלב 1
+
+#סיפור The Computer That Became Slow | קשה
+Dan works as a developer in a small team. One morning, his computer became very slow. When he clicked on a button, the screen did not change for almost a minute. Dan was nervous, because he had an important job to finish before noon.
+
+First, Dan thought that the computer had malware. He ran a program that searches for malware, but it found nothing. Then he thought that the computer was simply too old. "I need a new computer," he told his team. However, a new computer is expensive, so the administrator, Tamar, decided to check the problem first.
+
+Tamar opened a window that shows every program and how much memory it uses. She noticed something strange. There were more than 40 programs open, and Dan did not use most of them. One small program for pictures used a huge amount of memory because of an error in its code. Each hour it took more memory, and it never gave the memory back.
+
+Tamar closed the program and asked Dan to turn the computer off and on again. After that, the computer was fast again. Tamar also deleted the program and told the developer of the program about the error.
+
+Dan was relieved, but he was also a little sad that he had not checked the details first. "The computer is not old," Tamar explained. "The problem was one program with a memory error. Before you buy something new, try to find the real cause." Dan smiled. He understood that a quick decision is not always the correct decision.
+#שאלה Why was Dan nervous at the start of the story? | He had an important job to finish before noon | He thought that the computer had malware | The administrator was angry with him | He had to buy a new computer | בפסקה הראשונה כתוב שהיה לו עבודה חשובה לסיים לפני הצהריים. החשד לתוכנה זדונית הגיע רק אחר כך.
+#שאלה What did Dan think first? | that the computer had malware | that the computer was too old | that a program had a memory error | that the screen was broken | קודם הוא חשב על תוכנה זדונית, ורק אחרי שלא נמצא כלום הוא חשב שהמחשב ישן.
+#שאלה Why did Tamar decide to check the problem before Dan could buy a new computer? | A new computer is expensive | Dan asked her to check it | The program for malware found an error | The team needed the computer before noon | המילה however מובילה להסבר: מחשב חדש יקר, ולכן היא החליטה לבדוק קודם.
+#שאלה What did Tamar notice in the window? | There were more than 40 programs open | The computer had malware | The screen was broken | Dan used all the programs | היא ראתה יותר מ־40 תוכנות פתוחות, ודן לא השתמש ברובן. התשובה האחרונה הפוכה למה שכתוב.
+#שאלה What was the real cause of the problem? | One program with an error in its code took more and more memory | The computer was too old | There were too many programs open on the computer | Malware was inside a picture | מסיח מטעה: היו הרבה תוכנות פתוחות, אבל הסיבה האמיתית היא תוכנה אחת עם שגיאה שלקחה עוד ועוד זיכרון.
+#שאלה In paragraph 3, "it never gave the memory back". The word "it" is: | the program for pictures | the computer | the window | the error | הכוונה לתוכנה הקטנה לתמונות, שכל שעה לקחה עוד זיכרון.
+#שאלה Which sentence is NOT correct? | The program for malware found the cause of the problem | Dan turned the computer off and on again | Tamar deleted the program | Tamar told the developer of the program about the error | תוכנת הסריקה לא מצאה כלום (it found nothing). את הסיבה מצאה תמר.
+#שאלה What can we understand from the last paragraph? | Dan learned that he should find the real cause before he makes a decision | Dan decided to buy a new computer | Tamar thinks that old computers are fast | Dan was angry with Tamar | המשפט האחרון: החלטה מהירה היא לא תמיד ההחלטה הנכונה.
+#שאלה What is the main idea of the text? | Before you solve a problem, you should find its real cause | Old computers are always slow | Programs for pictures always have errors | Administrators know more than developers | הסיפור כולו מראה שהפתרון הראשון שעולה בראש (מחשב חדש) לא היה נכון, ושצריך למצוא את הסיבה האמיתית.
+#שאלה Which title describes the text most clearly? | The Real Cause of a Slow Computer | How to Buy a New Computer | Malware in a Small Team | A Day Without a Computer | הכותרת צריכה לכסות את כל הסיפור: מחשב איטי והסיבה האמיתית. לא נמצאה תוכנה זדונית ולא נקנה מחשב.
+
+#סיפור A Message That Looked Official | קשה
+Noa is a student. On Thursday evening, she received a message on her phone. The message looked official. It had the name of her school and a picture of the school. It said: "Your information is incomplete. Click the button and enter your name and your PIN before Friday, or you will not have access to your homework."
+
+Noa was anxious. Her homework was important, and Friday was very soon. She almost clicked the button. Then she noticed some strange details. First, the message did not come from the usual school phone. Second, the school never asks students for their PIN. Third, the message had some mistakes in its English.
+
+Noa did not click. Instead, she called her teacher, Yossi. Yossi explained that the message was phishing. "Phishing is a trap," he said. "The message looks real, but its purpose is to steal your information. When someone has your PIN, he can log in as you."
+
+The next morning, Yossi told the whole class about the message. He learned that three other students had received the same message, and one boy had clicked the button and entered his PIN. The administrator changed the boy's PIN quickly, so the problem did not become serious.
+
+Yossi gave the class simple instructions. Do not click on a button in a suspicious message. Do not share your PIN. And when you are not sure, stop and ask a teacher. Noa felt happy that she had stopped and checked the details before she acted.
+#שאלה Why did Noa almost click the button? | She was anxious because her homework was important and Friday was soon | She knew that the message was official | Her teacher told her to click | She wanted to change her PIN | בפסקה השנייה: היא הייתה לחוצה כי שיעורי הבית היו חשובים ויום שישי היה קרוב. ההודעה רק נראתה רשמית.
+#שאלה Which detail did NOT make Noa suspicious? | The message had the name of her school | The message did not come from the usual school phone | The school never asks students for a PIN | The message had mistakes in its English | שם בית הספר דווקא גרם להודעה להיראות אמינה. שלושת הפרטים האחרים הם מה שעורר את החשד.
+#שאלה What did Noa do instead of clicking? | She called her teacher | She deleted the message and told nobody | She entered her PIN | She called the administrator | כתוב Instead, she called her teacher. מי שדיבר עם המנהל היה המורה, ובמקרה של הילד השני.
+#שאלה What is the purpose of phishing, as Yossi explains it? | to steal information with a message that looks real | to inform students about their homework | to check if a PIN is correct | to protect the information of students | יוסי מסביר שההודעה נראית אמיתית, אבל המטרה שלה היא לגנוב מידע.
+#שאלה Why did the problem with the boy not become serious? | The administrator changed his PIN quickly | The boy did not enter his PIN | The message was not phishing | Yossi deleted the message | הילד כן הקיש את הקוד. מה שמנע נזק הוא שמנהל המערכת שינה אותו מהר.
+#שאלה What can we understand from paragraph 4? | Noa was not the only student who received the message | Only Noa received the message | All the students clicked the button | The boy created the message | עוד שלושה תלמידים קיבלו את אותה הודעה, ולכן היא לא נשלחה רק לנועה.
+#שאלה Which instruction did Yossi NOT give? | Change your PIN every week | Do not click on a button in a suspicious message | Do not share your PIN | Ask a teacher when you are not sure | ההוראה להחליף קוד כל שבוע לא מופיעה. שאר ההוראות מופיעות בפסקה האחרונה.
+#שאלה In paragraph 3, "he can log in as you". The word "he" is: | the person who has your PIN | Yossi | the administrator | the boy in the class | המשפט: מי שיש לו את הקוד שלך יכול להתחבר בתור אתה.
+#שאלה Which sentence describes the events in the correct sequence? | Noa noticed strange details, called Yossi, and then Yossi told the class | Yossi told the class, and then Noa received the message | Noa clicked the button, and then she called Yossi | The administrator changed Noa's PIN, and then she called Yossi | נועה הבחינה בפרטים, התקשרה ליוסי, ולמחרת בבוקר יוסי סיפר לכיתה. היא לא לחצה, וקוד הוחלף רק לילד.
+#שאלה What is the main idea of the text? | Checking the details of a message can protect you from phishing | Messages from schools are always phishing | Students should never use phones | Teachers must change the PINs of students | נועה נמנעה מהמלכודת כי עצרה ובדקה פרטים. זה הרעיון המרכזי.
+
+#סיפור The File That Nobody Could Open | קשה
+Ron is a writer. For eight months, he worked on a long story on his computer. He kept the whole story in one single file. One evening, the power went off while the file was open. When the power came back, Ron tried to open the file, but the computer showed an error message: "The file is corrupted and cannot be opened."
+
+Ron felt terrible. Eight months of work were inside that file. He tried to open it with three other programs, but every program showed the same error. He searched on websites for a solution and found many ideas, but most of them were not useful. Some websites offered a program that could "fix any file" for a high price. Ron almost paid, but he was not sure that these websites were reliable.
+
+Finally, Ron called his sister, Maya, who works with data. Maya explained the cause. "When the power went off, the computer was still storing the file. Part of the file was stored, and part of it was not. As a result, the file became corrupted."
+
+Maya could not fix the whole file, but she found an older file of the story in the storage of Ron's phone. Ron had sent the story to his phone two weeks before. So only two weeks of work were missing.
+
+Now Ron keeps his story in two places: on his computer and on a second device. He also stores it in a new file every week. "I learned a hard lesson," he says. "One file in one place is a big risk."
+#שאלה Why did the file become corrupted? | The power went off while the computer was storing the file | Ron opened it with three programs | The file had malware | The story was too long | מאיה מסבירה: החשמל נפל באמצע השמירה, וחלק מהקובץ נשמר וחלק לא.
+#שאלה The sentence "Eight months of work were inside that file" explains why Ron: | felt terrible | called his sister | paid for a program | kept his story in two places | המשפט בא מיד אחרי Ron felt terrible ומסביר אותו.
+#שאלה Why did Ron not pay for the program that could "fix any file"? | He was not sure that the websites were reliable | It was too expensive | Maya told him not to pay | The program had an error | המחיר היה גבוה, אבל הסיבה שכתובה היא שהוא לא היה בטוח שהאתרים אמינים.
+#שאלה Which sentence about the websites is correct? | Most of their ideas were not useful | They fixed Ron's file | They were all reliable | They offered free help | כתוב most of them were not useful. אף אתר לא תיקן את הקובץ, והתוכנה הוצעה במחיר גבוה.
+#שאלה In paragraph 3, "part of it was not". The word "it" is: | the file | the power | the computer | the story on the phone | חלק מהקובץ נשמר וחלק ממנו לא.
+#שאלה Where did Maya find the older file? | in the storage of Ron's phone | on a website | inside the corrupted file | on her own computer | היא מצאה קובץ ישן יותר באחסון של הטלפון של רון.
+#שאלה How much of Ron's work was missing in the end? | two weeks of work | eight months of work | the whole story | nothing | רון שלח את הסיפור לטלפון שבועיים קודם, ולכן חסרו רק שבועיים.
+#שאלה What can we understand from the text? | If Ron had not sent the story to his phone, he probably could not get back most of his work | Maya fixed the whole corrupted file | Corrupted files can always be fixed | Ron's computer had a memory error | מאיה לא הצליחה לתקן את הקובץ. רק הקובץ הישן בטלפון הציל את רוב העבודה.
+#שאלה What does Ron do now? | He keeps the story in two places and stores a new file every week | He never turns off his computer | He works on his story only on his phone | He pays for a program to fix his files | הפסקה האחרונה: שני מקומות וקובץ חדש כל שבוע.
+#שאלה What is the main idea of the text? | Keeping important files in more than one place reduces risk | Writers should not use computers | The power goes off every day | Expensive programs can fix every file | המשפט האחרון של רון מסכם את הרעיון: קובץ אחד במקום אחד הוא סיכון גדול.
+
+#סיפור When the Firewall Said No | קשה
+A small team of developers worked on a new website for a store. On Thursday morning, nobody in the team could open the website from their computers at work. Users at home could open it without problems, but the team could not.
+
+The developers thought that the website was broken. They spent two hours checking their code, but they found no error. Then Omer, the new developer in the team, had an idea. "I think the problem is not in the website," he said. "I think the problem is in our system at work."
+
+Omer was right. The day before, the administrator had changed the instructions of the firewall. A firewall is a program that decides which data can enter a system and which data cannot. The new instructions were too strong. As a result, the firewall stopped the data that came from the new website, because the website was new and unfamiliar.
+
+The administrator was busy with another issue, so the team had to wait. Finally, in the afternoon, the administrator gave the website permission, and the developers could open it again.
+
+At the end of the day, the team discussed the problem, and they made two decisions. First, the administrator will inform the team before he changes the firewall. Second, when there is a problem, the team will check the whole route of the data, and not only their own code. "We looked at our code for two hours, but the code was perfect," said Omer with a smile.
+#שאלה What was strange about the problem? | Users at home could open the website, but the team at work could not | Nobody could open the website | The website had many errors | The firewall was deleted | הפרט החשוד: מהבית האתר עבד, ורק מהעבודה לא.
+#שאלה Why did the developers spend two hours checking their code? | They thought that the website was broken | The administrator asked them to check it | Omer found an error in the code | Users said that the code was slow | הם חשבו שהאתר שבור, ולכן חיפשו בקוד.
+#שאלה What did Omer think? | The problem was in their system at work, not in the website | The website had malware | The code had an error | The firewall was deleted | עומר הציע שהבעיה במערכת בעבודה ולא באתר.
+#שאלה What had the administrator done the day before? | He had changed the instructions of the firewall | He had deleted the website | He had given the website permission | He had informed the team about a change | מסיח מטעה: הוא נתן הרשאה רק אחר הצהריים, ולעדכן את הצוות הוא יתחיל רק מעכשיו.
+#שאלה Why did the firewall stop the data from the website? | The instructions were too strong and the website was unfamiliar | The website had malware | The developers changed the code | Users at home sent too much data | ההוראות היו חזקות מדי, והאתר היה חדש ולא מוכר.
+#שאלה Why did the team have to wait so long? | The administrator was busy with another issue | The firewall was broken | Omer went home | The users were angry | כתוב שהמנהל היה עסוק בבעיה אחרת.
+#שאלה In paragraph 3, a firewall is described as a program that: | decides which data can enter a system | finds errors in code | creates new websites | stores data from users | זו ההגדרה שבטקסט: תוכנה שמחליטה אילו נתונים יכולים להיכנס למערכת.
+#שאלה Which decision did the team make at the end of the day? | The administrator will inform the team before he changes the firewall | The team will stop using a firewall | Omer will become the administrator | The developers will check only their own code | ההחלטה השנייה היא דווקא לבדוק את כל המסלול, ולא רק את הקוד.
+#שאלה What does Omer want to say with the words "the code was perfect"? | They looked for the problem in a place where it was not | The developers create perfect code every day | The firewall had perfect instructions | The website did not need a firewall | הוא מתכוון שחיפשו במקום הלא נכון. הבעיה לא הייתה בקוד.
+#שאלה What lesson can we learn from the text? | When you solve a problem, check the whole route and not only one part | Firewalls are useless | New developers are always right | Administrators should never change a firewall | זו בדיוק ההחלטה השנייה של הצוות.
+
+#סיפור Why You Should Update Your Software | קשה
+Many people see an update notification on their phone or computer and click "Not now". They think that updates take too much time. They want to continue their work, and the update can wait. However, this decision can be a serious risk.
+
+Software is complex, and every program has mistakes in its code. Some of these mistakes are small: a button in a strange place, or a word that is not correct. Other mistakes are more serious. They are vulnerabilities: weak parts in the software that someone with bad purposes can use to enter the system. When the developers of the software find a vulnerability, they fix it and send an update to all users.
+
+Here is the problem. When developers send an update, people with bad purposes can also learn about the vulnerability. They know that many users will not update their software quickly. As a result, a user who waits a month can have a higher risk than before the update.
+
+There are also other reasons to update. Updates can make programs faster, fix errors that cause programs to stop, and help software work with new devices.
+
+Still, updates are not perfect. Once in a while, an update has its own errors. For this reason, important systems are usually updated in steps: first a few computers, and then all the others. For a normal user, however, the writer recommends a simple step: choose to update automatically, and do not wait too long.
+#שאלה Why do many people click "Not now"? | They think that updates take too much time | They know that updates have errors | Their devices cannot update | They do not have permission to update | הפסקה הראשונה: הם חושבים שעדכונים לוקחים יותר מדי זמן.
+#שאלה What is a vulnerability, as the text describes it? | a weak part in software that someone with bad purposes can use | a word that is not correct | a button in a strange place | an update that has errors | שתי הדוגמאות השניות הן טעויות קטנות. פגיעות היא החלק החלש שאפשר לנצל.
+#שאלה What do developers do when they find a vulnerability? | They fix it and send an update to all users | They tell nobody about it | They delete the program | They ask users to find it | כתוב: they fix it and send an update to all users.
+#שאלה Why can a user who waits a month have a higher risk than before the update? | People with bad purposes can learn about the vulnerability from the update | The update has errors | The device becomes slow | Developers stop helping the user | זו הנקודה המפתיעה בטקסט: העדכון עצמו חושף את הפגיעות, ומי שלא מעדכן נשאר חשוף.
+#שאלה Which reason for updates is NOT in paragraph 4? | Updates make the screen bigger | Updates can make programs faster | Updates can fix errors that cause programs to stop | Updates can help software work with new devices | מסך גדול יותר לא מוזכר בכלל.
+#שאלה Why are important systems usually updated in steps? | An update can have its own errors | Users want to wait | It is cheaper | Developers are busy | הפסקה האחרונה: לפעמים לעדכון יש שגיאות משלו, ולכן מעדכנים קודם מעט מחשבים.
+#שאלה In paragraph 3, "They know that many users will not update". The word "they" is: | people with bad purposes | developers | users | updates | המשפט הקודם מדבר על אנשים עם כוונות רעות, והם יודעים שמשתמשים לא מעדכנים מהר.
+#שאלה What does the writer recommend for a normal user? | to update automatically and not wait too long | to update only important systems | to click "Not now" | to update only a few computers first | העדכון בשלבים מתאים למערכות חשובות. למשתמש רגיל ההמלצה היא עדכון אוטומטי.
+#שאלה Which sentence would the writer probably say? | An update can have errors, but waiting is usually a bigger risk | Updates are perfect | Updates are useless for a normal user | Users should update only once a year | הכותב מודה שעדכונים לא מושלמים, ובכל זאת ממליץ לא לחכות.
+#שאלה What is the main purpose of the text? | to explain why people should not wait to update their software | to describe how developers create code | to show that updates are a big risk | to compare phones and computers | המטרה היא לשכנע לעדכן ולא לדחות. הטקסט לא טוען שעדכונים מסוכנים.
+
+#סיפור An Invalid Value in the Database | קשה
+Yael is a developer at a store that has a website for books. One Friday, users began to send angry messages. They could not purchase books. Every time they clicked "Buy", they saw a message: "Error: invalid value."
+
+Yael checked the code of the website, but the code had not changed for a week. Then she looked at the database, where the store keeps information about every book: its name, its price, and how many are in the store. She noticed something unusual in one row. The price of one book was the word "ten" instead of the value 10.
+
+Yael found the cause quickly. A person in the store team had changed the price by hand the day before, and he entered the word instead of the value. The database stored the word without a warning. But the function that works with prices needs a value, not a word. When the function received the word, it could not continue, so it stopped and showed an error.
+
+The strange part was that one bad row stopped the purchase of every book, not only that book. The reason was that the function read all the rows before each purchase. So one invalid value in one row could stop the whole store.
+
+Yael fixed the row in a minute. However, she knew that the real problem was bigger: the database should not allow a word in the price. So she changed the database. Now the price must be a value, and if someone enters a word, the system shows a warning and does not store it. "A small mistake by one person should not stop the whole store," Yael told her team.
+#שאלה What did users see when they clicked "Buy"? | an error message | a free book | a closed website | a window that asked them to pay again | כתוב שהופיעה הודעת שגיאה: invalid value.
+#שאלה Why did Yael not find the problem in the code? | The code had not changed for a week | The code was too complex | She did not check the code | The code was deleted | היא בדקה את הקוד, אבל הוא לא השתנה כבר שבוע.
+#שאלה What was unusual in the database? | In one row, the price was a word instead of a value | One book had no name | The database was empty | All the prices were 10 | בשורה אחת המחיר היה המילה ten במקום המספר 10.
+#שאלה Who caused the problem? | a person in the store team who changed a price by hand | Yael | a user of the website | malware | אדם מצוות החנות שינה מחיר ידנית יום קודם.
+#שאלה Why did the function stop? | It needs a value, but it received a word | The book was too expensive | The database was corrupted | Yael changed the function | הפונקציה צריכה מספר, וכשקיבלה מילה לא יכלה להמשיך.
+#שאלה Why did one bad row stop the purchase of every book? | The function read all the rows before each purchase | Every book had the same price | The person changed all the prices | Users clicked too many times | הפסקה הרביעית מסבירה: הפונקציה קראה את כל השורות לפני כל קנייה.
+#שאלה Which sentence is correct? | The database stored the word without a warning | The database showed a warning when the word was entered | The function fixed the price | A user entered the word | לפני התיקון המסד שמר את המילה בלי אזהרה. האזהרה קיימת רק אחרי התיקון של יעל.
+#שאלה "However, she knew that the real problem was bigger." What was the real problem? | The database allowed a word in the price | The person was careless | The users were angry | The function was slow | לפי המשך המשפט: המסד לא היה צריך לאפשר מילה בשדה המחיר.
+#שאלה What did Yael do after she fixed the row? | She changed the database so that the price must be a value | She deleted the function | She asked users to buy again | She stopped the person from working | היא שינתה את המסד כך שהמחיר חייב להיות מספר.
+#שאלה What does Yael want to say in the last sentence? | A system should prevent a small mistake from causing a big problem | People should never make mistakes | The store should close on Friday | Only developers should change prices | היא לא מאשימה את האדם. היא אומרת שהמערכת צריכה למנוע מטעות קטנה להפיל הכול.
+
+#סיפור Bandwidth at Home | קשה
+On Thursday evenings, the family of Lior has a problem. The father works from home and talks with his team on the computer. The mother watches programs on the big screen in the living room. Lior's brother downloads huge files for his homework, and Lior tries to study on a website for students. At about eight, the picture of the father on the screen stops, and his team cannot hear him.
+
+The father thought that his computer was the problem. But Lior, who studies computers at school, had another explanation. "The problem is bandwidth," she said. "Bandwidth is the amount of data that can travel to our house in one second. Think of it as a road. When a few cars use the road, every car can move fast. When everyone uses the road at the same time, every car becomes slow."
+
+Lior explained that some uses need a huge amount of bandwidth, and some need only a little. Watching a program on a big screen needs a lot. Downloading huge files needs a lot too. A short message needs only a little.
+
+The family discussed possible solutions. They could pay for more bandwidth, but it is expensive. Instead, they decided to change some of their actions. Lior's brother now downloads his huge files at night, when everyone sleeps. The mother watches her programs after the father finishes his work. As a result, on Thursday evenings, the father can talk with his team without problems.
+
+"We did not need to pay," Lior said. "We only needed to understand how the road works."
+#שאלה What problem does the family have on Thursday evenings? | The picture of the father stops and his team cannot hear him | The computer of the father is broken | Lior cannot find her homework | The big screen does not work | הבעיה היא בשיחה של האב. ההסבר שהמחשב שבור התברר כשגוי.
+#שאלה What did the father think? | that his computer was the problem | that bandwidth was the problem | that Lior's brother was the problem | that the website for students was slow | האב חשב שהמחשב שלו הוא הבעיה. ליאור היא שהציעה את רוחב הפס.
+#שאלה In Lior's explanation, what is bandwidth? | the amount of data that can travel to the house in one second | the power of the computer | the amount of storage in the computer | the amount of files on the screen | זו ההגדרה שליאור נותנת.
+#שאלה When Lior talks about the road, the cars are like: | the data of each use | the people in the family | the computers in the house | the programs on the big screen | הכביש הוא רוחב הפס, והמכוניות הן הנתונים של כל שימוש שעוברים עליו.
+#שאלה Which use needs only a little bandwidth, in Lior's explanation? | a short message | watching a program on a big screen | downloading huge files | talking with a team on the computer | רק על הודעה קצרה כתוב שהיא צריכה מעט. על השיחה של האב הטקסט לא אומר שהיא צריכה מעט.
+#שאלה Why did the family not pay for more bandwidth? | It is expensive | It was not possible | Lior said that it was useless | The father did not want it | כתוב: they could pay for more bandwidth, but it is expensive.
+#שאלה What does Lior's brother do now? | He downloads his huge files at night | He stops downloading files | He watches programs with his mother | He studies on the website for students | הוא מוריד את הקבצים בלילה, כשכולם ישנים.
+#שאלה Which sentence is NOT correct? | The family bought a faster computer | The mother watches programs after the father finishes his work | The brother downloads files at night | The father can now talk with his team without problems | המשפחה לא קנתה שום דבר. הם רק שינו הרגלים.
+#שאלה What does Lior want to say with the words "We only needed to understand how the road works"? | Understanding the problem helped them find a free solution | They needed a new road near the house | They should not use cars | The father should travel to work | היא מתכוונת שהבנת הבעיה הובילה לפתרון בלי לשלם.
+#שאלה Which title describes the text most clearly? | One Road for the Whole Family | How to Buy a New Computer | Lior's Homework | The Team of the Father | הכותרת מתארת את הרעיון של כביש אחד שכל המשפחה חולקת.
+
+#סיפור The First Day of a New Developer | קשה
+Maya finished her studies and started her first job as a developer in a team of six people. On her first day, Noam, the oldest developer in the team, gave her a small job: to fix an error in a function that sends notifications to users.
+
+Maya was excited, but also nervous. The code of the system was huge. There were more than 500 files, and many of them had names that were unfamiliar to her. She opened one file after another and tried to understand all of them. After three hours, she had read a lot of code, but she had fixed nothing.
+
+At lunch, Noam asked her how she was. Maya explained that she felt lost. Noam smiled. "Nobody understands the whole system," he said. "I work here for seven years, and I still do not know every file. You do not need to read all the code. You need to find the path of the problem."
+
+After lunch, Noam showed her a simple strategy. First, repeat the error: send a notification and see the error on your screen. Second, look at the error message: it often tells you the name of the function where the problem is. Third, open only that function and read it slowly. Finally, change one small detail at a time and check the result.
+
+With this strategy, Maya found the problem in 40 minutes. A variable had an invalid value when the user had no name. She fixed it, checked the result, and the notification worked. At the end of the day, Maya felt confident. She understood that a developer does not need to know all the code; she needs a good strategy to find the right place.
+#שאלה What was the first job of Maya? | to fix an error in a function that sends notifications | to read all the code | to create a new system | to send notifications to users | נעם ביקש ממנה לתקן שגיאה בפונקציה ששולחת התראות.
+#שאלה Why was Maya nervous? | The code of the system was huge | Noam was angry | She had no computer | Her studies were not finished | הקוד היה ענק, עם יותר מ־500 קבצים.
+#שאלה What did Maya do in her first three hours? | She read a lot of code but fixed nothing | She fixed the error | She asked Noam for help | She deleted some files | היא קראה הרבה קוד ולא תיקנה כלום. את העזרה היא קיבלה רק בצהריים.
+#שאלה What did Maya tell Noam at lunch? | that she felt lost | that she had fixed the error | that she wanted another job | that the code had malware | היא הסבירה שהיא מרגישה אבודה.
+#שאלה Why does Noam say, "I still do not know every file"? | to show Maya that nobody needs to know the whole system | to explain that he is a weak developer | to tell Maya that she will leave soon | to explain why the system is huge | הוא מרגיע אותה: גם מי שעובד שבע שנים לא מכיר כל קובץ.
+#שאלה Which step is NOT part of Noam's strategy? | Read every file in the system | Repeat the error | Look at the error message | Change one small detail at a time | זה בדיוק מה שמאיה עשתה בטעות בבוקר, ונעם אמר שלא צריך.
+#שאלה What is the purpose of the second step? | to find the name of the function where the problem is | to send a notification | to delete the error message | to read all the code | הודעת השגיאה אומרת לעיתים קרובות את שם הפונקציה.
+#שאלה What was the cause of the error? | A variable had an invalid value when the user had no name | The function was deleted | The notification was too long | The system had malware | משתנה קיבל ערך לא תקין כשלמשתמש לא היה שם.
+#שאלה How long did it take Maya to find the problem with the new strategy? | 40 minutes | three hours | seven years | a whole day | שלוש שעות זה הבוקר בלי שיטה. עם השיטה זה לקח 40 דקות.
+#שאלה What is the main idea of the text? | A good strategy is more useful than trying to read all the code | New developers cannot fix errors | Big systems always have malware | Developers should work alone | המשפט האחרון מסכם: לא צריך להכיר את כל הקוד, צריך שיטה טובה.
+
+#סיפור A Phone Lost on the Bus | קשה
+Omer lost his phone on the bus to work. Inside the phone there was a lot of important information: his messages, his pictures, and access to the system at his job.
+
+At first, Omer was very anxious. Then he remembered two things that made him feel a little relieved. First, the screen of the phone needed a PIN. Without the PIN, a person could see only the time. Second, a month before, the administrator at his job had required authentication with two steps for the work system. To log in, a user needs his PIN and also a code that the system sends to his phone.
+
+Omer called the administrator, Dana, from the phone of a friend. Dana acted quickly. She stopped the access of the lost phone to the work system, so the system stopped sending codes to it. Then she helped Omer choose a new PIN for the system.
+
+Two days after that, Omer's sister called the lost phone. A man answered the call. He said that he had found the phone on the bus and wanted to give it back. That evening, Omer got his phone back. Nothing was missing, and nobody had entered the work system.
+
+"Before this, I thought that two steps were too many," Omer said. "Now I know that the second step is a big part of the reason that my information was safe."
+#שאלה Why was Omer anxious at first? | His phone had a lot of important information | He was late for work | He forgot his PIN | The administrator was angry | בפסקה הראשונה: בטלפון היה הרבה מידע חשוב.
+#שאלה What made Omer feel a little relieved? | He remembered the PIN on his phone and the two steps of the work system | He found his phone on the bus | Dana called him | A friend gave him a new phone | הוא נזכר בשני דברים: קוד למסך ואימות בשני שלבים.
+#שאלה What could a person see on the phone without the PIN? | only the time | Omer's pictures | Omer's messages | the work system | כתוב: בלי הקוד אפשר לראות רק את השעה.
+#שאלה What does a user need to log in to the work system? | a PIN and a code that the system sends to the phone | only a PIN | only the phone | a new PIN every day | זה האימות בשני שלבים: קוד אישי וקוד שנשלח לטלפון.
+#שאלה Why did Dana stop the access of the lost phone? | so the system would stop sending codes to it | so Omer could buy a new phone | so the man could not call Omer | so Omer could choose a new PIN | כתוב: so the system stopped sending codes to it. קוד חדש היה צעד נפרד.
+#שאלה In paragraph 4, "he had found the phone on the bus". The word "he" is: | the man who answered the call | Omer | the friend of Omer | Dana | האיש שענה לשיחה של האחות הוא זה שמצא את הטלפון.
+#שאלה How did Omer get his phone back? | His sister called the lost phone, and the man who found it answered | The man opened the phone with the PIN | Dana found the man | The man read Omer's messages | האחות התקשרה, והאיש שמצא את הטלפון ענה.
+#שאלה Which sentence is NOT correct? | The man entered the work system | Nothing was missing from the phone | Dana helped Omer choose a new PIN | Omer called Dana from the phone of a friend | כתוב במפורש ש־nobody had entered the work system.
+#שאלה What did Omer think about two steps before this event? | that two steps were too many | that two steps were perfect | that one step was not safe | that the administrator was right | במשפט האחרון הוא מודה שקודם חשב ששני שלבים זה יותר מדי.
+#שאלה What is the main idea of the text? | Simple steps can keep information safe when a device is lost | People should never take phones on a bus | Administrators should find lost phones | A PIN alone always protects a work system | הסיפור מראה שהגנות פשוטות שמרו על המידע גם כשהמכשיר אבד.
+
+#סיפור Is the Information on a Website Correct? | קשה
+Every day, a huge amount of people search for information on websites. They want to know about food and sleep, about money, and about events in their city. Most of them believe the first answer that they find. However, a lot of information on websites is inaccurate, and some of it is misleading on purpose.
+
+Why is there so much inaccurate information? First, every person can create a website, and nobody checks the information before people read it. Second, some websites make money from clicks. For these websites, a surprising title is more important than a correct story. Third, some writers make mistakes, and other websites repeat these mistakes again and again.
+
+So how can a person know if information is reliable? Here are some useful steps. First, check who the writer is and what job the writer has. Second, look for evidence. A reliable article explains where its information comes from. Third, compare. If three reliable websites say the same thing, the information is probably correct. If only one website says it, be careful. Finally, notice your feelings. If a title makes you very angry or very excited, stop for a minute. Strong feelings can make people share a story before they check it.
+
+These steps take a little time. But they can prevent you from believing, and sharing, information that is not correct.
+#שאלה What do most people do when they search for information? | They believe the first answer that they find | They check the writer | They compare three websites | They ask a teacher | הפסקה הראשונה. שאר התשובות הן מה שהכותב ממליץ לעשות, לא מה שאנשים עושים.
+#שאלה Which reason for inaccurate information is NOT in paragraph 2? | Websites are too slow | Every person can create a website | Some websites make money from clicks | Writers make mistakes, and others repeat them | מהירות האתרים לא קשורה לטקסט.
+#שאלה Why is a surprising title important for some websites? | They make money from clicks | Their writers are investigators | It makes the story correct | People want short stories | כותרת מפתיעה מביאה קליקים, וקליקים מביאים כסף.
+#שאלה What is "evidence" in paragraph 3? | the explanation of where the information comes from | the name of the website | the title of the article | the feelings of the person who reads it | כתוב: מאמר אמין מסביר מאיפה המידע שלו מגיע.
+#שאלה When should you be careful? | when only one website says something | when three reliable websites say the same thing | when the writer explains where the information comes from | when the title is short | כשרק אתר אחד אומר משהו, צריך להיזהר.
+#שאלה Why does the writer tell people to notice their feelings? | Strong feelings can make people share a story before they check it | Angry people read more slowly | Excited people find more evidence | Feelings help people compare websites | זה ההסבר שמופיע מיד אחרי ההמלצה.
+#שאלה "Some of it is misleading on purpose." This tells us that some information: | was created to make people believe something that is not correct | has small mistakes | is very old | comes from teachers | on purpose פירושו בכוונה. כלומר מישהו יצר את המידע כדי להטעות.
+#שאלה Which person acts as the writer recommends? | Dan reads a surprising story, checks two other reliable websites, and then decides to share it | Noa shares a story because its title makes her angry | Tom believes the first answer that he finds | Yael reads only one website every day | דן משווה מקורות לפני ששיתף. שאר הדוגמאות הן בדיוק מה שהכותב מזהיר מפניו.
+#שאלה What is the purpose of the last paragraph? | to explain that the steps take time but are worth it | to give a new step | to describe how websites make money | to explain who the writers are | הפסקה האחרונה לא מוסיפה צעד חדש. היא אומרת שהצעדים לוקחים זמן ושווים אותו.
+#שאלה Which title describes the text most clearly? | How to Check Information on a Website | Why Websites Make Money | The First Website | How to Create a Website | רוב הטקסט עוסק בבדיקת אמינות של מידע.
+
+#סיפור The Notification at Night | בינוני
+Tom is a student, and he often feels tired in the morning. He goes to bed early, so at first he did not understand the reason. Then his mother noticed something. Every night, Tom's phone was on the table near his bed, and it received notifications all night: messages from friends, notifications from websites, and warnings from programs that he never opened.
+
+Each notification made a small noise and turned on the screen. Each time, Tom moved a little in his bed, so his sleep was not quiet. His mother explained that a person can notice noise during sleep, and the screen in a dark room is like a small window that opens again and again.
+
+Tom decided to try a simple solution. Now, from ten in the evening to seven in the morning, his phone stops all notifications, and it stays in the living room. After two weeks, Tom did not feel tired in the morning. The phone was not the only cause, but it was a big part of the problem.
+#שאלה Why did Tom not understand the reason that he was tired at first? | He goes to bed early | His phone was in the living room | He never received notifications | His mother did not tell him | הוא הולך לישון מוקדם, ולכן לא הבין למה הוא עייף.
+#שאלה What did each notification do? | It made a small noise and turned on the screen | It always made Tom leave his bed | It deleted a message | It opened a program | מסיח מטעה: כתוב רק שהשינה שלו לא הייתה שקטה, לא שהוא קם מהמיטה.
+#שאלה Which sentence is NOT part of Tom's solution? | He deleted all the programs from his phone | The phone stops notifications at night | The phone stays in the living room | Notifications start again at seven in the morning | הוא לא מחק תוכנות. הפתרון היה לעצור התראות ולהוציא את הטלפון מהחדר.
+#שאלה What can we understand from the last sentence? | The phone was one cause of the problem, but not the only one | The phone was the only cause | The solution did not help | Tom stopped using his phone | המשפט האחרון: הטלפון לא היה הסיבה היחידה, אבל חלק גדול מהבעיה.
+
+#סיפור A Free Program With a Price | בינוני
+Dana wanted a program to make her pictures smaller. The official program was expensive, so she searched for a free one. She found a website that offered the same program for free, and she downloaded it.
+
+The program worked, and Dana was happy. But after a few days, her computer became slow, and strange windows began to open on the screen. Dana asked her brother, a developer, to check the computer. He found malware inside the free program. The malware showed messages that asked her to buy things, and it also sent information from the computer to an unfamiliar website.
+
+Her brother deleted the malware and explained the lesson. "When an expensive program is free on a strange website, ask why. Often the real price is your information." Now Dana downloads programs only from the official websites of their developers.
+#שאלה Why did Dana search for a free program? | The official program was expensive | The official program did not work | Her brother told her to search | She needed a program for malware | התוכנה הרשמית הייתה יקרה.
+#שאלה What did Dana see first after she downloaded the program? | The program worked, and she was happy | Her computer became slow at once | Her brother deleted the program | Strange windows opened the same day | רק אחרי כמה ימים המחשב האט. בהתחלה התוכנה עבדה.
+#שאלה What did the malware do? | It showed messages that asked her to buy things and sent information to a website | It made her pictures smaller | It deleted all her files | It made the screen bigger | הוא הציג הודעות מכירה ושלח מידע לאתר לא מוכר.
+#שאלה What does the brother want to say with "Often the real price is your information"? | A free program may take your information instead of your money | Free programs are always expensive | Developers should not ask for money | Information has no value | התשלום האמיתי על תוכנה "חינמית" כזו הוא המידע שלך.
+
+#סיפור The Lottery Website on Friday | בינוני
+Every Friday at noon, a lottery website shows the winning results. For years, the website worked well. But one Friday, a few minutes after noon, it became so slow that most users could not open it at all.
+
+The developers of the website checked the code and found no error. The cause was not in the code. That week, the lottery offered a huge amount of money, and everyone talked about it all week. As a result, ten times more people than usual tried to open the website in the same minute. The system was not prepared for so many users.
+
+The next week, the developers prepared the system before noon. For one hour, they used four more computers in the system, and they created a simple screen with only the results. This time, the website stayed fast, although more people than the week before tried to open it.
+#שאלה Why did the website become slow that Friday? | Ten times more people than usual tried to open it at the same time | The code had an error | The developers changed the system | The results were missing | המפתחים לא מצאו שגיאה בקוד. הסיבה הייתה עומס חריג.
+#שאלה Why did so many people try to open the website that week? | The lottery offered a huge amount of money, and everyone talked about it | The website was new | The results were early | The developers sent messages to everyone | הפרס היה ענק, וכולם דיברו עליו כל השבוע.
+#שאלה What did the developers do the next week? | They prepared the system before noon with more computers and a simple screen | They closed the website on Friday | They changed the amount of money | They asked people not to open the website | הם הוסיפו מחשבים לשעה אחת ויצרו דף פשוט עם התוצאות בלבד.
+#שאלה What can we understand from the last sentence? | The developers prepared well, and the website was fast with more users | A small amount of people tried to open the website | The website was slow again | The developers found an error in the code | למרות שהיו עוד יותר מבקרים, האתר נשאר מהיר.
+
+#סיפור Who Can Change the File? | בינוני
+Yossi, a teacher, shared a file with the whole class. He gave every student permission to change the file, because he wanted the students to work on their homework together. For two weeks, the idea worked well.
+
+Then, one evening, a student deleted a big part of the file by mistake. Nobody knew who did it, and the work of many students was lost. The next morning, Yossi asked the administrator for help. The system kept an older file from the morning before, so the class lost only one day of work.
+
+After that, Yossi changed the permission. Now each student can read the whole file, but he can change only his own part. "Giving every person permission to change the whole file is easy," Yossi told the class, "but it is also a risk. One careless click can delete the work of everyone."
+#שאלה Why did Yossi give every student permission to change the file? | He wanted the students to work together | He did not know how to change the permission | The administrator told him to | The students asked for it | כתוב: because he wanted the students to work on their homework together.
+#שאלה Why was the mistake of one student a serious problem? | The work of many students was lost | The student deleted the whole system | Yossi lost his job | The file had malware | כולם עבדו על אותו קובץ, ולכן העבודה של הרבה תלמידים אבדה.
+#שאלה How did the class get back most of the work? | The system kept an older file from the morning before | The student remembered the deleted part | Yossi created the file again | The administrator found the student | המערכת שמרה גרסה ישנה מהבוקר הקודם, ולכן אבד רק יום עבודה אחד.
+#שאלה What is the main idea of the last paragraph? | Permission for everyone is easy, but one mistake can delete the work of everyone | Students should never work together | Teachers should not share files | Only the administrator should read the file | יוסי מסביר שהרשאה לכולם נוחה אבל מסוכנת: לחיצה אחת יכולה למחוק את העבודה של כולם.
+
+#סיפור A Cat With a Trap | בינוני
+Investigators found malware with an unusual strategy. The malware was inside a picture. The picture looked normal: a cat on a chair. But at the end of the file, after the data of the picture, there was more code. This code is called the payload.
+
+When a user opened the picture with one old program for pictures, the payload started to run. The old program had a vulnerability, and the payload used it to give someone access to the computer.
+
+Most programs for pictures simply ignore the code at the end of the file. So for most users, the picture was only a cat, and their computers were safe. The risk was for the users of that one old program. Its developers sent an update a week after the investigators found the problem, and users who updated were safe again.
+#שאלה What was unusual about the malware? | It was inside a picture that looked normal | It was a picture of a cat on a chair | It deleted pictures | It came from investigators | הפרט החריג הוא שהקוד הזדוני הסתתר בתוך תמונה רגילה.
+#שאלה Where was the payload? | at the end of the file, after the data of the picture | at the start of the picture | inside the old program | on the website of the investigators | כתוב: at the end of the file, after the data of the picture.
+#שאלה Why was the picture not a risk for most users? | Most programs for pictures ignore the code at the end of the file | Most users did not open pictures | The payload was deleted | Most users had no computer | רוב התוכנות פשוט מתעלמות מהקוד שבסוף הקובץ.
+#שאלה Which users were safe again after the update? | users of the old program who updated it | users who never opened pictures | the investigators only | users who deleted the cat picture | המפתחים שלחו עדכון, ומי שעדכן היה שוב מוגן.
+
+#סיפור The Storage Warning | בינוני
+Maya received a warning on her phone: "Storage is almost finished." She could not download a new program, and her phone became slow. She looked at the storage and found that pictures used most of it: there were more than 6,000 pictures on the phone.
+
+Maya found two reasons. First, when she took one picture, she often took ten, and she kept all of them. Second, her message program stored every picture that her friends sent, and also pictures that she only looked at once.
+
+Maya moved her old pictures to her computer and deleted the pictures that were almost the same. She also changed the instructions of the message program, so it does not store every picture automatically. Now her phone has a lot of free storage, and it is fast again.
+#שאלה What problems did Maya have when the storage was almost finished? | She could not download a new program, and the phone became slow | She could not send messages | Her pictures were deleted | Her phone stopped working | שתי הבעיות כתובות בפסקה הראשונה.
+#שאלה What used most of the storage? | pictures | programs | messages | notifications | כתוב: pictures used most of it.
+#שאלה Which reason for the problem is NOT in the text? | Maya downloaded too many programs | Maya kept ten pictures of the same thing | The message program stored every picture from friends | Maya kept pictures that she looked at only once | תוכנות רבות מדי לא מוזכרות כסיבה.
+#שאלה What did Maya do to solve the problem? | She moved old pictures, deleted pictures that were almost the same, and changed the message program | She bought a new phone | She deleted all her pictures | She stopped taking pictures | היא העבירה, מחקה ושינתה הגדרה. לא מחקה הכול ולא קנתה טלפון.
+
+#סיפור The Variable Nobody Checked | בינוני
+A team of developers created a program for a travel website. One of its functions sends a notification to each traveler one day before the trip. The function used a variable with the name "day", and for eight months it worked perfectly.
+
+Then travelers began to send angry messages. They received the notification after their trip, not before it. The team searched for the cause for two days. Finally, they found it. A new developer had created another variable with the same name, "day", in another part of the code. His variable changed the value, and the function used an invalid value.
+
+The team fixed the problem and made a new decision about the code: every variable must have a clear and special name, such as "trip_day". "A short name is quick to create," the oldest developer said, "but a clear name can prevent a long search."
+#שאלה When should a traveler receive the notification? | one day before the trip | after the trip | on the day of the trip | eight months before the trip | זו המטרה של הפונקציה. הבעיה הייתה שההתראה הגיעה אחרי הטיול.
+#שאלה What was the cause of the problem? | A new developer created another variable with the same name | The function was deleted | Travelers changed the value | The website was slow | מפתח חדש יצר משתנה נוסף באותו שם, והוא שינה את הערך.
+#שאלה Why did the team need two days to find the cause? | This information is not in the text | The code was corrupted | The new developer was on a trip | The travelers did not explain the problem | שאלה מטעה: הטקסט אומר שהחיפוש לקח יומיים, אבל לא מסביר למה. לכן התשובה היא שהמידע לא מופיע.
+#שאלה What does the oldest developer want to say? | A clear name takes a little more time but can prevent a long search | Short names are always correct | Developers should not create variables | New developers make the most mistakes | שם ברור עולה מעט זמן עכשיו ויכול לחסוך חיפוש ארוך אחר כך.
+
+#סיפור The Door With a Code | בינוני
+A family bought a new door for their house. It opens with a code instead of a key. At first, everyone loved it. Nobody needed to carry a key, and nobody could forget it.
+
+But one cold evening, the power in the whole street went off. The door needed power to open, and the family waited outside for an hour in the rain. Finally, the power came back, and the door opened.
+
+After that evening, the father read the instructions of the door. He learned that it also had a normal key for problems with the power. However, the family kept that key on a shelf inside the house, so it did not help them at all. Now the key is with a friend who lives near them. "Every system that needs power should have a second solution," the father said, "and the second solution must not be inside the system."
+#שאלה Why did the family love the door at first? | Nobody needed to carry a key or remember one | It was inexpensive | It worked without power | It had a screen | כתוב שאף אחד לא היה צריך לסחוב מפתח, ואי אפשר היה לשכוח אותו.
+#שאלה Why did the door not open that evening? | The power in the street went off | The family forgot the code | The code was changed | The door was broken | הדלת צריכה חשמל, והחשמל ברחוב נפל.
+#שאלה Why did the normal key not help the family? | It was inside the house | It did not exist | It was broken | The father did not know the code | המפתח היה במגירה בתוך הבית, והם עמדו בחוץ.
+#שאלה What does the father want to say in the last sentence? | A second solution is useless if you can get to it only through the first system | Doors with codes are terrible | Every house needs two doors | Keys are more reliable than codes | אם הפתרון השני נמצא בתוך הבית, אי אפשר להגיע אליו כשהדלת לא נפתחת.
+
+#סיפור A Short PIN or a Long PIN? | בינוני
+Many phones ask for a short PIN, such as 4821. With a short PIN like this, there are 10,000 possible PINs. With a long PIN, such as 482193, there are 1,000,000 possible PINs. So a long PIN is much harder to find.
+
+However, a long PIN is not the only issue. Many people choose very simple PINs: 1234, 0000, 1111, or their birthday. Investigators who studied lost phones found that a few popular PINs could open a big part of the phones. A person with a stolen phone does not need to try 10,000 PINs; he only needs to try the most popular ones.
+
+Most phones also stop for a few minutes after some invalid attempts, so a person with a stolen phone cannot try every possible PIN quickly. For this reason, the real risk is a simple PIN, not a short one. The investigators recommend a clear step: choose a long PIN that is not your birthday and not a simple sequence.
+#שאלה How many possible PINs are there with a short PIN like 4821? | 10,000 | 4,821 | 1,000,000 | 1,234 | כתוב: there are 10,000 possible PINs.
+#שאלה What did the investigators find? | A few popular PINs could open a big part of the phones | Long PINs are easy to find | People with stolen phones try 10,000 PINs | Most people choose long PINs | מעט קודים פופולריים פתחו חלק גדול מהטלפונים.
+#שאלה Why can a person with a stolen phone not try every possible PIN quickly? | Most phones stop for a few minutes after some invalid attempts | PINs change every day | The phone deletes its data at once | Investigators watch the phone | הטלפון נעצר לכמה דקות אחרי כמה ניסיונות לא תקינים.
+#שאלה Which PIN would the investigators recommend? | 739185 | 123456 | 000000 | a PIN with the birthday of the user | רק הראשון ארוך ולא פשוט. האחרים הם בדיוק מה שהטקסט מזהיר מפניו.
+
+#סיפור The Evidence in the Database | בינוני
+A small store noticed that money was missing from its system every Thursday. The store called an investigator, Noam. He studied the computer of the store and found evidence in the database: every Thursday at night, someone used the name and PIN of Ron to log in, the administrator of the store, and moved money.
+
+But Ron did not steal the money. On those nights, he was on a trip far from the city, and pictures from his phone showed it. So another person knew his PIN.
+
+Noam looked at the place near the computer and found the answer on the wall: a small paper with Ron's PIN on it. A person who worked in the store at night saw the paper and used the PIN. When the investigator showed him the evidence, he said that he was sorry and gave the money back. Ron now keeps his PIN only in his memory.
+#שאלה What evidence did Noam find in the database? | Someone used Ron's name and PIN to log in every Thursday night | Ron moved money every Thursday | The database had malware | The store had no administrator | הראיה הראתה התחברות עם השם והקוד של רון, לא שרון עצמו עשה את זה.
+#שאלה Why do we know that Ron did not steal the money? | He was on a trip far from the city on those nights | He had no PIN | He worked during the day | Noam was his friend | תמונות מהטלפון שלו הראו שהיה בטיול רחוק.
+#שאלה How did the person who stole the money know the PIN? | It was on a small paper on the wall | He received it in a message | Ron told him | He found it in the database | הקוד היה על פתק קטן על הקיר ליד המחשב.
+#שאלה What is the main lesson of the text? | A strong PIN is useless if other people can see it | Stores should not use computers | Administrators often steal money | Investigators should not use databases | הקוד עצמו לא היה הבעיה, אלא שהוא היה כתוב גלוי על הקיר.

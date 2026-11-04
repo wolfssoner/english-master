@@ -1,0 +1,374 @@
+// English Master · מילים נוספות לקטעי הטכנולוגיה · שלב ג׳
+#חבילה מילים לקטעי טכנולוגיה · ג׳
+#מזהה tech-words-3
+#שלב 3
+
+#נושא פעלים
+#מילים
+imagine | לדמיין
+divide | לחלק
+fill | למלא
+push | לדחוף
+intend | להתכוון
+memorize | לשנן
+attract | למשוך
+communicate | לתקשר
+collect | לאסוף
+consume | לצרוך
+grow | לגדול
+earn | להרוויח
+unlock | לפתוח (נעילה)
+borrow | ללוות (לקחת בהלוואה)
+succeed | להצליח
+treat | להתייחס; לטפל
+double | להכפיל
+
+#נושא ג׳ · מילים לקטעי טכנולוגיה
+#מילים
+cost | עלות; לעלות
+decade | עשור
+wish | משאלה; לאחל
+waste | בזבוז; לבזבז
+contact | איש קשר
+trace | עקבה, סימן
+footprint | טביעת רגל
+comment | תגובה, הערה
+routine | שגרה
+employer | מעסיק
+interview | ראיון
+colleague | עמית לעבודה
+toy | צעצוע
+duck | ברווז
+gap | פער
+profit | רווח
+color | צבע
+assistant | עוזר
+contract | חוזה
+advertiser | מפרסם
+billion | מיליארד
+alternative | חלופה
+disability | מוגבלות
+description | תיאור
+subtitle | כתובית
+law | חוק
+form | טופס
+difficulty | קושי
+screen reader | קורא מסך
+center | מרכז
+wind | רוח
+photo | תמונה, צילום
+behavior | התנהגות
+emotion | רגש
+bubble | בועה
+passkey | מפתח גישה (passkey)
+fingerprint | טביעת אצבע
+weakness | חולשה
+direction | כיוון
+hotel | מלון
+restaurant | מסעדה
+rating | דירוג
+star | כוכב
+seller | מוכר
+competitor | מתחרה
+competition | תחרות
+debt | חוב
+term | מונח
+business | עסק; עסקי
+size | גודל
+reality | מציאות
+interruption | הפרעה, הפסקה
+intuition | אינטואיציה
+
+#נושא תארים ותארי פועל
+#מילים
+optimistic | אופטימי
+psychological | פסיכולוגי
+ideal | אידיאלי
+exact | מדויק
+active | פעיל
+passive | פסיבי
+direct | ישיר
+daily | יומי
+political | פוליטי
+against | נגד
+young | צעיר
+traditional | מסורתי
+deeply | לעומק
+perhaps | אולי
+rich | עשיר
+blind | עיוור
+deaf | חירש
+aloud | בקול רם
+invisible | בלתי נראה
+white | לבן
+grey | אפור
+global | עולמי
+powerful | חזק, רב עוצמה
+solar | סולארי, של השמש
+rapid | מהיר
+cool | קריר; לקרר
+extreme | קיצוני
+extremely | מאוד, ביותר
+valuable | בעל ערך, יקר ערך
+fake | מזויף
+negative | שלילי
+natural | טבעי
+general | כללי
+clean | נקי
+messy | מבולגן
+risky | מסוכן, כרוך בסיכון
+successful | מצליח, מוצלח
+unexpected | לא צפוי
+honest | כן, ישר
+unknown | לא ידוע, לא מוכר
+twice | פעמיים
+
+#נושא מילים נוספות
+#מילים
+hide | להסתיר
+fight | להילחם
+insurance | ביטוח
+AI | בינה מלאכותית (AI)
+accessibility | נגישות
+energy | אנרגיה
+electricity | חשמל
+heat | חום
+air | אוויר
+anger | כעס
+music | מוזיקה
+
+#משפטים
+Imagine a world without the internet. | דמיין עולם בלי אינטרנט.
+It is hard to imagine how the first computers worked. | קשה לדמיין איך עבדו המחשבים הראשונים.
+We divided the project into small parts. | חילקנו את הפרויקט לחלקים קטנים.
+Divide the data into three groups. | חלק את הנתונים לשלוש קבוצות.
+Treat every email from an unknown address with care. | התייחס לכל מייל מכתובת לא מוכרת בזהירות.
+The team treats every bug as a lesson. | הצוות מתייחס לכל באג כאל שיעור.
+The number of users doubled in one year. | מספר המשתמשים הוכפל בשנה אחת.
+The changes doubled the time of the project. | השינויים הכפילו את הזמן של הפרויקט.
+The cost of the new servers was very high. | העלות של השרתים החדשים הייתה גבוהה מאוד.
+A small bug can cost a company a lot of money. | באג קטן יכול לעלות לחברה הרבה כסף.
+The company has worked with this system for a decade. | החברה עובדת עם המערכת הזו כבר עשור.
+Technology changed a lot in the last decade. | הטכנולוגיה השתנתה מאוד בעשור האחרון.
+The size of the file is too big for an email. | הגודל של הקובץ גדול מדי למייל.
+Check the size of the image before you upload it. | בדוק את הגודל של התמונה לפני שאתה מעלה אותה.
+In reality, the project took twice as long. | במציאות, הפרויקט לקח פי שניים זמן.
+The plan looked good, but reality was different. | התוכנית נראתה טובה, אבל המציאות הייתה שונה.
+Frequent interruptions make it hard to focus. | הפרעות תכופות מקשות להתרכז.
+There was a short interruption in the service. | הייתה הפסקה קצרה בשירות.
+His intuition told him that the email was a scam. | האינטואיציה שלו אמרה לו שהמייל הוא הונאה.
+Do not rely only on intuition; check the data. | אל תסמוך רק על אינטואיציה; בדוק את הנתונים.
+The developers were too optimistic about the date. | המפתחים היו אופטימיים מדי לגבי התאריך.
+She is optimistic about the future of the company. | היא אופטימית לגבי העתיד של החברה.
+There is a psychological reason for this mistake. | יש סיבה פסיכולוגית לטעות הזו.
+Phishing uses psychological tricks. | פישינג משתמש בתרגילים פסיכולוגיים.
+In an ideal world, software would have no bugs. | בעולם אידיאלי, לתוכנה לא היו באגים.
+This is not the ideal solution, but it works. | זה לא הפתרון האידיאלי, אבל הוא עובד.
+The update caused an unexpected problem. | העדכון גרם לבעיה לא צפויה.
+Every project faces unexpected obstacles. | כל פרויקט נתקל במכשולים לא צפויים.
+Be honest about what you do not know. | היה כן לגבי מה שאתה לא יודע.
+An honest estimate is better than a quick promise. | הערכה כנה עדיפה על הבטחה מהירה.
+The email came from an unknown sender. | המייל הגיע משולח לא מוכר.
+The cause of the bug is still unknown. | הסיבה לבאג עדיין לא ידועה.
+I checked the code twice. | בדקתי את הקוד פעמיים.
+The new server is twice as fast. | השרת החדש מהיר פי שניים.
+The company has a large debt to the bank. | לחברה יש חוב גדול לבנק.
+Bad code creates technical debt. | קוד גרוע יוצר חוב טכני.
+"Bandwidth" is a technical term. | "רוחב פס" הוא מונח טכני.
+Explain the problem in simple terms. | הסבר את הבעיה במונחים פשוטים.
+She started her own business. | היא פתחה עסק משלה.
+The bug caused a serious business problem. | הבאג גרם לבעיה עסקית רצינית.
+He borrowed money to buy a new computer. | הוא לווה כסף כדי לקנות מחשב חדש.
+You can borrow my laptop for the meeting. | אתה יכול לשאול את המחשב הנייד שלי לפגישה.
+The project succeeded because the team worked together. | הפרויקט הצליח כי הצוות עבד יחד.
+Few new products succeed in the first year. | מעט מוצרים חדשים מצליחים בשנה הראשונה.
+Clean code is easy to read. | קוד נקי קל לקריאה.
+Keep your desk clean. | שמור על השולחן שלך נקי.
+The code was messy and hard to change. | הקוד היה מבולגן וקשה לשינוי.
+His room is always messy. | החדר שלו תמיד מבולגן.
+It is risky to deploy on a Friday. | מסוכן להעלות גרסה ביום שישי.
+Clicking on unknown links is risky. | ללחוץ על קישורים לא מוכרים זה מסוכן.
+The launch of the product was very successful. | ההשקה של המוצר הייתה מוצלחת מאוד.
+She is a successful engineer. | היא מהנדסת מצליחה.
+We read the opinions of customers before we chose a hotel. | קראנו את דעות הלקוחות לפני שבחרנו מלון.
+The hotel has free wi-fi in every room. | במלון יש wi-fi חינמי בכל חדר.
+The restaurant has a new website for orders. | למסעדה יש אתר חדש להזמנות.
+We ate at a small restaurant near the office. | אכלנו במסעדה קטנה ליד המשרד.
+The application has a rating of 4.5. | לאפליקציה יש דירוג של 4.5.
+A high rating does not prove that a product is good. | דירוג גבוה לא מוכיח שמוצר טוב.
+The product received five stars. | המוצר קיבל חמישה כוכבים.
+We looked at the stars at night. | הסתכלנו על הכוכבים בלילה.
+The seller did not answer my questions. | המוכר לא ענה לשאלות שלי.
+Check the history of the seller before you buy. | בדוק את ההיסטוריה של המוכר לפני שאתה קונה.
+The company studies the products of its competitors. | החברה בוחנת את המוצרים של המתחרים שלה.
+Our main competitor released a new version. | המתחרה העיקרי שלנו שחרר גרסה חדשה.
+There is strong competition between phone companies. | יש תחרות חזקה בין חברות הטלפונים.
+The competition between the two companies continues. | התחרות בין שתי החברות נמשכת.
+Platforms fight fraud with algorithms. | פלטפורמות נלחמות בהונאות בעזרת אלגוריתמים.
+We must fight the habit of clicking without thinking. | אנחנו חייבים להילחם בהרגל ללחוץ בלי לחשוב.
+The server was extremely slow. | השרת היה איטי מאוד.
+This information is extremely valuable to criminals. | המידע הזה בעל ערך רב לפושעים.
+Personal data is very valuable. | מידע אישי הוא בעל ערך רב.
+Her advice was valuable for the project. | העצה שלה הייתה בעלת ערך לפרויקט.
+The website sold fake products. | האתר מכר מוצרים מזויפים.
+He used a fake name to open the account. | הוא השתמש בשם מזויף כדי לפתוח את החשבון.
+The change had a negative effect on users. | לשינוי הייתה השפעה שלילית על המשתמשים.
+Read the negative opinions too. | קרא גם את הדעות השליליות.
+The voice sounded natural. | הקול נשמע טבעי.
+It is natural to make mistakes when you learn. | טבעי לעשות טעויות כשלומדים.
+The article gives a general explanation. | המאמר נותן הסבר כללי.
+His answer was too general to be useful. | התשובה שלו הייתה כללית מדי כדי להועיל.
+A passkey can replace your password. | מפתח גישה יכול להחליף את הסיסמה שלך.
+Many websites now support passkeys. | הרבה אתרים תומכים היום במפתחות גישה.
+I unlock my phone with my fingerprint. | אני פותח את הטלפון שלי עם טביעת האצבע.
+The investigators found a fingerprint on the laptop. | החוקרים מצאו טביעת אצבע על המחשב הנייד.
+Unlock the screen with your PIN. | פתח את המסך עם הקוד שלך.
+He could not unlock the file without the key. | הוא לא הצליח לפתוח את הקובץ בלי המפתח.
+The main weakness of the system is its old password. | החולשה העיקרית של המערכת היא הסיסמה הישנה שלה.
+Every strategy has advantages and weaknesses. | לכל אסטרטגיה יש יתרונות וחולשות.
+The company is moving in a new direction. | החברה מתקדמת בכיוון חדש.
+The data moves in one direction only. | הנתונים זזים בכיוון אחד בלבד.
+The company earns money from advertisements. | החברה מרוויחה כסף מפרסומות.
+How much does a programmer earn? | כמה מרוויח מתכנת?
+The algorithm studies the behavior of users. | האלגוריתם לומד את ההתנהגות של המשתמשים.
+Strange behavior of a program can be a sign of malware. | התנהגות מוזרה של תוכנה יכולה להיות סימן לתוכנה זדונית.
+Strong emotions make people share content quickly. | רגשות חזקים גורמים לאנשים לשתף תוכן מהר.
+A computer does not have emotions. | למחשב אין רגשות.
+His anger made him write a bad message. | הכעס שלו גרם לו לכתוב הודעה רעה.
+Content that creates anger spreads fast. | תוכן שיוצר כעס מתפשט מהר.
+Many people live in a bubble of similar opinions. | הרבה אנשים חיים בבועה של דעות דומות.
+The bubble of the company ended when users left. | הבועה של החברה נגמרה כשהמשתמשים עזבו.
+I listen to music while I write code. | אני מקשיב למוזיקה בזמן שאני כותב קוד.
+The application recommends music that you like. | האפליקציה ממליצה על מוזיקה שאתה אוהב.
+The platform removed extreme content. | הפלטפורמה הסירה תוכן קיצוני.
+This is an extreme case, not a typical one. | זה מקרה קיצוני, לא מקרה טיפוסי.
+Data centers consume a lot of electricity. | מרכזי נתונים צורכים הרבה חשמל.
+The new phone consumes less battery. | הטלפון החדש צורך פחות סוללה.
+The number of users grows every month. | מספר המשתמשים גדל כל חודש.
+The company grew very fast. | החברה גדלה מהר מאוד.
+Training a model requires a lot of energy. | אימון מודל דורש הרבה אנרגיה.
+Solar energy is used in many homes. | אנרגיה סולארית משמשת בהרבה בתים.
+The office had no electricity for two hours. | במשרד לא היה חשמל במשך שעתיים.
+The price of electricity increased. | מחיר החשמל עלה.
+The company built a new data center. | החברה בנתה מרכז נתונים חדש.
+The office is in the center of the city. | המשרד נמצא במרכז העיר.
+Servers produce a lot of heat. | שרתים מייצרים הרבה חום.
+The heat damaged the battery. | החום פגע בסוללה.
+The cold air cools the servers. | האוויר הקר מקרר את השרתים.
+The room is cool and quiet. | החדר קריר ושקט.
+Wind energy is clean. | אנרגיית רוח היא נקייה.
+The wind was very strong yesterday. | הרוח הייתה חזקה מאוד אתמול.
+I shared a photo of the error. | שיתפתי צילום של השגיאה.
+The photo was too big to send. | התמונה הייתה גדולה מדי לשליחה.
+The global network connects millions of computers. | הרשת העולמית מחברת מיליוני מחשבים.
+The attack had a global impact. | למתקפה הייתה השפעה עולמית.
+This is a very powerful computer. | זה מחשב חזק מאוד.
+The company uses solar power for its offices. | החברה משתמשת בכוח סולארי למשרדים שלה.
+The rapid growth of the company created new problems. | הצמיחה המהירה של החברה יצרה בעיות חדשות.
+Technology changes at a rapid speed. | הטכנולוגיה משתנה במהירות רבה.
+Accessibility is part of good design. | נגישות היא חלק מעיצוב טוב.
+The website was tested for accessibility. | האתר נבדק מבחינת נגישות.
+People with a disability use technology in different ways. | אנשים עם מוגבלות משתמשים בטכנולוגיה בדרכים שונות.
+The company hires people with disabilities. | החברה מעסיקה אנשים עם מוגבלויות.
+Add a short description to every image. | הוסף תיאור קצר לכל תמונה.
+The description of the bug was not clear. | התיאור של הבאג לא היה ברור.
+The white text on a grey background is hard to read. | הטקסט הלבן על רקע אפור קשה לקריאה.
+I watch videos with subtitles. | אני צופה בסרטונים עם כתוביות.
+The subtitles were in English. | הכתוביות היו באנגלית.
+The new law protects personal data. | החוק החדש מגן על מידע אישי.
+The law does not allow companies to sell personal data. | החוק לא מתיר לחברות למכור מידע אישי.
+Please complete the form. | בבקשה מלא את הטופס.
+The form asks for your name and email. | הטופס מבקש את השם והמייל שלך.
+Some students have difficulty with reading. | לחלק מהתלמידים יש קושי בקריאה.
+The team had difficulty with the new system. | לצוות היה קושי עם המערכת החדשה.
+A blind user uses a screen reader. | משתמש עיוור משתמש בקורא מסך.
+The screen reader reads every button aloud. | קורא המסך מקריא כל כפתור בקול.
+Deaf people use subtitles. | אנשים חירשים משתמשים בכתוביות.
+The application helps deaf users. | האפליקציה עוזרת למשתמשים חירשים.
+Read the instructions aloud. | קרא את ההוראות בקול רם.
+The malware was invisible to the user. | התוכנה הזדונית הייתה בלתי נראית למשתמש.
+The button is white on a white background. | הכפתור לבן על רקע לבן.
+The grey text is hard to read. | הטקסט האפור קשה לקריאה.
+The new feature attracted many users. | הפיצ'ר החדש משך הרבה משתמשים.
+Free applications attract millions of people. | אפליקציות חינמיות מושכות מיליוני אנשים.
+We communicate with the team by email. | אנחנו מתקשרים עם הצוות במייל.
+It is important to communicate clearly with customers. | חשוב לתקשר בבהירות עם לקוחות.
+The application collects data about your location. | האפליקציה אוספת נתונים על המיקום שלך.
+The company collected information about its users. | החברה אספה מידע על המשתמשים שלה.
+Advertisers pay for the attention of users. | מפרסמים משלמים על תשומת הלב של המשתמשים.
+The advertiser wanted more clicks. | המפרסם רצה יותר קליקים.
+Billions of people use the internet. | מיליארדי אנשים משתמשים באינטרנט.
+The company is worth a billion dollars. | החברה שווה מיליארד דולר.
+We need an alternative to this old system. | אנחנו צריכים חלופה למערכת הישנה הזו.
+There is a free alternative to this program. | יש חלופה חינמית לתוכנה הזו.
+He became rich from his application. | הוא התעשר מהאפליקציה שלו.
+Rich companies can buy many servers. | חברות עשירות יכולות לקנות הרבה שרתים.
+Students memorize words before the exam. | תלמידים משננים מילים לפני המבחן.
+You do not need to memorize every function. | אתה לא צריך לשנן כל פונקציה.
+AI can write a short text in seconds. | בינה מלאכותית יכולה לכתוב טקסט קצר בשניות.
+Many companies use AI to answer customers. | הרבה חברות משתמשות בבינה מלאכותית כדי לענות ללקוחות.
+The assistant on my phone answers questions. | העוזר בטלפון שלי עונה על שאלות.
+She works as an assistant to the manager. | היא עובדת כעוזרת של המנהל.
+Read the contract before you sign it. | קרא את החוזה לפני שאתה חותם עליו.
+The company signed a contract with a new provider. | החברה חתמה על חוזה עם ספק חדש.
+Many young people work in technology. | הרבה אנשים צעירים עובדים בטכנולוגיה.
+The company is young, but it grows fast. | החברה צעירה, אבל היא גדלה מהר.
+Traditional methods are sometimes slow. | שיטות מסורתיות הן לפעמים איטיות.
+The traditional way to learn is from books. | הדרך המסורתית ללמוד היא מספרים.
+You must understand the code deeply. | אתה חייב להבין את הקוד לעומק.
+She studied the problem deeply. | היא חקרה את הבעיה לעומק.
+Perhaps the server is down. | אולי השרת מושבת.
+Perhaps we should wait for the update. | אולי כדאי שנחכה לעדכון.
+The website pushes users to buy more. | האתר דוחף משתמשים לקנות יותר.
+Push the button to start the machine. | לחץ על הכפתור כדי להפעיל את המכונה.
+Malware often hides inside normal files. | תוכנה זדונית מסתתרת לעיתים קרובות בתוך קבצים רגילים.
+Do not hide errors from your team. | אל תסתיר שגיאות מהצוות שלך.
+I did not intend to delete the file. | לא התכוונתי למחוק את הקובץ.
+The company intends to release a new version next month. | החברה מתכוונת לשחרר גרסה חדשה בחודש הבא.
+The company made a large profit this year. | החברה הרוויחה רווח גדול השנה.
+Profit is not the only goal of a business. | רווח הוא לא המטרה היחידה של עסק.
+The website added insurance without asking me. | האתר הוסיף ביטוח בלי לשאול אותי.
+Do you have insurance for your laptop? | יש לך ביטוח למחשב הנייד שלך?
+Choose a color for the button. | בחר צבע לכפתור.
+The color of the text is too light. | הצבע של הטקסט בהיר מדי.
+Many countries have laws against fraud. | בהרבה מדינות יש חוקים נגד הונאה.
+The firewall protects the system against attacks. | חומת האש מגנה על המערכת מפני מתקפות.
+I asked a colleague to check my code. | ביקשתי מעמית לבדוק את הקוד שלי.
+My colleagues helped me with the project. | העמיתים שלי עזרו לי בפרויקט.
+The child played with a new toy. | הילד שיחק בצעצוע חדש.
+This robot is not a toy. | הרובוט הזה הוא לא צעצוע.
+He explained the bug to a toy duck. | הוא הסביר את הבאג לברווז צעצוע.
+There is a gap in the data. | יש פער בנתונים.
+The gap between the two teams is large. | הפער בין שני הצוותים גדול.
+Please fill the form. | בבקשה מלא את הטופס.
+The disk was filled with temporary files. | הדיסק התמלא בקבצים זמניים.
+The application asked for access to my contacts. | האפליקציה ביקשה גישה לאנשי הקשר שלי.
+I saved his number in my contacts. | שמרתי את המספר שלו באנשי הקשר שלי.
+The criminals did not leave any trace. | הפושעים לא השאירו שום עקבה.
+Every click leaves a small trace online. | כל קליק משאיר עקבה קטנה ברשת.
+Your digital footprint can remain online for years. | טביעת הרגל הדיגיטלית שלך יכולה להישאר ברשת שנים.
+Check your digital footprint from time to time. | בדוק את טביעת הרגל הדיגיטלית שלך מדי פעם.
+She wrote a comment on the post. | היא כתבה תגובה על הפוסט.
+The code has many comments that explain it. | בקוד יש הרבה הערות שמסבירות אותו.
+Checking emails is part of my morning routine. | בדיקת מיילים היא חלק מהשגרה שלי בבוקר.
+The update changed my daily routine. | העדכון שינה את השגרה היומית שלי.
+My employer gave me a new laptop. | המעסיק שלי נתן לי מחשב נייד חדש.
+Employers often search for candidates online. | מעסיקים מחפשים לעיתים קרובות מועמדים ברשת.
+I have a job interview tomorrow. | יש לי ראיון עבודה מחר.
+The interview was online. | הראיון היה ברשת.
+I need the exact time of the error. | אני צריך את השעה המדויקת של השגיאה.
+The application gives an exact location. | האפליקציה נותנת מיקום מדויק.
+The platform has many active users. | בפלטפורמה יש הרבה משתמשים פעילים.
+The virus remains active in the background. | הווירוס נשאר פעיל ברקע.
+Passive data is collected without your action. | נתונים פסיביים נאספים בלי פעולה שלך.
+He is a passive user who only reads. | הוא משתמש פסיבי שרק קורא.
+There is no direct connection between the two problems. | אין קשר ישיר בין שתי הבעיות.
+We need a direct answer. | אנחנו צריכים תשובה ישירה.
+The server makes a daily backup. | השרת עושה גיבוי יומי.
+I read the news daily. | אני קורא חדשות מדי יום.
+The platform does not allow political advertisements. | הפלטפורמה לא מתירה פרסומות פוליטיות.
+They shared political opinions online. | הם שיתפו דעות פוליטיות ברשת.
+Long meetings are a waste of time. | פגישות ארוכות הן בזבוז זמן.
+Do not waste money on things you do not need. | אל תבזבז כסף על דברים שאתה לא צריך.
+A backup that nobody tested is only a wish. | גיבוי שאף אחד לא בדק הוא רק משאלה.
+I wish you a good first day at work. | אני מאחל לך יום ראשון טוב בעבודה.

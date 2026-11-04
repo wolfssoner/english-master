@@ -1,0 +1,325 @@
+// English Master · 20 קטעי קריאה בנושאי טכנולוגיה · שלב א׳ וחצי
+// 10 קטעים ארוכים עם 10 שאלות קשות, ו־10 קטעים בינוניים עם 4 שאלות
+#חבילה קטעי טכנולוגיה · שלב א׳ וחצי
+#מזהה tech-reading-1-5
+#שלב 1.5
+
+#סיפור The Cyberattack on the City Office | קשה
+One morning, the employees of a city office came to work and found a strange message on every screen: "Your files are inaccessible. Pay 5,000 in the next three days, or your files will be deleted." The computers worked, but nobody could open a single file. Every file had a new and unfamiliar format.
+
+The office called a cybersecurity technician, Dana. She explained that this type of cyberattack became frequent in the last few years. The malware does not steal the files; it changes them so that only the criminals can open them again. After that, the criminals ask for money.
+
+Dana did not recommend paying. "When an office pays, there is no guarantee that the criminals will give the files back," she said. "And every time an office pays, the criminals learn that this trick works." Instead, she asked a simple question: "Where are the copies of your files?"
+
+The answer was not simple. The office kept copies on an external disk, but the disk stayed on the same computers all the time. As a result, the malware got to the external disk too, and its files were also inaccessible. However, one employee, Omer, had a habit of taking a copy of the most important directories home every Friday on a separate disk. His disk was at his home during the cyberattack, so it was safe.
+
+With Omer's disk, the office recovered most of its files. Only the work of three days was lost. After the cyberattack, the office changed its strategy. Now there are three copies of every important file, and at least one of them is always separate from the office computers.
+#שאלה What did the employees find that morning? | a message that said their files were inaccessible | computers that did not turn on | a message from Dana | a new external disk | המחשבים עבדו, אבל אף קובץ לא נפתח. שימו לב ש־The computers worked.
+#שאלה According to Dana, what does this type of malware do? | It changes the files so that only the criminals can open them | It steals the files and deletes them | It breaks the computers | It sends the files to the government | כתוב: The malware does not steal the files; it changes them.
+#שאלה Why did Dana not recommend paying? | There is no guarantee that the files will come back, and paying shows the criminals that the trick works | The office did not have 5,000 | The files were not important | Omer had found the files before |  יש שתי סיבות בדבריה: אין ערובה שהקבצים יחזרו, וכל תשלום מלמד את הפושעים שהשיטה עובדת.
+#שאלה Why were the files on the external disk also inaccessible? | The disk stayed on the same computers all the time | The disk was faulty | Omer took the disk home | The criminals stole the disk | הדיסק היה מחובר כל הזמן, ולכן התוכנה הזדונית הגיעה גם אליו.
+#שאלה What was special about Omer's disk? | It was at Omer's home during the cyberattack | It was bigger than the office disk | It had a new format | Dana gave it to him | ההבדל המכריע: הדיסק שלו היה נפרד ולא מחובר בזמן המתקפה.
+#שאלה In paragraph 4, "its files were also inaccessible". The word "its" is about: | the external disk | the malware | the office | Omer | המשפט עוסק בדיסק החיצוני של המשרד.
+#שאלה Which sentence is NOT correct, according to the text? | The office paid the criminals | Dana asked where the copies of the files were | The office lost the work of three days | Omer took copies home every Friday | המשרד לא שילם. הוא שחזר את הקבצים מהדיסק של עומר.
+#שאלה What can we learn from the story of the external disk? | A copy is not useful if the same cyberattack can get to it | External disks are always safe | Offices should not keep copies | Copies must be on the same computer | מסיח מטעה: הייתה למשרד העתקה, אבל היא לא עזרה כי הייתה מחוברת.
+#שאלה What is the new strategy of the office? | three copies of every important file, and one of them always separate | one copy on an external disk that stays on the computers | paying the criminals quickly | no copies at all | הפסקה האחרונה מתארת שלושה עותקים, ואחד מהם תמיד נפרד מהמחשבים.
+#שאלה Which title describes the text most clearly? | The Copy That Was at Home | How to Pay Criminals | A New Disk for Every Employee | Why Dana Lost Her Files | הנקודה המרכזית בסיפור היא העותק שלא היה מחובר והציל את המשרד.
+
+#סיפור The Temporary Files That Took the Disk | קשה
+Ron is a technician in a small office. One afternoon, an employee called him. "My computer says that the disk has no free space, but I deleted my old pictures last week," she said. Ron was surprised. The computer was new, and its disk was big.
+
+Ron looked at the disk and discovered the cause. A program that the employee used every day created temporary files. Temporary files are files that a program uses for a short time, such as while you edit a text. Normally, the program deletes these files when it closes. But this program had a fault. When it closed, it did not delete its temporary files. Every day, it left more files in a directory that was not visible, and after a year, there were more than 200,000 temporary files on the disk.
+
+The employee did not see these files because the directory was not visible in the usual view. She only saw that the space on the disk became smaller and smaller, and she thought that her pictures were the problem.
+
+Ron deleted the temporary files, and the disk had a lot of free space again. However, he knew that this was only a temporary solution. In a year, the problem would come back. So he informed the developers of the program about the fault, and he created a small automatic process that deletes old temporary files every week.
+
+Three months later, the developers sent an update that fixed the fault. Ron kept his weekly process too. "A second layer of protection is never unnecessary," he said.
+#שאלה Why was Ron surprised when the employee called? | The computer was new and its disk was big | The employee had deleted her pictures | The program was old | He did not know the employee | כתוב: The computer was new, and its disk was big.
+#שאלה What are temporary files, according to the text? | files that a program uses for a short time | old pictures | files that malware creates | files that the user creates | זו ההגדרה בטקסט.
+#שאלה What was the fault in the program? | It did not delete its temporary files when it closed | It deleted the pictures of the employee | It did not open texts | It created too many directories | התוכנה הייתה אמורה למחוק את הקבצים הזמניים בסגירה, ולא מחקה.
+#שאלה Why did the employee not see the temporary files? | The directory was not visible in the usual view | She did not look at the disk | The files were deleted | The files were inside her pictures | התיקייה לא נראתה בתצוגה הרגילה.
+#שאלה What did the employee think was the cause of the problem? | her pictures | the temporary files | a new program | malware | היא חשבה שהתמונות שלה הן הבעיה, ולכן מחקה אותן.
+#שאלה Why did Ron call deleting the files "only a temporary solution"? | The program would create the files again | The files were not really deleted | The disk was faulty | The employee would store more pictures | התקלה בתוכנה לא תוקנה, ולכן הקבצים היו חוזרים.
+#שאלה Which two actions did Ron take after he deleted the files? | He informed the developers and created a weekly automatic process | He bought a new disk and deleted the program | He changed the view and deleted the pictures | He called the employee and closed the program | שתי הפעולות כתובות בפסקה הרביעית.
+#שאלה In paragraph 2, "it left more files". The word "it" is: | the program | the disk | the directory | the employee | התוכנה היא זו שהשאירה עוד קבצים כל יום.
+#שאלה Why did Ron keep his weekly process after the update? | He wanted a second layer of protection | The update did not fix the fault | The developers asked him to keep it | The disk still had no free space | המשפט האחרון: שכבת הגנה נוספת אף פעם לא מיותרת. העדכון כן תיקן את התקלה.
+#שאלה What can we understand from the text? | A problem that the user can see may have a cause that the user cannot see | Pictures are the main cause when a disk has no space | New computers never have problems | Updates are unnecessary | העובדת ראתה דיסק מלא, אבל הסיבה הייתה בתיקייה נסתרת.
+
+#סיפור The Faulty Disk That Gave a Warning | קשה
+A scientist, Yael, kept the data of four years of her studies on one disk in her lab. For a few weeks, the disk made a strange noise, and it was often slow. Yael did not think that the problem was serious. The computer still worked, and all her files opened.
+
+One day, a technician came to the lab to fix a different computer. He heard the noise and asked Yael about it. "That noise is a warning," he said. "Disks have moving parts, and when a part begins to break, the disk often becomes slow and makes noise before it stops. This disk will probably stop soon."
+
+Yael was very anxious. The work of four years was on that disk, and she had no copy. The technician recommended a quick action: stop using the disk for new work and copy the most important data first. They started the copy that same afternoon. The process was very slow, because the disk had trouble reading some files. After two days, they had copied almost all the data. Only a few files had data corruption, and Yael could create them again from her notes.
+
+A week later, the disk stopped. Nobody could retrieve a single file from it.
+
+Yael learned two lessons. First, a device can work and still be at risk. Second, the time to make a copy is before the problem, not after it. Now she keeps her work in three places, and every month she checks that the three copies are identical.
+#שאלה What did the disk do for a few weeks? | It made a strange noise and was often slow | It stopped | It deleted some files | It showed an error message every day | בפסקה הראשונה: רעש מוזר ואיטיות. הוא הפסיק לעבוד רק בסוף.
+#שאלה Why did Yael not think that the problem was serious? | The computer still worked and her files opened | The technician told her that it was not serious | She had a copy of the data | The noise stopped | כתוב: The computer still worked, and all her files opened.
+#שאלה Why did the technician come to the lab? | to fix another computer | to check the disk of Yael | to copy the data | to bring a new disk | הוא בא לתקן מחשב אחר, ושמע את הרעש במקרה.
+#שאלה According to the technician, what does the noise show? | A part of the disk is beginning to stop working | The disk has malware | The computer is new | The data is safe | הרעש הוא אזהרה שחלק בדיסק מתחיל להתקלקל.
+#שאלה Why was the copy process very slow? | The disk had trouble reading some files | There was too much data | The technician was busy | The computer was new | כתוב: because the disk had trouble reading some files.
+#שאלה What did Yael do with the files that had data corruption? | She created them again from her notes | She deleted them | The technician fixed them | They were on another disk | רק כמה קבצים נפגמו, ויעל יצרה אותם מחדש מהרשימות שלה.
+#שאלה What would Yael probably lose if the technician had not come to the lab? | most of her work, because the disk stopped a week later and she had no copy | nothing, because the disk would work for many more years | only the few files that had data corruption | only the computer, but not the data | שבוע אחרי ההעתקה הדיסק הפסיק לעבוד, ולפני כן לא היה לה עותק. בלי הטכנאי, רוב העבודה הייתה אובדת.
+#שאלה "A device can work and still be at risk." This sentence tells us that: | a device that works today may stop soon | a working device is always safe | devices at risk do not work | only old devices stop | המכשיר עבד, ובכל זאת היה קרוב לסוף.
+#שאלה What does Yael do every month now? | She checks that the three copies are identical | She buys a new disk | She calls the technician | She deletes old work | הפסקה האחרונה: היא בודקת ששלושת העותקים זהים.
+#שאלה What is the main idea of the text? | Warning signs should lead to action before a device stops | A scientist should not use disks | Technicians know more than scientists | Noise in a lab is normal | הרעיון: לפעול כשיש סימני אזהרה, לפני התקלה.
+
+#סיפור A Smart Device That Listens | קשה
+Many families now have a smart device in the kitchen or in the living room. You say its name, and then you ask a question: "What is the weather today?" or "Tell me a short story." The device answers in a second. It seems like a trick, but the mechanism is simple, and it is important to understand it.
+
+The device listens all the time, but only for one word: its name. While it waits for its name, it does not send what it hears. When it hears its name, it begins to send the next few seconds of sound to the computers of its provider. There, a program changes the sound into text, finds an answer, and sends the answer back to the device.
+
+The problem is that the device is not perfect. Sometimes it hears a word that sounds like its name, and it sends a part of a private conversation to the provider. A family can be talking about money, about an illness, or about personal problems, and nobody in the room knows that a few seconds were sent. In addition, some providers keep these short sound files for a long time, and in the past, some employees of providers listened to parts of them to improve the product.
+
+This does not tell us that smart devices are necessarily harmful. They are useful, in particular for people who cannot use a screen easily. But users should make informed decisions. They can check which sound files the provider keeps, delete their history, and turn off the device during private conversations. A smart device is a guest in the house, and a guest should not hear everything.
+#שאלה What does the device do while it waits for its name? | It listens, but it does not send what it hears | It sends every conversation to the provider | It does not listen at all | It changes sound into text | מסיח מטעה: הוא כן מקשיב כל הזמן, אבל לא שולח כלום עד שהוא שומע את השם שלו.
+#שאלה Where is the sound changed into text? | on the computers of the provider | inside the device | on the phone of the user | in the kitchen | כתוב: There, a program changes the sound into text. המילה There מתייחסת למחשבים של הספק.
+#שאלה What is the main problem with the device, according to paragraph 3? | It can hear a word that sounds like its name and send a private conversation | It cannot answer questions | It is too slow | It deletes the history of the user | הבעיה: הוא טועה במילה דומה לשם שלו ושולח קטע משיחה פרטית.
+#שאלה Why is this problem serious? | Nobody in the room knows that a few seconds were sent | The device stops working | The provider sends the conversation to the government | The device is expensive | אף אחד בחדר לא יודע שנשלחו כמה שניות.
+#שאלה Why did some employees of providers listen to parts of the sound files? | to improve the product | to steal personal information | to help the government | to find criminals | כתוב: to improve the product.
+#שאלה What does the writer think about smart devices? | They can be useful, but users should make informed decisions | They are always harmful | They should be in every house | Only providers should use them | הכותב אומר במפורש שהם לא בהכרח מזיקים, וממליץ להחליט בצורה מושכלת.
+#שאלה For which people are smart devices useful in particular? | people who cannot use a screen easily | employees of providers | children who study | technicians | כתוב: in particular for people who cannot use a screen easily.
+#שאלה Which action is NOT one of the steps in the last paragraph? | Buy a device from a different provider | Check which sound files the provider keeps | Delete the history | Turn off the device during private conversations | החלפת ספק לא מוזכרת.
+#שאלה "A smart device is a guest in the house, and a guest should not hear everything." What does the writer want to say? | We can use the device, but we should decide what it can hear | Guests are harmful | Smart devices should not be in a house | Families should not have guests | הדימוי של אורח: אפשר להכניס אותו, אבל לא לשתף אותו בכול.
+#שאלה What is the purpose of the text? | to explain how smart devices work and what risk they bring | to make people buy smart devices | to show that providers are criminals | to describe the history of smart devices | הטקסט מסביר את המנגנון, מציג את הסיכון ונותן המלצות.
+
+#סיפור The Translation That Lost Its Meaning | קשה
+A small store had a new device for hot water. Its instructions came in English. To pay less, the owner used a free translation program to create instructions for local customers. The program worked fast, and the new text looked correct. Every sentence looked like a normal sentence, and nobody in the store noticed a problem.
+
+A month later, a customer called the store. She did not understand the instructions. They told her to "leave the device near water for safety." In the original text, the sentence said the opposite: "for safety, do not leave the device near water." The translation program had lost one small word, "not", and the meaning of the sentence completely changed.
+
+The owner asked a professional translator to check the whole text. She found 11 more mistakes. Most were small, but two were serious. In one place, the program translated a technical word with a meaning from another field. In another place, it translated a sentence word by word, so the new sentence was correct as a sentence but did not say what the original said.
+
+The translator explained how a program and a person are different. A translation program is very good at frequent, simple sentences. However, it does not always understand context: who reads the text, what the product does, and which mistake can be harmful. A person who knows the field can notice when a sentence is correct as a sentence but incorrect in its meaning.
+
+The owner did not stop using the program. He still uses it for messages and short texts. But now, every text about safety goes to a person before it goes to a customer.
+#שאלה Why did the owner use a free translation program? | to pay less | because it was the most accurate way | because the translator was busy | because the customers asked for it | כתוב: To pay less.
+#שאלה Why did nobody in the store notice a problem at first? | Every sentence looked like a normal sentence | Nobody read the instructions | The program showed no errors | The customers did not call | הטקסט נראה תקין, כי כל משפט נראה כמו משפט רגיל.
+#שאלה What was the mistake that the customer found? | One small word was lost, so the sentence said the opposite | The instructions were in English | The device was faulty | The text was too long | המילה not נעלמה, והמשמעות התהפכה.
+#שאלה How many mistakes were there in the whole text? | 12 | 11 | 2 | 1 | שאלה מטעה: המתרגמת מצאה 11 טעויות נוספות, מעבר לטעות שהלקוחה מצאה. סך הכול 12.
+#שאלה Which mistake is NOT described in paragraph 3? | The program translated the name of the product | The program used a meaning from another field | The program translated a sentence word by word | The program lost the word "not" | שם המוצר לא מוזכר. הטעות עם not מופיעה בפסקה 2, אבל היא כן מתוארת בטקסט.
+#שאלה A sentence that is "correct as a sentence but incorrect in its meaning" is a sentence that: | looks normal, but does not say what the original said | has many mistakes in its words | is too long for customers | was created by a person | המשפט נראה תקין, אבל לא אומר את מה שהמקור אמר.
+#שאלה According to the translator, what is a translation program very good at? | frequent, simple sentences | technical words from every field | understanding who reads the text | noticing harmful mistakes | שלוש האחרות הן בדיוק מה שהיא אומרת שהתוכנה לא תמיד עושה.
+#שאלה In paragraph 4, "it does not always understand context". The word "it" is: | a translation program | the translator | the product | the text | המשפט ממשיך את הדיבור על תוכנת התרגום.
+#שאלה What did the owner decide in the end? | to use the program for short texts and send every text about safety to a person | to stop using translation programs | to stop using the device | to translate only messages | הוא לא הפסיק להשתמש בתוכנה. הוא רק הוסיף בדיקה אנושית לטקסטים על בטיחות.
+#שאלה What is the main idea of the text? | A translation program is useful, but a person should check texts where a mistake can be harmful | Translation programs are useless | Professional translators make many mistakes | Customers should read the original text | הרעיון המרכזי מאוזן: התוכנה שימושית, אבל במקומות רגישים צריך בדיקה של אדם.
+
+
+
+#סיפור The Man Who Walked Behind the Employee | קשה
+The office of a big engineering team has a strong entrance. Every employee has an identification card, and the door opens only when an employee touches the door with a card. The system also keeps a history of every entrance, so the office knows who entered and when.
+
+One morning, a man who looked like a technician walked to the door with a big box in his hands. An employee, Noa, opened the door with her card. The man smiled and said, "Thank you, my hands are full." Noa kept the door open for him, and he walked in behind her. Nobody asked for his identification.
+
+The man was not a technician. He was a cybersecurity professional. The office had asked him to check how safe it really was. In less than an hour, he walked into three rooms, took pictures of private papers on tables, and left a small device near a computer. Then he walked out of the same door.
+
+In his explanation, the professional said that the problem was not the system. The cards and the door worked perfectly. The weak part was a human habit. People like to be helpful, and it feels strange to close a door in front of a person with full hands. Criminals know this, and they use it.
+
+Nobody was angry with Noa. Instead, the office changed its design and gave every employee a short lesson. Now there is a second door, and only one person can pass at a time. Employees also learned a new habit: being helpful is good, but every guest waits at the entrance, and an employee confirms who he is before he enters.
+#שאלה How does the door know that a person is an employee? | The employee touches the door with an identification card | A technician opens it | The employee says his name | An administrator checks every person | כתוב שהדלת נפתחת רק כשעובד נוגע בה עם כרטיס.
+#שאלה Why did nobody ask for the identification of the man? | He walked in behind Noa when she kept the door open | He had a card | He was an employee | The door was broken | הוא נכנס אחרי נועה, שהשאירה לו את הדלת פתוחה.
+#שאלה Why did the man carry a big box? | so that it would feel strange not to keep the door open for him | because he had a device for the computer | because he was a real technician | because the office asked him to bring a box | הקופסה הייתה חלק מהתרגיל: היא גרמה לכך שיהיה מוזר לסגור לו את הדלת.
+#שאלה Who was the man really? | a cybersecurity professional that the office asked to check its safety | a criminal who wanted to steal papers | a technician who came to fix a computer | a new employee | המשרד עצמו ביקש ממנו לבדוק עד כמה הוא בטוח.
+#שאלה Which action did the man NOT do inside the office? | He deleted files from a computer | He walked into three rooms | He took pictures of private papers | He left a small device near a computer | מחיקת קבצים לא מוזכרת.
+#שאלה According to the professional, what was the weak part? | a human habit | the identification cards | the door | the history of entrances | הכרטיסים והדלת עבדו מצוין. החולשה הייתה הרגל אנושי.
+#שאלה In paragraph 4, "they use it". The word "it" is: | the habit of people to be helpful | the door | the card | the device | הפושעים מנצלים את הנטייה של אנשים לעזור.
+#שאלה Why was nobody angry with Noa? | This information is not in the text | She was the owner of the office | She did not open the door | The professional asked them not to be angry | הטקסט אומר שאף אחד לא כעס עליה, אבל לא מסביר למה. אפשר לנחש, אבל הסיבה לא כתובה.
+#שאלה What did the office change? | its design and the habits of the employees | the cards of the employees | the history of the entrance | the professional | עכשיו יש דלת שנייה שמעבירה אדם אחד בכל פעם, ועובדים קיבלו הרגל חדש.
+#שאלה What is the main idea of the text? | A strong system can be weak because of human habits | Identification cards are useless | Technicians are criminals | Offices should not have guests | המערכת עבדה מושלם, אבל הרגל אנושי עקף אותה. זה הרעיון המרכזי.
+
+
+#סיפור Local Storage or a Provider? | קשה
+Every person who uses a computer must decide where to keep files. There are two main ways. The first is local storage: the files stay on the disk of your own computer or on an external disk at home. The second is storage with a provider: the files are on the computers of a big provider, and you can retrieve them from any device after you sign in.
+
+Local storage is good for three reasons. It is fast, because the files are near you. It works when the provider is unavailable. And it is private: your files are not on the computers of another person. However, local storage has a serious problem. If the disk breaks, or the computer is stolen, or there is water in the house, the files can be lost.
+
+Storage with a provider solves many of these problems. Providers keep multiple copies of every file in other places, so the loss of one disk is not the loss of your data. You can also open your files from anywhere, and synchronization keeps them identical on all your devices. But this way has its own risks. You pay a subscription every month. You depend on the provider: if it is unavailable, you cannot retrieve your files. And your private files are on computers that you cannot see or touch.
+
+So which way is the best? Many professionals say that the question itself is incorrect. The safest strategy is to use both. Keep your files locally because it is fast and private, and keep a copy with a provider for recovery. In this way, one problem cannot take all your data.
+#שאלה What are the two main ways to keep files, according to the text? | local storage and storage with a provider | a computer and a phone | a disk and a paper | an external disk and a directory | הפסקה הראשונה מציגה שתי דרכים: אחסון מקומי ואחסון אצל ספק.
+#שאלה Which reason for local storage is NOT in paragraph 2? | It is inexpensive | It is fast | It works when the provider is unavailable | It is private | המחיר לא מוזכר כיתרון של אחסון מקומי.
+#שאלה What is the serious problem of local storage? | The files can be lost if the disk breaks or the computer is stolen | It is slow | It is not private | It needs a subscription | אם הדיסק נשבר, המחשב נגנב או יש מים בבית, הקבצים יכולים לאבוד.
+#שאלה Why is the loss of one disk not the loss of your data with a provider? | Providers keep multiple copies of every file in other places | Providers never lose disks | The data is on your own computer | Synchronization deletes old files | הספקים שומרים כמה עותקים בכמה מקומות.
+#שאלה Which risk of storage with a provider is described in the text? | You depend on the provider | Your files are always deleted after a year | Synchronization makes files different | You cannot use it on a phone | התלות בספק היא אחד משלושת הסיכונים שמתוארים.
+#שאלה In paragraph 3, "if it is unavailable". The word "it" is: | the provider | the subscription | the disk | the device | אם הספק לא זמין, אי אפשר לשלוף את הקבצים.
+#שאלה Why do many professionals say that the question "which way is the best?" is incorrect? | Because the safest strategy is to use both ways | Because both ways are useless | Because local storage is always the best | Because providers are always the best | השאלה מניחה שצריך לבחור, אבל ההמלצה היא להשתמש בשתיהן.
+#שאלה What is the purpose of the copy with a provider in the recommended strategy? | recovery | to work faster | to keep files private | a lower price | בפסקה האחרונה: מקומית בשביל מהירות ופרטיות, ועותק אצל ספק בשביל שחזור.
+#שאלה Which person acts as the professionals recommend? | Dan keeps his files on his computer and also keeps a copy with a provider | Noa keeps her files only on an external disk | Ron keeps his files only with a provider | Maya keeps two copies on the same disk | רק דן משתמש בשתי הדרכים יחד.
+#שאלה Which sentence describes the text most clearly? | It describes two ways, explains the good and bad sides of each, and then recommends a strategy | It tells the story of one person | It describes only the risks of providers | It explains how to buy a disk | הטקסט בנוי מהצגה, יתרונות וחסרונות לכל דרך, ולסיום המלצה.
+
+#סיפור A Day Without Access | קשה
+At nine in the morning, the employees of a small design office opened their computers and found that nothing worked. They could not open their files, they could not read their messages, and they could not see the work of their customers. Every program that they used was on the computers of one provider, and that provider was unavailable.
+
+At first, everyone thought that the problem was in the office. The technician, Yoni, checked the computers in the office, and everything looked normal. Then he looked at the website of the provider. A short message said that the provider had a technical problem and that its technicians were working on it. There was no information about when the provider would come back.
+
+The office could do nothing. Ten employees sat in front of their screens for five hours. Two customers called because they did not receive their designs on time. One of them was angry and said that he would look for another office. At two in the afternoon, the provider came back, and everything worked as usual. But the office had lost a whole day of work, and probably one customer too.
+
+The next week, the owner and Yoni discussed what to do. They did not want to stop using the provider. It was useful, and in two years it had been unavailable only once. Instead, they decided to depend on it less. Now each employee keeps a local copy of the files of this week, so that work can continue when the provider is unavailable. The office also has a second way to send messages to customers.
+
+"We gave one provider everything," the owner said. "Now one problem cannot stop everything."
+#שאלה What was the problem at nine in the morning? | The provider was unavailable, so nothing worked | The computers in the office were broken | The technician deleted the files | The customers were angry | כל התוכנות היו אצל ספק אחד, והוא לא היה זמין.
+#שאלה What did everyone think at first? | that the problem was in the office | that the provider had a problem | that a customer caused the problem | that there was a cyberattack | בהתחלה כולם חשבו שהבעיה במשרד, ורק אחר כך יוני בדק את האתר של הספק.
+#שאלה Where did Yoni find the real cause? | on the website of the provider | in the computers of the office | in a message from a customer | in the history of the files | הודעה קצרה באתר של הספק הסבירה את התקלה.
+#שאלה Which information was NOT in the message of the provider? | when the provider would come back | that the provider had a technical problem | that technicians were working on it | that the problem was with the provider | כתוב במפורש: There was no information about when the provider would come back.
+#שאלה How long did the employees wait in front of their screens? | five hours | ten hours | two hours | a whole week | מתשע בבוקר עד שתיים בצהריים, חמש שעות.
+#שאלה What did the office probably lose, in addition to a day of work? | one customer | its provider | its technician | its local copies | כתוב: and probably one customer too.
+#שאלה Why did the owner and Yoni not stop using the provider? | It was useful and was unavailable only once in two years | It was free | They had no other way | The customers asked them to keep it | הספק היה שימושי, ובשנתיים לא היה זמין רק פעם אחת.
+#שאלה What is the purpose of the local copy of the files of this week? | so that work can continue when the provider is unavailable | so that the provider can work faster | so that customers can see the files | so that the office pays less | העותק המקומי מאפשר להמשיך לעבוד בזמן תקלה אצל הספק.
+#שאלה What does the owner want to say in the last paragraph? | To depend on one provider for everything was a risk | The provider is a criminal | Local copies are useless | Customers should use another office | המשפט מראה שהבעיה הייתה התלות המוחלטת בספק אחד.
+#שאלה Which title describes the text most clearly? | One Provider, One Big Risk | How to Find a New Customer | The Technician Who Fixed the Provider | A Free Day at the Office | הסיפור עוסק בסיכון של תלות בספק יחיד.
+
+
+#סיפור The Technician Who Asked Questions First | קשה
+When a computer has a problem, many people begin to change things at once. They delete programs, turn the computer off and on, and download new programs. Sometimes this works. But often it makes the problem harder to solve, because nobody knows which change helped and which change made the problem more serious.
+
+Good technicians have another habit. Before they touch the computer, they ask questions. Yael, a technician with 15 years in the field, always asks the same four questions. First: "What is the real problem?" Users often say "the computer does not work," but this tells her very little. Is the screen dark? Does one program close? Is everything slow? Second: "When did it start?" Third: "What changed before it started? A new program, an update, a new device?" Finally: "Can you show me the problem now?"
+
+Last month, an employee told Yael that his computer was "completely broken." After her questions, the picture was much clearer. The computer worked, but one program closed every time he tried to open a picture from his phone. It started on Thursday. On the day before, his phone received an update, and the update changed the format of its pictures. In ten minutes, Yael found that the old program did not know the new format. She updated the program, and the problem was solved.
+
+Yael says that the questions do two things. They reduce the amount of possible causes, and they help her repeat the problem. "If I can reproduce a problem, I can solve it," she explains. "If I start to change things without a clear picture, I do not really know what I am doing."
+#שאלה Why does changing things at once often make a problem harder to solve? | Nobody knows which change helped and which change made it more serious | It deletes important files | It takes too much time | Technicians do not like it | המשפט האחרון של הפסקה הראשונה מסביר זאת.
+#שאלה What do good technicians do before they touch the computer? | They ask questions | They turn it off and on | They download new programs | They delete programs | זה ההרגל השונה שמתואר בתחילת הפסקה השנייה.
+#שאלה Why is "the computer does not work" not a useful answer for Yael? | It tells her very little about the real problem | It is not correct | It is too long | The user is angry | כתוב: but this tells her very little.
+#שאלה Which question is NOT one of Yael's four questions? | Who used the computer last? | When did it start? | What changed before it started? | Can you show me the problem now? | השאלה מי השתמש אחרון לא נמצאת ברשימה.
+#שאלה What was the real problem of the employee? | One program closed when he tried to open a picture from his phone | The computer was completely broken | The screen was dark | Everything was slow | העובד אמר שהמחשב "שבור לגמרי", אבל בפועל רק תוכנה אחת נסגרה.
+#שאלה What changed before the problem started? | His phone received an update that changed the format of its pictures | The office bought a new program | The employee bought a new computer | Yael updated the program | העדכון בטלפון שינה את הפורמט. העדכון של התוכנה היה הפתרון, לא הסיבה.
+#שאלה Which of Yael's questions helped most with this employee? | What changed before it started? | Can you show me the problem now? | What is the real problem? | When did it start? | השאלה על מה השתנה הובילה ישירות לעדכון בטלפון. שאר השאלות עזרו, אבל זו פתרה את התעלומה.
+#שאלה In paragraph 3, "the old program did not know the new format". The format was new because: | the update of the phone changed it | Yael changed it | the employee created it | the program created it | העדכון בטלפון יצר את הפורמט החדש.
+#שאלה According to Yael, which two things do the questions do? | They reduce the amount of possible causes and help her repeat the problem | They make the user happy and take less time | They fix the computer and update programs | They delete programs and find malware | הפסקה האחרונה מפרטת את שני הדברים.
+#שאלה What does Yael want to say with "If I can reproduce a problem, I can solve it"? | When she can see the problem again, she can find its cause | Every problem is easy | She never needs to ask questions | Users should solve problems alone | כשאפשר לשחזר תקלה, אפשר לבדוק אותה ולמצוא את הסיבה.
+
+
+#סיפור When a Small Website Becomes Popular | קשה
+Noam created a small website where people can share pictures of food that they cook at home. For two years, about 200 people used it every day, and one small host computer did the job without problems. Then a popular cook talked about the website in a popular program, and in one evening, 50,000 people tried to open it.
+
+The host computer could not serve so many users. First, the website became very slow. Then it stopped completely, and users saw only an error message. Noam was delighted that so many people wanted to see his website, but he was also very sad. "The best day of my website was also its most terrible day," he said later.
+
+The problem was not in the code. The code worked well for 200 users. But every user needed a small part of the memory and the power of the host computer. With 50,000 users at the same time, the host computer had no free memory, and it could not serve a single user.
+
+Noam called a friend who works in engineering at a big provider. She explained two solutions. The first was to move the website to a bigger host computer. This is simple, but a bigger computer is expensive, and it can also stop if the growth continues. The second was to use multiple host computers. A special program receives each user and sends him to the computer that is less busy. If more users arrive, the provider can use more computers automatically.
+
+Noam chose the second solution. It took him three days, and he paid more each month. But a month later, the cook talked about the website again, and this time it stayed fast. "Growth is a good problem," Noam said, "but only if you are ready for it."
+#שאלה How many people used the website every day before the evening of the program? | about 200 | 50,000 | 2 | no information | לפני התוכנית השתמשו בו בערך 200 איש ביום.
+#שאלה Why did 50,000 people try to open the website in one evening? | A popular cook talked about it in a program | Noam sent messages to everyone | The website had a new design | The host computer was faster | הבשלן הפופולרי דיבר על האתר בתוכנית.
+#שאלה What did the website do first? | It became very slow | It stopped completely | It showed a message from Noam | It moved to a bigger computer | קודם הוא נעשה איטי מאוד, ורק אחר כך הפסיק לגמרי.
+#שאלה Why does Noam say, "The best day of my website was also its most terrible day"? | Many people wanted to see it, but it stopped working | It was his birthday | He lost his job that day | The cook did not like the website | זה היה גם השיא וגם הקריסה, באותו יום.
+#שאלה According to paragraph 3, what was the cause of the problem? | Each user needed memory and power, and with so many users there was no free memory | The code had an error | The provider stopped the website | Users deleted their pictures | כתוב במפורש: The problem was not in the code.
+#שאלה What is the problem with the first solution? | A bigger computer is expensive and can also stop if growth continues | It is too complex | It needs multiple host computers | It is not possible | פתרון פשוט, אבל יקר ולא מבטיח שהבעיה לא תחזור.
+#שאלה In the second solution, what does the special program do? | It sends each user to the computer that is less busy | It deletes users | It changes the code | It makes the host computer bigger | התוכנה המיוחדת מפנה כל משתמש למחשב הפחות עמוס.
+#שאלה Which sentence is correct about the second solution? | It took three days, and Noam pays more each month | It was free | It was faster to create than the first solution | It did not help | נועם משלם יותר כל חודש, וזה לקח לו שלושה ימים.
+#שאלה How do we know that the second solution worked? | A month later, the cook talked about the website again, and it stayed fast | The provider said so | Noam's friend checked it | Fewer people used the website | ההוכחה היא הפעם השנייה: האתר נשאר מהיר.
+#שאלה What does Noam want to say with "Growth is a good problem, but only if you are ready for it"? | Growth is good only when the system is prepared for more users | Growth is always a problem | Small websites should stay small | Popular programs are harmful | צמיחה היא דבר טוב, בתנאי שהמערכת מוכנה לה.
+
+#סיפור Deleted by Accident | בינוני
+Maya accidentally deleted a directory with all the pictures from her trip. She noticed it only two weeks later, and she was sure that the pictures were lost. However, her brother explained that deletion is often not the end. Most systems do not delete a file completely at once. First, they move it to a special place for deleted files, and they keep it there for some time.
+
+Maya checked, and the directory was there. Her system keeps deleted files for 30 days, so she still had 16 days. She recovered all the pictures in two minutes.
+
+Her brother also gave one warning. "Do not depend on this mechanism," he said. "If you notice a deletion after 30 days, or if the deleted files were on an external disk, recovery may not be possible. Keep a separate copy of everything important."
+#שאלה Why was Maya sure that the pictures were lost? | She noticed the deletion only two weeks later | Her brother told her so | The pictures were on an external disk | The system deleted them completely | היא חשבה שעבר יותר מדי זמן. בפועל המערכת שומרת קבצים 30 יום.
+#שאלה How many days did Maya still have when she checked? | 16 | 30 | 14 | 2 | 30 ימים פחות שבועיים (14 ימים) משאירים 16 ימים.
+#שאלה When may recovery NOT be possible, according to the brother? | when the deleted files were on an external disk | when the files are pictures | when the deletion was two weeks before | when the user has a brother | אם הקבצים היו על דיסק חיצוני, או אם עברו יותר מ־30 יום.
+#שאלה What does the brother recommend? | Do not depend on the recovery mechanism; keep a separate copy | Never delete files | Check deleted files every day | Use only external disks | הוא אומר לא לסמוך על המנגנון ולשמור עותק נפרד.
+
+#סיפור The Technician Who Called | בינוני
+Ron received a call from a man who said that he was a technician from a well-known software provider. "Your computer is sending warnings to our system," the man said. "It has malware. I can fix it for you now. Please download a small program so that I can see your screen."
+
+Ron was anxious, but something felt strange. A real provider does not call users to say that their computer has malware. And the man wanted access to Ron's computer. Ron said that he would call the provider, and he closed the call.
+
+When Ron called the official phone of the provider, they confirmed that they never make such calls. The man was a criminal. With the small program, he could see Ron's screen, use Ron's computer, steal personal information, and ask for money to "fix" a problem that did not exist.
+#שאלה What did the man ask Ron to do? | download a small program so that he could see Ron's screen | pay money at once | delete a program | turn off the computer | הוא ביקש להוריד תוכנה קטנה כדי לראות את המסך.
+#שאלה Which detail made Ron suspicious? | A real provider does not call users to say that their computer has malware | The man had a strange name | The man spoke too fast | The call was at night | זה הפרט שכתוב בטקסט. שאר הפרטים לא מוזכרים.
+#שאלה What did Ron do after he closed the call? | He called the official phone of the provider | He downloaded the program | He called the man again | He turned off his computer for a week | הוא בדק בעצמו מול המספר הרשמי.
+#שאלה What could the criminal do with the small program? | see the screen, use the computer, and steal information | only fix the malware | only see the time | delete the provider | עם התוכנה הוא יכול לראות ולשלוט במחשב ולגנוב מידע.
+
+#סיפור Format Is Not a Small Word | בינוני
+Omer bought an external disk and wanted to use it with his new computer. When he used it for the first time, the computer showed a message: "This disk is not in the correct format. Do you want to format it?" Omer clicked "Yes" without reading the rest of the message.
+
+The disk was not new. His father had used it before, and it had 600 family pictures on it. When you format a disk, the system prepares it for a new use, and usually it deletes all the data on it. In a few seconds, the pictures were gone.
+
+A technician recovered some of the pictures, because the system had not completely deleted the data yet. But many pictures were lost. Omer learned that some messages are not only questions. "Format" sounds like a technical word, but it can also be the same as "delete everything."
+#שאלה What was Omer's mistake? | He clicked "Yes" without reading the rest of the message | He bought a faulty disk | He deleted the pictures on purpose | He did not use the disk | הוא לחץ "כן" בלי לקרוא את שאר ההודעה.
+#שאלה Why were there pictures on the disk? | His father had used it before | Omer had stored them | The technician stored them | The disk came with pictures | הדיסק לא היה חדש. אביו השתמש בו קודם.
+#שאלה Why could the technician recover some of the pictures? | The system had not completely deleted the data yet | Omer had another copy | The disk was not formatted | The pictures were on the computer | המערכת עוד לא מחקה את הנתונים לגמרי.
+#שאלה What lesson did Omer learn? | A technical word in a message can describe a serious action | Technicians can always recover data | External disks are useless | Old disks are safer than new ones | מילה טכנית כמו format יכולה לתאר פעולה הרסנית.
+
+
+#סיפור The Disk in the Street | בינוני
+Investigators once did a study. They left 300 small external disks in the streets of a city, near the entrances of offices, and near bus stops. Then they waited. The disks had a small hidden program that sent a message to the investigators when someone opened a file on the disk.
+
+The results surprised them. People used almost half of the disks with their computers, and many of them did it in less than a day. Most of them said that they only wanted to find the owner and give the disk back.
+
+This is a good idea, but it is also a serious risk. A disk from the street can have malware on it. When a person opens a file on it, the malware can enter the computer and spread to other devices. The investigators recommend a simple step: if you find a disk, do not use it with your computer. Give it to a technician or to the person who works in cybersecurity.
+#שאלה What did the hidden program on the disks do? | It sent a message to the investigators when someone opened a file | It deleted the files on the computer | It showed a warning to the user | It found the owner | התוכנה הנסתרת רק דיווחה לחוקרים. היא לא הייתה זדונית.
+#שאלה What surprised the investigators? | People used almost half of the disks, many of them in less than a day | Nobody used the disks | All the disks were stolen | People gave all the disks to technicians | התוצאה המפתיעה: כמעט חצי מהדיסקים שימשו, ורבים מהם תוך פחות מיום.
+#שאלה Why did most people say that they used the disks? | to find the owner and give the disk back | to steal the files | to store their own pictures | to check the malware | רובם אמרו שרצו למצוא את הבעלים.
+#שאלה What does the writer think about the idea of finding the owner? | It is a good idea, but it is also a serious risk | It is a criminal idea | It is the best idea | It is a useless idea | הכותב מכיר בכוונה הטובה, אבל מזהיר שהיא מסוכנת.
+
+#סיפור Multiple Layers of Protection | בינוני
+Cybersecurity professionals often describe protection as many layers, like the walls of an old city. No single layer is perfect, but every layer makes the work of a criminal harder.
+
+Think of the computer of a small office. The first layer is the firewall, which decides which data can enter the system. The second layer is the program that searches for malware. The third layer is authentication: every employee needs a PIN and a code from his phone. Another layer is the habit of the employees: they do not click on suspicious messages. And the last layer is a separate copy of all the data, for the day when every other layer stops working.
+
+A criminal may pass one layer, or two. But to cause serious damage, he must pass all of them. Each layer also gives the office time to notice the cyberattack and to act. For this reason, professionals do not ask, "Which protection is the best?" They ask, "What will we do if this protection does not work?"
+#שאלה Why do professionals describe protection as layers? | No single layer is perfect, but every layer makes the work of a criminal harder | Every layer is perfect | Criminals cannot pass a single layer | Layers are cheaper than one strong protection | כתוב: אף שכבה לא מושלמת, אבל כל אחת מקשה על הפושע.
+#שאלה Which layer is for the day when every other layer stops working? | a separate copy of all the data | the firewall | authentication | the program that searches for malware | העותק הנפרד הוא השכבה האחרונה, לשחזור.
+#שאלה Which layer is about people and not about a program? | the habit of the employees | the firewall | the program that searches for malware | a separate copy of the data | ההרגלים של העובדים הם השכבה האנושית.
+#שאלה What question do professionals ask, according to the last paragraph? | What will we do if this protection does not work? | Which protection is the best? | What is the price of each layer? | Who is the criminal? | מסיח מטעה: את השאלה "מה ההגנה הטובה ביותר" הם דווקא לא שואלים.
+
+#סיפור Too Many Warnings | בינוני
+In one office, the cybersecurity system sent about 200 warnings every day. Most of them were not serious: an employee typed an incorrect PIN, a program needed an update, a file was big. At first, the technician, Dana, checked every warning. After a month, she stopped. There were simply too many, and almost all of them were unnecessary.
+
+Then, one night, a real cyberattack began. The system sent a warning, but it was one warning in a crowd of 200. Dana saw it only the next afternoon. At that time, the criminals had copied a lot of private data.
+
+After the cyberattack, the office changed its system. Now there are three types of warnings, and only the most serious type sends a notification to Dana's phone. The system sends about five important warnings a week. "When everything is a warning," Dana said, "nothing is a warning."
+#שאלה Why did Dana stop checking every warning? | There were too many, and almost all of them were unnecessary | The system stopped sending warnings | She found a new job | The warnings were not in English | היו יותר מדי אזהרות, וכמעט כולן מיותרות.
+#שאלה Why did Dana not see the warning about the real cyberattack in time? | It was one warning in a crowd of 200 | The system did not send it | It came to another technician | Her phone was off | האזהרה האמיתית הלכה לאיבוד בין 200 אזהרות אחרות.
+#שאלה What changed after the cyberattack? | Only the most serious type of warning sends a notification to Dana | The system stopped sending warnings | Dana checks 200 warnings every day | The office has no more cybersecurity system | עכשיו רק הסוג החמור ביותר שולח התראה לטלפון.
+#שאלה What does Dana want to say with "When everything is a warning, nothing is a warning"? | Too many warnings make people ignore all of them | Warnings are useless | Every warning is serious | Systems should never send warnings | כשיש יותר מדי אזהרות, אנשים מפסיקים לשים לב לכולן.
+
+#סיפור The File in the Incorrect Directory | בינוני
+Tamar works in an office where every team has a shared directory. Files in a shared directory are synchronized to the computers of everyone in the team. One day, Tamar wanted to move a private file with the personal information of employees to her personal directory. By mistake, she moved it to the shared directory of her team.
+
+In less than a minute, the file was on 12 computers. Tamar noticed the mistake after an hour and deleted the file. But deletion in one place does not delete the copies that people opened or copied during that hour. Two employees had opened the file, and one had copied it to his phone.
+
+The office had to explain the mistake to all the employees, and Tamar felt terrible. The technician was not angry with her. Instead, he changed the design: private files about employees are now in a separate system, and nobody can move them to a shared directory by accident.
+#שאלה What does the system do with files in a shared directory? | They are synchronized to the computers of everyone in the team | They are deleted after an hour | Only Tamar can see them | They are private | זו ההגדרה בתחילת הטקסט: הם מסונכרנים לכל המחשבים של הצוות.
+#שאלה Why was deleting the file after an hour not a full solution? | Some employees had opened or copied the file during that hour | The file came back automatically | The technician stored a copy | Tamar deleted the incorrect file | מחיקה במקום אחד לא מוחקת עותקים שאנשים כבר פתחו או העתיקו.
+#שאלה How many employees had opened the file? | two | 12 | one | nobody | שני עובדים פתחו, ואחד מהם גם העתיק לטלפון. 12 הוא מספר המחשבים.
+#שאלה What did the technician change? | Private files about employees are now in a separate system | Tamar cannot use the shared directory | Shared directories were deleted | Every employee must check his files | הוא שינה את התכנון כך שאי אפשר להעביר בטעות קבצים כאלה.
+
+#סיפור Temporary Access That Stayed | בינוני
+A store needed help with its system, so the owner gave an external technician access to the computers of the store. The idea was that the access would be temporary: one week. The technician fixed the problem in three days, and everyone forgot about the access.
+
+Two years later, criminals entered the system of the store. The investigators discovered that they did not enter the store directly. First, they entered the computer of the technician, and from there they used his old access to the store. Nobody had deleted it.
+
+Professionals call this a forgotten door. Every person who receives access to a system is a possible door for criminals. For this reason, temporary access should have a day of end in the system itself, and it should end automatically. The owner of the store now checks every three months who has access, and he deletes every access that is no longer necessary.
+#שאלה How long did the technician really need the access? | three days | one week | two years | three months | התכנון היה לשבוע, אבל הוא סיים את העבודה בשלושה ימים.
+#שאלה How did the criminals enter the system of the store? | They entered the computer of the technician and used his old access | They found the PIN of the owner | They deceived an employee | They used a disk in the street | הם לא נכנסו לחנות ישירות. הם עברו דרך הגישה הישנה של הטכנאי.
+#שאלה What is a "forgotten door", according to the text? | an access that nobody deleted after it was no longer necessary | a real door in the store | a firewall | a temporary file | זו הגישה שנשכחה ונשארה פתוחה.
+#שאלה What does the owner do now? | He checks every three months who has access and deletes unnecessary access | He never gives access to technicians | He changes his PIN every day | He uses only one computer | כתוב במשפט האחרון.
+
+#סיפור The Data That Nobody Deleted | בינוני
+A small store with a website kept the information of every customer who bought a product: names, locations, and phones. The owner thought that more data is always useful. One day, he thought, he would send them a message about a new product.
+
+After eight years, the store had the information of 90,000 customers. Most of them had bought only once, many years before. Then criminals entered the system and stole everything. Now the owner had to inform 90,000 people that their personal information was stolen, although most of them had not bought there for years.
+
+A cybersecurity professional explained the lesson. "Data that you do not keep cannot be stolen," she said. Many offices and stores now make a clear decision about retention: they keep personal data only for the time that it is necessary, and then they delete it.
+#שאלה Why did the owner keep the information of every customer? | He thought that more data is always useful | The government asked him | The customers wanted it | He needed it for every purchase | הוא חשב שעוד נתונים תמיד מועילים.
+#שאלה Which sentence about the 90,000 customers is correct? | Most of them had bought only once, many years before | All of them bought every month | Most of them were new customers | Nobody received a message | רובם קנו פעם אחת בלבד, לפני שנים רבות.
+#שאלה Why did the old data make the cyberattack more serious? | The owner had to inform 90,000 people, and most of them had not bought there for years | The criminals deleted the products | The website stopped for a year | The customers paid the criminals | אילו המידע הישן היה נמחק, היה צריך להודיע להרבה פחות אנשים.
+#שאלה What does "Data that you do not keep cannot be stolen" tell us? | Deleting unnecessary data reduces the risk | All data should be deleted | Stores should not use websites | Criminals only steal new data | נתונים שלא שומרים לא יכולים להיגנב. מחיקת מידע מיותר מקטינה את הסיכון.
+
+#סיפור Identical Files Everywhere | בינוני
+An office with 20 employees noticed that its storage was almost full, although the employees did not create many new files. A technician checked the storage and discovered a surprising result: almost half of the files were identical copies.
+
+The reason was a habit. When an employee wanted to share a file, he sent it as a message to five or six people. Each person stored the file in his own directory. Then, when someone edited the file, he sent the new file again, and again everyone stored it. One file existed in 70 copies.
+
+This habit did not only take space. It also created confusion. Nobody knew which copy was the latest one, and two times the office sent a customer an old file with incorrect prices. The technician recommended a simple change: keep one file in a shared directory, and send people the location of the file instead of the file itself.
+#שאלה What surprising result did the technician discover? | Almost half of the files were identical copies | The employees created many new files | The storage was empty | Most files were corrupted | כמעט חצי מהקבצים היו עותקים זהים.
+#שאלה What was the cause of the many copies? | Employees sent files as messages, and each person stored his own copy | The system copied files automatically | Malware created the copies | The technician made the copies | הסיבה הייתה הרגל: שליחת הקובץ עצמו במקום המיקום שלו.
+#שאלה Which problem did the habit create, in addition to the loss of space? | Nobody knew which copy was the latest one | The office lost its customers | The computers became faulty | Employees could not send messages | נוצר בלבול לגבי הגרסה העדכנית, ונשלחו מחירים שגויים.
+#שאלה What did the technician recommend? | Keep one file in a shared directory and send its location | Delete every file after a week | Stop sharing files | Buy more storage | במקום לשלוח את הקובץ, לשלוח את המיקום שלו בתיקייה משותפת.
