@@ -1,0 +1,1131 @@
+// English Master 16 · מסלול "מילים למבחן" (שיעורים 1–12)
+// מילים שכבר קיימות באפליקציה לא משוכפלות: הן מצטרפות למסלול עם כל ההתקדמות שלהן.
+// מילים חדשות נכנסות רק למסלול (#רק-במסלול). כל הקטעים פתוחים משלב א׳ (#שלב-קבוע 1).
+#חבילה מילים למבחן · שיעורים 1–12
+#מזהה test-1-12
+#שלב 1.5
+#מסלול מילים למבחן
+#אייקון 📝
+#תיאור כל המילים מהשיעורים 1–12, עם 50 קטעי קריאה ומבחנים. פתוח לכל השלבים, וההתקדמות במילים שכבר למדת נשמרת.
+#רק-במסלול
+#שלב-קבוע 1
+#דרוש-גרסה 16
+
+#נושא שיעורים 1–9 · טכנולוגיה, מחשבים ומערכות
+#מילים
+software | תוכנה | x
+program | תוכנה / תוכנית | n
+computer | מחשב | n
+laptop | מחשב נייד | n
+device | מכשיר | n
+browser | דפדפן | n
+website | אתר אינטרנט | n
+screen | מסך | n
+file | קובץ | n
+folder | תיקייה | n
+directory | תיקייה / ספרייה | n
+path | נתיב | n
+message | הודעה | n
+error | שגיאה | n
+warning | אזהרה | n
+update | עדכון | n
+system | מערכת | n
+application | יישום / אפליקציה | n
+user | משתמש | n
+account | חשבון | n
+password | סיסמה | n
+permission | הרשאה | x
+access | גישה | x
+data | נתונים | x
+value | ערך | n
+variable | משתנה | n
+function | פונקציה | n
+input | קלט | n
+output | פלט | n
+result | תוצאה | n
+server | שרת | n
+request | בקשה | n
+network | רשת | n
+display | להציג | v
+store | לאחסן | v
+save | לשמור | v
+open | לפתוח | v
+run | להפעיל / להריץ | v
+check | לבדוק | v
+detect | לזהות | v
+receive | לקבל | v
+produce | לייצר / להפיק | v
+return | להחזיר | v
+select | לבחור | v
+connect | להתחבר | v
+automatically | באופן אוטומטי | x
+correct | נכון / תקין | x
+incorrect | שגוי / לא תקין | x
+available | זמין | x
+inaccessible | לא נגיש | x
+protected | מוגן | x
+
+#נושא שיעורים 1–9 · מילות קישור
+#מילים
+and | ו־ / וגם | x
+also | גם | x
+but | אבל | x
+however | עם זאת / אולם | x
+although | אף על פי ש־ | x
+because | כי / מפני ש־ | x
+so | לכן / אז | x
+therefore | לכן / לפיכך | x
+as a result | כתוצאה מכך | x
+if | אם | x
+unless | אם לא / אלא אם | x
+instead | במקום זאת | x
+instead of | במקום | x
+first | ראשית / ראשון | x
+next | לאחר מכן / הבא | x
+then | אז / לאחר מכן | x
+finally | לבסוף | x
+before | לפני | x
+after | אחרי | x
+over time | עם הזמן | x
+while | בזמן ש־ / בעוד ש־ | x
+
+#נושא שיעורים 1–9 · קריאה והבנה
+#מילים
+context | הקשר | n
+clue | רמז | n
+meaning | משמעות | n
+main idea | רעיון מרכזי | x
+paragraph | פסקה | n
+sentence | משפט | n
+topic | נושא | n
+detail | פרט | n
+support | לתמוך / תמיכה | v
+example | דוגמה | n
+evidence | ראיה / הוכחה | x
+explanation | הסבר | n
+explain | להסביר | v
+describe | לתאר | v
+reason | סיבה | n
+purpose | מטרה | n
+information | מידע | x
+instructions | הוראות | x
+read | לקרוא | v
+translation | תרגום | n
+unfamiliar | לא מוכר | x
+familiar | מוכר | x
+important | חשוב | x
+
+#נושא שיעורים 1–9 · פעולות
+#מילים
+compare | להשוות | v
+discover | לגלות | v
+expect | לצפות | v
+adapt | להסתגל | v
+change | לשנות / שינוי | v
+choose | לבחור | v
+keep | להמשיך / לשמור | v
+allow | לאפשר | v
+prevent | למנוע | v
+require | לדרוש | v
+solve | לפתור | v
+decision | החלטה | n
+make a decision | לקבל החלטה | x
+take a break | לקחת הפסקה | x
+solve a problem | לפתור בעיה | x
+follow instructions | לעקוב אחר הוראות | x
+open a file | לפתוח קובץ | x
+check a message | לבדוק הודעה | x
+continue | להמשיך | v
+try again | לנסות שוב | x
+understand | להבין | v
+remember | לזכור | v
+recognize | לזהות / להכיר | v
+believe | להאמין | v
+influence | להשפיע | v
+
+#נושא שיעורים 1–9 · תיאור
+#מילים
+same | אותו דבר / זהה | x
+different | שונה | x
+similar | דומה | x
+possible | אפשרי | x
+necessary | הכרחי / נחוץ | x
+ordinary | רגיל | x
+optional | אופציונלי / לא חובה | x
+recommended | מומלץ | x
+useful | שימושי | x
+reliable | אמין | x
+inexpensive | זול | x
+brief | קצר / תמציתי | x
+clear | ברור | x
+unclear | לא ברור | x
+incomplete | לא שלם | x
+large | גדול | x
+small | קטן | x
+enormous | עצום | x
+frequent | תכוף | x
+temporary | זמני | x
+lasting | מתמשך / ארוך טווח | x
+some | חלק / כמה | x
+all | הכול / כולם | x
+few | מעט | x
+many | רבים | x
+may | עשוי / ייתכן | x
+must | חייב | x
+can | יכול | x
+cannot | לא יכול | x
+without | בלי / ללא | x
+
+#נושא שיעורים 1–9 · מילים מהסיפורים
+#מילים
+happiness | אושר | x
+pleasure | הנאה | x
+research | מחקר | x
+accident | תאונה | n
+lottery | הגרלה / לוטו | n
+winner | זוכה | n
+paralyzed | משותק | x
+habit | הרגל | n
+increase | להגדיל / לעלות | v
+reduce | להפחית | v
+money | כסף | x
+digital | דיגיטלי | x
+airport | שדה תעופה | n
+documents | מסמכים | x
+papers | מסמכים / ניירות | x
+solution | פתרון | n
+situation | מצב | n
+bench | ספסל | n
+officials | פקידים / גורמים רשמיים | x
+criminal | עבריין | n
+government | ממשלה | n
+businessman | איש עסקים | n
+metal | מתכת | n
+false | שקרי / לא נכון | x
+trick | תרמית / תרגיל | n
+scam | הונאה | n
+embarrassed | נבוך | x
+confidence | ביטחון | x
+memory | זיכרון | x
+brain | מוח | n
+illness | מחלה | x
+damage | לפגוע / נזק | v
+survive | לשרוד | v
+ability | יכולת | n
+researcher | חוקר | n
+scientist | מדען | n
+condition | מצב / מצב רפואי | n
+
+#נושא שיעורים 1–9 · הקשר ופענוח
+#מילים
+starving | רעב מאוד | x
+fragile | שביר | x
+delighted | שמח מאוד / מאושר | x
+slippery | חלקלק | x
+exhausted | עייף מאוד / מותש | x
+route | מסלול / דרך | n
+repair | לתקן | v
+entrance | כניסה | n
+experience | לחוות / ניסיון | v
+quickly | במהירות | x
+confidently | בביטחון | x
+eventually | בסופו של דבר | x
+temporarily | באופן זמני | x
+impractical | לא מעשי | x
+unpopular | לא פופולרי | x
+
+#נושא שיעורים 1–9 · תחיליות וסיומות
+#מילים
+un- | לא / היפוך משמעות | x
+re- | שוב / מחדש | x
+dis- | לא / היפוך / ניגוד | x
+-less | ללא / חסר | x
+-ful | מלא ב־ / בעל תכונה | x
+-ly | הופך לרוב תואר לאופן | x
+in- / im- | לא / שלילה בחלק מהמילים | x
+
+#נושא שיעור 9 · טכנולוגיה
+#מילים
+protect | להגן | v
+crash | לקרוס / תקלה | v
+cause | לגרום / סיבה | v
+identify | לזהות | v
+restore | להחזיר לפעולה / לשחזר | v
+affected | מושפע / שנפגע | x
+depend on | להסתמך על | x
+cyberattack | מתקפת סייבר | n
+content update | עדכון תוכן | x
+designed | נועד / תוכנן | x
+engineer | מהנדס | n
+immediately | מיד | x
+incident | אירוע / תקרית | n
+deployment | הפצה / פריסה | n
+process | תהליך | x
+gradually | בהדרגה | x
+improve | לשפר | v
+organization | ארגון | n
+
+#נושא שיעור 9 · למידה
+#מילים
+remember | לזכור | v
+forget | לשכוח | v
+recognize | לזהות / להכיר | v
+recall | לשלוף מהזיכרון | v
+practice | לתרגל / תרגול | v
+progress | התקדמות | x
+mistake | טעות | n
+familiar | מוכר | x
+effort | מאמץ | n
+frustrating | מתסכל | x
+necessarily | בהכרח | x
+fail | להיכשל | v
+eventually | בסופו של דבר | x
+
+#נושא שיעורים 10–12
+#מילים
+effort | מאמץ | n
+improve | לשפר | v
+challenge | אתגר | n
+feedback | משוב | x
+progress | התקדמות | x
+consistent | עקבי / קבוע | x
+strategy | אסטרטגיה / דרך פעולה | n
+persist | להתמיד | v
+focus | להתמקד | v
+performance | ביצוע / רמת ביצוע | n
+practice | תרגול / להתאמן | v
+disappointed | מאוכזב | x
+difficult | קשה | x
+spend | לבלות / להשקיע זמן | v
+passage | קטע | n
+carefully | בזהירות / בקפידה | x
+specific | מסוים / ספציפי | x
+routine | שגרה | n
+accurately | בדיוק | x
+researcher | חוקר | n
+persistence | התמדה | x
+distinguish | להבחין בין | v
+activity | פעילות | n
+motivation | מוטיבציה | x
+suitable | מתאים | x
+recover | להתאושש | v
+discipline | משמעת | x
+repeat | לחזור על | v
+maintain | לשמור / לתחזק | v
+attention | קשב / תשומת לב | x
+regularly | באופן קבוע | x
+initially | בהתחלה | x
+concentrate | להתרכז | v
+section | חלק / קטע | n
+clarify | להבהיר | v
+effective | יעיל / אפקטיבי | x
+accuracy | דיוק | x
+condition | תנאי / מצב | n
+attempt | לנסות / ניסיון | v
+evidence | ראיה / עדות | x
+purpose | מטרה | n
+result | תוצאה | n
+compare | להשוות | v
+allow | לאפשר | v
+prevent | למנוע | v
+require | לדרוש | v
+available | זמין | x
+instead | במקום זאת | x
+although | למרות ש־ | x
+unless | אלא אם / אם לא | x
+however | אולם / עם זאת | x
+access | גישה | x
+permission | הרשאה | x
+error | שגיאה | n
+system | מערכת | n
+main idea | רעיון מרכזי | x
+supporting detail | פרט תומך | x
+habit | הרגל | n
+adapt | להסתגל | v
+therefore | לכן | x
+robot | רובוט | n
+sensor | חיישן | n
+detect | לזהות / לגלות | v
+movement | תנועה | n
+task | משימה | n
+safety | בטיחות | x
+automatic | אוטומטי | x
+monitor | לעקוב / לנטר | v
+reliable | אמין | x
+hospital | בית חולים | n
+nurse | אח / אחות | n
+equipment | ציוד | x
+patient | מטופל | n
+supplies | אספקה / ציוד | x
+hall | מסדרון | n
+object | חפץ / עצם | n
+planned route | מסלול מתוכנן | x
+crowded | צפוף | x
+advantage | יתרון | n
+perform | לבצע | v
+repeated | חוזר | x
+staff | צוות | x
+human judgment | שיקול דעת אנושי | x
+trust | לסמוך על | v
+machine | מכונה | n
+situation | מצב | n
+report | לדווח | v
+reflection | השתקפות | n
+path | נתיב / מסלול | n
+decision | החלטה | n
+delay | עיכוב | n
+engineer | מהנדס | n
+replace | להחליף | v
+research | מחקר | x
+meaning | משמעות | n
+predict | לחזות | v
+measure | למדוד | v
+review | לבדוק / לעבור שוב | v
+method | שיטה | n
+gradual | הדרגתי | x
+evaluate | להעריך | v
+efficient | יעיל | x
+river | נהר | n
+flood | שיטפון / להציף | v
+rainfall | כמות גשם | x
+temperature | טמפרטורה | x
+water level | מפלס מים | x
+warning | אזהרה | n
+serious | רציני / חמור | x
+prediction | תחזית / חיזוי | n
+actual | בפועל / ממשי | x
+event | אירוע | n
+round of testing | סבב בדיקות | x
+perfectly | באופן מושלם | x
+clearer | ברור יותר | x
+information | מידע | x
+exercise | תרגיל | n
+unchanged | ללא שינוי | x
+learner | לומד | n
+improvement | שיפור | n
+guided | מונחה | x
+data | נתונים | x
+relevant | רלוונטי | x
+approach | גישה / דרך | n
+reduce | להפחית | v
+necessarily | בהכרח | x
+guarantee | להבטיח | v
+examine | לבחון | v
+revise | לשנות / לעדכן | v
+contribute | לתרום | v
+irrelevant | לא רלוונטי | x
+majority | רוב | n
+similar | דומה | x
+different | שונה | x
+change | שינוי / לשנות | v
+
+#משפטים
+Read the passage carefully before you answer the questions. | קרא את הקטע בקפידה לפני שאתה עונה על השאלות.
+The second passage was longer than the first one. | הקטע השני היה ארוך יותר מהראשון.
+The robot can perform a simple task many times. | הרובוט יכול לבצע משימה פשוטה פעמים רבות.
+Each student received a different task. | כל תלמיד קיבל משימה אחרת.
+The hospital uses robots to carry supplies. | בית החולים משתמש ברובוטים כדי לשאת אספקה.
+My sister works in a big hospital. | אחותי עובדת בבית חולים גדול.
+The nurse checked the patient every hour. | האחות בדקה את המטופל כל שעה.
+A good nurse needs a lot of patience. | אח טוב צריך הרבה סבלנות.
+The patient was ready to go home. | המטופל היה מוכן ללכת הביתה.
+The nurses spend a lot of time with each patient. | האחיות מקדישות הרבה זמן לכל מטופל.
+The robot moved slowly in the hall. | הרובוט נע לאט במסדרון.
+The hall was crowded in the morning. | המסדרון היה צפוף בבוקר.
+The machine can perform the same task without a mistake. | המכונה יכולה לבצע את אותה משימה בלי טעות.
+She performed well on the second test. | היא ביצעה היטב את המבחן השני.
+The robot saw its own reflection in the window. | הרובוט ראה את ההשתקפות שלו בחלון.
+A reflection on the floor confused the sensor. | השתקפות על הרצפה בלבלה את החיישן.
+The river near the city is very long. | הנהר ליד העיר ארוך מאוד.
+After the rain, the water in the river went up. | אחרי הגשם, המים בנהר עלו.
+The flood damaged many houses. | השיטפון פגע בבתים רבים.
+Strong rain can flood the streets. | גשם כבד יכול להציף את הרחובות.
+There was a clear improvement in her results. | היה שיפור ברור בתוצאות שלה.
+Every small improvement is important. | כל שיפור קטן חשוב.
+A good learner asks questions. | לומד טוב שואל שאלות.
+The application helps each learner at his own speed. | האפליקציה עוזרת לכל לומד בקצב שלו.
+Find a supporting detail in the second paragraph. | מצא פרט תומך בפסקה השנייה.
+Each supporting detail explains the main idea. | כל פרט תומך מסביר את הרעיון המרכזי.
+The robot followed a planned route. | הרובוט הלך לפי מסלול מתוכנן.
+The bus did not follow the planned route. | האוטובוס לא נסע לפי המסלול המתוכנן.
+Some decisions require human judgment. | חלק מההחלטות דורשות שיקול דעת אנושי.
+A machine cannot replace human judgment. | מכונה לא יכולה להחליף שיקול דעת אנושי.
+The water level of the river went up quickly. | מפלס המים של הנהר עלה מהר.
+A sensor measures the water level every minute. | חיישן מודד את מפלס המים כל דקה.
+She was disappointed with her first result. | היא הייתה מאוכזבת מהתוצאה הראשונה שלה.
+Do not be disappointed after one mistake. | אל תתאכזב אחרי טעות אחת.
+The change was gradual, not sudden. | השינוי היה הדרגתי, לא פתאומי.
+We saw a gradual improvement in his English. | ראינו שיפור הדרגתי באנגלית שלו.
+The actual result was different from the prediction. | התוצאה בפועל הייתה שונה מהתחזית.
+The actual cause of the error was simple. | הסיבה הממשית לשגיאה הייתה פשוטה.
+His result remained unchanged after a week. | התוצאה שלו נשארה ללא שינוי אחרי שבוע.
+The price was unchanged. | המחיר נשאר ללא שינוי.
+Guided practice helps new learners. | תרגול מונחה עוזר ללומדים חדשים.
+The students did a guided exercise with the teacher. | התלמידים עשו תרגיל מונחה עם המורה.
+This detail is irrelevant to the question. | הפרט הזה לא רלוונטי לשאלה.
+Ignore irrelevant information. | התעלם ממידע לא רלוונטי.
+Read the instructions carefully. | קרא את ההוראות בקפידה.
+He checked the data carefully. | הוא בדק את הנתונים בזהירות.
+The sensor measures the temperature accurately. | החיישן מודד את הטמפרטורה במדויק.
+Answer the questions accurately. | ענה על השאלות במדויק.
+Repeated practice improves memory. | תרגול חוזר משפר את הזיכרון.
+After repeated attempts, he succeeded. | אחרי ניסיונות חוזרים, הוא הצליח.
+The second explanation was clearer. | ההסבר השני היה ברור יותר.
+The picture became clearer after the update. | התמונה נעשתה ברורה יותר אחרי העדכון.
+She practices English regularly. | היא מתרגלת אנגלית באופן קבוע.
+The system checks the water level regularly. | המערכת בודקת את מפלס המים באופן קבוע.
+The hall was crowded with people. | המסדרון היה צפוף באנשים.
+The bus is always crowded in the morning. | האוטובוס תמיד צפוף בבוקר.
+Persistence is more important than natural ability. | התמדה חשובה יותר מיכולת טבעית.
+Her persistence helped her to improve. | ההתמדה שלה עזרה לה להשתפר.
+The hospital staff trusts the new system. | צוות בית החולים סומך על המערכת החדשה.
+The staff worked all night. | הצוות עבד כל הלילה.
+The robot brings supplies to the nurses. | הרובוט מביא אספקה לאחיות.
+The supplies arrived late. | האספקה הגיעה באיחור.
+The rainfall this year was very high. | כמות הגשם השנה הייתה גבוהה מאוד.
+The system uses data about rainfall. | המערכת משתמשת בנתונים על כמות גשם.
+After each round of testing, the engineers improved the system. | אחרי כל סבב בדיקות, המהנדסים שיפרו את המערכת.
+The second round of testing was more accurate. | סבב הבדיקות השני היה מדויק יותר.
+
+#סיפור The Robot in the Hospital Hall | קשה
+Every night, a small robot travels through the halls of a large hospital. Its task is simple but important: it carries supplies, such as medical equipment, food and small objects, from the storage room to the nurses on each floor. Before the robot arrived, the nurses had to perform this task, and they often spent more than an hour each night walking instead of caring for patients.
+
+The robot follows a planned route. Sensors on the robot detect objects in its path, such as a bed, a chair or a person, and the robot stops or changes direction automatically. It also monitors its own movement and reports to the staff when a delivery is complete. According to the engineers who designed it, the robot is reliable in more than 99 percent of its trips.
+
+However, the system is not perfect. In its first weeks, the robot stopped several times in front of a large window. Engineers examined the data and discovered the reason: the sensor detected the reflection of the robot in the window and treated it as an object in the path. In another situation, the robot could not move through a crowded hall during a busy morning, and because of the delay, a nurse had to bring the supplies by hand.
+
+The engineers revised the software after each round of testing, and the number of errors decreased gradually. Still, the staff emphasizes one important point. The robot can replace repeated physical work, but it cannot replace human judgment. When a patient's condition changes suddenly, the decision about what to do remains with the nurses.
+#שאלה What is the main task of the robot? | to carry supplies from the storage room to the nurses | to care for patients | to replace the nurses | to clean the halls | המשימה מתוארת בפסקה הראשונה.
+#שאלה What advantage did the robot bring to the nurses? | They spend less time walking and more time with patients | They earn more money | They work fewer days | They no longer need equipment | לפני הרובוט האחיות בזבזו יותר משעה בהליכה.
+#שאלה How does the robot avoid objects in its path? | Its sensors detect objects, and it stops or changes direction automatically | A nurse moves it | It moves only when the hall is empty | It follows the nurses | החיישנים מזהים חפצים, והרובוט מגיב אוטומטית.
+#שאלה Why did the robot stop in front of the window? | The sensor treated the reflection of the robot as an object in the path | The window was broken | The hall was crowded | The battery was empty | ההשתקפות בזכוכית נראתה לחיישן כמו מכשול.
+#שאלה In paragraph 3, the word "delay" is closest in meaning to: | a situation in which something happens later than planned | a decision | a mistake in the data | an improvement | delay פירושו עיכוב.
+#שאלה What happened after each round of testing? | The engineers revised the software, and the errors decreased gradually | The robot was replaced | The nurses stopped using the robot | The engineers added more robots | הירידה בשגיאות הייתה הדרגתית.
+#שאלה Which sentence is NOT correct, according to the text? | The robot makes decisions when a patient's condition changes | The robot follows a planned route | The robot reports to the staff | The robot is reliable in most trips | ההחלטות במצב רפואי נשארות אצל האחיות.
+#שאלה What is the main idea of the last paragraph? | The robot can replace repeated physical work, but not human judgment | Robots will replace nurses soon | The robot never makes errors | Engineers do not trust the robot | זו הנקודה שהצוות מדגיש.
+
+#סיפור Can We Predict a Flood? | קשה
+Every winter, the people who live in a small city near a river face the same question: will the river flood this year? In the past, the city relied on a simple method. When the water level reached a certain point on a wall near the river, a warning was sent to everyone. The problem was that the warning often arrived too late, when the water was already in the streets.
+
+A team of researchers decided to try a different approach. They collected data from many years: daily rainfall, temperature, the water level of the river, and information about previous floods. Then they built a system that uses this data to predict the water level several hours before it changes. The purpose was not only to detect a flood, but to prevent damage by giving people more time.
+
+The researchers were disappointed with the first results. The predictions were often too high, and the city received several warnings for floods that never happened. The researchers examined the errors carefully and discovered that the system relied too much on rainfall and ignored an important condition: when the ground is already full of water, even a small amount of rain can cause a serious event. After they revised the model, the predictions became much more accurate.
+
+Today, the system is used together with the old method, not instead of it. The researchers emphasize that no prediction can guarantee perfect accuracy. However, a prediction that is clearer and earlier allows people to make better decisions, and in a flood, a few hours can make a huge difference.
+#שאלה What was the problem with the old method? | The warning often arrived too late | It was too expensive | It predicted too many floods | It used too much data | האזהרה הגיעה כשהמים כבר היו ברחובות.
+#שאלה Which data did the researchers NOT collect, according to the text? | the number of cars in the city | daily rainfall | temperature | the water level of the river | מספר המכוניות לא מוזכר.
+#שאלה What was the purpose of the new system? | to give people more time and prevent damage | to build a new wall near the river | to stop the rain | to measure the temperature only | המטרה לא רק לזהות שיטפון אלא למנוע נזק.
+#שאלה Why were the researchers disappointed with the first results? | The predictions were often too high | The system did not work at all | The city did not use it | There were no floods | התחזיות היו גבוהות מדי והיו אזהרות שווא.
+#שאלה What condition did the system ignore at first? | that when the ground is full of water, a small amount of rain can cause a flood | the temperature of the river | the time of day | the number of people in the city | התנאי שהתגלה בבחינת השגיאות.
+#שאלה In paragraph 3, "revised" is closest in meaning to: | changed and improved | deleted | ignored | repeated | revise פירושו לשנות ולעדכן.
+#שאלה How is the system used today? | together with the old method | instead of the old method | only at night | only by the researchers | כתוב במפורש: together with the old method, not instead of it.
+#שאלה Which statement would the researchers agree with? | A clearer and earlier prediction helps people decide, even if it is not perfect | A prediction can guarantee perfect accuracy | The old method is useless | Rainfall is the only important factor | הם מדגישים שאין דיוק מושלם, אבל התחזית עוזרת.
+
+#סיפור Why Practice Alone Is Not Enough | קשה
+Many students believe that the key to improvement is simple: spend more hours practicing. A student who wants to read English faster reads more passages; a student who wants to improve in math solves more exercises. Research suggests, however, that the amount of practice is only part of the story. The type of practice matters at least as much.
+
+Researchers who study learning distinguish between two kinds of practice. The first is routine practice: repeating the same activity again and again, often without attention. The second is focused practice: an effort to improve a specific weakness, with clear goals and quick feedback. In one study, two groups of learners practiced for the same number of hours. The first group simply repeated exercises. The second group concentrated on the mistakes that each learner made, received feedback after every attempt, and changed their strategy when it was not effective. After a month, the second group showed significantly more progress, although both groups spent the same time.
+
+Focused practice is not easy. It requires discipline, because it is more comfortable to repeat what we already know than to focus on what is difficult. It can also make learners disappointed, because they see their weaknesses again and again. For this reason, persistence is essential. Students who persist through the difficult first period often discover that their motivation increases as they see real results.
+
+The lesson for learners is clear. Instead of asking "How much did I practice?", it is more useful to ask "What exactly did I improve today?"
+#שאלה What do many students believe, according to paragraph 1? | that spending more hours practicing is the key to improvement | that practice is useless | that only natural ability matters | that feedback is more important than practice | זו האמונה שהטקסט מאתגר.
+#שאלה What is routine practice? | repeating the same activity again and again, often without attention | a focused effort to improve a weakness | practice with a teacher | practice that requires feedback | זו ההגדרה בפסקה השנייה.
+#שאלה Which feature is part of focused practice? | quick feedback | practicing without goals | repeating what you already know | avoiding difficult tasks | תרגול מכוון כולל מטרות ברורות ומשוב מיידי.
+#שאלה Why is the study in paragraph 2 important? | Both groups spent the same time, so the difference came from the type of practice | The second group practiced more hours | The first group had better teachers | Only one group practiced | מכיוון שהזמן היה זהה, ההבדל נובע מסוג התרגול.
+#שאלה In paragraph 2, "distinguish between" means: | recognize the difference between | combine | repeat | ignore | distinguish between = להבחין בין.
+#שאלה Why can focused practice make learners disappointed? | They see their weaknesses again and again | It takes no effort | It is always slow | It never works | כי מתמקדים כל הזמן בחולשות.
+#שאלה According to the text, what often happens to students who persist? | Their motivation increases as they see real results | They lose motivation | They stop practicing | They need less discipline | ההתמדה מובילה לתוצאות, והתוצאות מגבירות מוטיבציה.
+#שאלה What question does the writer recommend? | "What exactly did I improve today?" | "How much did I practice?" | "Who practiced more than me?" | "Which exercise is the easiest?" | זו המסקנה בפסקה האחרונה.
+
+#סיפור The Student Who Read Too Fast | קשה
+Noa was preparing for an important English test. Every evening, she read three or four long passages and answered the questions as quickly as possible. She was proud of her speed, but her results remained almost unchanged. In each test, she answered about half of the questions correctly.
+
+Her teacher asked her to try a different approach. "For one week," he said, "read only one passage each evening, but read it carefully. First, find the main idea of the passage. Then find each supporting detail and ask which part of the main idea it explains. Finally, when you answer a question, find the evidence in the text before you choose an answer."
+
+Initially, Noa was frustrated. The new method was slow, and she felt that she was not making progress. However, after a few days she noticed something interesting. Many of her previous mistakes were not caused by difficult words. They were caused by details that she had read too quickly, or by answers that seemed correct but were irrelevant to the specific question. When she searched for evidence, she could distinguish between an answer that was really in the text and an answer that only sounded familiar.
+
+At the end of the month, Noa's accuracy improved from 50 to 80 percent. She still reads quickly when the information is simple. But now she adapts her speed to the purpose of the reading. "Reading fast is useful," she says, "but only if you understand what you read."
+#שאלה Why was Noa disappointed with her results? | They remained almost unchanged although she practiced every evening | She did not practice at all | She read too slowly | Her teacher gave her difficult passages | התוצאות שלה כמעט לא השתנו.
+#שאלה What did the teacher ask Noa to do first when she reads a passage? | find the main idea | answer the questions quickly | read four passages | look for difficult words | השלב הראשון הוא למצוא את הרעיון המרכזי.
+#שאלה What is the role of a supporting detail, according to the teacher? | to explain a part of the main idea | to replace the main idea | to make the passage longer | to make the reader confused | הוא מסביר איזה חלק של הרעיון המרכזי.
+#שאלה Why was Noa frustrated initially? | The new method was slow, and she felt no progress | Her teacher was angry | The passages were too short | She did not understand the instructions | בהתחלה השיטה הייתה איטית.
+#שאלה What did Noa discover about her previous mistakes? | Many were caused by details read too quickly or by irrelevant answers | All of them were caused by difficult words | They were caused by her teacher | She had no mistakes | הטעויות לא נבעו ממילים קשות.
+#שאלה In paragraph 3, "irrelevant" means: | not connected to the question | very difficult | correct | interesting | irrelevant = לא רלוונטי.
+#שאלה What does Noa do today? | She adapts her speed to the purpose of the reading | She always reads slowly | She always reads fast | She reads only one passage a month | היא מתאימה את הקצב למטרה.
+#שאלה What is the main idea of the text? | Careful reading and searching for evidence can improve accuracy more than speed | Reading fast is always better | Tests are too difficult | Teachers do not help students | הרעיון: קריאה זהירה וחיפוש ראיות משפרים דיוק.
+
+#סיפור Feedback That Helps and Feedback That Hurts | קשה
+Almost every teacher and manager gives feedback, but not all feedback contributes to improvement. Researchers who examined thousands of cases found a surprising result: in about one third of them, feedback actually reduced performance. How can something that is designed to help make people worse?
+
+The answer depends on what the feedback focuses on. Feedback that focuses on the person, such as "You are not good at this," tends to reduce motivation. The learner becomes disappointed and often stops making an effort. Feedback that focuses on the task, such as "In this paragraph, the evidence does not support your main idea," is much more effective. It gives the learner specific information that he can use in the next attempt.
+
+Timing also matters. Feedback is most useful when it arrives soon after the activity, while the learner still remembers what he did. Feedback that arrives weeks later is often irrelevant, because the learner has already moved on to a different task. In addition, feedback should be clear. A comment such as "Improve your writing" does not explain what to change, whereas "Use shorter sentences in the first section" allows the learner to act immediately.
+
+Finally, effective feedback compares the learner's performance with a goal, not with other people. When students are compared with the majority of the class, those with the lowest results often feel that progress is impossible. When they are compared with their own previous results, they can see gradual improvement, and this helps them maintain their persistence.
+#שאלה What surprising result did the researchers find? | In about one third of the cases, feedback reduced performance | Feedback always helps | Feedback never helps | Feedback is irrelevant | הממצא המפתיע הוא שבשליש מהמקרים משוב פגע בביצועים.
+#שאלה Which feedback tends to reduce motivation? | feedback that focuses on the person | feedback that focuses on the task | feedback that is clear | feedback that arrives soon | משוב על האדם עצמו פוגע במוטיבציה.
+#שאלה Why is feedback that focuses on the task more effective? | It gives specific information that the learner can use in the next attempt | It is shorter | It is always positive | It compares learners | זה מה שכתוב בפסקה השנייה.
+#שאלה Why is feedback that arrives weeks later often irrelevant? | The learner has already moved on to a different task | It is too long | It is too positive | The teacher forgets it | הלומד כבר עבר למשימה אחרת.
+#שאלה Which comment is the most useful, according to paragraph 3? | "Use shorter sentences in the first section." | "Improve your writing." | "You are not good at this." | "This is bad." | זו הדוגמה להערה ברורה שאפשר לפעול לפיה.
+#שאלה In paragraph 1, "contributes to" is closest in meaning to: | helps to create | prevents | measures | replaces | contribute to = לתרום ל־.
+#שאלה Why should learners be compared with their own previous results? | so that they can see gradual improvement and maintain persistence | so that they feel better than other students | because the majority of the class is weak | because goals are not important | ההשוואה לעצמם מראה שיפור הדרגתי.
+#שאלה What is the main idea of the text? | Feedback helps only when it focuses on the task, arrives in time, is clear, and compares with a goal | Feedback always reduces performance | Teachers should not give feedback | Students should be compared with the majority of the class | הטקסט מפרט את התנאים למשוב יעיל.
+
+#סיפור A Machine Can Measure, but Can It Decide? | קשה
+In many hospitals today, patients use small sensors that monitor their heart, temperature and movement throughout the day. The data is sent automatically to a main system, which can detect warning signs earlier than a nurse who checks the patient only every few hours. In one study, a system of this kind predicted serious changes in the condition of patients up to six hours before the staff noticed them.
+
+This is a clear advantage. However, the same research revealed a problem. The system produced many warnings, and the majority of them were not serious. A sensor might move when a patient turned in bed, or a temperature might go up for a few minutes and then return to normal. After hundreds of repeated false warnings, some nurses began to ignore the system, and a few real warnings were missed.
+
+The engineers tried two strategies to solve the problem. First, they improved the accuracy of the sensors, so that ordinary movements would not cause an alert. Second, they changed the system so that it would not send a warning unless two different sensors showed a problem at the same time. After these changes, the number of warnings dropped significantly, and the staff began to trust the system again.
+
+The experience taught the hospital an important lesson. A machine can measure accurately and work without rest, but the final decision still requires human judgment. Nurses know things that sensors cannot measure: how a patient looks, what he says, and how his situation has changed since yesterday. The most reliable approach combines the two.
+#שאלה What is the main advantage of the sensors? | They can detect warning signs earlier than a nurse | They replace nurses | They reduce the price of the hospital | They make patients move less | המערכת מזהה סימני אזהרה מוקדם יותר.
+#שאלה What problem did the research reveal? | The system produced many warnings that were not serious | The sensors did not work | The patients refused to use them | The data was lost | רוב האזהרות לא היו רציניות.
+#שאלה Why did some nurses begin to ignore the system? | They received hundreds of repeated false warnings | They did not trust machines from the beginning | They were not trained | The system was too slow | ריבוי אזהרות שווא גרם להתעלמות.
+#שאלה What was the result of ignoring the system? | A few real warnings were missed | The sensors broke | Patients went home | The engineers left | כמה אזהרות אמיתיות לא קיבלו מענה.
+#שאלה What does "unless" mean in "it would not send a warning unless two different sensors showed a problem"? | only if not / if not | because | although | after | unless = אלא אם.
+#שאלה Which strategy did the engineers use? | improving the accuracy of the sensors | removing the sensors | sending more warnings | asking patients to stop moving | שתי האסטרטגיות מפורטות בפסקה השלישית.
+#שאלה What do nurses know that sensors cannot measure, according to the text? | how a patient looks, what he says, and how his situation has changed | the temperature of the patient | the movement of the patient | the speed of the heart | אלה דברים ששיקול דעת אנושי תופס.
+#שאלה What is the writer's conclusion? | The most reliable approach combines measuring by machines and human judgment | Machines should make all decisions | Nurses should not use sensors | Sensors are useless | המסקנה: לשלב את שניהם.
+
+#סיפור Small Habits, Big Results | קשה
+Many people begin a new year with big goals: to read more, to practice English every day, or to exercise regularly. After a month, most of them have stopped. The problem is usually not that they have no motivation. In the first days, motivation is high. The problem is that motivation is not consistent. It changes from day to day, and a plan that depends only on motivation is likely to fail.
+
+Researchers who study habits suggest a different strategy. Instead of relying on motivation, people should build a routine that requires very little effort. A student who wants to improve his English, for example, does not need to study for two hours every day. He can begin with ten minutes, at the same time and in the same place, for instance immediately after breakfast. Because the task is small, it is easy to repeat even on a difficult day. Over time, the routine becomes automatic, and the student can gradually increase the amount of practice.
+
+A second principle is to make the action that you want easy and the action that you do not want difficult. A learner who keeps his phone in another room is less likely to lose attention, and a learner who prepares his book the night before is more likely to start. These changes seem small, but they reduce the number of decisions that a person must make each day.
+
+Finally, discipline does not mean being perfect. Everyone misses a day sometimes. What matters is to return to the routine quickly. Research shows that missing one day has almost no effect on the long-term result, but missing several days in a row often breaks the habit. In other words, persistence is more important than perfect performance.
+#שאלה According to paragraph 1, why do most people stop pursuing their goals? | Motivation is not consistent | They have no motivation at all | Their goals are too easy | They do not have time | הבעיה היא שהמוטיבציה לא עקבית.
+#שאלה What strategy do researchers suggest instead of relying on motivation? | building a routine that requires very little effort | studying for two hours every day | waiting for high motivation | changing goals every week | שגרה קטנה שקל לחזור עליה.
+#שאלה Why does the writer recommend starting with ten minutes? | A small task is easy to repeat even on a difficult day | Ten minutes is enough to learn English | Longer practice is harmful | Breakfast is short | משימה קטנה קל לבצע גם ביום קשה.
+#שאלה In paragraph 2, "automatic" means: | done without much thinking | very fast | done by a machine | difficult | שגרה שהופכת לאוטומטית נעשית כמעט בלי מחשבה.
+#שאלה Which example shows making an action that you do not want difficult? | keeping the phone in another room | preparing the book the night before | studying after breakfast | practicing for ten minutes | הטלפון בחדר אחר מקשה על הסחת הדעת.
+#שאלה Why are these small changes useful, according to paragraph 3? | They reduce the number of decisions that a person must make | They increase motivation | They make goals bigger | They replace practice | פחות החלטות ביום = פחות מאמץ.
+#שאלה What does research show about missing days? | Missing one day has almost no effect, but missing several days in a row often breaks the habit | Missing one day breaks the habit | Missing days is never a problem | People should never miss a day | זה הנתון בפסקה האחרונה.
+#שאלה What is the main idea of the text? | Small, consistent routines and quick returns after mistakes build lasting habits | Motivation is the most important factor | Big goals are always better | Discipline means never making mistakes | הרעיון המרכזי: שגרה קטנה ועקבית והתמדה.
+
+#סיפור Access Denied | קשה
+On the first day of the exam period, hundreds of students tried to open the online test system of their school, and many of them saw the same error message: "Access denied. You do not have permission to view this page." The students were anxious, and the help desk received more than 300 calls in one hour.
+
+The technical team examined the system carefully. The servers were available, and the network was working. The problem was in the permissions. A few days before the exams, an engineer had changed the configuration of the system in order to prevent students from opening the tests before the official time. The purpose was reasonable, but the change contained a small error. Instead of allowing access at nine in the morning, the system required a permission that only teachers had.
+
+The team faced a difficult decision. They could fix the configuration immediately, although the change had not been tested, or they could delay the exam by one day. They chose a third approach. They restored the previous configuration, which was known to be reliable, and asked teachers to open each test manually. As a result, the exams began with a delay of only 40 minutes.
+
+In the review after the incident, the team identified the main cause: the change had been tested by a teacher's account, not by a student's account. Therefore, the test showed that everything worked. The team decided that from now on, every change in permissions must be examined with the account of a real student before an exam period. "The system did exactly what we told it to do," the engineer said. "The problem is that we told it the wrong thing."
+#שאלה What error message did the students see? | that they did not have permission to view the page | that the server was down | that their password was wrong | that the test was over | הודעת השגיאה עסקה בהרשאה.
+#שאלה What did the technical team find when they examined the system? | The servers and the network worked; the problem was in the permissions | The servers were down | Hackers attacked the system | The students made a mistake | כתוב במפורש שהשרתים זמינים והרשת עובדת.
+#שאלה Why had the engineer changed the configuration? | to prevent students from opening the tests before the official time | to make the system faster | to give students more time | to replace the servers | מטרת השינוי הייתה סבירה.
+#שאלה What was the error in the change? | The system required a permission that only teachers had | The system allowed access too early | The system deleted the tests | The system had no password | במקום לאפשר גישה בתשע, המערכת דרשה הרשאת מורה.
+#שאלה Which approach did the team choose? | restoring the previous reliable configuration and asking teachers to open each test | fixing the configuration immediately | delaying the exam by one day | canceling the exams | הם בחרו בדרך שלישית.
+#שאלה In paragraph 3, "although" introduces: | a contrast: the fix was possible, but it had not been tested | a reason for the decision | a result of the error | an example | although = למרות ש־; מציג ניגוד.
+#שאלה Why did the original test not detect the problem? | It was done with a teacher's account, not a student's account | It was done too late | Nobody tested the change | The test was perfect | למורה הייתה ההרשאה, ולכן נראה שהכול עובד.
+#שאלה What does the engineer mean by "we told it the wrong thing"? | The system worked correctly; the instructions that people gave it were wrong | The system was broken | The students gave wrong answers | The teachers made the error | המערכת ביצעה בדיוק את מה שהגדירו לה, וההגדרה הייתה שגויה.
+
+#סיפור Will Robots Replace Us? | קשה
+Every few years, new articles predict that robots will soon replace most workers. Machines already perform many tasks in industry, in stores and even in hospitals. They do not get tired, they do not need breaks, and they can repeat the same movement thousands of times with perfect accuracy. For an employer, these advantages are obvious.
+
+However, the actual situation is more complex than the articles suggest. Researchers who examined the effect of automation over several decades found that machines usually replace specific tasks, not whole jobs. A robot can carry supplies through a hospital, but it cannot calm an anxious patient. A system can detect an error in a report, but it cannot decide whether the error is relevant to an important decision. In most jobs, some tasks are routine and easy to automate, while others require human judgment, talking with people and the ability to adapt to unexpected situations.
+
+As a result, the jobs that change the most are not necessarily the jobs that disappear. In many cases, workers spend less time on repeated physical work and more time on tasks that machines cannot do. Nurses who no longer carry equipment, for example, can spend more time with patients. Still, this change is not automatic. Workers need training, and organizations need a clear strategy.
+
+The researchers therefore suggest that the important question is not "Will robots replace us?" but "Which parts of our work can machines do better, and how can we use the time that they give us?"
+#שאלה What advantages of machines are mentioned in paragraph 1? | They do not get tired, do not need breaks, and can repeat movements accurately | They understand patients | They make all decisions | They cost nothing | אלה היתרונות שמפורטים.
+#שאלה What did researchers find about the effect of automation? | Machines usually replace specific tasks, not whole jobs | Machines replace whole jobs | Machines have no effect | Machines create more errors | זה הממצא המרכזי.
+#שאלה Which task does the text say a robot cannot do? | calm an anxious patient | carry supplies | detect an error in a report | repeat a movement | עידוד מטופל מפוחד דורש אדם.
+#שאלה In paragraph 2, "actual" is closest in meaning to: | real | expected | old | simple | actual = בפועל, ממשי.
+#שאלה Which tasks are easy to automate, according to the text? | routine tasks | tasks that require human judgment | tasks that require talking with people | tasks in unexpected situations | משימות שגרתיות קל להפוך לאוטומטיות.
+#שאלה What does "the jobs that change the most are not necessarily the jobs that disappear" mean? | A job can change a lot without disappearing | Every job that changes disappears | No job changes | Only new jobs change | שינוי גדול בעבודה לא אומר שהיא נעלמת.
+#שאלה What do workers and organizations need, according to paragraph 3? | training and a clear strategy | more robots | fewer patients | longer breaks | השינוי לא קורה אוטומטית.
+#שאלה What question do the researchers suggest? | Which parts of our work can machines do better, and how can we use the time they give us? | Will robots replace us? | When will robots replace nurses? | How much do robots cost? | זו השאלה שמחליפה את שאלת הכותרת.
+
+#סיפור When the Prediction Was Wrong | קשה
+A company with many small bread stores used a computer system to predict how much bread each store would need every day. The system was based on data from previous years: the day of the week, the weather, and the amount of bread sold. For three years, the predictions were very accurate, and the company could reduce the amount of bread that nobody bought at the end of the day.
+
+Then, one winter, the system failed badly in a few stores. It predicted a normal week, but the actual amount that people bought was almost twice as high. By ten in the morning, these stores had no bread left, and customers went to competitors. The managers were disappointed and asked the engineers to explain the error.
+
+The engineers examined the data carefully. The problem was not in the method itself, which was still effective. The problem was that an important condition had changed. That winter, a large new office building had opened near those stores, and thousands of new workers passed by every morning on their way to work. This information was not in the data, because the system only used information about the bread that people bought and the weather. In other words, the data was accurate, but it was not complete.
+
+The engineers revised the system. They added information about new buildings and events in each part of the city, and they also changed the process: every week, a worker in each store could clarify the prediction and correct it if he saw a reason. After this change, the predictions became clearer and more reliable. The lesson was simple but important: a model can only predict what its data allows it to see.
+#שאלה What was the system used to predict? | how much bread each store would need every day | the weather | the number of workers | the price of bread | זו מטרת המערכת.
+#שאלה What happened in the winter when the system failed? | People bought almost twice as much as the prediction | Nobody bought bread | The stores closed | The prices increased | הכמות בפועל הייתה כמעט כפולה.
+#שאלה What was the result of the wrong prediction? | The stores had no bread left, and customers went to competitors | The company made more money | The engineers lost their jobs | The weather changed | חוסר מלאי שלח לקוחות למתחרים.
+#שאלה Why did the engineers say that the method itself was not the problem? | The method was still effective; an important condition had changed | The method was new | The method was never tested | The managers used it wrongly | הבעיה הייתה בתנאי שהשתנה.
+#שאלה What information was missing from the data? | information about a new office building and its workers | the weather | the day of the week | the bread that people bought in the past | המערכת השתמשה רק בנתוני מכירות ומזג אוויר.
+#שאלה "The data was accurate, but it was not complete." This sentence means that: | the data was correct, but some relevant information was missing | the data had errors | the data was too large | the data was irrelevant | הנתונים היו נכונים אבל חסרים.
+#שאלה Which change did the engineers make in the process? | A worker in each store could clarify and correct the prediction | They stopped making predictions | They used only weather data | They closed some stores | שילוב של שיקול דעת אנושי.
+#שאלה What is the lesson of the story? | A model can only predict what its data allows it to see | Computers always predict correctly | Weather data is useless | Engineers should not trust data | זה המשפט האחרון.
+
+#סיפור Can You Concentrate in a Crowded World? | קשה
+Imagine a student who sits down to read an important passage. After three minutes, a notification appears on his phone. He looks at it for only a few seconds, but when he returns to the text, he needs time to find the place where he stopped and to remember the main idea. Research suggests that after such an interruption, it can take several minutes to concentrate completely again. If notifications arrive every few minutes, the student may never concentrate well at all.
+
+Attention is a limited resource. When we try to focus on two activities at the same time, such as reading and checking messages, we do not really do both. Instead, the brain switches quickly between them, and every switch has a small cost. The result is slower work and more errors. In one experiment, students who kept their phones on the table, even with the screen turned off, performed worse on a test than students who left their phones in another room. Just seeing the phone on the table seemed to take part of their attention.
+
+The good news is that the ability to concentrate can be improved with practice. Effective strategies include working in short, focused periods, for example 25 minutes, followed by a short break; turning off notifications during study time; and preparing the task before you begin so that no time is lost on decisions. Some learners also find it useful to write down thoughts that come during work on a paper and return to them later.
+
+No method is perfect. But in a world that is crowded with information, the ability to maintain attention may be one of the most valuable skills that a student can develop.
+#שאלה What happens to the student after he looks at the notification? | He needs time to find his place and remember the main idea | He reads faster | He forgets the whole passage | Nothing changes | ההפרעה גורמת לאובדן ריכוז.
+#שאלה According to the text, what really happens when we try to focus on two activities at once? | The brain switches quickly between them, and every switch has a cost | We do both perfectly | We do only one and ignore the other completely | We concentrate better | המוח מדלג ביניהן, ולכל מעבר יש מחיר.
+#שאלה What did the experiment with phones show? | Students with phones on the table performed worse, even with the screen off | Phones help students concentrate | Only phones with notifications cause problems | Students in another room performed worse | עצם נוכחות הטלפון פגעה בביצועים.
+#שאלה In paragraph 2, "limited resource" means that attention: | exists only in a certain amount | has no limit | is not important | can be bought | משאב מוגבל קיים בכמות מסוימת בלבד.
+#שאלה Which strategy is NOT recommended in paragraph 3? | keeping the phone on the table with the screen off | working in short, focused periods | turning off notifications | preparing the task before you begin | זו בדיוק ההתנהגות מהניסוי שפגעה בביצועים.
+#שאלה Why is it useful to prepare the task before you begin? | so that no time is lost on decisions | so that the task is shorter | so that the teacher is happy | so that the phone is off | כתוב: so that no time is lost on decisions.
+#שאלה What does the writer think about these methods? | They are not perfect, but they can help | They solve every problem | They are useless | They are only for teachers | "No method is perfect", אבל הם עוזרים.
+#שאלה What is the main idea of the text? | Attention is limited, but the ability to concentrate can be improved with practice | Phones should be banned | Students cannot concentrate | Notifications improve learning | זה הרעיון שמסכם את הטקסט.
+
+#סיפור The Last Round of Testing | קשה
+A team of engineers developed an automatic system that helps people decide when to water large gardens. Sensors in the ground measure the amount of water, and the system combines this data with the weather prediction. If rain is expected, the system waits; if the ground has almost no water and no rain is expected, it opens the water.
+
+Before they released the system, the engineers planned three steps. In the first round of testing, they evaluated the system in a lab. The results were nearly perfect: the sensors measured the water accurately, and the system made the correct decision in every case. However, the engineers knew that a lab is very different from a real garden.
+
+In the second round of testing, they installed the system in five gardens. This time, several problems appeared. In one garden, the sensors gave strange results because animals moved them. In another, the system opened the water during strong wind, and most of the water was wasted. The engineers reviewed every error and revised the system: they protected the sensors and added information about wind.
+
+The third round of testing was the most important one. The engineers compared the new system with the traditional method that people used. On average, the system used 30 percent less water, and the gardens looked just as good. Therefore, the engineers concluded that the system was not only accurate but also efficient.
+
+The experience taught the team that each round of testing has a different purpose. The lab shows whether the idea can work. The real garden shows whether it works in practice. And comparing with the old method shows whether it is really better than what people already do.
+#שאלה What does the system decide? | when to water large gardens | how much rain will fall | which sensors to buy | where to build gardens | זו מטרת המערכת.
+#שאלה What does the system do if rain is expected? | It waits | It opens the water | It turns off the sensors | It sends a warning | כתוב: If rain is expected, the system waits.
+#שאלה Why did the engineers not rely only on the results from the lab? | A lab is very different from a real garden | The results were bad | The sensors were broken | The lab was too small | התוצאות היו כמעט מושלמות, אבל המעבדה שונה מהשטח.
+#שאלה Which problem appeared in the second round of testing? | Animals moved the sensors | The system used too much electricity | The lab was closed | The engineers left | זו אחת הבעיות שהופיעו בשטח.
+#שאלה In paragraph 3, "reviewed" is closest in meaning to: | examined again carefully | ignored | deleted | replaced | review = לבדוק / לעבור שוב.
+#שאלה What did the third round of testing show? | The system used 30 percent less water, and the gardens looked just as good | The system was not accurate | The system used more water | People refused to use it | ההשוואה הראתה חיסכון במים בלי פגיעה.
+#שאלה Why did the engineers conclude that the system was efficient? | It used less water and achieved the same result | It was cheap | It was fast | It had many sensors | יעילות = אותה תוצאה עם פחות משאבים.
+#שאלה According to the last paragraph, what is the purpose of comparing with the old method? | to show whether the system is really better than what people already do | to show whether the idea can work | to find errors in the sensors | to measure rainfall | לכל סבב בדיקות יש מטרה אחרת.
+
+#סיפור A Challenge Worth Trying | בינוני
+At the start of the year, Omer's teacher gave the class a challenge: to read one English article every week and write a short summary of its main idea. For Omer, the challenge seemed impossible. His first attempt took him three hours, and his summary was full of errors.
+
+He was disappointed, but he decided to persist. Each week, he made a small effort to improve one specific thing: first the main idea, then the supporting details, and finally his own sentences. After two months, an article took him less than an hour. The challenge had not become easier; Omer had become better.
+#שאלה What was the challenge? | to read one English article every week and write a summary of its main idea | to read a book every day | to write a long story | to learn ten words a week | זה האתגר שהמורה נתנה.
+#שאלה How did Omer feel after his first attempt? | disappointed | proud | bored | relieved | הניסיון הראשון היה ארוך ומלא שגיאות.
+#שאלה In paragraph 2, "persist" means: | to continue trying although it is difficult | to stop | to ask for help | to change the challenge | persist = להתמיד.
+#שאלה What does the last sentence tell us? | Omer improved, not the challenge | The challenge became easier | Omer stopped reading | The teacher changed the challenge | האתגר נשאר אותו אתגר, עומר השתפר.
+
+#סיפור Guided Practice | בינוני
+When learners start a new skill, it is often useful to practice with guidance. In guided practice, a teacher shows the learner each step, watches the first attempts, and gives feedback immediately. Only after the learner can perform the task correctly does the teacher allow him to practice alone.
+
+Research suggests that this gradual approach is more effective than leaving new learners alone from the first day. Without guidance, many learners repeat the same error again and again, and the error becomes a habit. With guidance, errors are corrected early. However, guidance should not continue for too long. If the teacher helps too much, the learner never learns to work independently.
+#שאלה What happens in guided practice? | A teacher shows each step, watches the first attempts, and gives feedback | The learner works alone from the first day | The learner only reads | The teacher does the task for the learner | זה התיאור בפסקה הראשונה.
+#שאלה Why is guided practice more effective for new learners? | Errors are corrected early, before they become habits | It is shorter | It requires no effort | It has no feedback | בלי הדרכה טעות חוזרת והופכת להרגל.
+#שאלה In paragraph 2, "gradual" means: | step by step | sudden | very fast | without a plan | gradual = הדרגתי.
+#שאלה What is the risk of too much guidance? | The learner never learns to work independently | The learner makes more errors | The teacher gets tired | The learner becomes disappointed | אם עוזרים יותר מדי, הלומד לא לומד לעבוד לבד.
+
+#סיפור Safety Before Speed | בינוני
+In a large storage building, robots move boxes from one place to another, while human workers check and pack them. To make the work faster, the managers wanted the robots to move at a higher speed. The engineers agreed, but on one condition: safety must come first.
+
+Each robot has sensors that detect movement around it. If a person comes too close, the robot stops automatically. At a higher speed, the robot needs more time to stop, so the engineers required a larger safe distance. They also examined the data from a month of work and found three places where people and robots often met. In those places, the robots now move slowly.
+
+The result was a small improvement in speed and no accidents. "A fast system that is not safe," the engineer said, "is not efficient at all."
+#שאלה What condition did the engineers set? | that safety must come first | that the robots stop working at night | that workers move faster | that there are fewer robots | זה התנאי שהמהנדסים הציבו.
+#שאלה What happens when a person comes too close to a robot? | The robot stops automatically | The robot moves faster | A warning appears on a screen only | The robot changes its planned route | החיישנים מזהים תנועה והרובוט נעצר.
+#שאלה Why did the engineers require a larger safe distance? | At a higher speed, the robot needs more time to stop | The robots were too big | The workers asked for it | The sensors were broken | במהירות גבוהה יותר דרוש מרחק עצירה גדול יותר.
+#שאלה What does the engineer mean in the last sentence? | A system is not really efficient if it is not safe | Fast systems are always safe | Safety is not important | Robots should be slow everywhere | יעילות בלי בטיחות אינה יעילות.
+
+#סיפור Similar but Not the Same | בינוני
+Many test questions include two answers that look similar. Both use words from the passage, and both seem correct at first. Students who read quickly often choose the first answer that looks familiar. Careful students compare the answers and look for the difference.
+
+Usually, the difference is small but important. One answer may describe what the passage says, while the other adds a detail that the passage does not mention. Or one answer may be true in general but irrelevant to the specific question. To distinguish between them, return to the text and find the evidence. If you cannot find a sentence that supports the answer, it is probably not the correct one.
+#שאלה Why do students who read quickly make mistakes? | They choose the first answer that looks familiar | They read the passage twice | They compare all the answers | They find the evidence | הם בוחרים את התשובה המוכרת הראשונה.
+#שאלה What do careful students do? | compare the answers and look for the difference | choose the longest answer | choose the first answer | leave difficult questions without an answer | זה ההבדל בין הקוראים.
+#שאלה According to the text, which answer is probably NOT correct? | an answer with no supporting sentence in the text | an answer that describes what the passage says | an answer with evidence | an answer that is relevant to the question | בלי ראיה בטקסט, כנראה שהתשובה לא נכונה.
+#שאלה In paragraph 1, "similar" is the opposite of: | different | same | correct | familiar | similar = דומה, וההפך שלו הוא different.
+
+#סיפור A Suitable Method for Every Goal | בינוני
+There is no single method of learning that is suitable for every goal. A student who wants to remember new words may use cards and repeat them regularly. A student who wants to understand a long passage needs a different approach: reading carefully, finding the main idea, and asking questions about each section.
+
+For this reason, it is important to evaluate your method from time to time. Ask a specific question: is this method helping me to reach my goal? If after several weeks the results remain unchanged, the method may not be effective for you, even if it works for others. Changing the method is not a failure. It is part of learning.
+#שאלה What is the main idea of paragraph 1? | Different goals require different methods | Cards are the best method | Every student learns the same way | Reading is not important | אין שיטה אחת שמתאימה לכל מטרה.
+#שאלה In paragraph 1, "suitable" means: | right for a specific purpose | difficult | old | expensive | suitable = מתאים.
+#שאלה When may a method not be effective for you, according to the text? | when after several weeks the results remain unchanged | when it is new | when other students use it | when it is easy | זה הסימן בפסקה השנייה.
+#שאלה What does the writer think about changing the method? | It is part of learning, not a failure | It is a failure | It should never happen | It is irrelevant | המשפט האחרון.
+
+#סיפור Recovering After a Bad Result | בינוני
+Dana studied for weeks, but her first test result was much lower than she expected. That evening, she was so disappointed that she considered stopping her English lessons.
+
+The next day, her teacher helped her review the test. Together they discovered that most of her errors came from one type of question: questions about the meaning of a word in context. This was good news, because it was a specific problem with a clear solution. Dana practiced this type of question regularly for a month.
+
+On the next test, her result improved by 20 points. "A bad result is information," her teacher said. "It shows you where to focus. The important thing is how quickly you recover and what you learn from it."
+#שאלה How did Dana feel after her first test? | very disappointed | relieved | proud | bored | היא שקלה להפסיק את השיעורים.
+#שאלה What did Dana and her teacher discover? | Most of her errors came from one type of question | She did not study at all | The test was not fair | She needed a new teacher | רוב הטעויות היו בסוג שאלה אחד.
+#שאלה Why was this "good news"? | It was a specific problem with a clear solution | It showed that she was perfect | It showed that the test was easy | It showed that she could stop studying | בעיה ספציפית אפשר לפתור.
+#שאלה In the last paragraph, "recover" means: | to return to a good state after a difficult experience | to forget | to repeat a test | to stop learning | recover = להתאושש.
+
+#סיפור The Nurse and the Robot | בינוני
+When the hospital introduced a robot to carry supplies, many nurses were worried. Some feared that the machine would replace them. Others did not trust it, because in its first week it stopped twice in a crowded hall and caused a delay.
+
+After a month, the situation changed. The staff saw that the robot performed only one task: moving equipment from the storage room to each floor. It did not make decisions about patients, and it never tried to. The nurses, who had spent hours walking each night, now had more time for their patients. One nurse said, "At first I saw a machine that wanted my job. Now I see a machine that gives me time to do my job."
+#שאלה Why were many nurses worried at first? | Some feared the robot would replace them, and others did not trust it | The robot was too expensive | Patients did not like the robot | The robot made decisions about patients | שתי הסיבות מופיעות בפסקה הראשונה.
+#שאלה What caused a delay in the first week? | The robot stopped in a crowded hall | The nurses refused to use it | The supplies were missing | The robot lost its route | הרובוט נעצר במסדרון צפוף.
+#שאלה What task did the robot perform? | moving equipment from the storage room to each floor | caring for patients | making medical decisions | cleaning the halls | זו המשימה היחידה שלו.
+#שאלה What does the nurse mean in the last sentence? | The robot does not take her job; it gives her more time for it | The robot will replace her soon | She does not trust the robot | She wants a new job | המשפט מבטא שינוי בגישה.
+
+#סיפור A Warning That Came in Time | בינוני
+At four in the morning, the new flood system sent a warning to the people who live near the river: "Serious event expected. The water level may reach the streets by eight." The prediction was based on high rainfall during the night and on data from sensors in the river.
+
+Many people did not believe it, because the old warning system had often been wrong. However, this time the warning arrived four hours earlier than any warning in the past, and the city had time to act. Workers closed two roads, and families moved their cars to higher places. At eight, the water reached the streets exactly as predicted. Nobody was hurt, and the damage was much smaller than in previous floods.
+#שאלה What information was the prediction based on? | high rainfall and data from sensors in the river | the opinion of the people in the city | the temperature only | old articles | התחזית התבססה על כמות גשם ונתוני חיישנים.
+#שאלה Why did many people not believe the warning? | The old warning system had often been wrong | The warning came too late | The warning was not clear | Nobody received it | חוסר האמון נבע מהעבר.
+#שאלה What was different about this warning? | It arrived four hours earlier than any warning in the past | It was the first warning in the history of the city | It was sent by the police | It was wrong | ההקדמה של ארבע שעות היא העיקר.
+#שאלה What was the result of the early warning? | Nobody was hurt, and the damage was smaller | The flood did not happen | The roads were damaged | The system was replaced | הזמן הנוסף איפשר לפעול ולצמצם נזק.
+
+#סיפור Clarify Before You Answer | בינוני
+In many tests, students lose points not because they do not know the answer, but because they did not understand the question. A question may ask about a specific section of the passage, or it may require two details instead of one.
+
+Good students clarify the question before they answer it. They read it slowly, notice the important words, and ask: what exactly does this question require? Is it asking about the main idea or about a supporting detail? Is it asking what the writer says, or what we can understand from it? This takes only a few seconds, but it prevents many errors.
+
+In class, the same principle applies. If an instruction is not clear, it is better to ask the teacher to clarify it than to choose an answer by chance.
+#שאלה Why do students often lose points, according to paragraph 1? | They did not understand the question | They did not know the answer | They wrote too much | They finished too early | הבעיה היא בהבנת השאלה, לא בידע.
+#שאלה What do good students do before they answer? | They clarify the question | They answer quickly | They leave the question without an answer | They read only the answers | הם מבהירים לעצמם מה השאלה דורשת.
+#שאלה In this text, "clarify" means: | to make something clear | to answer | to repeat | to delete | clarify = להבהיר.
+#שאלה What does the writer recommend when an instruction is not clear? | to ask the teacher to clarify it | to choose an answer by chance | to ignore it | to ask another student | זו ההמלצה במשפט האחרון.
+
+#סיפור Why the Robot Stopped | בינוני
+A delivery robot in an office building stopped in the same place every afternoon. There was no person and no object in its path, but the robot waited for several minutes before it continued. The engineers examined the data from its sensors and found the reason.
+
+Every afternoon at four, the sun came through a large window and the light fell on a clean metal floor. The sensor detected the strong reflection and treated it as an object. Because the robot was designed for safety, it stopped every time it was not sure. The engineers did not remove this safety rule. Instead, they adjusted the sensor so that it could distinguish between a reflection and a real object. After the change, the robot continued on its planned route without a delay.
+#שאלה What was strange about the robot's behavior? | It stopped every afternoon although nothing was in its path | It stopped every morning | It moved too fast | It lost its route | הוא נעצר בלי סיבה נראית לעין.
+#שאלה What did the sensor detect? | the reflection of the sun on the floor | a person | a box | another robot | ההשתקפות נראתה לחיישן כמו חפץ.
+#שאלה Why did the robot stop every time it was not sure? | It was designed for safety | The engineers forgot to fix it | It had no battery | It wanted to rest | כלל הבטיחות גרם לעצירה.
+#שאלה What did the engineers do? | They adjusted the sensor to distinguish between a reflection and a real object | They removed the safety rule | They closed the window | They replaced the robot | הם שמרו על הבטיחות ושיפרו את החיישן.
+
+#סיפור Not All Information Is Relevant | בינוני
+A manager asked two workers to write a report about why customers left the company's website without buying. The first worker collected a huge amount of data: the time of each visit, the color of every button, the weather on each day, and much more. His report was 40 pages long, and nobody could find the main idea.
+
+The second worker started with a question: at which step do most customers leave? She examined only the data that was relevant to this question and discovered that the majority left at the payment page, which was slow and confusing. Her report was two pages long, and it led to a clear decision. More information is not always better. The important skill is to distinguish between relevant and irrelevant data.
+#שאלה What was the problem with the first report? | It had too much information, and nobody could find the main idea | It was too short | It had no data | It was late | שפע מידע הסתיר את הרעיון המרכזי.
+#שאלה How did the second worker start? | with a specific question | by collecting all the data | by asking customers | by changing the website | היא התחילה בשאלה ממוקדת.
+#שאלה What did she discover? | The majority of customers left at the slow and confusing payment page | Customers did not like the colors | The weather was the cause | Customers bought too much | זה הממצא שהוביל להחלטה.
+#שאלה What is the main idea of the text? | The important skill is to distinguish between relevant and irrelevant data | More data is always better | Reports must be long | Managers should not ask questions | זה המשפט האחרון.
+
+#סיפור The Majority Is Not Always Right | בינוני
+In an English lesson, the teacher asked a difficult question about a passage. Most of the students chose answer B, and only Yoni chose answer C. Several students laughed and told him that he was wrong.
+
+Instead of giving the answer, the teacher asked each side to show the evidence in the text. The students who chose B said that it "sounded right." Yoni pointed to a specific sentence in the third paragraph that supported answer C. After the class examined the sentence carefully, the majority changed their opinion. The teacher explained the lesson: in reading, as in research, the correct answer is the one that the evidence supports, not the one that most people choose.
+#שאלה What did most students choose? | answer B | answer C | answer A | no answer | רוב הכיתה בחרה ב־B.
+#שאלה What did the teacher do instead of giving the answer? | She asked each side to show the evidence | She told Yoni that he was wrong | She chose answer B | She ended the class | המורה ביקשה ראיות מהטקסט.
+#שאלה Why did the students who chose B believe they were right? | The answer "sounded right" | They found a sentence in the text | The teacher told them | Yoni agreed with them | הם לא הביאו ראיה.
+#שאלה What is the lesson of the story? | The correct answer is the one that the evidence supports | The majority is always right | It is better to choose the most popular answer | Teachers should give the answer quickly | זה המשפט האחרון.
+
+#סיפור How to Maintain Motivation | בינוני
+Motivation is usually high at the beginning of a new study program. After a few weeks, however, the excitement disappears, and many learners find it difficult to continue. Researchers suggest several ways to maintain motivation over time.
+
+First, set small goals that you can reach in a short time, such as learning ten new words a week, instead of only one big goal for the end of the year. Each small success increases motivation. Second, measure your progress regularly, because it is easy to forget how much you have already improved. Third, find a reason that is important to you personally, not only a good score. Finally, remember that motivation follows action: often, you do not need motivation to start. Starting creates motivation.
+#שאלה What happens to motivation after a few weeks, according to the text? | The excitement disappears, and many learners find it difficult to continue | It always increases | It stays the same | It becomes too high | ההתלהבות של ההתחלה נעלמת.
+#שאלה Why are small goals useful? | Each small success increases motivation | They are easier to forget | They replace practice | They are required by teachers | הצלחות קטנות מחזקות מוטיבציה.
+#שאלה Why should learners measure their progress regularly? | It is easy to forget how much they have already improved | It makes the program shorter | It is a rule | It reduces effort | מדידה מזכירה את ההתקדמות.
+#שאלה What does "motivation follows action" mean? | Starting to act often creates motivation | You must wait for motivation before you act | Motivation is not important | Action is not important | ההתחלה עצמה יוצרת מוטיבציה.
+
+#סיפור Speed or Accuracy? | בינוני
+In a reading test, Tom answered all 20 questions in 15 minutes, but only 11 answers were correct. His friend Maya answered only 16 questions in the same time, but 15 of them were correct. Who performed better?
+
+The answer depends on the purpose of the test. If there is no time limit and only correct answers matter, Maya's approach is clearly better. Her accuracy was much higher. However, in a real test with a clear time limit, a student must also work efficiently. The best strategy is to combine the two: answer easy questions quickly, but read difficult questions carefully. Perfect accuracy is not always possible, but answering every question too quickly guarantees many errors.
+#שאלה Which student had higher accuracy? | Maya's | Tom's | They were the same | It is not possible to know | מאיה ענתה נכון על 15 מתוך 16.
+#שאלה According to the text, when is Maya's approach clearly better? | when there is no time limit and only correct answers matter | always | when the test is very short | when all questions are easy | זה התנאי בפסקה השנייה.
+#שאלה What strategy does the writer recommend? | answering easy questions quickly and reading difficult questions carefully | answering every question as quickly as possible | answering only easy questions | reading every question twice | השילוב בין מהירות לדיוק.
+#שאלה "Perfect accuracy is not always possible, but answering every question too quickly guarantees many errors." The word "guarantees" here means: | makes certain | prevents | reduces | allows | guarantee = להבטיח, כלומר זה יקרה בוודאות.
+
+#סיפור What the Researcher Found | בינוני
+A young researcher wanted to know whether a new method could help students remember vocabulary. She divided 60 students into two similar groups. The first group studied with the traditional method: reading a list of words. The second group used the new method: each student wrote a short sentence with every word and repeated it after one day, three days and one week.
+
+The researcher measured the results carefully. After a month, the second group remembered almost twice as many words. However, she did not immediately conclude that the method was effective. First, she checked whether the groups were really similar at the start, and whether the second group had spent more time studying. Only after she examined these conditions did she report her results.
+#שאלה What did the researcher want to know? | whether a new method could help students remember vocabulary | which students were the best | how to write a list | how many words students know | זו שאלת המחקר.
+#שאלה What was special about the new method? | Students wrote a sentence with every word and repeated it at several times | Students read a list of words | Students studied for one day only | Students studied alone without words | החזרה במרווחי זמן היא העיקר.
+#שאלה Why did the researcher not immediately conclude that the method was effective? | She wanted to check other conditions that could explain the result | She did not trust her data | The results were bad | She forgot to measure | מחקר טוב בודק הסברים חלופיים.
+#שאלה Which condition did she check? | whether the second group had spent more time studying | whether the students liked her | whether the words were in English | whether it rained | זו אחת משתי הבדיקות.
+
+#סיפור Help Is Available, but Few Use It | בינוני
+At a large school, students can get free help with English every afternoon. Teachers are available in a special room, and students do not need permission to come. Yet only a small number of students use this service.
+
+When the school asked students why, the answers were surprising. Many did not know that the help existed. Others thought that it was only for weak students and felt embarrassed. A few said that they did not have time. The school decided to change its approach. Teachers explained the service in every class, the room received a new name, "The Learning Center," and the hours changed to allow access after other afternoon activities. Within two months, the number of students who came doubled.
+#שאלה What is available to students every afternoon? | free help with English | free food | free books | extra games | זה השירות שמתואר בפסקה הראשונה.
+#שאלה Which reason did students NOT give for not using the help? | The teachers were not good | They did not know about it | They felt embarrassed | They did not have time | איכות המורים לא הוזכרה.
+#שאלה Why did the school change the name of the room? | so that students would not feel that it was only for weak students | because the old name was too long | because teachers asked for it | to attract new teachers | השם החדש נועד להפחית את תחושת הבושה.
+#שאלה What was the result of the changes? | The number of students who came doubled | Nobody came | The service was closed | The teachers left | התוצאה מופיעה במשפט האחרון.
+
+#סיפור Small Changes, Big Improvement | בינוני
+A professional team wanted to improve its performance, but the team was already training very hard. Their new trainer chose a different strategy. Instead of looking for one big change, he looked for many small improvements, each of them only about one percent.
+
+He changed the time of their meals, tested their equipment in different conditions, and even taught them simple habits to reduce the chance of getting sick. Each change alone seemed irrelevant. Together, however, they contributed to a significant result: within a few years, the team began to win major competitions. The same approach can work for learners. Small, consistent improvements in many parts of their learning can lead to great progress.
+#שאלה What strategy did the new trainer choose? | looking for many small improvements | training the team much harder | looking for one big change | replacing the team | זו האסטרטגיה בפסקה הראשונה.
+#שאלה How big was each improvement? | about one percent | about ten percent | about half | very big | כל שיפור היה קטן מאוד.
+#שאלה In paragraph 2, "contributed to" means: | helped to cause | prevented | replaced | ignored | contribute to = לתרום ל־.
+#שאלה What can learners learn from the story? | Small, consistent improvements can lead to great progress | Only big changes matter | Practice is irrelevant | Competitions are important | זה הלקח בסוף.
+
+#סיפור Initially Difficult, Later Automatic | בינוני
+When Lior started to study English every morning, it was initially very difficult. She had to wake up 20 minutes earlier, and every morning she had to decide again to sit down and open the book. Some days she was too tired, and she needed a lot of discipline.
+
+After about two months, something changed. The morning practice became part of her routine, like drinking coffee. She no longer needed to decide; she simply did it. Lior had adapted to the new habit. Researchers say that this is typical: a new habit requires a lot of effort at first, but if it is repeated regularly, it gradually becomes automatic and requires almost no effort at all.
+#שאלה Why was the new habit initially difficult for Lior? | She had to wake up earlier and decide again every morning | She did not have a book | Her teacher was angry | She did not like English | שתי הסיבות מופיעות בפסקה הראשונה.
+#שאלה In paragraph 1, "initially" means: | at the beginning | finally | never | always | initially = בהתחלה.
+#שאלה What changed after about two months? | The practice became part of her routine | She stopped studying | She studied at night | She needed more discipline | התרגול הפך לחלק מהשגרה.
+#שאלה According to researchers, what happens to a habit that is repeated regularly? | It gradually becomes automatic | It becomes more difficult | It disappears | It requires more effort | הרגל שחוזר באופן קבוע הופך אוטומטי בהדרגה.
+
+#סיפור The Lottery Winner and the Accident | קשה
+Imagine two people. The first one wins the lottery and receives a huge amount of money. The second one has a terrible accident and becomes paralyzed. Which one will be happier a year later?
+
+Most people believe that the answer is obvious: the winner, of course. But in a famous study, researchers found something surprising. They compared the happiness of three groups: lottery winners, people who were paralyzed after an accident, and ordinary people who had neither experience.
+
+Right after the event, the results were exactly what you expect. The winners were delighted, and the people who were paralyzed were very unhappy. However, over time, the difference became much smaller. After about a year, the lottery winners were not happier than ordinary people. In fact, they reported less pleasure from small, everyday things, such as talking with a friend or reading a good book. The people who were paralyzed were less happy than before the accident, but they were happier than most people expected.
+
+Scientists call this process adaptation. Our brain gets used to a new situation, good or bad, and our level of happiness slowly returns to what it was before. A new car or a new phone gives us pleasure for a few weeks, and then it becomes ordinary.
+
+What can we learn from this research? Money can increase happiness for a short time, but it does not necessarily create lasting happiness. Small daily habits, such as spending time with people we love, may have a stronger influence than one big event.
+#שאלה What did most people expect, according to the text? | that the lottery winner would be happier | that the paralyzed person would be happier | that both would be unhappy | that nobody could answer | רוב האנשים חשבו שהזוכה יהיה מאושר יותר.
+#שאלה Which three groups did the researchers compare? | lottery winners, paralyzed people and ordinary people | winners, scientists and doctors | rich people, poor people and children | teachers, students and parents | שלוש הקבוצות מופיעות בפסקה השנייה.
+#שאלה How did the winners feel right after they won? | delighted | paralyzed | exhausted | embarrassed | delighted = שמח מאוד.
+#שאלה What happened over time? | The difference between the groups became much smaller | The winners became much happier | The paralyzed people did not change at all | The researchers stopped the study | עם הזמן ההבדל בין הקבוצות הצטמצם.
+#שאלה In paragraph 3, "pleasure" is closest in meaning to: | enjoyment | money | an accident | a decision | pleasure = הנאה.
+#שאלה What is "adaptation", according to the text? | getting used to a new situation | winning a lot of money | a kind of illness | a daily habit | המוח מתרגל למצב חדש, טוב או רע.
+#שאלה Which sentence is NOT correct, according to the text? | The lottery winners stayed delighted for many years | The paralyzed people were happier than people expected | A new phone gives pleasure only for a few weeks | Money can increase happiness for a short time | אחרי שנה הזוכים לא היו מאושרים יותר מאנשים רגילים.
+#שאלה What is the main idea of the last paragraph? | Daily habits may influence happiness more than one big event | Everyone should play the lottery | Accidents never change people | Research about happiness is not useful | הרגלים קטנים עשויים להשפיע יותר מאירוע גדול אחד.
+
+#סיפור Stuck at the Airport | בינוני
+When Dana arrived at the airport, she was tired but happy. Her flight home was in two hours, and she had all her documents in a small bag. At the entrance to the security area, an official asked for her passport. Dana opened the bag, and her face changed. The passport was not there.
+
+She checked every pocket, and then she checked the bag again. The passport was gone. She remembered that she had put it on a bench near the coffee shop. She ran back, but the bench was empty.
+
+The officials were polite, but the rules were clear: without a passport she could not fly. They explained that she had to go to the embassy, show some other papers, and ask for a temporary travel document. The embassy was closed until the morning.
+
+Dana spent the night at the airport. She was starving, because all the shops were closed, and she was exhausted, because it was impossible to sleep on the chairs. She felt embarrassed when she called her family, but her brother laughed and said, "It happens to everyone."
+
+In the morning, she received good news. A cleaner had found the passport under the bench and had given it to the airport police. Dana was delighted. She took the next flight home, and since then she has a new habit: before she leaves any place, she checks her documents twice.
+#שאלה Why could Dana not enter the security area? | Her passport was not in her bag | Her flight was cancelled | She was late for the flight | The officials were rude | היא גילתה בכניסה שהדרכון לא בתיק.
+#שאלה Where did Dana think she had left her passport? | on a bench near the coffee shop | at the entrance | at home | at the embassy | היא נזכרה שהניחה אותו על ספסל.
+#שאלה What did the officials explain to her? | that she needed a temporary travel document from the embassy | that she could fly without a passport | that the police had her passport | that her flight was in the morning | הם הסבירו שצריך מסמך נסיעה זמני מהשגרירות.
+#שאלה In paragraph 4, "starving" means: | very hungry | very tired | very happy | very cold | starving = רעב מאוד.
+#שאלה Why was Dana exhausted? | She could not sleep on the airport chairs | She ran all night | She worked at the airport | She had an illness | exhausted = עייף מאוד, כי אי אפשר היה לישון על הכיסאות.
+#שאלה How did Dana feel when she called her family? | embarrassed | delighted | relieved | confident | embarrassed = נבוך.
+#שאלה Who found the passport? | a cleaner | an official | her brother | Dana herself | מנקה מצא אותו מתחת לספסל.
+#שאלה What is Dana's new habit? | She checks her documents twice before she leaves a place | She sleeps at the airport | She travels without a bag | She arrives at the airport late | זה ההרגל החדש שמתואר בסוף.
+
+#סיפור The Man Who Sold a Tower | קשה
+In 1925, a man named Victor read a short article in a newspaper. The article said that the famous tower in Paris was old and expensive to repair, and that the city might take it down one day. Victor was not a real businessman. He was a criminal, and he immediately saw an opportunity.
+
+He printed false government papers and invited five metal companies to a secret meeting in an expensive hotel. He told them that the government wanted to sell the tower for its metal, and that the sale had to be secret, because the decision would be unpopular. The businessmen believed him. His clothes were expensive, his documents looked official, and he spoke with confidence.
+
+One of the businessmen, a man named André, wanted the deal very much. Victor noticed that André was a little nervous, so he used another trick: he told André that government officials earn very little money, and he hinted that a small extra payment would help. To André, this made the story even more believable, because he thought that only a real official would ask for money like this. André paid, and Victor left Paris with the money on the same day.
+
+The most surprising part is what happened next. André was so embarrassed that he never told the police. He did not want people to know that he had believed such a scam. Later, Victor returned to Paris and tried the same trick again, but this time one of the businessmen went to the police, and Victor escaped just in time.
+
+This story shows how a scam works. A criminal does not need a gun. He needs a believable situation, documents that look right, and people who are too embarrassed to admit their mistake.
+#שאלה Why did the article give Victor an idea? | It said the tower was old and expensive to repair | It said the tower was for sale | It was about metal companies | It was about a famous criminal | הכתבה אמרה שהמגדל ישן ויקר לתיקון.
+#שאלה What was Victor really? | a criminal | a government official | a metal businessman | a journalist | הטקסט אומר במפורש: He was a criminal.
+#שאלה Why did Victor say that the sale had to be secret? | because the decision would be unpopular | because the tower was fragile | because the police were looking for him | because the price was very low | הוא טען שההחלטה לא תהיה פופולרית.
+#שאלה Which of these did NOT help Victor look believable? | a real government office | expensive clothes | documents that looked official | the way he spoke with confidence | לא היה לו משרד ממשלתי אמיתי.
+#שאלה In paragraph 2, "false" papers are papers that are: | not real | very old | very expensive | from the government | false = שקרי, מזויף.
+#שאלה Why did the extra payment make André trust Victor more? | He thought only a real official would ask for money like that | He liked paying extra | Victor was his old friend | The police told him to pay | הבקשה לכסף נראתה לו כמו התנהגות של פקיד אמיתי.
+#שאלה Why did André not go to the police? | He was too embarrassed | He was a criminal too | He did not lose any money | He wanted to buy another tower | הוא התבייש שהאמין להונאה.
+#שאלה What is the main lesson of the story? | A scam works with a believable situation and people who are embarrassed to admit mistakes | Metal is very expensive | Government papers are always false | Businessmen never go to the police | זו המסקנה בפסקה האחרונה.
+
+#סיפור What Happens When Memory Breaks? | קשה
+For many years, scientists believed that memory was one single ability: either you remember things, or you forget them. A famous case changed this idea.
+
+In the 1950s, a young man had a serious illness of the brain. To help him, doctors removed a small part of his brain. He survived the operation, and his condition improved in one important way, but there was a terrible result: he could not create new memories. If you met him, talked with him for an hour, and then left the room for five minutes, he would not recognize you when you returned.
+
+Researchers studied him for many years, and they discovered something surprising. In one test, he practiced drawing a star while he looked at it in a mirror, which is a difficult task. Every day he said that he had never done this task before. However, his drawing improved from day to day. Part of his brain remembered the skill, even though he could not recall the practice itself.
+
+This research showed that we have different kinds of memory. One kind lets us recall facts and events, such as what we ate for breakfast. Another kind lets us learn skills, such as riding a bike or typing, often without being aware of it. Damage to one part of the brain does not necessarily damage the other.
+
+For learners, the lesson is encouraging. Even when you feel that you forget everything, practice is not lost. Your brain may be learning more than you think.
+#שאלה What did scientists believe before this case? | that memory was one single ability | that the brain had no memory | that skills were not important | that illness never affects memory | זו האמונה שמתוארת בפסקה הראשונה.
+#שאלה Why did doctors remove part of the man's brain? | to help him with a serious illness | to test a new idea | because he had an accident | because he asked them to | המטרה הייתה לעזור לו עם מחלה קשה.
+#שאלה What was the terrible result of the operation? | He could not create new memories | He could not walk | He did not survive | He forgot how to speak | הוא לא יכול היה ליצור זיכרונות חדשים.
+#שאלה In paragraph 2, "recognize" someone means: | to know who someone is when you see them again | to forget someone | to draw someone | to help someone | recognize = לזהות, להכיר.
+#שאלה What did the mirror test show? | His drawing improved, although he did not remember practicing | He could recall every practice | He could not draw at all | The task was easy for him | המיומנות השתפרה גם בלי זיכרון של התרגול.
+#שאלה In paragraph 3, "recall" is closest in meaning to: | bring back from memory | improve | practice | damage | recall = לשלוף מהזיכרון.
+#שאלה According to the text, which is an example of a skill? | riding a bike | what we ate for breakfast | a famous case | a test result | רכיבה על אופניים היא מיומנות.
+#שאלה What is the main idea of the last paragraph? | Practice is not lost, even when you feel that you forget | Learners should stop practicing | Memory can never change | Only scientists can improve memory | זה המסר המעודד בסוף.
+
+#סיפור The Day the Computers Stopped | קשה
+On a normal Friday morning, millions of computers around the world suddenly crashed. Screens turned blue, and the computers started again and again without stopping. Airports could not check in passengers, hospitals could not open patient files, and banks could not process payments. Many people immediately thought that it was a cyberattack.
+
+It was not. The cause was a simple mistake. A security company, whose software was designed to protect computers from attacks, had sent a content update to its customers. The update was supposed to help the software identify new threats. Instead, it contained an error. Because the software runs deep inside the system, the error caused the whole computer to crash.
+
+The deployment of the update was automatic, so it reached a huge number of devices in a very short time. Organizations that were affected, and that depend on these computers every day, had to restore each computer, often by hand. Engineers worked day and night. Some systems were back in a few hours. For others, the process took many days, and the recovery happened only gradually.
+
+After the incident, the company explained what went wrong and how it would improve. For example, new updates would first go to a small group of computers, and only later to all users. In this way, if there is a problem, it affects only a few devices.
+
+The incident taught an important lesson. A system that protects us can also become a risk, and a small error, multiplied by millions, can stop the world.
+#שאלה What did many people think at first? | that it was a cyberattack | that the screens were broken | that the banks were closed | that it was a test | בהתחלה חשבו שזו מתקפת סייבר.
+#שאלה What was the real cause? | an error in a content update | a hacker | very old computers | a slow network | הסיבה הייתה שגיאה בעדכון תוכן.
+#שאלה What was the security software designed to do? | protect computers from attacks | process payments | open patient files | check in passengers | designed to protect = נועד להגן.
+#שאלה Why did the update reach so many computers so fast? | Its deployment was automatic | Engineers sent it by hand | Users downloaded it on purpose | It was sent by email | ההפצה הייתה אוטומטית.
+#שאלה In paragraph 3, "restore" means: | make something work again | delete | protect | identify | restore = להחזיר לפעולה.
+#שאלה How did the recovery happen in some organizations? | gradually, over many days | immediately, in one minute | it never happened | automatically, without engineers | gradually = בהדרגה.
+#שאלה Which change did the company promise? | to send new updates first to a small group of computers | to stop sending updates | to sell new computers | to close the company | זה השינוי שמתואר בפסקה הרביעית.
+#שאלה What is the main lesson of the text? | A small error in a protective system can cause huge damage | Security software is not needed | Cyberattacks are not real | Airports should not use computers | זו המסקנה בסוף.
+
+#סיפור Why Learning Feels Frustrating | בינוני
+Have you ever studied a list of words, felt that you knew them all, and then forgot most of them the next morning? It is frustrating, but it is completely normal. In fact, it may be a sign that you are learning in a useful way.
+
+Researchers who study memory explain that recognizing a word and recalling it are two different things. When you read a word together with its translation, it feels familiar, so you think that you know it. But when you need to recall it without help, for example in a test, your brain must work much harder.
+
+This is why many experts recommend practice that is a little difficult. Instead of reading the list again and again, cover the translation and try to remember it. You will fail sometimes, and that is the point. Every time you make an effort to recall a word, even if you make a mistake, the memory becomes stronger.
+
+Another helpful method is to spread your practice over time. Ten minutes a day for a week works better than one hour the night before a test. You may feel that your progress is slow, but slow progress is not necessarily bad progress.
+
+So the next time you forget a word that you studied yesterday, do not give up. Try again tomorrow. Eventually, the word will stop being new, and it will become yours.
+#שאלה According to the text, forgetting words the next morning is: | normal | a sign of an illness | very rare | a result of laziness | כתוב שזה נורמלי לגמרי.
+#שאלה What is the difference between recognizing and recalling? | Recalling means remembering without help, and it is harder | Recognizing is harder than recalling | They mean exactly the same | Recalling happens only at school | לשלוף מהזיכרון בלי עזרה קשה יותר מלזהות.
+#שאלה Why does a word with its translation feel familiar? | because you see the translation next to it | because you used it many times | because it is a short word | because it appears in a test | התרגום שליד המילה יוצר תחושה של היכרות.
+#שאלה What do experts recommend? | practice that is a little difficult | reading the list again and again | studying only the night before a test | practicing without making mistakes | הם ממליצים על תרגול שקצת קשה.
+#שאלה In paragraph 3, "fail" means: | not succeed | improve | remember | translate | fail = להיכשל.
+#שאלה Which plan works better, according to the text? | ten minutes a day for a week | one hour the night before a test | two hours once a month | reading the list once | תרגול מפוזר על פני זמן עובד טוב יותר.
+#שאלה "Not necessarily bad" means: | not always bad | always bad | very good | impossible | not necessarily = לא בהכרח.
+#שאלה What will happen "eventually", according to the writer? | The word will become yours | You will forget all the words | You will stop practicing | The test will be easy | eventually = בסופו של דבר.
+
+#סיפור Your New Laptop: A Short Guide | בינוני
+Congratulations on your new laptop! This short guide explains the basic things that every user should know.
+
+First, create an account and choose a strong password. Do not use the same password that you use on other websites. If the device asks for permission to save your password, make sure that you are the only user of this computer.
+
+Next, connect to the network and update the system. Updates are important, because they protect your device from new threats. Most updates now install automatically, but you can also check for updates in the settings. When an update is available, a message is displayed at the bottom of the screen. You can check a message like this later, but do not ignore it for too long.
+
+To browse the internet, open the browser and type the address of a website. Some websites ask for access to your location or your camera. Select "Allow" only when it is really necessary.
+
+Your files are stored in folders. A folder can contain other folders, and in some programs a folder is called a directory. The full path of a file shows where it is, for example: Documents, then School, then English. To open a file, click on it twice. If you cannot find a file, use the search box and type part of its name. Before you close an application, always save your work.
+
+Finally, some folders are protected. If a folder is inaccessible and you see a warning, it usually means that you do not have permission to open it. Do not change system folders unless you know exactly what you are doing.
+#שאלה What is the first thing the guide recommends? | to create an account and choose a strong password | to open the browser | to buy a new device | to change system folders | זה הצעד הראשון בפסקה השנייה.
+#שאלה Why are updates important? | They protect the device from new threats | They make the screen bigger | They delete old files | They change the password | עדכונים מגינים מפני איומים חדשים.
+#שאלה Where does the message about an available update appear? | at the bottom of the screen | in the browser | in an email | inside a folder | ההודעה מוצגת בתחתית המסך.
+#שאלה When should you select "Allow"? | only when it is really necessary | always | never | when a website is slow | רק כשבאמת צריך.
+#שאלה What does the path of a file show? | where the file is | when the file was created | who created the file | how big the file is | הנתיב מראה איפה הקובץ נמצא.
+#שאלה What is another name for a folder, according to the text? | a directory | a browser | an account | an update | בחלק מהתוכנות תיקייה נקראת directory.
+#שאלה What does it usually mean when a folder is inaccessible? | You do not have permission to open it | The laptop is broken | The folder is empty | The network is slow | inaccessible = לא נגיש, בדרך כלל בגלל הרשאות.
+#שאלה What is the main purpose of this text? | to give basic instructions to a new user | to sell laptops | to explain how to build a website | to describe a cyberattack | זה מדריך למשתמש חדש.
+
+#סיפור Noam's First Function | בינוני
+Noam is learning to program. His teacher gave the class a simple task: write a function that receives a number as input and returns the number plus one.
+
+Noam wrote the code quickly and ran it. He typed 5, and the result was 51. Something was clearly incorrect. He looked at his code again and found the problem: the program received the input as text, not as a number. So instead of adding one to five, it simply put the text "1" after the text "5".
+
+Noam fixed the error. He created a variable, stored the value of the input in it as a number, and only then added one. He ran the program again. This time the output was 6. It was correct.
+
+Next, the teacher asked the students to connect their programs to a small server. The program had to send a request over the network and display the answer on the screen. Noam's program produced a warning: the server was not available. Noam was frustrated, but the teacher explained that the warning was not his fault. The server was temporarily down. Ten minutes later, the server was back, and the program worked automatically, without any change.
+
+At the end of the lesson, Noam understood something important. An error does not always mean that your code is bad. Sometimes the problem is in your code, and sometimes it is somewhere else. A good programmer checks both.
+#שאלה What did the function need to do? | return the number plus one | multiply the number by two | display a picture | connect to a website | זו המשימה בפסקה הראשונה.
+#שאלה Why was the first result 51? | The program treated the input as text | Noam typed 51 | The server was down | The computer was broken | התוכנית קיבלה את הקלט כטקסט.
+#שאלה In paragraph 2, "incorrect" means: | wrong | slow | correct | available | incorrect = שגוי.
+#שאלה How did Noam fix the error? | He stored the input value in a variable as a number | He bought a new computer | He deleted the function | He asked a friend to type the code | הוא שמר את הערך במשתנה כמספר.
+#שאלה What did the program need to send to the server? | a request | a password | a file | a warning | send a request = לשלוח בקשה.
+#שאלה Why did the program show a warning? | The server was temporarily unavailable | There was an error in Noam's code | The network was protected | The output was too long | השרת לא היה זמין באופן זמני.
+#שאלה What happened when the server was back? | The program worked automatically | Noam had to rewrite the code | The program crashed | The teacher gave a new task | התוכנית עבדה לבד, בלי שינוי.
+#שאלה What did Noam learn? | An error is not always in your own code | His code is always perfect | Servers never stop | He should stop programming | זו המסקנה בפסקה האחרונה.
+
+#סיפור Guess the Meaning | קל
+Maya was reading a story in English when she found an unfamiliar word: "starving." She did not want to stop and look for a translation, so she used the context. The sentence said: "After a long day without food, the children were starving." The clue was clear: a day without food. Maya guessed that "starving" means very hungry.
+
+Later, she checked the explanation in the dictionary, and she was right. Now the word feels familiar, and she remembers it better than words that she simply translated.
+#שאלה What did Maya find in the story? | an unfamiliar word | a translation | a mistake | a picture | unfamiliar = לא מוכר.
+#שאלה How did Maya guess the meaning? | from the context | from a friend | from the title | from the dictionary first | היא השתמשה בהקשר.
+#שאלה What was the clue? | a day without food | a very long word | a hungry teacher | a picture of children | הרמז היה יום בלי אוכל.
+#שאלה Why does she remember the word better? | because she guessed it from the context | because it is short | because she translated it immediately | because she wrote it ten times | ניחוש מההקשר עוזר לזכור.
+
+#סיפור Careful, Slippery! | קל
+On a rainy morning, the floor at the entrance to the school was very slippery. A student fell, and he was lucky that he was not hurt. The principal decided to close the main entrance temporarily and put a warning sign near the door. Students used a temporary entrance at the side of the building.
+
+Some students said that the sign was unclear, because it was small and the words were hard to read, so the principal printed a bigger one. A worker came the next day to repair the floor. He also moved a fragile glass table away from the door, because it could easily break.
+#שאלה Why was the floor dangerous? | It was slippery because of the rain | It was broken | It was made of glass | It was very old | slippery = חלקלק.
+#שאלה What did the principal do first? | She closed the main entrance temporarily | She repaired the floor | She bought a new table | She cancelled school | temporarily = באופן זמני.
+#שאלה Why did students say that the sign was unclear? | It was small and hard to read | It was in Hebrew | It was not near the door | It was red | unclear = לא ברור.
+#שאלה Why did the worker move the table? | It was fragile and could break | It was dirty | It belonged to a classroom | The students asked him to | fragile = שביר.
+
+#סיפור Cheap but Impractical | קל
+Omer needed a new bag for school. He found an inexpensive bag online, and the price was very attractive. But when the bag arrived, he understood why it was so cheap. It was small, it had no pockets, and the strap was too thin. It looked nice, but it was impractical for carrying heavy books.
+
+Later, Omer read the reviews. Most of them were brief but clear: the bag was very unpopular. Omer learned his lesson. Now he reads about the recommended products first. Reading reviews is optional, of course, but it is useful, especially when a product must be reliable.
+#שאלה Why did Omer choose the bag? | It was inexpensive | It had many pockets | His friend had one | It was recommended | inexpensive = זול.
+#שאלה Why was the bag impractical? | It was too small and weak for heavy books | It was too expensive | It was too big | It was the wrong color | impractical = לא מעשי.
+#שאלה What did the reviews say? | Most people did not like the bag | The bag was very popular | The bag was reliable | They did not say anything | unpopular = לא פופולרי.
+#שאלה What does Omer do now? | He reads about recommended products first | He buys only cheap products | He never buys online | He writes long reviews | זה הלקח שלו.
+
+#סיפור Take a Break | קל
+Tamar was working on one math question for two hours, and she was exhausted. She could not solve a problem that looked simple, and she could not make a decision about what to try next. Her father told her to take a break. "Your brain needs some rest," he said.
+
+Tamar went for a short walk. When she came back, she remembered what her teacher always says: "Follow instructions step by step." She read the question again slowly and noticed a detail that she had missed before. She decided to try again, and this time she solved it in ten minutes. Since then, she takes frequent, short breaks when she studies.
+#שאלה How did Tamar feel after two hours? | exhausted | delighted | embarrassed | confident | exhausted = מותש.
+#שאלה What did her father suggest? | to take a break | to stop studying math | to ask the teacher | to try a different question | take a break = לקחת הפסקה.
+#שאלה What helped her solve the problem? | She read the question again and followed the instructions step by step | Her father solved it | She found the answer online | She skipped the question | היא קראה שוב ועקבה אחר ההוראות.
+#שאלה In the last sentence, "frequent" breaks are breaks that happen: | often | rarely | never | only at night | frequent = תכוף.
+
+#סיפור The Topic and the Main Idea | בינוני
+In an English lesson, the teacher wrote one paragraph on the board and asked, "What is the topic?" The students answered quickly: the paragraph was about bees. "Good," said the teacher. "And what is the main idea?"
+
+This question was harder. The topic is just the subject, but the main idea is what the writer says about it. The first sentence said: "Bees are very important for farmers." The other sentences gave details and examples that support this idea, such as the explanation that bees help fruit grow.
+
+"If you write only the topic," the teacher said, "your answer is incomplete. A good answer can be brief, but it must show the purpose of the paragraph."
+#שאלה What was the topic of the paragraph? | bees | farmers | fruit | the board | topic = נושא.
+#שאלה What is the difference between the topic and the main idea? | The main idea is what the writer says about the topic | They are the same thing | The topic is always longer | The main idea is always the last sentence | הרעיון המרכזי הוא מה שהכותב אומר על הנושא.
+#שאלה What is the role of the other sentences? | to support the main idea with details and examples | to change the topic | to ask questions | to tell a different story | הם תומכים ברעיון המרכזי.
+#שאלה Why is an answer with only the topic incomplete? | It does not show the purpose of the paragraph | It is too long | It is not in English | It uses too many examples | incomplete = לא שלם.
+
+#סיפור From Papers to Digital | בינוני
+For many years, a small town office kept all its documents on paper. There were enormous shelves full of papers, and finding one document could take an hour.
+
+Two years ago, the office decided to move everything to a digital system. At first, it was a temporary project in one department only, but the results were so good that it became a lasting change for the whole office. Today, documents are available in seconds, from any computer in the office.
+
+The change also had a positive influence on the workers. They spend less time searching for papers and more time helping people.
+#שאלה What was the problem with paper documents? | Finding a document could take a long time | They were too expensive | They were already digital | They were in English | חיפוש מסמך יכול היה לקחת שעה.
+#שאלה In the text, "enormous" means: | very big | very small | very old | very cheap | enormous = עצום.
+#שאלה How did the project start? | as a temporary project in one department | in the whole office at once | in another town | at the workers' homes | temporary = זמני.
+#שאלה What influence did the change have on the workers? | They spend more time helping people | They work more hours | They lost their jobs | They print more papers | influence = השפעה.
+
+#סיפור Confidently Wrong | קל
+During a quiz in class, the teacher asked, "Which animal is the largest in the world?" Ben raised his hand and answered confidently: "The elephant!" Some students nodded, because his confidence made the answer sound true.
+
+"Is that true or false?" the teacher asked the class. After a moment, Noa said, "False. The blue whale is larger." Ben felt a little embarrassed. The teacher smiled and explained that the question was not a trick. "Speaking with confidence is good," she said, "but checking the facts is better." Eventually, Ben laughed too, and he never forgot the blue whale.
+#שאלה Why did some students believe Ben? | because he answered with confidence | because he was the teacher | because he showed a picture | because the question was easy | confidence = ביטחון.
+#שאלה What is the correct answer to the question? | the blue whale | the elephant | there is no answer | Ben's answer | נועה ענתה נכון.
+#שאלה How did Ben feel after Noa's answer? | a little embarrassed | very angry | starving | delighted | embarrassed = נבוך.
+#שאלה What is the teacher's main message? | Checking the facts is more important than sounding confident | Never answer in class | Questions in class are tricks | Confidence is always bad | זה מה שהמורה אומרת בסוף.
+
+#סיפור Small Pleasures | בינוני
+Many people believe that more money will bring them more happiness. Research shows that this is only partly true. Money can reduce stress when people do not have enough for their basic needs. But after that point, more money increases happiness only a little.
+
+What can increase happiness more? Small daily habits. For example, writing three good things about your day, walking outside for twenty minutes, or calling a friend. These habits give a small pleasure every day, and small pleasures add up over time.
+#שאלה According to research, when does money help happiness the most? | when people do not have enough for basic needs | when people are very rich | never | only on holidays | כסף עוזר כשחסר לצרכים בסיסיים.
+#שאלה "Reduce stress" means: | make stress smaller | make stress bigger | ignore stress | measure stress | reduce = להפחית.
+#שאלה Which is an example of a daily habit from the text? | walking outside for twenty minutes | buying a new car | winning the lottery | working more hours | זו אחת הדוגמאות.
+#שאלה What is the main idea of the text? | Small daily habits can increase happiness more than extra money | Money is not important at all | Habits are hard to change | Research about money is wrong | habit = הרגל.
+
+#סיפור The Winner | קל
+Sam bought a lottery ticket every week for ten years. One evening, he checked the numbers on TV and could not believe his eyes: he was the winner! The next morning, his phone did not stop ringing. Friends that he had not heard from in years suddenly wanted to meet him, and many people offered him advice about the money.
+
+At first, Sam enjoyed the attention, but eventually he felt tired of it. He decided to keep his job, give part of the money to his family, and save the rest. "The money changed my bank account," he said, "but I don't want it to change me."
+#שאלה How often did Sam buy a lottery ticket? | every week | every day | once in his life | once a year | כל שבוע במשך עשר שנים.
+#שאלה What happened after Sam won? | Many people suddenly wanted to talk to him | He lost his phone | He left the country | Nobody knew about it | הטלפון לא הפסיק לצלצל.
+#שאלה What did Sam decide to do? | keep his job and save part of the money | stop working | buy more tickets | spend all the money at once | זו ההחלטה שלו.
+#שאלה What does Sam mean in the last sentence? | He wants to stay the same person | He wants to change his life completely | He is sorry that he won | He wants a new bank | הוא לא רוצה שהכסף ישנה אותו.
+
+#סיפור Words That Grow | בינוני
+Many English words are built from smaller parts. If you know the parts, you can often guess the meaning of a new word. The beginning un- usually means "not": unfamiliar means not familiar, and unpopular means not popular. In- and im- can also mean "not", as in incomplete, incorrect, inexpensive and impractical.
+
+The beginning re- usually means "again": to rewrite is to write again. Dis- often means the opposite, as in dislike. Endings are useful too. The ending -ful means "full of", so helpful means full of help, while -less means "without", so careless means without care.
+
+Finally, the ending -ly often turns a describing word into a way of doing something: quick becomes quickly, and confident becomes confidently.
+#שאלה What does the beginning un- usually mean? | not | again | full of | without | un- = לא.
+#שאלה What does "rewrite" mean, according to the text? | to write again | not to write | to write without care | to write quickly | re- = שוב.
+#שאלה Which word means "without care"? | careless | careful | carefully | helpful | -less = ללא.
+#שאלה What does the ending -ly usually do? | It turns a describing word into a way of doing something | It means "again" | It means "not" | It makes a word plural | ‎-ly = באופן, למשל quickly.
+
+#סיפור The Missing Folder | קל
+Yoni saved his English project on the school computer, but the next day he could not find it. He decided to check a message from his teacher, who wrote: "Look at the path at the top of the window."
+
+Yoni looked at the path and saw that he had saved the project in the wrong directory, inside a folder called "Temp." He selected the file, moved it to his own folder, and tried to open it. It worked! The teacher also explained that the "Temp" folder is sometimes cleaned automatically, so files there can suddenly become inaccessible.
+#שאלה Why could Yoni not find his project? | He had saved it in the wrong folder | The computer was broken | The teacher deleted it | He never saved it | הוא שמר בתיקייה הלא נכונה.
+#שאלה What did the teacher tell him to look at? | the path at the top of the window | the screen settings | a new folder | his password | path = נתיב.
+#שאלה What did Yoni do with the file? | He moved it to his own folder | He deleted it | He printed it | He sent it to his teacher | select = לבחור.
+#שאלה Why is it risky to keep files in "Temp"? | The folder may be cleaned automatically | It is too small | It has a password | It is on another computer | הקבצים עלולים להפוך ללא נגישים.
+
+#סיפור The Scientist Who Did Not Stop | בינוני
+Dr. Lea Mor was a young scientist when doctors told her that she had a serious illness. They explained that her condition would slowly damage her ability to walk. Many people expected her to stop her research. She did not.
+
+She continued to study the brain, and she used her own experience to ask new questions: how do people survive difficult news, and how does the brain adapt to a new situation? Her team discovered that the brain can change more than researchers once believed. Today she uses a wheelchair, but her work has helped thousands of patients.
+#שאלה What did the doctors tell Lea? | that she had a serious illness | that she was a great scientist | that she needed a new job | that her brain was perfect | illness = מחלה.
+#שאלה How did the illness affect her? | It slowly damaged her ability to walk | It stopped her research | It damaged her memory | It did not affect her at all | damage = לפגוע.
+#שאלה What questions did she study? | how people survive difficult news and how the brain adapts | how to build a wheelchair | how to become a doctor | how to win the lottery | survive = לשרוד.
+#שאלה What did her team discover? | The brain can change more than researchers once believed | The brain never changes | Illness always stops research | Scientists cannot study themselves | זו התגלית של הצוות.
+

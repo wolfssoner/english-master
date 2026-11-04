@@ -1,7 +1,8 @@
-// English Master service worker: works offline, always prefers the newest index.html when online
-const C="em-v14";
-self.addEventListener("install",e=>{e.waitUntil(caches.open(C).then(c=>c.addAll(["./","index.html","manifest.webmanifest","icon-192.png","icon-512.png"])).then(()=>self.skipWaiting()))});
-self.addEventListener("activate",e=>{e.waitUntil(caches.keys().then(k=>Promise.all(k.filter(x=>x!==C).map(x=>caches.delete(x)))).then(()=>self.clients.claim()))});
+/* English Master service worker: network first (always the newest version when online), cache as an offline fallback */
+const C="em-v16";
+self.addEventListener("install",e=>{self.skipWaiting();e.waitUntil(caches.open(C).then(c=>c.addAll(["./","index.html","manifest.webmanifest","icon-192.png"])).catch(()=>{}))});
+self.addEventListener("activate",e=>{e.waitUntil((async()=>{for(const k of await caches.keys())if(k!==C)await caches.delete(k);await self.clients.claim()})())});
 self.addEventListener("fetch",e=>{const r=e.request;if(r.method!=="GET")return;const u=new URL(r.url);if(u.origin!==location.origin)return;
- if(r.mode==="navigate"||u.pathname.endsWith("/")||u.pathname.endsWith(".html")){e.respondWith(fetch(new Request(r.url,{cache:"no-cache",credentials:"same-origin"})).then(res=>{const cp=res.clone();caches.open(C).then(c=>c.put(r,cp));return res}).catch(()=>caches.match(r).then(m=>m||caches.match("index.html"))));return}
- e.respondWith(caches.match(r).then(m=>m||fetch(r).then(res=>{const cp=res.clone();caches.open(C).then(c=>c.put(r,cp));return res})))});
+ const key=u.origin+u.pathname;
+ e.respondWith((async()=>{try{const res=await fetch(r);if(res.ok){try{const c=await caches.open(C);await c.put(key,res.clone())}catch(x){}}return res}
+  catch(err){const m=await caches.match(key);if(m)return m;if(r.mode==="navigate"){const h=await caches.match(u.origin+u.pathname.replace(/[^/]*$/,"")+"index.html")||await caches.match(u.origin+u.pathname.replace(/[^/]*$/,""));if(h)return h}throw err}})())});
