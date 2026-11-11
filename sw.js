@@ -1,9 +1,9 @@
 /* English Master service worker: works offline, updates in the background */
-const VERSION = '19.0';
+const VERSION = '19.1';
 const CACHE = 'em-app-' + VERSION;
 const FONTS = 'em-fonts';
 const CORE = ['./', './index.html', './manifest.webmanifest', './apple-touch-icon.png',
-  './icons/icon-192.png', './icons/icon-512.png', './icons/maskable-192.png', './icons/maskable-512.png'];
+  './em-icon-192.png', './em-icon-512.png', './em-maskable-192.png', './em-maskable-512.png'];
 
 self.addEventListener('install', e => {
   e.waitUntil(caches.open(CACHE).then(c => Promise.all(CORE.map(u =>

@@ -7983,7 +7983,7 @@ function instMaybe19(force){if(!force&&(INSTSHOWN||!S||!isMobile19()||!canInst19
  if(!force&&(v19Busy()||!$("adm").hidden||(typeof ss!=="undefined"&&ss&&!ss.done&&view==="session"))){setTimeout(()=>instMaybe19(),20000);return}
  INSTSHOWN=1;let el=$("inst19");if(!el){el=document.createElement("div");el.id="inst19";document.body.appendChild(el)}
  const ios=isIOS19()&&!BIP,share=`<svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" style="vertical-align:-4px"><path d="M12 3v12M7 8l5-5 5 5" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/><path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-7" fill="none" stroke="currentColor" stroke-width="2"/></svg>`;
- el.innerHTML=`<div class="c" role="dialog" aria-label="התקנת האפליקציה"><div class="row sp" style="flex-wrap:nowrap"><div class="row" style="flex-wrap:nowrap"><img src="icons/icon-192.png" alt="" width="44" height="44" style="border-radius:11px"><div><b>להתקין את English Master?</b><div class="m">נפתחת מהמסך הראשי במסך מלא, עובדת גם בלי אינטרנט, ו־YouTube עובד ישירות.</div></div></div><button class="sm" data-v19="instx" aria-label="סגור">✕</button></div>
+ el.innerHTML=`<div class="c" role="dialog" aria-label="התקנת האפליקציה"><div class="row sp" style="flex-wrap:nowrap"><div class="row" style="flex-wrap:nowrap"><img src="em-icon-192.png" alt="" width="44" height="44" style="border-radius:11px"><div><b>להתקין את English Master?</b><div class="m">נפתחת מהמסך הראשי במסך מלא, עובדת גם בלי אינטרנט, ו־YouTube עובד ישירות.</div></div></div><button class="sm" data-v19="instx" aria-label="סגור">✕</button></div>
  ${ios?(inApp19()?`<p style="margin:10px 0 0">קודם פותחים את הקישור ב־Safari (בתפריט ״⋯״ ← ״פתח בדפדפן״), ושם מתקינים.</p>`:`<ol class="ios19"><li>לוחצים על כפתור השיתוף ${share} ${/CriOS|FxiOS|EdgiOS/.test(navigator.userAgent)?"(בשורת הכתובת)":"(בסרגל של Safari, או ב־⋯ ← ״שיתוף״)"}</li><li>בוחרים <b>״הוספה למסך הבית״</b> (אולי צריך לגלול קצת למטה)</li><li>לוחצים <b>״הוסף״</b>, וזהו</li></ol>`):`<button class="pr" style="width:100%;margin-top:10px" data-v19="inst">📲 התקנה</button>`}
  <div class="row" style="margin-top:8px"><button class="fl sm" data-v19="instl">אחר כך</button><button class="fl sm" data-v19="instno">לא להציג שוב</button></div></div>`;el.hidden=false}
 function instHide19(){const el=$("inst19");if(el){el.hidden=true;el.innerHTML=""}}
@@ -7993,12 +7993,21 @@ V17.install=function(){const st=isStandalone(),ios=isIOS19(),and=/Android/i.test
  return`<div class="row sp" style="margin-bottom:8px"><h1 style="margin:0">📲 התקנת האפליקציה</h1><button class="sm" data-a="tab" data-v="more">→ חזרה</button></div>
  ${st?`<div class="c"><b>✓ האפליקציה כבר מותקנת ופתוחה כאפליקציה.</b><p class="m" style="margin-bottom:0">היא מתעדכנת לבד כשיש אינטרנט, ועובדת גם בלי.</p></div>`:""}
  ${!web?`<div class="c" style="border-color:var(--w)"><b>האפליקציה פתוחה עכשיו כקובץ.</b><p style="margin:6px 0">כדי להתקין, פותחים אותה מהאתר: <a href="${esc(SITE)}" target="_blank" rel="noopener" dir="ltr">${esc(SITE.replace(/^https:\/\//,""))}</a>. את ההתקדמות מעבירים עם סנכרון GitHub או עם גיבוי (כאן: ״⬇️ גיבוי״, ובאתר: עוד ← הגדרות ← ״ייבוא גיבוי״).</p><div class="row"><button class="sm pr" data-k="expf">⬇️ גיבוי</button></div></div>`:""}
- ${BIP&&!st?`<button class="pr big17" data-v19="inst">📲 התקנה בלחיצה אחת</button>`:""}
+ ${BIP&&!st?`<button class="pr big17" data-v19="inst">📲 התקנה בלחיצה אחת</button>`:""}${web?`<div class="c" id="pwadiag"><b>🔎 בדיקת התקנה</b><p class="m" style="margin:4px 0 0">בודק…</p></div>`:""}
  <div class="c"><h2>${ios?"⭐ ":""}אייפון ואייפד</h2><ol><li>פותחים את האתר ב־<b>Safari</b> (או Chrome).</li><li>לוחצים על כפתור השיתוף (ריבוע עם חץ למעלה).</li><li>בוחרים <b>״הוספה למסך הבית״</b>, ואז <b>״הוסף״</b>.</li></ol></div>
  <div class="c"><h2>${and?"⭐ ":""}אנדרואיד</h2><ol><li><b>Chrome</b>: תפריט ⋮ ← <b>״התקנת אפליקציה״</b> או <b>״הוספה למסך הבית״</b>.</li><li><b>Samsung Internet</b>: תפריט ☰ ← ״הוסף דף אל״ ← ״מסך הבית״.</li></ol><p class="m">אחרי ההתקנה אפשר לשתף סרטון מאפליקציית YouTube ישר ל־English Master (שיתוף ← English Master).</p></div>
  <div class="c"><h2>${!ios&&!and?"⭐ ":""}מחשב</h2><ol><li><b>Chrome / Edge</b>: בשורת הכתובת יש סמל התקנה (מסך עם חץ). לוחצים עליו ← ״התקנה״.</li><li>או: תפריט ⋮ ← ״העברה, שמירה ושיתוף״ ← ״התקנת הדף כאפליקציה״.</li></ol></div>
  <div class="c"><h2>מה מקבלים?</h2><ul style="margin:0;padding-inline-start:20px"><li>סמל במסך הבית, נפתח במסך מלא בלי שורת כתובת.</li><li>עובד בלי אינטרנט (חוץ מ־AI, YouTube וסנכרון).</li><li>מתעדכן לבד לגרסה החדשה.</li><li>YouTube עם כתוביות ותרגום, ישירות באפליקציה.</li><li>הנתונים נשמרים במכשיר, ואפשר לסנכרן בין מכשירים דרך GitHub.</li></ul></div>`};
 
+/* checks the files the phone needs to install the app, and says exactly what is missing */
+async function pwaDiag19(){const el=$("pwadiag");if(!el||el.dataset.done)return;el.dataset.done=1;const R=[],ok=(b,t)=>R.push(`<li>${b?"✅":"❌"} ${t}</li>`);let man=null;
+ try{const r=await fetch("manifest.webmanifest",{cache:"no-store"});if(r.ok){man=await r.json()}}catch(e){}
+ ok(!!man,"הקובץ <span dir=ltr>manifest.webmanifest</span> באתר");
+ if(man){const ic=(man.icons||[]).map(i=>i.src);for(const u of [...new Set(ic)]){let g=false;try{g=(await fetch(u,{cache:"no-store"})).ok}catch(e){}ok(g,"הסמל <span dir=ltr>"+esc(u)+"</span>")}}
+ let sw=false;try{sw=(await fetch("sw.js",{cache:"no-store"})).ok}catch(e){}ok(sw,"הקובץ <span dir=ltr>sw.js</span>");
+ let reg=null;try{reg=await navigator.serviceWorker.getRegistration()}catch(e){}ok(!!(reg&&reg.active),"עובד גם בלי אינטרנט (Service Worker פעיל)");
+ const bad=R.some(x=>x.includes("❌"));
+ el.innerHTML=`<b>🔎 בדיקת התקנה</b><ul style="margin:6px 0;padding-inline-start:4px;list-style:none;line-height:1.8">${R.join("")}</ul>${bad?`<p class="fb no" style="margin:0">חסר קובץ באתר. מעלים ל־GitHub את כל הקבצים מה־ZIP <b>לתיקייה הראשית</b> של המאגר (לא בתוך תיקייה), ואחרי דקה או שתיים מרעננים את הדף.</p>`:BIP?`<p class="fb ok" style="margin:0">הכול תקין. אפשר ללחוץ ״התקנה בלחיצה אחת״.</p>`:`<p class="m" style="margin:0">הכול תקין. אם בתפריט של Chrome כתוב <b>״פתיחה באפליקציה״</b> במקום ״התקנה״, האפליקציה כבר מותקנת אצלך ומתעדכנת לבד. כדי להתקין מחדש: מוחקים את הסמל הישן מהמסך, נכנסים שוב לאתר ב־Chrome, ותפריט ⋮ ← ״התקנת אפליקציה״.</p>`}`}
 /* ---------- links into the app: ?go=..., shared links (Android), transcript from the bookmark ---------- */
 function urlIn19(){let used=0;try{const q=new URLSearchParams(location.search),h=location.hash||"";
  if(h.startsWith("#yt=")){used=1;const raw=decodeURIComponent(h.slice(4));setTimeout(()=>ytImport19(raw),300)}
@@ -8068,7 +8077,7 @@ function wsheet(id){wsheet17(id);const w=S.words.find(x=>x.id===id),c=$("sheet")
  if(!h)return;const an=c.querySelector("#wsai");if(an)an.insertAdjacentHTML("beforebegin",h);else c.insertAdjacentHTML("beforeend",h)}
 
 /* ---------- after every render ---------- */
-function postAll19(){try{post19()}catch(e){console.error(e)}try{if(view==="plan"&&$("pform"))planPrev()}catch(e){}if(view!=="home"&&view!=="more"&&view!=="set"&&view!=="install")return;if(INSTSHOWN||!S)return;try{instMaybe19()}catch(e){}}
+function postAll19(){try{post19()}catch(e){console.error(e)}try{if(view==="plan"&&$("pform"))planPrev()}catch(e){}try{if(view==="install")pwaDiag19()}catch(e){}if(view!=="home"&&view!=="more"&&view!=="set"&&view!=="install")return;if(INSTSHOWN||!S)return;try{instMaybe19()}catch(e){}}
 
 /* ---------- guide ---------- */
 GUIDE.unshift(["new19","🆕 מה חדש בגרסה 19",`<h3>📚 שלב ד׳ חדש: אנגלית לחיים</h3><ul><li>השלב האחרון הוחלף ב־400 מילים חדשות ושימושיות (בריאות, כסף ועבודה, רגשות, חברה, מדע, לימודים, פעלים ותארים מתקדמים ומילות קישור), ולכל מילה שני משפטי דוגמה.</li><li>מילים מהשלב הקודם שכבר תרגלת לא נמחקו: הן בנושא ״${OLD4T}״.</li><li>הרבה קטעי קריאה חדשים, בכל השלבים, עם שאלות הבנה.</li></ul>
