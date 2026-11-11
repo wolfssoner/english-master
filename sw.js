@@ -1,5 +1,5 @@
 /* English Master service worker: works offline, updates in the background */
-const VERSION = '19.1';
+const VERSION = '19.3';
 const CACHE = 'em-app-' + VERSION;
 const FONTS = 'em-fonts';
 const CORE = ['./', './index.html', './manifest.webmanifest', './apple-touch-icon.png',
@@ -56,7 +56,8 @@ self.addEventListener('fetch', e => {
     if (/\/version\.json$/.test(p) || /\/packs\//.test(p)) return; // always live
     const app = /\/(index\.html)?$/.test(p);
     if (req.mode === 'navigate' || app) { e.respondWith(networkFirst(req, app)); return; }
-    if (/\.(png|svg|webmanifest|ico|json|woff2?)$/.test(p)) { e.respondWith(cacheFirst(req)); return; }
+    if (/\.(webmanifest|json)$/.test(p)) { e.respondWith(networkFirst(req, false)); return; }
+    if (/\.(png|svg|ico|woff2?)$/.test(p)) { e.respondWith(cacheFirst(req)); return; }
     return;
   }
   if (url.hostname === 'fonts.googleapis.com' || url.hostname === 'fonts.gstatic.com') { e.respondWith(fonts(req)); return; }
