@@ -1,0 +1,41 @@
+{
+ "name": "English Master",
+ "short_name": "English Master",
+ "description": "לימוד אנגלית עם חזרות חכמות, קריאה ותרגום בלחיצה",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "dir": "rtl",
+ "lang": "he",
+ "background_color": "#eef2f6",
+ "theme_color": "#0f766e",
+ "icons": [
+  {
+   "src": "em-icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "em-icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "em-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ],
+ "share_target": {
+  "action": "./",
+  "method": "GET",
+  "enctype": "application/x-www-form-urlencoded",
+  "params": {
+   "title": "share_title",
+   "text": "share_text",
+   "url": "share_url"
+  }
+ }
+}
