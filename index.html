@@ -3103,7 +3103,7 @@ const sessN=()=>Math.max(3,S.set.sn||S.set.goal||10),recentW=w=>w.last&&now()-w.
 
 function refillQ(){const used=new Set((ss.log||[]).slice(-12).map(x=>x.w.id));let q=ss.pool?spread(shuf(ss.pool)).slice(0,24):buildQ(scope==="daily"?"*":scope,20).filter(w=>!used.has(w.id));if(ss.mode!=="cards")q=q.filter(w=>w.he);if(ss.mode==="forms")q=q.filter(w=>(w.fm||[]).some(x=>x[0]!=="בסיס"));return q}
 let STI=0;
-function start(mode){XPOOL=String(scope).startsWith("c:")?colWords(scope.slice(2)):scope==="mist"?mistWords():null;const tm=S.set.smode==="t",n=tm?30:sessN();let q=buildQ(scope,n);
+function start(mode){XPOOL=String(scope).startsWith("c:")?colWords(scope.slice(2)):scope==="mist"?mistWords():null;const tm=S.set.smode==="t",n=tm?30:sessN();QMODE20=mode;let q;try{q=buildQ(scope,n)}finally{QMODE20=null}
  if(mode!=="cards")q=q.filter(w=>w.he);
  if(mode==="forms"){const hf=w=>w.he&&(w.fm||[]).some(x=>x[0]!=="בסיס");q=scope==="daily"?spread(wsample(AW().filter(hf),n,w=>hard(w)?3:1)):q.filter(hf)}
  if(mode!=="cards"&&AW().filter(w=>w.he).length<2){toast("צריך לפחות 2 מילים עם תרגום");return}
@@ -3249,7 +3249,7 @@ function sess16(){if(ss.mode==="sort")return sortV();const w=ss.q[ss.i];
   return`<div class="c" style="text-align:center"><h1>סיימת!</h1><p class="he">${ss.ok} מתוך ${n} נכונות (${p}%)</p><p class="m">${mins} דקות${kn?" · "+kn+" מילים סומנו כידועות":""}</p>${ss.diag?`<p class="m">בדיקת הידע עודכנה: מה שידעת סומן כמוכר, והשאר ייכנס לחזרות.</p>`:""}<p class="m">${endMsg(p,n)}</p>${(ss.miss||[]).length?`<div style="text-align:start;margin-bottom:12px"><h2>מילים לחזור עליהן</h2>${[...new Set(ss.miss)].map(w=>`<div class="w"><span class="en" data-k="ws" data-id="${w.id}" style="cursor:pointer">${esc(w.en)} <button class="sm" data-u="spk" data-t="${esc(w.en)}">🔊</button></span><span class="m">${esc(w.he)}${(w.fm||[]).length?" · "+esc(FORMS_LABEL(w)):""}</span></div>`).join("")}</div>`:""}<div class="row" style="justify-content:center"><button class="pr" data-a="home">למסך הראשי</button><button data-a="go" data-m="${ss.mode}" ${ss.again?'data-again="1"':""}>סשן נוסף</button>${(ss.miss||[]).length?`<button data-k="missgo">🃏 כרטיסיות על הטעויות</button>`:""}${ss.undo?`<button data-k="undo">↩ ביטול אחרונה</button>`:""}</div></div>`}
  const head=`<div class="row sp m"><span>${ss.lab?`<span class="tag">${esc(ss.lab)}</span> `:""}${ss.run>=3?`<span class="combo">🔥${ss.run}</span> `:""}${ss.end?`⏱ <b id="stm"></b>`:`${ss.i+1} / ${ss.q.length}`}</span><div class="row">${ss.undo?`<button class="sm" data-k="undo" title="ביטול התשובה האחרונה">↩ ביטול</button>`:""}${(ss.log||[]).length?`<button class="sm" data-u="prev">הקודמות</button>`:""}<button class="sm" data-a="home">יציאה</button></div></div><div class="bar" style="margin:6px 0 14px"><i style="width:${ss.end?Math.min(100,100*(now()-ss.t0)/(ss.end-ss.t0)):100*ss.i/ss.q.length}%"></i></div>`;
  const after=()=>`<div class="row" style="margin-top:8px">${w.kn?"":`<button class="sm" data-k="kaft">✓ כבר ידעתי אותה (פחות חזרות)</button>`}<button class="sm" data-k="wsr" data-id="${w.id}">⏰ תזכיר לי מחר</button></div>${exHtml(exOf(w))?`<div class="c" style="margin-top:10px;padding:10px">${exHtml(exOf(w))}</div>`:""}`;
- if(ss.mode==="cards"){const ex=exOf(w);return head+`<div class="c card" id="fc" data-a="flip"><div class="m">${ss.flip?"תרגום":"לחץ כדי לחשוף"}</div><div class="big">${esc(w.en)}</div>${ex&&!ss.flip?((S.set.sq||ss.showEx)?`<div class="m" dir="ltr" style="max-width:92%;text-align:left">${tapHtml(ex.en)}</div><div class="m" style="font-size:.8rem">לחיצה על מילה במשפט מתרגמת אותה</div>`:`<button class="sm" data-k="shex">💬 משפט</button>`):""}${ss.flip?`${meanHtml(w)}${synHtml(w)}${sayBtn(w.en)}${(w.fm||[]).length?`<div class="m" dir="ltr">${esc(FORMS_LABEL(w))}</div>`:""}${exHtml(ex)}${w.wrong?`<span class="tag new">טעית ${w.wrong} פעמים</span>`:""}`:""}<button class="sm" data-a="say">🔊 שמע</button></div><p class="m" style="text-align:center;margin:0 0 10px">החלקה ימינה: ידעתי · שמאלה: לא ידעתי · למטה: כבר יודע אותה</p><div class="row"><button class="ok fl" data-a="rate" data-v="1">→ ידעתי</button><button class="no fl" data-a="rate" data-v="0">לא ידעתי ←</button></div><div class="row" style="margin-top:8px"><button class="fl" data-k="sknown">✓ כבר יודע אותה, פחות חזרות</button><button class="fl" data-a="snooze">⏰ תזכיר לי מאוחר יותר</button></div>`}
+ if(ss.mode==="cards"){const ex=exOf(w);return head+`<div class="c card" id="fc" data-a="flip"><div class="m">${ss.flip?"תרגום":"לחץ כדי לחשוף"}</div>${rvCard20(w)&&!ss.flip?`<div class="big" dir="rtl">${esc(w.he)}</div><div class="m">🔁 איך אומרים את זה באנגלית?</div>`:`<div class="big">${esc(w.en)}</div>`}${ex&&!ss.flip&&!rvCard20(w)?((S.set.sq||ss.showEx)?`<div class="m" dir="ltr" style="max-width:92%;text-align:left">${tapHtml(ex.en)}</div><div class="m" style="font-size:.8rem">לחיצה על מילה במשפט מתרגמת אותה</div>`:`<button class="sm" data-k="shex">💬 משפט</button>`):""}${ss.flip?`${meanHtml(w)}${synHtml(w)}${sayBtn(w.en)}${(w.fm||[]).length?`<div class="m" dir="ltr">${esc(FORMS_LABEL(w))}</div>`:""}${exHtml(ex)}${w.wrong?`<span class="tag new">טעית ${w.wrong} פעמים</span>`:""}`:""}${rvCard20(w)&&!ss.flip?"":`<button class="sm" data-a="say">🔊 שמע</button>`}</div><p class="m" style="text-align:center;margin:0 0 10px">החלקה ימינה: ידעתי · שמאלה: לא ידעתי · למטה: כבר יודע אותה</p><div class="row"><button class="ok fl" data-a="rate" data-v="1">→ ידעתי</button><button class="no fl" data-a="rate" data-v="0">לא ידעתי ←</button></div><div class="row" style="margin-top:8px"><button class="fl" data-k="sknown">✓ כבר יודע אותה, פחות חזרות</button><button class="fl" data-a="snooze">⏰ תזכיר לי מאוחר יותר</button></div>`}
  if(ss.mode==="mc"){const q=ss.dir?heD(w):w.en;if(!ss.opts){const pool=dpool().filter(x=>x.id!==w.id&&x.he&&norm(x.he)!==norm(w.he)&&norm(x.en)!==norm(w.en)&&!overlap(w,x)),same=shuf(pool.filter(x=>x.topic===w.topic)),rest=shuf(pool.filter(x=>x.topic!==w.topic));ss.opts=shuf([w,...[...same.slice(0,2),...rest].slice(0,3)])}
   return head+`<div class="c" style="text-align:center"><div class="m">${ss.dir?"מה זה באנגלית?":"מה הפירוש?"}</div><div class="${ss.dir?"he":"big"}">${esc(q)}</div></div><div class="opts">${ss.opts.map(o=>{const t=ss.dir?o.en:heD(o);let c="";if(ss.picked){c=o.id===w.id?"ok":(o.id===ss.picked?"no":"")}return`<button class="${c}" ${ss.picked?"disabled":""} data-a="pick" data-id="${o.id}" ${ss.dir?'dir="ltr"':""}>${esc(t)}</button>`}).join("")}</div>${ss.fb||""}${ss.picked?after()+`<button class="pr" style="width:100%;margin-top:10px" data-a="next">הבא</button>`:""}`}
  if(ss.mode==="forms"&&!ss.fq){const o=(w.fm||[]).filter(x=>x[0]!=="בסיס");ss.fq=pick(o.length?o:[["בסיס",w.en]])}
@@ -3261,7 +3261,7 @@ function render16(){theme();const V={home,add,words,stats,set:setv,games,sent,ex
  if(view==="home"&&$("scope"))$("scope").value=scope;
  if(view==="session"&&ss&&!ss.done&&(ss.mode==="type"||ss.mode==="listen"||ss.mode==="forms")&&!ss.fb){const e=$("ty");e&&e.focus();if(ss.mode==="listen"&&ss.sp!==ss.i){ss.sp=ss.i;speak(ss.q[ss.i].en)}}
 if(view==="duel"&&DU&&DU.st==="play"){const x=$("dui");x&&x.focus()}if(view==="conf"&&CF&&!CF.fb){const x=$("cfi");x&&x.focus()}
- if(view==="session"&&ss&&ss.mode==="cards"&&S.set.auto&&ss.q[ss.i]&&!ss.done&&ss.sp!==ss.i){ss.sp=ss.i;speak(ss.q[ss.i].en)}
+ if(view==="session"&&ss&&ss.mode==="cards"&&S.set.auto&&ss.q[ss.i]&&!ss.done&&ss.sp!==ss.i&&(!rvCard20(ss.q[ss.i])||ss.flip)){ss.sp=ss.i;speak(ss.q[ss.i].en)}
  if(view==="session"&&ss&&ss.end&&!ss.done)sessTick();hidePop();setTimeout(adTick,1200)}
 
 /* v12 actions */
@@ -4835,10 +4835,12 @@ function wsheet17(id){wsheet16(id);const w=S.words.find(x=>x.id===id),c=$("sheet
  const anchor=c.querySelector("#wsai");if(anchor)anchor.insertAdjacentHTML("beforebegin",h);else c.insertAdjacentHTML("beforeend",h)}
 /* ---------- separate review for each direction ---------- */
 const REVQ=new Set();
-const isProd=(mode,dir)=>(mode==="mc"&&!!dir)||(mode==="type"&&!dir);
+const isProd=(mode,dir,w)=>(mode==="mc"&&!!dir)||(mode==="type"&&!dir)||(mode==="cards"&&!!w&&!!w.he&&REVQ.has(w.id));
+const rvCard20=w=>!!(ss&&ss.mode==="cards"&&S.set.dir2!==0&&w&&w.he&&REVQ.has(w.id));
+let QMODE20=null;
 function dirFor17(w,mode,cur){if(!w||S.set.dir2===0||!REVQ.has(w.id))return cur;if(mode==="mc")return true;if(mode==="type")return false;return cur}
-function buildQ(sc,n){const q=buildQ16(sc,n);REVQ.clear();if(String(sc)!=="daily"||S.set.dir2===0)return q;const ids=new Set(q.map(w=>w.id)),
- rv=AW().filter(w=>w.he&&w.seen&&(w.box||0)>=2&&!ids.has(w.id)&&(!w.rv||w.rv.due<=now())).sort((a,b)=>((a.rv&&a.rv.due)||0)-((b.rv&&b.rv.due)||0)).slice(0,Math.max(2,Math.round((n||sessN())/4)));
+function buildQ(sc,n){const q=buildQ16(sc,n);REVQ.clear();if(String(sc)!=="daily"||S.set.dir2===0||(QMODE20&&!["cards","mc","type"].includes(QMODE20)))return q;const ids=new Set(q.map(w=>w.id)),
+ rv=AW().filter(w=>w.he&&w.seen&&(w.box||0)>=2&&!ids.has(w.id)&&(w.rv&&w.rv.due>0?w.rv.due<=now()&&(!(w.rv.box>0)||now()-(w.last||0)>20*36e5):now()-(w.last||0)>20*36e5)).sort((a,b)=>(a.rv&&a.rv.due>0?0:1)-(b.rv&&b.rv.due>0?0:1)||((a.rv&&a.rv.due)||0)-((b.rv&&b.rv.due)||0)).slice(0,Math.max(2,Math.round((n||sessN())/4)));
  const due=q.filter(w=>w.rv&&w.rv.due<=now());rv.concat(due).forEach(w=>REVQ.add(w.id));return spread(shuf([...q,...rv]))}
 
 /* ---------- pace feedback ---------- */
@@ -7674,6 +7676,7 @@ function srs19(w,G,o){o=o||{};const t=now(),first=!w.seen,was=!!w.seen,ok=G>=2;
  else{w.wrong=(w.wrong||0)+1;w.run=0;w.lw=t;w.exi=(w.exi||0)+1;if(was)w.lc=(w.lc||0)+1;if(w.kn&&!prod){w.kn=0;setTimeout(()=>toast("טעית במילה שסימנת כידועה, אז היא חוזרת לתרגול רגיל"),900)}}
  if(prod){T.last=t;if(ok)T.r=(T.r||0)+1;else T.wr=(T.wr||0)+1}
  schedule19(T,G,t,w);
+ if(prod&&ok&&(w.due||0)<=t+DAY){if(S.set.fsrs!==0&&!w.fs)w.fs=fsInit19(w,t,w);schedule19(w,G,t,w)}
  if(S.rem&&S.rem[w.id]&&t>=S.rem[w.id])delete S.rem[w.id];
  const td=new Date().toDateString();if(S.td!==td){S.td=td;S.tn=0}S.tn++;const hh=S.hist||(S.hist={});(hh[td]=hh[td]||{n:0,ok:0}).n++;if(first)hh[td].nw=(hh[td].nw||0)+1;
  if(ok){hh[td].ok++;S.cor=(S.cor||0)+1}else S.wro=(S.wro||0)+1;
@@ -7688,7 +7691,7 @@ function answer(w,ok,ty,typo,g,o){ty=ty||CT||"x";o=o||{};const l0=lvl(),slip=!ok
  if(lvl()>l0)setTimeout(lvUp,250);chkUS();return slip}
 
 function markKnown(w,on){if(on===false){w.kn=0;w.due=Math.min(w.due||now(),now()+DAY);save();return}
- const t=now();w.kn=1;w.seen=1;w.last=t;w.box=Math.max(w.box||0,4);
+ const t=now();w.kn=1;w.seen=1;w.last=t;w.run=Math.max(w.run||0,3);w.box=Math.max(w.box||0,4);
  if(S.set.fsrs!==0){w.fs={s:4,d:4,l:t};w.due=t+(3.5+Math.random())*DAY}else w.due=t+(3.5+Math.random())*DAY;
  if(S.rem)delete S.rem[w.id];S.snz=(S.snz||[]).filter(x=>x!==w.id);save()}
 
@@ -7697,7 +7700,7 @@ function adv(ok,g){if(!ss||!ss.q)return;const w=ss.q[ss.i];if(!w)return;if(ss.mo
  ss.undo=snapW(w);CT=ss.mode;
  let kind=null;if(!ok&&SPT.includes(ss.mode)&&ss.val)kind=slipKind(ss.val,ss.ans,ss.hty?w:null);
  if(kind==="word")confNote(w,ss.val);
- const prod=S.set.dir2!==0&&isProd(ss.mode,ss.dir),sp=answer(w,ok,ss.mode,kind==="typo",g,{prod,val:ss.val,he:!!ss.hty});
+ const prod=S.set.dir2!==0&&isProd(ss.mode,ss.dir,w),sp=answer(w,ok,ss.mode,kind==="typo",g,{prod,val:ss.val,he:!!ss.hty});
  (ss.log=ss.log||[]).push({w,ok,sp});ss.run=ok?(ss.run||0)+1:sp?(ss.run||0):0;if(ok)ss.ok++;else if(!sp)(ss.miss=ss.miss||[]).push(w);
  mlog16(w,ok,sp,ss.val,ss.mode);combo16(ok||sp);
  if(ss.diag&&ok&&(w.box||0)<3){w.box=3;w.due=now()+INT[3]*DAY;if(S.set.fsrs!==0)w.fs={s:7,d:5,l:now()};save()}}
@@ -7756,6 +7759,11 @@ function newQuota19(dueN,n){const st=stage();let nwN=S.set.nw==null?5:S.set.nw,l
  else if(S.set.lb!==0&&nwN>0){if(dueN>n*3){lb=nwN;nwN=0}else if(dueN>n*1.5){const h=Math.ceil(nwN/2);lb=nwN-h;nwN=h}}
  if(!pool){const un=AW().filter(w=>!w.seen),cur=un.filter(w=>stg(w)===st);pool=cur.length>=nwN?cur:un}
  LB19={due:dueN,cut:lb,plan};return{n:Math.max(0,nwN),pool,plan}}
+/* how likely a word is to be remembered right now (FSRS when on, otherwise from the interval) */
+function recall20(w,t){t=t||now();if(S.set.fsrs!==0&&w.fs&&w.fs.s>0)return fR(Math.max(0,(t-(w.fs.l||w.last||t))/DAY),w.fs.s);
+ const iv=Math.max(.007,((w.due||t)-(w.last||w.due||t))/DAY),od=Math.max(0,(t-(w.due||t))/DAY);return Math.pow(.9,1+od/iv)}
+function dueRank20(L){const t=now();return L.map(w=>({w,k:recall20(w,t)+Math.random()*.01})).sort((a,b)=>a.k-b.k).map(o=>o.w)}
+const hardOk20=w=>now()-(w.last||0)>20*36e5&&(w.due||0)-now()<2*DAY;
 function buildQ16(sc,n){n=n||sessN();sc=String(sc);
  if(sc==="new"){const un=AW().filter(w=>!w.seen);return spread(wsample(un,Math.min(n,un.length),w=>stg(w)===stage()?2:1))}
  if(sc==="mist"){const L=mistWords();return spread(L.slice(0,n))}
@@ -7763,9 +7771,11 @@ function buildQ16(sc,n){n=n||sessN();sc=String(sc);
  if(sc==="hard")return spread(wsample(hardList(),Math.min(n,20),w=>1+(w.wrong||0)));
  if(sc==="learned"){const L=AW().filter(w=>w.seen);return spread(wsample(L,Math.min(n,L.length),w=>1+Math.min(30,(now()-(w.last||0))/DAY)*.2+(isKn(w)?0:.5)))}
  if(sc==="daily"){const rm=remDue(),ids=new Set(rm.map(w=>w.id));
-  const dueAll=dueWords().filter(w=>!ids.has(w.id)).sort((a,b)=>a.due-b.due),due=dueAll.slice(0,Math.max(n*2,20));
-  const dp=wsample(due,n,w=>1+Math.min(5,(now()-w.due)/DAY)+(w.wrong||0)*.5);dp.forEach(w=>ids.add(w.id));
-  const h=wsample(hardList().filter(w=>!ids.has(w.id)&&!recentW(w)),3,w=>1+(w.wrong||0));h.forEach(w=>ids.add(w.id));
+  const dueAll=dueWords().filter(w=>!ids.has(w.id));
+  /* the words closest to being forgotten come first */
+  const dp=dueRank20(dueAll).slice(0,n);dp.forEach(w=>ids.add(w.id));
+  /* a hard word gets an early extra round only when the session has room, and never on the same day it was answered */
+  const room=n-rm.length-dp.length,h=room>0?wsample(hardList().filter(w=>!ids.has(w.id)&&hardOk20(w)),Math.min(2,room),w=>1+(w.wrong||0)):[];h.forEach(w=>ids.add(w.id));
   const Q=newQuota19(dueAll.length,n),nw=wsample(Q.pool.filter(w=>!w.seen&&!ids.has(w.id)),Q.n,w=>stg(w)===stage()?2:1);
   return spread(shuf([...rm,...dp,...h].slice(0,Math.max(0,n-Math.min(nw.length,Math.ceil(n/2)))).concat(nw)))}
  const pool=AW().filter(w=>sc==="*"||(isStSc(sc)&&stg(w)===scSt(sc))||w.topic===sc);
@@ -8303,7 +8313,8 @@ function newBanner20(){if(S.seen20===1||!(S.xp>0))return"";return`<div class="c 
  <div class="row"><button class="pr sm" data-v20="go">🗣️ לנסות שיחה</button><button class="sm" data-v20b="lib">📚 לסיפורים</button><button class="sm" data-v20b="dict">🇬🇧 מילון הממשק</button></div></div>`}
 GUIDE.unshift(["new20","🆕 מה חדש בגרסה 20",`<h3>🗣️ שיחה עם AI</h3><ul><li>נכנסים מ־💬 צ׳אט ← <b>🗣️ שיחה עם AI</b>, או מהכפתור במסך הבית.</li><li>בוחרים נושא: נושא אמיתי מהעולם שה־AI בוחר, שיחה חופשית, בית קפה, טיול, ראיון עבודה, רופא, חבר חדש, ויכוח, או נושא משלך. אחרי קריאת סיפור אפשר גם <b>לדבר על הסיפור</b>.</li><li>ה־AI מדבר <b>בעיקר במילים שלמדת</b>, ומשלב בכל תשובה מילים שעומדות לחזרה (הן מסומנות בקו). לוחצים על כל מילה לתרגום.</li><li><b>🎯 משימות:</b> בראש השיחה מופיעות 5 מילים לנסות להשתמש בהן. כל מילה שהשתמשת בה מקבלת ✓, וכשמשלימים את כולן מקבלים בונוס.</li><li>כותבים או לוחצים 🎤 ומדברים. "🎧 שיחה קולית רציפה" פותח את המיקרופון לבד אחרי כל תשובה.</li><li>טעות מקבלת תיקון קטן עם הסבר בעברית. אפשר לכתוב גם בעברית, וה־AI יראה איך אומרים את זה באנגלית.</li><li>מילה שעמדה לחזרה ושהשתמשת בה נכון <b>נחשבת חזרה</b> (אפשר לכבות בהגדרות השיחה).</li><li><b>חיבור OpenAI:</b> במסך הצ׳אט ← הגדרות ← OpenAI (GPT). צריך מפתח וקרדיט בחשבון OpenAI. עם OpenAI התשובות מוקראות בקול טבעי של GPT. בלי OpenAI אפשר להשתמש ב־Groq, Gemini או ב־AI החינמי, והקול הוא של המכשיר.</li></ul>
 <h3>🇬🇧 ממשק באנגלית</h3><ul><li>כפתורים וכותרות במילים שאתה כבר מכיר עוברים לאנגלית. כל מילה שתלמד פותחת עוד כפתורים באנגלית.</li><li>בכרטיסיות הכפתורים הם <b dir="ltr">I know</b> ו־<b dir="ltr">I don't know</b>, וגם Next, Check, Save ועוד כפתורים בסיסיים.</li><li>בהגדרות ← גרסה 20 בוחרים: כבוי, בסיסי, מילים שאני מכיר (ברירת המחדל), או הכול.</li><li><b>📖 מילון הממשק</b> מראה כל מילה בממשק באנגלית ובעברית, ואיזו מילה חסרה לך כדי שעוד כפתור יעבור לאנגלית.</li><li>תשובות במבחנים ובמשחקים ותרגומים של מילים תמיד נשארים כמו שהם.</li></ul>
-<h3>📚 סיפורים</h3><ul><li>${RD20.length} סיפורים חדשים לכל השלבים, עם שאלות הבנה. הם נמצאים בספריית הקריאה.</li><li><b>✨ סיפור חדש מהמילים שלי:</b> בראש ספריית הקריאה. ה־AI כותב סיפור חדש שבנוי על המילים שלמדת ועל המילים שעומדות לחזרה, עם שאלות. אפשר לבחור נושא ולבקש סיפור ארוך.</li></ul>`]);
+<h3>📚 סיפורים</h3><ul><li>${RD20.length} סיפורים חדשים לכל השלבים, עם שאלות הבנה. הם נמצאים בספריית הקריאה.</li><li><b>✨ סיפור חדש מהמילים שלי:</b> בראש ספריית הקריאה. ה־AI כותב סיפור חדש שבנוי על המילים שלמדת ועל המילים שעומדות לחזרה, עם שאלות. אפשר לבחור נושא ולבקש סיפור ארוך.</li></ul>
+<h3>🔁 חזרות מדויקות יותר</h3><ul><li>מילה שענית עליה "ידעתי" לא חוזרת באותו יום. היא חוזרת רק כשהגיע הזמן שלה.</li><li>בתרגול היומי מגיעות קודם המילים שהכי קרובות להישכח.</li><li>מילה קשה מקבלת סבב נוסף רק כשיש מקום בסשן, ולא ביום שכבר תרגלת אותה.</li><li>גם בכרטיסיות יש עכשיו חזרה בכיוון ההפוך: מופיעה המילה בעברית (🔁 איך אומרים את זה באנגלית?), וזוכרים את האנגלית. אם ענית נכון, זה נחשב גם לחזרה הרגילה.</li><li>"כבר יודע אותה" מוציא את המילה גם מרשימת המילים הקשות.</li></ul>`]);
 document.addEventListener("click",e=>{const b=e.target.closest("[data-v20]");if(!b)return;const a=b.dataset.v20,st=tkSet();
  if(a==="sc"){st.sc=b.dataset.v;save(true);render()}
  else if(a==="start"){if(st.sc==="own"){st.own=(($("tkcus")||{}).value||"").trim();save(true)}tkStart()}
