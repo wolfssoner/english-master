@@ -1597,7 +1597,7 @@ else if(a==="rand"){scope="*";start("mc")}});
 
 /*==== data12.js ====*/
 /* ---------- v12 data: army-stage removal, fixes, new stage-D vocabulary ---------- */
-const APPV="20.2";
+const APPV="20.3";
 const V12D={
 // built-in army words removed in v12 (kept in S.arch, restorable from settings)
 rmW:"army soldier commander officer weapon enemy border battle troops patrol retreat surrender ceasefire tactics evacuate guard recruit victory defeat ambush ammunition barracks battalion brigade camouflage civilian combat convoy drill explosion fortress helmet hostage invasion missile outpost radar siege sniper squad terrain trench warfare shelter siren violence wound strike ally casualty enlist frontline march medic prisoner tank wounded salute stretcher navy reservist",
@@ -7778,7 +7778,7 @@ function newQuota19(dueN,n){const st=stage();let nwN=S.set.nw==null?5:S.set.nw,l
  const P=typeof planOn==="function"&&planOn();
  if(P){const t=planToday();nwN=t.left;pool=planPool(P);plan=true}
  else if(S.set.lb!==0&&nwN>0){if(dueN>n*3){lb=nwN;nwN=0}else if(dueN>n*1.5){const h=Math.ceil(nwN/2);lb=nwN-h;nwN=h}}
- if(!pool){const un=AW().filter(w=>!w.seen),cur=un.filter(w=>stg(w)===st);pool=cur.length>=nwN?cur:un}
+ if(!pool){const K=typeof studied20==="function"?studied20():null,un=AW().filter(w=>K?isNew20(w,K):!w.seen),cur=un.filter(w=>stg(w)===st);pool=cur.length>=nwN?cur:un}
  LB19={due:dueN,cut:lb,plan};return{n:Math.max(0,nwN),pool,plan}}
 /* how likely a word is to be remembered right now (FSRS when on, otherwise from the interval) */
 function recall20(w,t){t=t||now();if(S.set.fsrs!==0&&w.fs&&w.fs.s>0)return fR(Math.max(0,(t-(w.fs.l||w.last||t))/DAY),w.fs.s);
@@ -8607,6 +8607,11 @@ const meet20=()=>S.set.nm20!=="cards";
 const lbs20=()=>{const v=+S.set.lb20;return v>=5&&v<=7?v:Math.min(7,Math.max(5,S.set.nw||5))};
 const aiOn20=()=>aiOK()||(S.ai||{}).p==="free";
 const dEn20=w=>{const e=String(w&&w.en||"");return e.length>1&&e[0]===e[0].toUpperCase()&&e.slice(1)===e.slice(1).toLowerCase()&&!/^I\b/.test(e)?e.toLowerCase():e};
+/* a really new word: no progress on it, and no other entry of the same English word that you studied */
+const nk20=e=>String(e||"").toLowerCase().trim().replace(/^(to|a|an|the)\s+/,"").replace(/[^a-z' ]/g,"").replace(/\s+/g," ").trim();
+const prog20=w=>!!(w.seen||w.kn||w.box>0||w.right||w.wrong||w.last||w.fs||w.f0||w.lrn20||(S.rem&&S.rem[w.id]));
+function studied20(){const K=new Set();S.words.forEach(w=>{if(prog20(w))K.add(nk20(w.en))});return K}
+const isNew20=(w,K)=>!!w&&!prog20(w)&&!(K||studied20()).has(nk20(w.en));
 const he1=w=>String(w&&w.he||"").split(/[;,]/)[0].trim();
 /* a familiar expression for the word: from the list, or one the AI found earlier */
 function anc20(w){return(ANC.get(lcs(w.en))||[]).concat(w.anc&&w.anc.x?[w.anc]:[])}
@@ -8624,8 +8629,8 @@ function confus20(a,b){const x=lcs(a.en),y=lcs(b.en);if(x===y)return true;
  return x.length>=4&&y.length>=4&&Math.abs(x.length-y.length)<=1&&dist19(x,y)<=(Math.min(x.length,y.length)>=7?2:1)}
 /* the next new words: the usual order (goal plan / current stage), mixed a little;
    prefer not to put confusing words or many words of one topic together, but fill the group anyway */
-function lnPool20(){let Q;try{Q=newQuota19(dueWords().length,sessN())}catch(e){Q={pool:[]}}const st=stage();let P=(Q.pool||[]).filter(w=>!w.seen&&w.en&&w.he&&!w.co);
- if(P.length<12)P=P.concat(AW().filter(w=>!w.seen&&w.en&&w.he&&!P.includes(w)).sort((a,b)=>(stg(a)===st?0:1)-(stg(b)===st?0:1)));return P}
+function lnPool20(){let Q;try{Q=newQuota19(dueWords().length,sessN())}catch(e){Q={pool:[]}}const st=stage(),K=studied20(),ok=w=>w.en&&w.he&&!w.co&&isNew20(w,K);let P=(Q.pool||[]).filter(ok);const seenK=new Set();P=P.filter(w=>{const k=nk20(w.en);if(seenK.has(k))return false;seenK.add(k);return true});
+ if(P.length<12)P=P.concat(AW().filter(w=>ok(w)&&!P.includes(w)&&!seenK.has(nk20(w.en))).sort((a,b)=>(stg(a)===st?0:1)-(stg(b)===st?0:1)));return P}
 function lnPick20(n,excl){const P=lnPool20().filter(w=>!(excl&&excl.has(w.id))),C=shuf(P.slice(0,Math.max(30,n*5))),t=now(),recent=S.words.filter(w=>w.seen&&w.f0&&t-w.f0<3*DAY),out=[],skip=[],tp={};
  for(const w of C){if(out.length>=n)break;const bad=out.some(x=>confus20(x,w))||recent.some(x=>confus20(x,w))||(w.topic&&(tp[w.topic]||0)>=2);if(bad)skip.push(w);else{out.push(w);if(w.topic)tp[w.topic]=(tp[w.topic]||0)+1}}
  for(const w of skip){if(out.length>=n)break;out.push(w)}return out}
@@ -8674,7 +8679,7 @@ function lnMeetV20(){const id=LN.ids[LN.i],w=lnW(id);if(!w){setTimeout(()=>{if(L
  ${A.length?`<div class="ln-anc"><b>🔗 אולי אתה מכיר:</b> <span dir="auto">${esc(A[0].x)}</span>${g.done&&A[0].he?`<div class="m">${esc(A[0].he)}</div>`:""}</div>`:""}
  ${ex.length?`<div class="ln-exs">${ex.map(e=>`<div class="ln-ex"><div dir="ltr">${lnHl20(e.en,w)} <button class="sm" data-l20="say" data-t="${esc(e.en)}" aria-label="השמע">🔊</button></div>${g.done&&e.he?`<div class="m">${esc(e.he)}</div>`:""}</div>`).join("")}</div>`:LN.aiBusy?`<p class="m"><span class="spin"></span> מביא משפטים לדוגמה…</p>`:""}`;
  if(!g.done)return h+`<h3 style="margin:12px 0 6px">🤔 מה לדעתך זה אומר?</h3><div class="opts">${g.o.map(o=>`<button data-l20="g" data-v="${esc(o)}">${esc(o)}</button>`).join("")}</div>
- <div class="row" style="margin-top:8px"><button class="fl" data-l20="idk">🤷 אין לי מושג</button><button class="fl" data-l20="known">✓ כבר מכיר אותה</button></div><p class="m" style="margin:8px 0 0">גם ניחוש לא נכון עוזר לזכור. קודם מנחשים, אחר כך רואים.</p></div>`;
+ <div class="row" style="margin-top:8px"><button class="fl" data-l20="idk">🤷 אין לי מושג</button><button class="fl" data-l20="part">🙂 מכיר קצת, צריך חזרות</button><button class="fl" data-l20="known">✓ כבר מכיר אותה</button></div><p class="m" style="margin:8px 0 0">גם ניחוש לא נכון עוזר לזכור. קודם מנחשים, אחר כך רואים.</p></div>`;
  const mn=w.mn,mo=!mn&&E.mn&&E.mn.length?E.mn:null;
  return h+`<div class="fb ${g.ok?"ok":g.idk?"":"no"}" style="margin-top:10px">${g.ok?"✓ ניחוש מצוין!":g.idk?"זה בסדר. עכשיו כבר תזכור:":"לא בדיוק, אבל הניחוש כבר עזר לזכור:"}</div>
  <div class="ln-he">${esc(w.he)}</div>
@@ -8710,13 +8715,13 @@ async function lnStoryInit20(){LN.ph="story";const W=LN.ids.map(lnW).filter(Bool
    if(ans.length>=Math.min(3,W.length))st={title:String(o.title||"").slice(0,80),txt:parts.filter((x,i)=>i%2===0),ans,fw,he:String(o.he||""),ai:1}}catch(e){}}
  if(!st){const txt=[""],ans=[],fw=[];shuf(W).forEach(w=>{const L2=lnEx20(w),r=lnRx20(w);if(!L2.length||!r)return;const e=L2[L2.length-1],m=e.en.match(r);if(!m)return;const i=e.en.search(r);txt[txt.length-1]+=(txt.length>1?" ":"")+e.en.slice(0,i);txt.push(e.en.slice(i+m[0].length));ans.push(w.id);fw.push(m[0])});
   if(ans.length)st={title:"",txt,ans,fw,he:"",ai:0}}
- if(LN!==L)return;if(!st){L.st=null;return lnNext20()}L.st=Object.assign(st,{busy:0,cur:0,wr:{}});render()}
-function lnStoryV20(){const st=LN.st;if(!st||st.busy)return lnHead20("📖 סיפור עם המילים החדשות",.9)+`<div class="c ln-card"><p><span class="spin"></span> כותב סיפור עם המילים שלך…</p></div>`;
+ if(LN!==L||L.ph!=="story")return;if(!st){L.st=null;lnNext20();render();return}L.st=Object.assign(st,{busy:0,cur:0,wr:{}});render()}
+function lnStoryV20(){const st=LN.st,sk=`<button class="sm" style="margin-top:8px" data-l20="skipst">⏭ דלג על ${st&&!st.ai&&!st.busy?"השלמת המשפטים":"הסיפור"}</button>`;if(!st||st.busy)return lnHead20("📖 סיפור עם המילים החדשות",.9)+`<div class="c ln-card"><p><span class="spin"></span> כותב סיפור עם המילים שלך…</p>${sk}</div>`;
  const fin=st.cur>=st.ans.length;let body="";st.txt.forEach((t,i)=>{body+=esc(t);if(i<st.ans.length){const w=lnW(st.ans[i]);body+=i<st.cur?`<b class="ln-fill">${esc(st.fw[i]||dEn20(w))}</b>`:`<span class="ln-blank${i===st.cur?" cur":""}">(${i+1}) _____</span>`}});
  const W=LN.ids.map(lnW).filter(Boolean);
  return lnHead20("📖 "+(st.ai?"סיפור עם המילים החדשות":"השלמת משפטים"),.85)+`<div class="c ln-card">${st.title?`<h3 dir="ltr" style="text-align:left;margin:0 0 6px">${esc(st.title)}</h3>`:""}<div class="ln-story" dir="ltr">${body}</div>
  ${fin?`<div class="fb ok" style="margin-top:8px">✓ השלמת הכול!</div><div class="row" style="margin-top:8px"><button class="sm" data-l20="say" data-t="${esc(st.txt.map((t,i)=>t+(i<st.ans.length?(st.fw[i]||dEn20(lnW(st.ans[i]))):"")).join(""))}">🔊 הקרא את הסיפור</button>${st.he?`<button class="sm" data-l20="sthe">🇮🇱 תרגום</button>`:""}</div>${st.she?`<div class="m" style="margin-top:6px">${esc(st.he)}</div>`:""}<button class="pr" style="width:100%;margin-top:10px" data-l20="next">המשך ←</button>`
- :`<div class="m" style="margin:8px 0 4px">לחץ על המילה שחסרה במקום ${st.cur+1}:</div><div class="ln-bank">${shufOnce20(W).map(w=>`<button data-l20="fill" data-id="${w.id}" dir="ltr">${esc(dEn20(w))}</button>`).join("")}</div><button class="sm" style="margin-top:8px" data-l20="skip">דלג</button>`}</div>`}
+ :`<div class="m" style="margin:8px 0 4px">לחץ על המילה שחסרה במקום ${st.cur+1}:</div><div class="ln-bank">${shufOnce20(W).map(w=>`<button data-l20="fill" data-id="${w.id}" dir="ltr">${esc(dEn20(w))}</button>`).join("")}</div>${sk}`}</div>`}
 let BANK20=null;const shufOnce20=W=>{const k=W.map(w=>w.id).join();if(!BANK20||BANK20.k!==k)BANK20={k,L:shuf(W)};return BANK20.L};
 function lnFill20(id){const st=LN.st;if(!st||st.cur>=st.ans.length)return;const want=st.ans[st.cur];if(String(id)===String(want)){st.cur++;render()}else{if(!st.wr[st.cur]){st.wr[st.cur]=1;LN.mis[want]=(LN.mis[want]||0)+1}toast("לא זו. נסה שוב")}}
 /* a sentence of your own, checked by the AI */
@@ -8728,7 +8733,7 @@ function lnSentV20(){const sn=LN.sn,W=LN.ids.map(lnW).filter(Boolean),w=lnW(sn.i
  <textarea id="lnsn" dir="ltr" rows="2" placeholder="I ..." ${sn.busy?"disabled":""}>${esc(sn.txt)}</textarea>
  <div class="row" style="flex-wrap:nowrap;margin-top:6px"><button id="lnmic" data-l20="mic" aria-label="דבר">🎤</button><button class="pr fl" data-l20="chk" ${sn.busy?"disabled":""}>${sn.busy?'<span class="spin"></span>':aiOn20()?"✓ בדוק":"✓ סיימתי"}</button></div>
  ${r?`<div class="fb ${r.ok?"ok":"no"}" style="margin-top:10px">${r.ok?"✓ ":"✏️ "}${esc(r.praise||(r.ok?"משפט מעולה!":"כמעט!"))}${r.right&&norm(r.right)!==norm(r.txt)?`<div dir="ltr" style="margin-top:4px"><b>${esc(r.right)}</b></div>`:""}${r.why?`<div class="m">${esc(r.why)}</div>`:""}</div>`:""}
- <div class="row" style="margin-top:10px">${r?`<button class="fl" data-l20="more">✍️ עוד משפט</button>`:""}<button class="${r?"pr ":""}fl" data-l20="next">${r?"סיום ←":"דלג"}</button></div></div>`}
+ <div class="row" style="margin-top:10px">${r?`<button class="fl" data-l20="more">✍️ עוד משפט</button>`:""}<button class="${r?"pr ":""}fl" data-l20="next">${r?"סיום ←":"⏭ דלג על המשפט"}</button></div></div>`}
 async function lnCheck20(){const sn=LN.sn,el=$("lnsn"),txt=String(el&&el.value||"").trim(),w=lnW(sn.id);if(!txt)return toast("כתוב משפט באנגלית");sn.txt=txt;LN.sw=(LN.sw||0)+1;
  if(!aiOn20()){const ex=lnEx20(w)[0];sn.res={txt,ok:true,praise:"כל הכבוד על המשפט!",right:"",why:ex?"משפט לדוגמה: "+ex.en:""};sn.n++;render();return}
  sn.busy=1;render();try{const out=await aiCall([{role:"system",content:`You check one English sentence written by a Hebrew-speaking learner who must use the word "${w.en}" (${w.he}). Be warm and short. Ignore capital letters and final punctuation. Output JSON only: {"ok":true or false (true only if the sentence is correct English AND uses the word correctly),"right":"the sentence written correctly (same as the learner's if it is fine)","why":"very short Hebrew explanation of the mistake, empty if none","praise":"one short warm Hebrew sentence"}`},{role:"user",content:txt}],{max:350,temp:.3,timeout:40000,json:1});
@@ -8751,7 +8756,7 @@ function lnDoneV20(){const R=LN.res||{ids:[]},W=R.ids.map(lnW).filter(Boolean),g
  <div class="stats" style="grid-template-columns:repeat(3,1fr);margin-top:10px"><div class="st"><b>${gok}/${LN.ids.length}</b><span>ניחושים נכונים</span></div><div class="st"><b>${LN.nok}/${LN.na}</b><span>בתרגול</span></div><div class="st"><b>${LN.sw||0}</b><span>משפטים שלך</span></div></div>
  ${W.length?`<p class="fb ok" style="margin-top:10px">🌙 חזרה ראשונה: <b>${slotTxt20(R.slot)}</b>, ושוב מחר. החזרה הראשונה היא הכי חשובה לזיכרון, והמילים יחכו לך בתחילת התרגול היומי.</p>`:""}
  <div class="row" style="margin-top:10px"><button class="pr fl" data-l20="again">🌱 עוד קבוצה</button>${due?`<button class="fl" data-v17="daily" data-m="cards">▶ לחזרות (${due})</button>`:""}<button class="fl" data-a="tab" data-v="home">🏠 בית</button></div></div>`}
-function lnStartV20(){const n=lbs20();if(!PRE20||PRE20.n!==n)PRE20={n,L:lnPick20(n)};const W=PRE20.L.filter(w=>!w.seen);if(W.length!==PRE20.L.length)PRE20={n,L:lnPick20(n)};
+function lnStartV20(){const n=lbs20();if(!PRE20||PRE20.n!==n)PRE20={n,L:lnPick20(n)};const W=PRE20.L.filter(w=>isNew20(w));if(W.length!==PRE20.L.length)PRE20={n,L:lnPick20(n)};
  const td=new Date().toDateString(),done=((S.hist||{})[td]||{}).nw||0;let Q;try{Q=newQuota19(dueWords().length,sessN())}catch(e){Q={n:5,plan:false}}const goal=Q.plan?done+Q.n:Q.n,cut=LB19&&LB19.cut&&!Q.plan;
  return`<h1>🌱 מילים חדשות</h1><div class="c"><p style="margin-top:0">כל מילה מקבלת היכרות אמיתית: <b>מנחשים מההקשר</b>, מקבלים <b>ביטוי מוכר</b> ו<b>רמז לזיכרון</b>, מתרגלים, משלימים סיפור וכותבים משפט משלך. החזרה הראשונה הערב.</p>
  <div class="m">היום למדת ${done} מילים חדשות${goal?` · היעד: ${goal}`:""}${cut?` · ⚖️ מחכות הרבה חזרות, אז כדאי קודם לחזור`:""}</div>
@@ -8770,15 +8775,15 @@ function cardExtra20(w){const A=anc20(w);let h="";if(A.length)h+=`<div class="m 
 document.addEventListener("click",e=>{const b=e.target.closest("[data-l20]");if(!b)return;const a=b.dataset.l20;
  if(a==="say"){speak(b.dataset.t);return}if(a==="slow"){const r=S.set.rate;S.set.rate=(r||1)*.6;speak(b.dataset.t);S.set.rate=r;return}
  if(a==="go"){view="learn";render();scrollTo(0,0);return}
- if(a==="start"){const W=(PRE20&&PRE20.L||[]).filter(w=>!w.seen);lnStart20(W.length?W:lnPick20(lbs20()));return}
- if(a==="cards"){const W=(PRE20&&PRE20.L||[]).filter(w=>!w.seen);if(!W.length)return;PRE20=null;startQ("cards",W);return}
+ if(a==="start"){const W=(PRE20&&PRE20.L||[]).filter(w=>isNew20(w));lnStart20(W.length?W:lnPick20(lbs20()));return}
+ if(a==="cards"){const W=(PRE20&&PRE20.L||[]).filter(w=>isNew20(w));if(!W.length)return;PRE20=null;startQ("cards",W);return}
  if(a==="bs"){S.set.lb20=+b.dataset.v;PRE20=null;save(true);render();return}
  if(a==="re"){const ex=new Set((PRE20&&PRE20.L||[]).map(w=>w.id));PRE20={n:lbs20(),L:lnPick20(lbs20(),ex)};if(!PRE20.L.length)PRE20=null;render();return}
  if(a==="again"){LN=null;PRE20=null;render();scrollTo(0,0);return}
  if(a==="x"){view="home";render();scrollTo(0,0);return}
  if(!LN)return;const id=LN.ids[LN.i],w=lnW(id);
  if(a==="g"||a==="idk"){const g=LN.g[id]||(LN.g[id]={});g.done=1;g.idk=a==="idk";g.ok=a==="g"&&b.dataset.v===he1(w);render();if(S.set.auto!==0&&S.set.auto!==false)speak(w.en)}
- else if(a==="known"){markKnown(w);delete w.lrn20;LN.kn.push(id);const nw=lnPick20(1,new Set([...LN.ids,...LN.kn]))[0];if(nw)LN.ids[LN.i]=nw.id;else{LN.ids.splice(LN.i,1);if(LN.i>=LN.ids.length){LN.i=Math.max(0,LN.ids.length-1);if(!LN.ids.length){LN=null;toast("✓ סומנה כמוכרת");render();return}lnPracInit20()}}toast("✓ "+w.en+" סומנה כמוכרת ותיבדק בעוד כמה ימים");render();scrollTo(0,0);lnEnrich20()}
+ else if(a==="known"||a==="part"){if(a==="known"){markKnown(w);delete w.lrn20}else{srs19(w,3,{});w.lrn20=2;w.due=Math.min(w.due,now()+DAY)}LN.kn.push(id);const nw=lnPick20(1,new Set([...LN.ids,...LN.kn]))[0];if(nw)LN.ids[LN.i]=nw.id;else{LN.ids.splice(LN.i,1);if(LN.i>=LN.ids.length){LN.i=Math.max(0,LN.ids.length-1);if(!LN.ids.length){LN=null;toast(a==="known"?"✓ סומנה כמוכרת":"🙂 נכנסה לחזרות");render();return}lnPracInit20()}}toast(a==="known"?"✓ "+w.en+" סומנה כמוכרת ותיבדק בעוד כמה ימים":"🙂 "+w.en+" = "+he1(w)+". נכנסה לחזרות ותחזור מחר");render();scrollTo(0,0);lnEnrich20()}
  else if(a==="next"){lnNext20();render();scrollTo(0,0)}
  else if(a==="mnp"){const E=LN.ai&&LN.ai[lcs(w.en)];if(E&&E.mn){w.mn=E.mn[+b.dataset.i];save(true);render()}}
  else if(a==="mnai")lnMnAI20(w);
@@ -8787,7 +8792,7 @@ document.addEventListener("click",e=>{const b=e.target.closest("[data-l20]");if(
  else if(a==="pa")lnAns20(b.dataset.id);
  else if(a==="pn")lnStep20();
  else if(a==="fill")lnFill20(b.dataset.id);
- else if(a==="skip"){LN.st.cur=LN.st.ans.length;render()}
+ else if(a==="skipst"){if(LN.ph==="story"){LN.st=null;lnNext20();render();scrollTo(0,0)}}
  else if(a==="sthe"){LN.st.she=!LN.st.she;render()}
  else if(a==="sw"){LN.sn.id=b.dataset.id;LN.sn.res=null;LN.sn.txt="";render()}
  else if(a==="chk")lnCheck20();
