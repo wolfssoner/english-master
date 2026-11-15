@@ -1,5 +1,5 @@
 /* English Master service worker: works offline, updates in the background */
-const VERSION = '20.2';
+const VERSION = '20.3';
 const CACHE = 'em-app-' + VERSION;
 const FONTS = 'em-fonts';
 const CORE = ['./', './index.html', './manifest.webmanifest', './apple-touch-icon.png',
